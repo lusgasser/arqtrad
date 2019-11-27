@@ -1,0 +1,4833 @@
+---
+references:
+- ISSN: 1828-5961
+  URL: >-
+    https://www.researchgate.net/publication/308726163_A_BIM_for_the_identity_of_historic_urban_landscapes_Integrated_applications_of_survey_for_the_Certosa_di_Bologna_architectural_heritage
+  accessed:
+    -
+      day: 29
+      month: 1
+      year: 2017
+  author:
+    - family: Amoruso
+      given: Giuseppe
+    - family: Manti
+      given: Andrea
+  container-title: Disegnare Con
+  id: 'amoruso:2016bim'
+  issue: '16'
+  issued:
+    -
+      month: 6
+      year: 2016
+  page: 17.1–17.7
+  title: >-
+    A BIM for the identity of historic urban landscapes. Integrated applications
+    of survey for the Certosa di Bologna architectural heritage.
+  title-short: A BIM for the identity of historic urban landscapes
+  type: article-journal
+  volume: '9'
+
+- accessed:
+    -
+      day: 22
+      month: 9
+      year: 2019
+  author:
+    - family: Anacleto
+      given: Maria Regina Dias Baptista Teixeira
+  id: 'anacleto:1997arquitectura'
+  issued:
+    -
+      year: 1997
+  language: por
+  publisher: Fundação Calouste Gulbenkian
+  publisher-place: Lisboa
+  source: estudogeral.sib.uc.pt
+  title: 'Arquitectura neomedieval portuguesa : 1780-1924'
+  title-short: Arquitectura neomedieval portuguesa
+  type: book
+
+- author:
+    - dropping-particle: de
+      family: Araújo
+      given: Hermetes Reis
+  id: 'araujo:1997nature'
+  issued:
+    -
+      year: 1997
+  language: French
+  number-of-pages: '1 vol., 423'
+  source: >-
+    Bibliothèque en ligne de Paris Diderot : catalogue + ressources
+    électroniques, Summon 2.0
+  title: >-
+    D'une nature à l’autre : technique, construction de l’espace et
+    transformation sociale (Brésil, 1850–1910)
+  title-short: D'une nature à l’autre
+  type: book
+
+- author:
+    - family: Argan
+      given: Giulio Carlo
+  collection-title: >-
+    Curso dictado en el Instituto Universitario de Historia de la Arquitectura,
+    Tucumán, 1961
+  id: 'argan:1973concepto'
+  issued:
+    -
+      year: 1973
+  language: Spanish
+  publisher: Nueva Visión
+  publisher-place: Buenos Aires
+  source: Open WorldCat
+  title: El concepto del espacio arquitectónico desde el barroco a nuestros días
+  title-short: El concepto del espacio arquitectónico
+  translator:
+    - family: Rainis
+      given: Liliana
+  type: book
+
+- ISBN: 85-7503-221-6 978-85-7503-221-3
+  author:
+    - family: Argan
+      given: Giulio Carlo
+  id: 'argan:2003historia'
+  issued:
+    -
+      year: 2003
+  language: Portuguese
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História da arte italiana
+  translator:
+    - family: Mammì
+      given: Lorenzo
+  type: book
+
+- author:
+    - family: Aron
+      given: Raymond
+  id: 'aron:1969desillusions'
+  issued:
+    -
+      year: 1969
+  publisher: Calmann-Lévy
+  publisher-place: '[Paris]'
+  title: 'Les désillusions du progrès, essai sur la dialectique de la modernité'
+  type: book
+
+- author:
+    - family: Azara
+      given: Pedro
+  id: 'azara:2005castillos'
+  issued:
+    -
+      year: 2005
+  publisher: Gustavo Gili
+  publisher-place: Barcelona
+  title: 'Castillos en el aire: Mito y arquitectura en Occidente'
+  type: book
+
+- author:
+    - family: Banham
+      given: Reyner
+  id: 'banham:1962guide'
+  issued:
+    -
+      year: 1962
+  publisher: Architectural Press
+  publisher-place: London
+  title: Guide to Modern Architecture
+  type: book
+
+- author:
+    - family: Bardi
+      given: P. M
+  id: 'bardi:1975historia'
+  issued:
+    -
+      year: 1975
+  language: Portuguese
+  publisher: Melhoramentos
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'História da arte brasileira: pintura, escultura, arquitetura, outras artes'
+  title-short: História da arte brasileira
+  type: book
+
+- DOI: 10.2307/1483396
+  ISSN: 0391-9064
+  URL: 'http://www.jstor.org/stable/1483396'
+  accessed:
+    -
+      day: 6
+      month: 10
+      year: 2013
+  author:
+    - family: Bernabei
+      given: Franco
+  container-title: Artibus et Historiae
+  container-title-short: Artibus et Historiae
+  id: 'bernabei:1990jan'
+  issue: '22'
+  issued:
+    -
+      day: 1
+      month: 1
+      year: 1990
+  page: 9-21
+  source: JSTOR
+  title: 'Jan Białostocki, Formalism, and Iconology'
+  type: article-journal
+  volume: '11'
+
+- author:
+    - family: Bess
+      given: Philip
+  id: 'bess:2004polis'
+  issued:
+    -
+      year: 2004
+  publisher: mímeo
+  title: 'The Polis and Natural Law: The Moral Authority of the Urban Transect'
+  type: book
+
+- author:
+    - family: Bezerra
+      given: Alcides
+  id: 'bezerra:1936vicente'
+  issued:
+    -
+      year: 1936
+  language: Portuguese
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Vicente Licinio Cardoso: Sua concepção da vida e da arte'
+  title-short: Vicente Licinio Cardoso.
+  type: book
+
+- DOI: 10.2307/1481515
+  ISSN: 0044-2992
+  URL: 'http://www.jstor.org/stable/1481515'
+  accessed:
+    -
+      day: 6
+      month: 10
+      year: 2013
+  author:
+    - family: Białostocki
+      given: Jan
+  container-title: Zeitschrift für Kunstgeschichte
+  container-title-short: Zeitschrift für Kunstgeschichte
+  id: 'bialostocki:1961modusproblem'
+  issue: '2'
+  issued:
+    -
+      day: 1
+      month: 1
+      year: 1961
+  page: 128-141
+  source: JSTOR
+  title: >-
+    Das Modusproblem in den bildenden Künsten: Zur Vorgeschichte und zum
+    Nachleben des "Modusbriefes" von Nicolas Poussin
+  title-short: Das Modusproblem in den bildenden Künsten
+  type: article-journal
+  volume: '24'
+
+- DOI: 10.2307/3780356
+  ISSN: 0037-5411
+  URL: 'http://www.jstor.org/stable/3780356'
+  accessed:
+    -
+      day: 6
+      month: 10
+      year: 2013
+  author:
+    - family: Białostocki
+      given: Jan
+  container-title: 'Simiolus: Netherlands Quarterly for the History of Art'
+  container-title-short: 'Simiolus: Netherlands Quarterly for the History of Art'
+  id: 'bialostocki:1970erwin'
+  issue: '2'
+  issued:
+    -
+      day: 1
+      month: 1
+      year: 1970
+  page: 68-89
+  source: JSTOR
+  title: 'Erwin Panofsky (1892-1968): Thinker, Historian, Human Being'
+  title-short: Erwin Panofsky (1892-1968)
+  type: article-journal
+  volume: '4'
+
+- DOI: 10.2307/776647
+  ISSN: 0004-3249
+  URL: 'http://www.jstor.org/stable/776647'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Bletter
+      given: Rosemarie Haag
+  container-title: Art Journal
+  id: 'bletter:1983expressionism'
+  issue: '2'
+  issued:
+    -
+      year: 1983
+  page: 108-120
+  source: JSTOR
+  title: Expressionism and the New Objectivity
+  type: article-journal
+  volume: '43'
+
+- ISSN: 1980-5071
+  URL: >-
+    http://periodicos.unespar.edu.br/index.php/revistacientifica/article/view/1741
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Bonametti
+      given: João Henrique
+  container-title: Revista Científica/FAP
+  id: 'bonametti:2007arquitetura0'
+  issue: '0'
+  issued:
+    -
+      day: 1
+      month: 12
+      year: 2007
+  language: pt-BR
+  source: periodicos.unespar.edu.br
+  title: A arquitetura eclética e a modernização da paisagem urbana brasileira
+  type: article-journal
+  volume: '0'
+
+- author:
+    - family: Borsi
+      given: Franco
+  id: 'borsi:1986lordre'
+  issued:
+    -
+      year: 1986
+  publisher: Hazan
+  publisher-place: Paris
+  title: 'L''ordre monumental : Europe 1929–1939'
+  type: book
+
+- author:
+    - family: Boudon
+      given: Françoise
+  container-title: RA
+  id: 'boudon:1990regard'
+  issue: '89'
+  issued:
+    -
+      year: 1990
+  page: 39–56
+  title: "Le regard du XIX^e^ siècle sur le XVI^e^ siècle français\_: ce qu’ont vu les revues d’architecture"
+  type: article-journal
+  volume: '89'
+
+- author:
+    - family: Bourdieu
+      given: Pierre
+  id: 'bourdieu:1979distinction'
+  issued:
+    -
+      year: 1979
+  publisher: Minuit
+  publisher-place: Paris
+  title: 'La distinction : critique sociale du jugement'
+  type: book
+
+- DOI: 10.2307/1425410
+  ISSN: 1046-4883
+  URL: 'http://www.jstor.org/stable/1425410'
+  accessed:
+    -
+      day: 11
+      month: 7
+      year: 2013
+  archive: Fichário 02
+  author:
+    - family: Bozdoğan
+      given: Sibel
+  call-number: '72.03:378'
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  id: 'bozdogan:1999architectural'
+  issue: '4'
+  issued:
+    -
+      month: 5
+      year: 1999
+  page: 207–215
+  source: JSTOR
+  title: >-
+    Architectural History in Professional Education: Reflections on Postcolonial
+    Challenges to the Modern Survey
+  title-short: Architectural History in Professional Education
+  type: article-journal
+  volume: '52'
+
+- URL: 'http://www.dezenovevinte.net/criticas/mg_viagem.htm'
+  accessed:
+    -
+      day: 10
+      month: 1
+      year: 2014
+  author:
+    - family: Brandão
+      given: Angela
+  container-title: Dezenove & Vinte
+  id: 'brandao:2012olhares'
+  issue: '1'
+  issued:
+    - literal: jan.–mar. 2012
+  title: Olhares oitocentistas para a arte barroca e rococó
+  type: article-journal
+  volume: '7'
+
+- ISBN: 978-85-359-1096-4 85-359-1096-4
+  author:
+    - family: Braudel
+      given: Fernand
+  id: 'braudel:2007modelo'
+  issued:
+    -
+      year: 2007
+  language: Portuguese
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: O modelo italiano
+  translator:
+    - family: Miceli
+      given: Sérgio
+  type: book
+
+- author:
+    - family: Brolin
+      given: Brent C.
+  id: 'brolin:2000architectural'
+  issued:
+    -
+      year: 2000
+  publisher: Norton
+  publisher-place: Nova York
+  title: 'Architectural Ornament: Banishment and Return'
+  type: book
+
+- author:
+    - family: Brown
+      given: Marshall
+  container-title: Critical Inquiry
+  id: 'brown:1982classic'
+  issue: '2'
+  issued:
+    -
+      year: 1982
+  page: 379-404
+  title: 'The Classic Is the Baroque: On the Principle of Wölfflin’s Art History'
+  type: article-journal
+  volume: '9'
+
+- author:
+    - family: Bruand
+      given: Yves
+  id: 'bruand:1981arquitetura'
+  issued:
+    -
+      year: 1981
+  language: Portuguese
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Arquitetura contemporânea no Brasil
+  type: book
+
+- author:
+    - family: Burke
+      given: Peter
+  id: 'burke:1992revolucao'
+  issued:
+    -
+      year: 1992
+  language: Portuguese
+  publisher: Unesp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'A revolução francesa da historiografia: a Escola dos annales : 1929-1989'
+  title-short: A revolução francesa da historiografia
+  type: book
+
+-
+  editor:
+    - family: Caldenby
+      given: Claes
+    - family: Hultin
+      given: Olof
+  id: 'caldenby:1988asplund'
+  issued:
+    -
+      year: 1988
+  publisher: G.Gili
+  publisher-place: Barcelona
+  title: Asplund
+  type: book
+
+-
+  editor:
+    - family: Calmon
+      given: Pedro
+  id: 'calmon:1966quatro'
+  issued:
+    -
+      year: 1966
+  language: Portuguese
+  publisher: Universidade do Brasil
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Quatro séculos de cultura: o Rio de Janeiro'
+  title-short: 4 séculos de cultura
+  type: book
+
+- author:
+    - family: Campofiorito
+      given: Quirino
+  id: 'campofiorito:1983historia'
+  issued:
+    -
+      year: 1983
+  language: Portuguese
+  publisher: Pinakotheke
+  publisher-place: '[Rio de Janeiro]'
+  source: Open WorldCat
+  title: História da pintura brasileira no século XIX
+  type: book
+
+- ISBN: 0-945179-26-X 978-0-945179-26-9
+  author:
+    - family: Cancino Troncoso
+      given: Hugo
+  id: 'cancino:2005intelectuales'
+  issued:
+    -
+      year: 2005
+  language: Spanish
+  publisher: M. Wiener
+  publisher-place: Princeton
+  source: Open WorldCat
+  title: >-
+    Los intelectuales latinoamericanos entre la modernidad y la tradición,
+    siglos XIX y XX
+  type: book
+
+- ISBN: 88-8125-191-4 978-88-8125-191-9
+  author:
+    - family: Caniggia
+      given: Gianfranco
+  call-number: '72.02'
+  id: 'caniggia:1997ragionamenti'
+  issued:
+    -
+      year: 1997
+  language: Italian
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: >-
+    Ragionamenti di tipologia: operatività della tipologia processuale in
+    architettura
+  title-short: Ragionamenti di tipologia
+  type: book
+
+- DOI: 10.4000/perspective.3891
+  ISSN: 1777-7852
+  URL: 'http://journals.openedition.org/perspective/3891'
+  accessed:
+    -
+      day: 2
+      month: 5
+      year: 2018
+  author:
+    - family: Cardoso
+      given: Rafael
+  container-title: Perspective. Actualité en histoire de l’art
+  id: 'cardoso:2013histories'
+  issue: '2'
+  issued:
+    -
+      day: 31
+      month: 12
+      year: 2013
+  language: en
+  page: 308-324
+  source: journals.openedition.org
+  title: >-
+    Histories of nineteenth-century Brazilian art: a critical review of
+    bibliography, 2000-2012
+  title-short: Histories of nineteenth-century Brazilian art
+  type: article-journal
+
+- DOI: 10.2307/1424726
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424726'
+  author:
+    - family: Carlhian
+      given: Jean Paul
+  container-title: Journal of Architectural Education
+  id: 'carlhian:1980history'
+  issue: '1'
+  issued:
+    -
+      year: 1980
+  page: '25'
+  source: JSTOR
+  title: History at the Ecole
+  type: article-journal
+  volume: '34'
+
+- ISBN: >-
+    978-85-390-0275-7 978-84-9844-310-3 978-85-390-0319-8 978-85-390-0386-0
+    978-85-390-0472-0 978-84-9844-433-9 978-85-390-0553-6 978-85-390-0423-2
+  call-number: F2521 .H553 2011
+  editor:
+    - dropping-particle: de
+      family: Carvalho
+      given: José Murilo
+  id: 'carvalho:2011historia'
+  issued:
+    -
+      year: 2011
+  number-of-pages: '6'
+  publisher: 'Objetiva : Fundación Mapfre'
+  publisher-place: 'Rio de Janeiro : Madrid'
+  source: Library of Congress ISBN
+  title: 'História do Brasil nação: 1808-2010'
+  title-short: História do Brasil nação
+  type: book
+
+- DOI: 10.18830/issn.1679-0944.n13.2014.12047
+  ISSN: 1679-0944
+  URL: 'http://periodicos.unb.br/index.php/paranoa/article/view/12047'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Carvalho
+      given: Amanda Lima dos Santos
+  container-title: 'Paranoá: cadernos de arquitetura e urbanismo'
+  id: 'carvalho:2014rio'
+  issue: '13'
+  issued:
+    -
+      day: 13
+      month: 12
+      year: 2014
+  language: pt-BR
+  page: 55-63
+  source: periodicos.unb.br
+  title: >-
+    O Rio de Janeiro a partir da chegada da Corte Portuguesa: Planos, intenções
+    e intervenções no século XIX
+  title-short: O Rio de Janeiro a partir da chegada da Corte Portuguesa
+  type: article-journal
+
+- DOI: 10.2307/990784
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/990784'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Cast
+      given: David
+  container-title: Journal of the Society of Architectural Historians
+  id: 'cast:1993speaking'
+  issue: '2'
+  issued:
+    -
+      year: 1993
+  page: 179-188
+  source: JSTOR
+  title: >-
+    Speaking of Architecture: The Evolution of a Vocabulary in Vasari, Jones,
+    and Sir John Vanbrugh
+  title-short: Speaking of Architecture
+  type: article-journal
+  volume: '52'
+
+- collection-title: Convegno internazionale Le ragioni dell'abitare
+  editor:
+    - family: Cataldi
+      given: Giancarlo
+  id: 'cataldi:1989attualita'
+  issued:
+    -
+      year: 1989
+  language: Italian
+  publisher: Alinea
+  publisher-place: Firenze
+  source: Open WorldCat
+  title: Attualità del primitivo e del tradizionale in architettura
+  title-short: Attualità del primitivo
+  type: book
+
+- ISBN: 978-85-378-0392-9
+  author:
+    - family: Cavalcanti
+      given: Lauro
+  id: 'cavalcanti:2006moderno'
+  issued:
+    -
+      day: 21
+      month: 8
+      year: 2006
+  language: pt-BR
+  number-of-pages: '248'
+  publisher: Zahar
+  source: Google Books
+  title: >-
+    Moderno e brasileiro: A história de uma nova linguagem na arquitetura
+    (1930–60)
+  title-short: Moderno e brasileiro
+  type: book
+
+- ISBN: 978-2-85944-423-5
+  author:
+    - family: Chevallier
+      given: Fabienne
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2002-13256
+  collection-number: '12'
+  collection-title: Histoire de l'art
+  id: 'chevallier:2001l''oeuvre'
+  issued:
+    -
+      year: 2001
+  language: fre
+  number-of-pages: '301'
+  publisher: Publications de la Sorbonne
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: >-
+    L'oeuvre d'Eliel Saarinen en Finlande et la question de l'architecture
+    nationale de 1898 à 1909
+  type: book
+
+- author:
+    - family: Choisy
+      given: Auguste
+  id: 'choisy:1996histoire'
+  issued:
+    -
+      year: 1996
+  publisher: Bibliothèque de l'image
+  publisher-place: Paris
+  title: Histoire de l'architecture
+  type: book
+
+- URL: 'https://www.jld.edu.au/article/view/178'
+  accessed:
+    -
+      day: 31
+      month: 1
+      year: 2017
+  author:
+    - family: Cimadomo
+      given: Guido
+  container-title: Journal of Learning Design
+  id: 'cimadomo:2014teaching'
+  issue: '3'
+  issued:
+    -
+      year: 2014
+  page: 79-90
+  title: >-
+    Teaching History of Architecture: Moving from a Knowledge Transfer to a
+    multi-participative methodology based on its tools
+  type: article-journal
+  volume: '7'
+
+-
+  editor:
+    - family: Cohen
+      given: Jean-Louis
+  id: 'cohen:1997annees'
+  issued:
+    -
+      year: 1997
+  publisher: Éditions du Patrimoine
+  publisher-place: Paris
+  title: >-
+    Années 30 : l'architecture et les arts de l'espace entre industrie et
+    nostalgie
+  type: book
+
+- ISBN: 978-0-262-03268-1 978-0-262-53161-0
+  author:
+    - family: Cohen
+      given: Nahoum
+  id: 'cohen:1999urban'
+  issued:
+    -
+      year: 1999
+  publisher: M.I.T. Press
+  publisher-place: 'Cambridge, Mass.'
+  source: Open WorldCat
+  title: Urban conservation
+  type: book
+
+-
+  editor:
+    - family: Cohen
+      given: Jean-Louis
+    - family: Abram
+      given: Joseph
+    - family: Lambert
+      given: Guy
+  id: 'cohen:2002encyclopedie'
+  issued:
+    -
+      year: 2002
+  number-of-pages: '445'
+  publisher: Éditions du Patrimoine / Le Moniteur
+  publisher-place: Paris
+  title: Encyclopédie Perret
+  type: book
+
+- author:
+    - family: Coles
+      given: William A.
+  id: 'coles:1961architecture'
+  issued:
+    -
+      year: 1961
+  language: en
+  number-of-pages: '436'
+  publisher: Ardent Media
+  source: Google Books
+  title: 'Architecture in America: A Battle of Styles'
+  title-short: Architecture in America
+  type: book
+
+- ISBN: 978-85-7503-889-5 85-7503-889-3
+  author:
+    - family: Coli
+      given: Jorge
+  id: 'coli:2010corpo'
+  issued:
+    -
+      year: 2010
+  language: Portuguese
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'O corpo da liberdade: reflexões sobre a pintura do século XIX'
+  title-short: O corpo da liberdade
+  type: book
+
+- DOI: 10.4000/perspective.3865
+  ISSN: 1777-7852
+  URL: 'http://journals.openedition.org/perspective/3865'
+  accessed:
+    -
+      day: 2
+      month: 5
+      year: 2018
+  author:
+    - family: Coli
+      given: Jorge
+  container-title: Perspective. Actualité en histoire de l’art
+  id: 'coli:2013fabrique'
+  issue: '2'
+  issued:
+    -
+      day: 31
+      month: 12
+      year: 2013
+  language: fr
+  page: 213-223
+  source: journals.openedition.org
+  title: 'Fabrique et promotion de la brésilianité : art et enjeux nationaux'
+  title-short: Fabrique et promotion de la brésilianité
+  type: article-journal
+
+- author:
+    - family: Collins
+      given: Peter
+  id: 'collins:1965changing'
+  issued:
+    -
+      year: 1965
+  publisher: McGill University Press
+  publisher-place: Montréal
+  title: Changing Ideals in Modern Architecture 1750–1950
+  type: book
+
+- DOI: 10.2307/1423886
+  ISSN: 0047-2239
+  URL: 'http://www.jstor.org/stable/1423886'
+  author:
+    - family: Collins
+      given: Peter
+  container-title: Journal of Architectural Education
+  id: 'collins:1966architectural'
+  issue: 1/2
+  issued:
+    -
+      year: 1966
+  page: 1-5
+  source: JSTOR
+  title: Architectural Criteria & French Traditions
+  type: article-journal
+  volume: '21'
+
+- DOI: 10.22456/1981-4526.6943
+  ISSN: 1981-4526
+  URL: 'http://www.seer.ufrgs.br/index.php/NauLiteraria/article/view/6943'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Colonetti
+      given: Milton
+  container-title: Nau Literária
+  id: 'colonetti:2007selecao3'
+  issue: '1'
+  issued:
+    -
+      year: 2007
+  language: pt
+  source: www.seer.ufrgs.br
+  title: Seleção e Ideologia em Um passeio pela cidade do Rio de Janeiro
+  type: article-journal
+  volume: '3'
+
+- author:
+    - family: Colquhoun
+      given: Alan
+  id: 'colquhoun:1981essays'
+  issued:
+    -
+      year: 1981
+  publisher: MIT Press
+  publisher-place: Cambridge
+  title: 'Essays in Architectural Criticism: Modern Architecture and Historical Change'
+  type: book
+
+- author:
+    - family: Colquhoun
+      given: Alan
+  container-title: 'Modernidade e tradição clássica: ensaios sobre arquitetura 1980-1987'
+  id: 'colquhoun:2004historicismo'
+  issued:
+    -
+      year: 2004
+  page: 23-37
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  title: Três tipos de historicismo
+  type: chapter
+
+- ISBN: 978-85-7503-278-7
+  author:
+    - family: Colquhoun
+      given: Alan
+  id: 'colquhoun:2004modernidade'
+  issued:
+    -
+      year: 2004
+  language: Portuguese
+  publisher: Cosac & Naify
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Modernidade e tradição clássica: ensaios sobre arquitetura, 1980-1987'
+  title-short: Modernidade e tradição clássica
+  type: book
+
+- URL: 'http://www.vitruvius.com.br/revistas/read/arquitextos/11.122/3486'
+  accessed:
+    -
+      day: 2
+      month: 10
+      year: 2013
+  author:
+    - family: Comas
+      given: Carlos Eduardo Dias
+  call-number: 72.035.9(81)
+  container-title: Arquitextos
+  id: 'comas:2010passado'
+  issue: '00'
+  issued:
+    -
+      month: 7
+      year: 2010
+  title: >-
+    O passado mora ao lado. Lúcio Costa e o projeto do Grand Hotel de Ouro
+    Preto, 1938/40
+  title-short: O passado mora ao lado
+  type: article-journal
+  volume: '122'
+
+- ISBN: 3-03910-276-1 978-3-03910-276-1 0-8204-7203-4 978-0-8204-7203-4
+  author:
+    - family: Conzen
+      given: M. R. G
+    - family: Conzen
+      given: Michael P
+  call-number: '718.04'
+  id: 'conzen:2004thinking'
+  issued:
+    -
+      year: 2004
+  language: English
+  publisher: Peter Lang
+  publisher-place: Oxford; New York
+  source: Open WorldCat
+  title: 'Thinking about urban form: papers on urban morphology, 1932-1998'
+  title-short: Thinking about urban form
+  type: book
+
+- ISBN: 978-88-6055-536-6
+  editor:
+    - family: Coppo
+      given: Dino
+    - family: Boido
+      given: Cristina
+  id: 'coppo:2010rilievo'
+  issued:
+    -
+      year: 2010
+  language: it
+  number-of-pages: '210'
+  publisher: Alinea Editrice
+  source: Google Books
+  title: 'Rilievo urbano: conoscenza e rappresentazione della città consolidata'
+  title-short: Rilievo urbano
+  type: book
+
+- ISBN: 978-85-230-0579-5
+  author:
+    - family: Corona Martínez
+      given: Alfonso
+  id: 'coronamartinez:2000ensaio'
+  issued:
+    -
+      year: 2000
+  language: Portuguese
+  publisher: Editora UnB
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Ensaio sobre o projeto
+  translator:
+    - family: Spaltemberg
+      given: Ane Lise
+    - family: Ficher
+      given: Sylvia
+  type: book
+
+- archive: Fichário 01
+  author:
+    - family: Cory
+      given: Herbert Ellsworth
+  call-number: 111.852+124
+  container-title: International Journal of Ethics
+  id: 'cory:1927sublime'
+  issue: '2'
+  issued:
+    -
+      year: 1927
+  page: 159-172
+  source: JSTOR
+  title: 'The Sublime, the Beautiful, and the Good'
+  type: article-journal
+  volume: '37'
+
+- author:
+    - family: Costa
+      given: Lucio
+  id: 'costa:1940ensino'
+  issued:
+    -
+      year: 1940
+  title: >-
+    O ensino do desenho: Programa para a reformulação do ensino de desenho no
+    curso secundário, por solicitação do ministro Capanema
+  type: article-journal
+
+- ISBN: 978-85-85628-17-8
+  author:
+    - family: Costa
+      given: Lucio
+  id: 'costa:1995registro'
+  issued:
+    -
+      year: 1995
+  language: 'Portuguese, with some French.'
+  publisher: Empresa das Artes
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Lucio Costa: registro de uma vivência'
+  title-short: Registro de uma vivência
+  type: book
+
+- ISBN: 978-0-8078-4840-1
+  author:
+    - dropping-particle: da
+      family: Costa
+      given: Emilia Viotti
+  id: 'costa:2003brazilian'
+  issued:
+    -
+      year: 2003
+  language: English
+  publisher: University of North Carolina Press
+  publisher-place: Chapell Hill
+  source: Open WorldCat
+  title: 'The Brazilian empire: myths and histories'
+  title-short: The Brazilian empire
+  type: book
+
+- ISBN: 85-60100-08-3 978-85-60100-08-8
+  author:
+    - family: Costa
+      given: Lúcio
+    - family: Xavier
+      given: Alberto
+  call-number: 72(81)
+  id: 'costa:2007sobre'
+  issued:
+    -
+      year: 2007
+  language: Portuguese
+  publisher: UniRitter
+  publisher-place: Porto Alegre
+  source: Open WorldCat
+  title: 'Lúcio Costa: sôbre arquitetura'
+  title-short: Sôbre arquitetura
+  type: book
+
+- URL: 'http://gallica.bnf.fr/ark:/12148/bpt6k6208352x'
+  accessed:
+    -
+      day: 23
+      month: 1
+      year: 2015
+  author:
+    - family: Coussin
+      given: J.-A.
+  id: 'coussin:1849modeles'
+  issued:
+    -
+      year: 1849
+  language: Français
+  publisher: A. Logerot
+  publisher-place: Paris
+  source: Gallica
+  title: Modèles d'architecture depuis l'origine de cet art jusqu'à nos jours...
+  type: book
+
+- DOI: 10.2307/1424721
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424721'
+  author:
+    - family: Creese
+      given: Walter
+  container-title: JAE
+  id: 'creese:1980reflections'
+  issue: '1'
+  issued:
+    -
+      year: 1980
+  page: 11-14
+  source: JSTOR
+  title: Reflections on How to/How Not to Teach History
+  type: article-journal
+  volume: '34'
+
+- DOI: 10.2307/1424604
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424604'
+  author:
+    - family: Crespo
+      given: Raúl Arnaldo Gómez
+    - family: Martinez
+      given: Alfonso Corona
+  container-title: Journal of Architectural Education
+  id: 'crespo:1982principlesa'
+  issue: '1'
+  issued:
+    -
+      year: 1982
+  page: 24-25
+  source: JSTOR
+  title: Principles of Classical Composition in Architecture and Urban Design
+  type: article-journal
+  volume: '36'
+
+- DOI: 10.2307/901128
+  ISSN: 1544-9890
+  URL: 'http://www.jstor.org/stable/901128'
+  accessed:
+    -
+      day: 10
+      month: 7
+      year: 2013
+  archive: Fichário 01
+  author:
+    - family: Cret
+      given: Paul P.
+  call-number: '72.02.035 :378 (44)'
+  container-title: The Journal of the American Society of Architectural Historians
+  container-title-short: JSAH
+  id: 'cret:1941ecole'
+  issue: '2'
+  issued:
+    -
+      month: 4
+      year: 1941
+  page: 3–15
+  source: JSTOR
+  title: The Ecole des Beaux-Arts and Architectural Education
+  type: article-journal
+  volume: '1'
+
+-
+  editor:
+    - family: Crowe
+      given: Norman
+    - family: Lykoudis
+      given: Michael
+    - family: Economakis
+      given: Richard
+  id: 'crowe:1999building'
+  issued:
+    -
+      year: 1999
+  publisher: Artmedia
+  publisher-place: London
+  title: 'Building Cities: Towards a Civil Society and Sustainable Environment'
+  type: book
+
+- ISBN: 85-7176-001-2 978-85-7176-001-1
+  editor:
+    - family: Cunha
+      given: Maria Clementina Pereira
+  id: 'cunha:1992direito'
+  issued:
+    -
+      year: 1992
+  language: Portuguese
+  publisher: Departamento do Patrimônio Histórico
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'O Direito à memória: patrimônio histórico e cidadania'
+  title-short: O Direito à memória
+  type: book
+
+- ISBN: 978-85-87220-27-1
+  editor:
+    - family: Czajkowski
+      given: Jorge
+  id: 'czajkowski:2000guia'
+  issued:
+    -
+      year: 2000
+  language: pt
+  number-of-pages: '214'
+  publisher: Casa da Palavra
+  source: Google Books
+  title: Guia da arquitetura eclética no Rio de Janeiro
+  type: book
+
+- author:
+    - family: Debray
+      given: Régis
+  id: 'debray:1992vie'
+  issued:
+    -
+      year: 1992
+  publisher: Gallimard
+  publisher-place: Paris
+  title: "Vie et mort de l’image\_: une histoire du regard en Occident"
+  type: book
+
+-
+  editor:
+    - family: Debray
+      given: Régis
+  id: 'debray:1998labus'
+  issued:
+    -
+      year: 1998
+  publisher: Fayard / Éditions du Patrimoine
+  publisher-place: Paris
+  title: L'abus monumental ?
+  type: book
+
+- ISBN: 978-85-61556-39-6
+  author:
+    - family: De Paoli
+      given: Paula
+  id: 'depaoli:2013entre'
+  issued:
+    -
+      year: 2013
+  language: In Portuguese.
+  publisher: 'Faperj : RioBooks'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: >-
+    Entre relíquias e casas velhas: a arquitetura das reformas urbanas de
+    Pereira Passos no centro do Rio de Janeiro
+  title-short: Entre relíquias e casas velhas
+  type: book
+
+- author:
+    - family: Ors
+      given: Eugenio
+      non-dropping-particle: d’
+  id: 'dors:2000baroque'
+  issued:
+    -
+      year: 2000
+  publisher: Gallimard
+  publisher-place: Paris
+  title: Du Baroque
+  type: book
+
+- ISBN: 978-0-436-13710-5
+  editor:
+    - family: Drexler
+      given: Arthur
+  id: 'drexler:1977architecture'
+  issued:
+    -
+      year: 1977
+  language: English
+  publisher: Secker & Warburg
+  publisher-place: London
+  source: Open WorldCat
+  title: The architecture of the Ecole des Beaux-Arts
+  type: book
+
+- author:
+    - family: Duany
+      given: Andrés
+    - family: Plater-Zyberk
+      given: Elizabeth
+    - family: Alminana
+      given: Robert
+  id: 'duany:2003new'
+  issued:
+    -
+      year: 2003
+  publisher: Rizzoli
+  publisher-place: Nova York
+  title: 'The New Civic Art: Elements of Town Planning'
+  type: book
+
+- author:
+    - family: Duarte
+      given: Pedro
+  id: 'duarte:2011'
+  issued:
+    -
+      year: 2011
+  language: Portuguese
+  publisher: Zahar
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Estio do tempo: romantismo e estética moderna'
+  title-short: Estio do tempo
+  type: book
+
+- ISBN: 85-273-0010-9 978-85-273-0010-0
+  author:
+    - family: Durand
+      given: José Carlos Garcia
+  id: 'durand:1989arte'
+  issued:
+    -
+      year: 1989
+  language: Portuguese
+  publisher: 'Perspectiva : Edusp'
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Arte, privilégio e distinção: artes plásticas, arquitetura e classe
+    dirigente no Brasil, 1855/1985
+  title-short: 'Arte, privilégio e distinção'
+  type: book
+
+- ISBN: 0-15-191079-0 978-0-15-191079-3
+  author:
+    - family: Eco
+      given: Umberto
+  id: 'eco:1986travelsa'
+  issued:
+    -
+      year: 1986
+  language: English
+  publisher: Harcourt Brace Jovanovich
+  publisher-place: San Diego
+  source: Open WorldCat
+  title: 'Travels in hyper reality: essays'
+  title-short: Travels in hyper reality
+  type: book
+
+- author:
+    - family: Egbert
+      given: Donald Drew
+  id: 'egbert:1980beauxarts'
+  issued:
+    -
+      year: 1980
+  publisher: Princeton University Press
+  publisher-place: Princeton
+  title: The Beaux-Arts Tradition in French Architecture
+  type: book
+
+- ISBN: 978-3-905451-01-6
+  author:
+    - family: Egenter
+      given: Nold
+  id: 'egenter:1992architectural'
+  issued:
+    -
+      year: 1992
+  language: English
+  publisher: Structura mundi
+  publisher-place: Lausanne
+  source: Open WorldCat
+  title: Architectural anthropology
+  type: book
+  volume: 1. The present relevance of the primitive in architecture
+
+- ISBN: 0-500-23675-5 978-0-500-23675-8 0-500-27753-2 978-0-500-27753-9
+  author:
+    - family: Eisenman
+      given: Stephen
+    - family: Crow
+      given: Thomas E
+  id: 'eisenman:1994nineteenth'
+  issued:
+    -
+      year: 1994
+  language: English
+  publisher: Thames and Hudson
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Nineteenth century art: a critical history'
+  title-short: Nineteenth century art
+  type: book
+
+- author:
+    - family: Elkins
+      given: James
+  container-title: Critical Inquiry
+  id: 'elkins:1988art'
+  issue: '2'
+  issued:
+    -
+      year: 1988
+  page: 354–378
+  title: Art History without Theory
+  type: article-journal
+  volume: '14'
+
+- DOI: 10.2307/1424164
+  ISSN: 00472239
+  URL: 'http://www.jstor.org/stable/1424164'
+  accessed:
+    -
+      day: 4
+      month: 3
+      year: 2014
+  author:
+    - family: Elliott
+      given: Cecil D.
+  container-title: Journal of Architectural Education
+  id: 'elliott:1964monuments'
+  issue: '4'
+  issued:
+    -
+      month: 3
+      year: 1964
+  page: 51–53
+  source: CrossRef
+  title: Monuments and Monumentality
+  type: article-journal
+  volume: '18'
+
+- author:
+    - family: Épron
+      given: Jean-Pierre
+  id: 'epron:1997comprendre'
+  issued:
+    -
+      year: 1997
+  publisher: Norma
+  publisher-place: Paris
+  title: Comprendre l'éclectisme
+  type: book
+
+- ISBN: 978-972-772-719-3
+  author:
+    - family: Esquível
+      given: Patrícia
+  call-number: '7.01'
+  collection-number: '5'
+  collection-title: Teses
+  id: 'esquivel:2007teoria'
+  issued:
+    -
+      year: 2007
+  number-of-pages: '296'
+  publisher: 'Colibri : IHA - Estudos de Arte Contemporânea'
+  publisher-place: Lisboa
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'Teoria e critica de arte em Portugal: 1921-1940'
+  title-short: Teoria e critica de arte em Portugal
+  type: book
+
+- ISBN: 978-0-262-05038-8
+  author:
+    - family: Etlin
+      given: Richard A
+  id: 'etlin:1991modernism'
+  issued:
+    -
+      year: 1991
+  language: English
+  publisher: MIT Press
+  publisher-place: 'Cambridge, Mass.; London'
+  source: Open WorldCat
+  title: 'Modernism in Italian architecture, 1890–1940'
+  type: book
+
+- author:
+    - family: Evans
+      given: Robin
+  id: 'evans:1995projective'
+  issued:
+    -
+      year: 1995
+  publisher: M.I.T. Press
+  publisher-place: 'Cambridge, Mass.'
+  title: 'The projective cast : architecture and its three geometries'
+  type: book
+
+- author:
+    - family: Evers
+      given: Hans Gerhard
+  id: 'evers:1985historicismo'
+  issued:
+    -
+      year: 1985
+  publisher: Verbo
+  publisher-place: Lisboa
+  title: Do historicismo ao funcionalismo
+  type: book
+
+-
+  editor:
+    - family: Fabris
+      given: Annateresa
+  id: 'fabris:1987ecletismo'
+  issued:
+    -
+      year: 1987
+  number-of-pages: '296'
+  publisher: 'Nobel : Edusp'
+  publisher-place: São Paulo
+  title: Ecletismo na arquitetura brasileira
+  type: book
+
+- ISSN: 0009-6725
+  URL: >-
+    http://cienciaecultura.bvs.br/scielo.php?script=sci_abstract&pid=S0009-67252004000200015&lng=en&nrm=iso&tlng=pt
+  accessed:
+    -
+      day: 15
+      month: 1
+      year: 2016
+  author:
+    - family: Fernandes
+      given: Ana
+    - family: Gomes
+      given: Marco Aurélio A. de Filgueiras
+  container-title: Ciência e Cultura
+  id: 'fernandes:2004historia'
+  issue: '2'
+  issued:
+    -
+      month: 4
+      year: 2004
+  page: 23-25
+  source: cienciaecultura.bvs.br
+  title: >-
+    História da cidade e do urbanismo no Brasil: reflexões sobre a produção
+    recente
+  title-short: História da cidade e do urbanismo no Brasil
+  type: article-journal
+  volume: '56'
+
+- author:
+    - family: Ficher
+      given: Sylvia
+  id: 'ficher:1984anotacoes'
+  issued:
+    -
+      year: 1984
+  title: Anotações sobre o Pós-Modernismo
+  type: article-journal
+
+- archive: Fichário 01
+  author:
+    - family: Ficher
+      given: Sylvia
+  call-number: '72.02:378'
+  container-title: Projeto
+  id: 'ficher:1988ensino'
+  issued:
+    -
+      month: 9
+      year: 1988
+  page: 135–140
+  title: 'Ensino, Documentação e Pesquisa'
+  type: article-journal
+  volume: '114'
+
+- archive: Fichário 01
+  author:
+    - family: Ficher
+      given: Sylvia
+  call-number: '72.02:377'
+  container-title: Projeto
+  id: 'ficher:1995mitos'
+  issued:
+    -
+      month: 5
+      year: 1995
+  page: 77-80
+  title: 'Mitos e Perspectivas: Profissão de arquiteto e ensino de arquitetura'
+  title-short: Mitos e Perspectivas
+  type: article-journal
+  volume: '185'
+
+- URL: 'http://catalog.hathitrust.org/api/volumes/oclc/30733510.html'
+  accessed:
+    -
+      day: 10
+      month: 6
+      year: 2018
+  author:
+    - family: Finn
+      given: Dallas
+  id: 'finn:1995meiji'
+  issued:
+    -
+      year: 1995
+  language: English
+  publisher: Weatherhill
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Meiji revisited: the sites of Victorian Japan'
+  title-short: Meiji revisited
+  type: book
+
+- author:
+    - family: Fiori
+      given: Ruth
+  call-number: 72.025(443.1)
+  id: 'fiori:2012'
+  issued:
+    -
+      year: 2012
+  language: French
+  publisher: Mardaga
+  publisher-place: Wavre (Belgique)
+  source: Open WorldCat
+  title: >-
+    L'invention du vieux Paris: naissance d'une conscience patrimoniale dans la
+    capitale
+  title-short: L'invention du vieux Paris
+  type: book
+
+- ISSN: 1046-4883
+  URL: 'http://www.jstor.org/stable/1425646'
+  accessed:
+    -
+      day: 4
+      month: 8
+      year: 2017
+  author:
+    - family: Fisher
+      given: Saul
+  container-title: Journal of Architectural Education
+  id: 'fisher:2000architectural54'
+  issue: '1'
+  issued:
+    -
+      year: 2000
+  page: 35-44
+  source: JSTOR
+  title: 'Architectural Aesthetics in the Analytic Tradition: A New Curriculum'
+  title-short: Architectural Aesthetics in the Analytic Tradition
+  type: article-journal
+  volume: '54'
+
+- author:
+    - family: Fletcher
+      given: Bannister
+  id: 'fletcher:1961history'
+  issued:
+    -
+      year: 1961
+  publisher: University of London
+  publisher-place: London
+  title: History of Architecture on the Comparative Method
+  type: book
+
+- author:
+    - family: Forster
+      given: Kurt W.
+  container-title: New Literary History
+  id: 'forster:1972critical'
+  issue: '3, Literary and Art History'
+  issued:
+    -
+      year: 1972
+  page: 459-470
+  title: 'Critical History of Art, or Transfiguration of Values?'
+  type: article-journal
+  volume: '3'
+
+- ISBN: 978-0-262-06173-5 978-0-262-56149-5
+  author:
+    - family: Frampton
+      given: Kenneth
+  editor:
+    - family: Cava
+      given: John
+  id: 'frampton:1995studies'
+  issued:
+    -
+      year: 1995
+  language: English
+  publisher: M.I.T. Press
+  publisher-place: 'Cambridge, Mass.'
+  source: Open WorldCat
+  title: >-
+    Studies in tectonic culture: the poetics of construction in nineteenth and
+    twentieth century architecture
+  title-short: Studies in tectonic culture
+  type: book
+
+- author:
+    - family: Frank
+      given: Paul L.
+  container-title: The Journal of Aesthetics and Art Criticism
+  id: 'frank:1955historical'
+  issue: '4'
+  issued:
+    -
+      year: 1955
+  page: 451-457
+  title: Historical or Stylistic Periods?
+  type: article-journal
+  volume: '13'
+
+- ISBN: 0-262-56013-5 978-0-262-56013-9 0-262-06024-8 978-0-262-06024-0
+  author:
+    - family: Frankl
+      given: Paul
+  id: 'frankl:1968principles'
+  issued:
+    -
+      year: 1968
+  language: English
+  publisher: '[MIT Press]'
+  publisher-place: '[Cambridge, Mass.]'
+  source: Open WorldCat
+  title: >-
+    Principles of architectural history: the four phases of architectural style,
+    1420-1900
+  title-short: Principles of architectural history
+  type: book
+
+- URL: 'https://enanparq2016.files.wordpress.com/2016/09/s32-03-freitas-m.pdf'
+  accessed:
+    -
+      day: 15
+      month: 2
+      year: 2018
+  author:
+    - dropping-particle: de
+      family: Freitas
+      given: Maria Luiza Macedo Xavier
+  container-title: IV Enanparq
+  event: >-
+    Encontro da Associação Nacional de Pesquisa e Pós-Graduação em Arquitetura e
+    Urbanismo
+  id: 'freitas:2016nem'
+  issued:
+    - literal: 25 a 29 jul. 2016
+  publisher-place: Porto Alegre
+  title: >-
+    Nem toda construção é arquitetura: a busca por uma forma arquitetônica para
+    o concreto armado
+  title-short: Nem toda construção é arquitetura
+  type: paper-conference
+
+- ISSN: 0022-5037
+  URL: 'http://www.jstor.org/stable/23253882'
+  accessed:
+    -
+      day: 12
+      month: 5
+      year: 2015
+  author:
+    - family: Frigo
+      given: Alberto
+  container-title: Journal of the History of Ideas
+  container-title-short: Journal of the History of Ideas
+  id: 'frigo:2012'
+  issue: '3'
+  issued:
+    -
+      day: 1
+      month: 7
+      year: 2012
+  page: 417-436
+  source: JSTOR
+  title: >-
+    Can One Speak of Painting if One Cannot Hold a Brush? Giulio Mancini,
+    Medicine, and the Birth of the Connoisseur
+  title-short: Can One Speak of Painting if One Cannot Hold a Brush?
+  type: article-journal
+  volume: '73'
+
+- author:
+    - family: Galvão
+      given: Alfredo
+  id: 'galvao:1954'
+  issued:
+    -
+      year: 1954
+  language: Portuguese
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: >-
+    Subsídios para a história da Academia Imperial e da Escola Nacional de Belas
+    Artes
+  type: book
+
+- author:
+    - family: Gammon
+      given: Martin
+  container-title: Journal of the History of Philosophy
+  id: 'gammon:1997exemplary'
+  issue: '4'
+  issued:
+    -
+      year: 1997
+  page: 563–592
+  title: '“Exemplary Originality”: Kant on Genius and Imitation'
+  type: article-journal
+  volume: '35'
+
+- ISBN: 978-0-226-28955-7 0-226-28955-9 0-226-28953-2 978-0-226-28953-3
+  URL: 'http://public.eblib.com/choice/publicfullrecord.aspx?p=584938'
+  accessed:
+    -
+      day: 5
+      month: 3
+      year: 2015
+  author:
+    - family: Gere
+      given: Cathy
+  id: 'gere:2009knossos'
+  issued:
+    -
+      year: 2009
+  language: English
+  publisher: University of Chicago Press
+  publisher-place: Chicago; London
+  source: Open WorldCat
+  title: Knossos and the prophets of modernism
+  type: book
+
+- DOI: 10.2307/987444
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/987444'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Gilbert
+      given: Katharine
+  container-title: Journal of the Society of Architectural Historians
+  id: 'gilbert:1951clean'
+  issue: '3'
+  issued:
+    -
+      year: 1951
+  page: 3-7
+  source: JSTOR
+  title: 'Clean and Organic: A Study in Architectural Semantics'
+  title-short: Clean and Organic
+  type: article-journal
+  volume: '10'
+
+- ISBN: 2-02-028943-1 978-2-02-028943-6
+  author:
+    - family: Giovannoni
+      given: Gustavo
+  call-number: '72.025:711.4'
+  id: 'giovannoni:1998urbanisme'
+  issued:
+    -
+      year: 1998
+  language: French
+  publisher: Seuil
+  publisher-place: Paris
+  source: Open WorldCat
+  title: L'Urbanisme face aux villes anciennes
+  translator:
+    - family: Mandosio
+      given: Jean-Marc
+    - family: Petita
+      given: Amélie
+    - family: Tandille
+      given: Claire
+  type: book
+
+-
+  editor:
+    - family: Giusti
+      given: Adriana Baculo
+    - family: Santis
+      given: Ludovica Bucci
+      non-dropping-particle: de
+    - dropping-particle: di
+      family: Luggo
+      given: Antonella
+    - family: Florio
+      given: Riccardo
+    - family: Rino
+      given: Fulvio
+  id: 'giusti:1995napoli'
+  issued:
+    -
+      year: 1995
+  publisher: Electa Napoli
+  publisher-place: Napoli
+  title: Napoli città in vista
+  type: book
+
+- author:
+    - family: Gombrich
+      given: Ernst H.
+  id: 'gombrich:1979sense'
+  issued:
+    -
+      year: 1979
+  publisher: Phaidon
+  publisher-place: Londres
+  title: 'The Sense of Order: A study in the psychology of decorative art'
+  title-short: The Sense of Order
+  type: book
+
+- author:
+    - family: Gombrich
+      given: Ernst H.
+  id: 'gombrich:1999uses'
+  issued:
+    -
+      year: 1999
+  publisher: Phaidon
+  publisher-place: London
+  title: >-
+    The Uses of Images: Studies in the Social Function of Art and Visual
+    Communication
+  type: book
+
+- ISBN: 978-85-314-0450-4
+  author:
+    - family: 'Gomes, Júnior'
+      given: Guilherme Simões
+  id: 'gomesjr:1998palavra'
+  issued:
+    -
+      day: 1
+      month: 1
+      year: 1998
+  language: pt
+  number-of-pages: '288'
+  publisher: EdUSP
+  publisher-place: São Paulo
+  source: Google Books
+  title: 'Palavra peregrina: o Barroco e o pensamento sobre artes e letras no Brasil'
+  title-short: Palavra peregrina
+  type: book
+
+- ISBN: 978-85-7108-163-5
+  author:
+    - family: Gonçalves
+      given: José Reginaldo Santos
+  id: 'goncalves:1996retorica'
+  issued:
+    -
+      year: 1996
+  language: Portuguese
+  publisher: 'Editora UFRJ : MinC-IPHAN'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'A retórica da perda: os discursos do patrimônio cultural no Brasil'
+  title-short: A retórica da perda
+  type: book
+
+- author:
+    - family: Gonzaga Duque Estrada
+      given: Luís
+  id: 'gonzaga-duque:1929contemporaneos'
+  issued:
+    -
+      year: 1929
+  language: pt
+  number-of-pages: '284'
+  publisher: Benedicto de Souza
+  source: Google Books
+  title: 'Contemporaneos: pintores e esculptores'
+  title-short: Contemporaneos
+  type: book
+
+- ISBN: 85-85725-14-1 978-85-85725-14-3
+  author:
+    - family: Gonzaga Duque Estrada
+      given: Luís
+  editor:
+    - family: Chiarelli
+      given: Tadeu
+  id: 'gonzaga-duque:1995arte'
+  issued:
+    -
+      year: 1995
+  language: Portuguese
+  publisher: Mercado de Letras
+  publisher-place: Campinas
+  source: Open WorldCat
+  title: A arte brasileira
+  type: book
+
+- ISBN: 85-7041-272-X 978-85-7041-272-0
+  author:
+    - family: Gonzaga Duque
+      given: Luís
+  editor:
+    - family: Guimarães
+      given: Júlio Castañon
+    - family: Lins
+      given: Vera
+  id: 'gonzagaduque:2001impressoes'
+  issued:
+    -
+      year: 2001
+  language: Portuguese
+  publisher: Editora UFMG ; Fundação Casa de Rui Barbosa
+  publisher-place: Belo Horizonte; Rio de Janeiro
+  source: Open WorldCat
+  title: 'Impressões de um amador: textos esparsos de crítica, 1882-1909'
+  title-short: Impressões de um amador
+  type: book
+
+- author:
+    - family: Gournay
+      given: Isabelle
+  container-title: Dictionary of Art
+  editor:
+    - family: Turner
+      given: Jane
+  id: 'gournay:1996beauxarts'
+  issued:
+    -
+      year: 1996
+  page: 464-465
+  publisher: Grove’s Dictionaries
+  publisher-place: New York
+  title: Beaux-Arts style
+  type: entry-dictionary
+
+- author:
+    - family: Graeff
+      given: Edgar Albuquerque
+  id: 'graeff:2006uma'
+  issued:
+    -
+      year: 2006
+  publisher: Trilhas urbanas
+  publisher-place: Goiânia
+  title: Uma sistemática para o estudo da teoria da arquitetura
+  type: book
+
+- DOI: 10.2307/1566962
+  ISSN: 0079-0958
+  URL: 'http://www.jstor.org/stable/1566962'
+  accessed:
+    -
+      day: 4
+      month: 8
+      year: 2017
+  author:
+    - family: Greenberg
+      given: Allan
+  container-title: Perspecta
+  id: 'greenberg:1969lutyens'
+  issued:
+    -
+      year: 1969
+  page: 129-152
+  source: JSTOR
+  title: Lutyens' Architecture Restudied
+  type: article-journal
+  volume: '12'
+
+- DOI: 10.1525/jsah.2011.70.2.174
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/10.1525/jsah.2011.70.2.174'
+  author:
+    - family: Grieder
+      given: Josephine
+  container-title: Journal of the Society of Architectural Historians
+  id: 'grieder:2011search'
+  issue: '2'
+  issued:
+    -
+      year: 2011
+  page: 174-189
+  source: JSTOR
+  title: The Search for the Néo-Grec in Second Empire Paris
+  type: article-journal
+  volume: '70'
+
+- author:
+    - family: Hancock
+      given: John E.
+  container-title: JAE
+  id: 'hancock:1982architecture'
+  issue: '1'
+  issued:
+    -
+      year: 1982
+  page: 26–33
+  title: 'Architecture and Its History: Past Futures and Future Pasts'
+  type: article-journal
+  volume: '36'
+
+- URL: 'http://www.classicist.org/archive/c1p012.html'
+  accessed:
+    -
+      day: 27
+      month: 3
+      year: 2005
+  archive: Fichário 01
+  author:
+    - family: Hancock
+      given: John E.
+  call-number: '7.01'
+  container-title: The Classicist
+  id: 'hancock:2000who'
+  issue: '1'
+  issued:
+    -
+      year: 2000
+  title: Who Put the ‘ism’ in Classicism? A Theory of Authority
+  type: article-journal
+  volume: '1'
+
+- author:
+    - family: Hart
+      given: Joan
+  container-title: Art Journal
+  id: 'hart:1982reinterpreting'
+  issue: '4, The Crisis in the Discipline'
+  issued:
+    -
+      year: 1982
+  page: 292-300
+  title: 'Reinterpreting Wölfflin: Neo-Kantianism and Hermeneutics'
+  type: article-journal
+  volume: '42'
+
+- author:
+    - family: Hartog
+      given: François
+  id: 'hartog:2007evidence'
+  issued:
+    -
+      year: 2007
+  publisher: Gallimard
+  publisher-place: Paris
+  title: Évidence de l’histoire. Ce que voient les historiens
+  type: book
+
+- author:
+    - family: Haskins
+      given: Casey
+  container-title: The Journal of Aesthetics and Art Criticism
+  id: 'haskins:1989kant'
+  issue: '1'
+  issued:
+    -
+      year: 1989
+  page: 43-54
+  title: Kant and the Autonomy of Art
+  type: article-journal
+  volume: '47'
+
+- author:
+    - family: Hautecœur
+      given: Louis
+  id: 'hautecoeur:1957histoire7'
+  issued:
+    -
+      year: 1957
+  publisher: Picard
+  publisher-place: Paris
+  title: Histoire de l’architecture classique en France
+  type: book
+  volume: '7'
+
+- URL: 'http://archive.org/details/derstdtebaunach00hegegoog'
+  accessed:
+    -
+      day: 28
+      month: 2
+      year: 2014
+  author:
+    - family: Hegemann
+      given: Werner
+  id: 'hegemann:1911stadtebau'
+  issued:
+    -
+      year: 1911
+  language: ger
+  number-of-pages: '228'
+  publisher: E. Wasmuth
+  publisher-place: Berlin
+  source: Internet Archive
+  title: >-
+    Der Städtebau nach den Ergebnissen der Allgemeinen Städtebau-ausstellung in
+    Berlin, nebst einem Anhang
+  title-short: Der Städtebau
+  type: book
+
+- call-number: 50(81)
+  editor:
+    - family: Heizer
+      given: Alda
+    - family: Videira
+      given: Antonio Augusto Passos
+  id: 'heizer:2001ciencia'
+  issued:
+    -
+      year: 2001
+  language: Portuguese
+  publisher: Access
+  publisher-place: Rio de Janeiro
+  source: BnF
+  title: 'Ciência, civilização e império nos trópicos'
+  type: book
+
+- DOI: 10.2307/1566963
+  ISSN: 0079-0958
+  URL: 'http://www.jstor.org/stable/1566963'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Hernandez
+      given: Antonio
+  container-title: Perspecta
+  id: 'hernandez:1969durand'
+  issued:
+    -
+      year: 1969
+  page: 153–160
+  source: JSTOR
+  title: >-
+    J.N.L. Durand's Architectural Theory: A Study in the History of Rational
+    Building Design
+  title-short: J.N.L. Durand's Architectural Theory
+  type: article-journal
+  volume: '12'
+
+- author:
+    - family: Heynen
+      given: Hilde
+  id: 'heynen:1999architecture'
+  issued:
+    -
+      year: 1999
+  publisher: M.I.T. Press
+  publisher-place: 'Cambridge, Mass.'
+  title: 'Architecture and Modernity: A Critique'
+  type: book
+
+- ISBN: 978-0-7474-0291-6
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  id: 'hobsbawm:1975capital'
+  issued:
+    -
+      year: 1988
+  language: English
+  publisher: Cardinal
+  publisher-place: London
+  source: Open WorldCat
+  title: The age of capital 1848-1875
+  type: book
+
+- ISBN: 978-0-521-24645-3 978-0-521-43773-8 978-0-521-26985-8
+  author:
+    - family: Hobsbawm
+      given: Eirc J
+    - family: Ranger
+      given: Terence O
+  call-number: '930.85'
+  id: 'hobsbawm:1983invention'
+  issued:
+    -
+      year: 1983
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: 'Cambridge [Cambridgeshire]; New York'
+  source: Open WorldCat
+  title: The Invention of tradition
+  type: book
+
+- ISBN: 978-0-8446-6925-0
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  id: 'hobsbawm:1989empire'
+  issued:
+    -
+      year: 1989
+  language: English
+  publisher: Vintage
+  publisher-place: New York
+  source: Open WorldCat
+  title: The age of Empire 1875-1914
+  type: book
+
+- ISBN: 978-0-679-77253-8
+  author:
+    - family: Hobsbawm
+      given: Eric J.
+  id: 'hobsbawm:1996revolution'
+  issued:
+    -
+      year: 1996
+  language: English
+  publisher: Vintage Books
+  publisher-place: 'New York, N.Y.'
+  source: Open WorldCat
+  title: 'The age of revolution, 1789-1848'
+  type: book
+
+- author:
+    - family: Homem
+      given: Maria Cecília Naclério
+  id: 'homem:1996palacete'
+  issued:
+    -
+      year: 1996
+  publisher: Martins Fontes
+  publisher-place: São Paulo
+  title: >-
+    O palacete paulistano e outras formas urbanas de morar da elite cafeeira:
+    1867-1918
+  type: book
+
+- DOI: 10.2307/1424724
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424724'
+  author:
+    - family: Hubbard
+      given: William Q.
+  container-title: Journal of Architectural Education
+  id: 'hubbard:1980history'
+  issue: '1'
+  issued:
+    -
+      year: 1980
+  page: 22-22
+  source: JSTOR
+  title: History Synchrony
+  type: article-journal
+  volume: '34'
+
+- author:
+    - family: Jarzombek
+      given: Mark
+  container-title: Journal of Architectural Education
+  id: 'jarzombek:1991crisis'
+  issue: '3'
+  issued:
+    -
+      year: 1991
+  page: 150-155
+  title: The Crisis of Interdisciplinary Historiography
+  type: article-journal
+  volume: '44'
+
+- DOI: 10.2307/1424661
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424661'
+  author:
+    - family: Jones
+      given: Douglas
+  container-title: Journal of Architectural Education
+  id: 'jones:1981architecture'
+  issue: '4'
+  issued:
+    -
+      year: 1981
+  page: 18–23
+  source: JSTOR
+  title: Architecture as a Discipline of the Humanities
+  type: article-journal
+  volume: '34'
+
+- DOI: 10.2307/988229
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/988229'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Jordy
+      given: William H.
+  container-title: Journal of the Society of Architectural Historians
+  id: 'jordy:1963symbolic'
+  issue: '3'
+  issued:
+    -
+      year: 1963
+  page: 177-187
+  source: JSTOR
+  title: >-
+    The Symbolic Essence of Modern European Architecture of the Twenties and Its
+    Continuing Influence
+  type: article-journal
+  volume: '22'
+
+- ISBN: 978-85-89410-02-1 85-89410-02-1
+  author:
+    - family: Kessel
+      given: Carlos
+  call-number: 72.035.9(81)
+  id: 'kessel:2008arquitetura'
+  issued:
+    -
+      year: 2008
+  language: Portuguese
+  publisher: 'Universidade Estácio de Sá, Curso de Arquitetura e Urbanismo : Jauá Editora'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'Arquitetura neocolonial no Brasil: entre o pastiche e a modernidade'
+  title-short: Arquitetura neocolonial no Brasil
+  type: book
+
+- ISSN: 2178-1141
+  URL: 'https://www.ifch.unicamp.br/ojs/index.php/rhs/article/view/179'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Kessel
+      given: Carlos
+  container-title: História Social
+  id: 'kessel:2011estilo0'
+  issue: '6'
+  issued:
+    -
+      day: 29
+      month: 6
+      year: 2011
+  language: pt
+  page: 65-94
+  source: www.ifch.unicamp.br
+  title: 'Estilo, discurso, poder: arquitetura neocolonial no Brasil'
+  title-short: 'Estilo, discurso, poder'
+  type: article-journal
+  volume: '0'
+
+- ISBN: 978-1-56898-438-4 978-1-56898-420-9 978-1-56898-436-0
+  author:
+    - family: Kirk
+      given: Terry
+  call-number: NA1114 .K574 2005
+  id: 'kirk:2005architecture'
+  issued:
+    -
+      year: 2005
+  number-of-volumes: '2'
+  publisher: Princeton Architectural Press
+  publisher-place: New York
+  source: Library of Congress ISBN
+  title: The architecture of modern Italy
+  type: book
+
+- DOI: 10.2307/775427
+  ISSN: 0004-3249
+  URL: 'http://www.jstor.org/stable/775427'
+  accessed:
+    -
+      day: 6
+      month: 10
+      year: 2013
+  author:
+    - family: Kleinbauer
+      given: W. Eugene
+  container-title: Art Journal
+  container-title-short: Art Journal
+  id: 'kleinbauer:1970geistesgeschichte30'
+  issue: '2'
+  issued:
+    -
+      day: 1
+      month: 12
+      year: 1970
+  page: 148-153
+  source: JSTOR
+  title: Geistesgeschichte and Art History
+  type: article-journal
+  volume: '30'
+
+- DOI: 10.1007/978-3-476-03654-4_31
+  ISBN: 978-3-476-01445-0 978-3-476-03654-4
+  URL: 'https://link.springer.com/chapter/10.1007/978-3-476-03654-4_31'
+  accessed:
+    -
+      day: 11
+      month: 6
+      year: 2018
+  author:
+    - family: Kremer
+      given: Detlef
+  container-title: Goethe Handbuch
+  id: 'kremer:1997deutscher'
+  issued:
+    -
+      year: 1997
+  language: de
+  page: 564-570
+  publisher: 'J.B. Metzler, Stuttgart'
+  source: link.springer.com
+  title: Von deutscher Baukunst
+  type: chapter
+
+- author:
+    - family: Kruft
+      given: Hanno-Walter
+  id: 'kruft:1985geschichte'
+  issued:
+    -
+      year: 1985
+  publisher: C. H. Beck
+  publisher-place: München
+  title: Geschichte der Architekturtheorie
+  type: book
+
+- archive: Fichário 01
+  author:
+    - family: Krukowski
+      given: Lucian
+  call-number: '7.01:141.301'
+  container-title: The Journal of Aesthetics and Art Criticism
+  id: 'krukowski:1986'
+  issue: '3'
+  issued:
+    -
+      year: 1986
+  page: 279–290
+  title: 'Hegel, “Progress,” and the Avant-Garde'
+  type: article-journal
+  volume: '44'
+
+- ISBN: 978-85-273-0111-4
+  author:
+    - family: Kuhn
+      given: Thomas S.
+  edition: '5'
+  id: 'kuhn:1998estrutura'
+  issued:
+    -
+      year: 1998
+  language: Portuguese
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A estrutura das revoluções cientificas
+  translator:
+    - family: Boeira
+      given: Beatriz Vianna
+    - family: Boeira
+      given: Nelson
+  type: book
+
+- author:
+    - family: Langhein
+      given: Joachim
+  id: 'langhein:2002path'
+  issued:
+    -
+      year: 2002
+  publisher-place: Heidelberg
+  title: On the Path to a General Proportion Theory
+  type: book
+
+- author:
+    - family: Langhein
+      given: Joachim
+  id: 'langhein:2013proportion'
+  issued:
+    -
+      year: 2013
+  publisher: 'International Network for Traditional Building, Architecture and Urbanism'
+  publisher-place: London
+  title: Proportion and Traditional Architecture
+  type: book
+  volume: 1 (10)
+
+- author:
+    - family: Laurent
+      given: Christophe
+  container-title: RA
+  id: 'laurent:1998quand'
+  issue: '121'
+  issued:
+    -
+      year: 1998
+  page: 61–78
+  title: Quand Auguste Perret définissait l’architecture moderne au XX^e siècle
+  type: article-journal
+  volume: '121'
+
+- DOI: 10.2307/1425261
+  ISSN: 1046-4883
+  URL: 'http://www.jstor.org/stable/1425261'
+  author:
+    - family: Lavin
+      given: Sylvia
+  container-title: Journal of Architectural Education
+  id: 'lavin:1991names'
+  issue: '3'
+  issued:
+    -
+      year: 1991
+  page: 131–137
+  source: JSTOR
+  title: >-
+    In the Names of History: Quatremère de Quincy and the Literature of Egyptian
+    Architecture
+  title-short: In the Names of History
+  type: article-journal
+  volume: '44'
+
+- ISBN: 978-0-203-97525-1
+  URL: 'http://public.eblib.com/choice/publicfullrecord.aspx?p=254441'
+  accessed:
+    -
+      day: 7
+      month: 5
+      year: 2018
+  author:
+    - family: Leach
+      given: Neil
+  id: 'leach:2005rethinking'
+  issued:
+    -
+      year: 2005
+  language: English
+  publisher: 'Routledge : Taylor & Francis'
+  publisher-place: New York
+  source: Open WorldCat
+  title: 'Rethinking architecture: a reader in cultural theory'
+  title-short: Rethinking architecture
+  type: book
+
+- DOI: 10.2307/1844717
+  ISSN: 0002-8762
+  URL: 'http://www.jstor.org/stable/1844717'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Lee
+      given: Dwight E.
+    - family: Beck
+      given: Robert N.
+  container-title: The American Historical Review
+  id: 'lee:1954meaning'
+  issue: '3'
+  issued:
+    -
+      year: 1954
+  page: 568–577
+  source: JSTOR
+  title: The Meaning of "Historicism"
+  type: article-journal
+  volume: '59'
+
+- URL: 'http://www.dezenovevinte.net/ensino_artistico/escolas_reginaldo.htm'
+  accessed:
+    -
+      day: 3
+      month: 1
+      year: 2014
+  author:
+    - family: Leite
+      given: Reginaldo da Rocha
+  container-title: Dezenove & Vinte
+  container-title-short: 19&20
+  id: 'leite:2009contribuicao'
+  issue: '1'
+  issued:
+    -
+      month: 1
+      year: 2009
+  title: >-
+    A Contribuição das Escolas Artísticas Européias no Ensino das Artes no
+    Brasil Oitocentista
+  type: article-journal
+  volume: IV
+
+- ISBN: 978-85-213-0465-4
+  author:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+  edition: '2'
+  id: 'lemos:1989alvenaria'
+  issued:
+    -
+      year: 1989
+  language: Portuguese
+  publisher: Nobel
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Alvenaria burguesa: breve história da arquitetura residencial de tijolos em
+    São Paulo a partir do ciclo econômico liderado pelo café
+  title-short: Alvenaria burguesa
+  type: book
+
+- DOI: 10.1590/S0101-47141993000100009
+  ISSN: 1982-0267
+  URL: 'http://www.revistas.usp.br/anaismp/article/view/5277'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+  collection-title: Nova série
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  id: 'lemos:1993transformacoes1'
+  issue: '1'
+  issued:
+    -
+      day: 1
+      month: 1
+      year: 1993
+  language: pt
+  page: 95-106
+  source: www.revistas.usp.br
+  title: >-
+    Transformações do espaço habitacional ocorridas na arquitetura brasileira do
+    século XIX
+  type: article-journal
+  volume: '1'
+
+- ISBN: 978-85-271-0461-6
+  author:
+    - family: Lemos
+      given: Carlos Alberto Cerqueira
+  id: 'lemos:1999republica'
+  issued:
+    -
+      year: 1999
+  language: Abstract in English.
+  publisher: Editora Hucitec
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A república ensina a morar (melhor)
+  type: book
+
+- ISBN: 85-7321-086-9 978-85-7321-086-6
+  author:
+    - family: Lessing
+      given: Gotthold Ephraim
+  id: 'lessing:1995laocoonte'
+  issued:
+    -
+      year: 1995
+  language: Portuguese
+  publisher: Iluminuras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Laocoonte ou sobre as fronteiras da pintura e da poesia: com esclarecimentos
+    ocasionais sobre diferentes pontos da história da arte antiga
+  title-short: Laocoonte ou sobre as fronteiras da pintura e da poesia
+  translator:
+    - family: Seligmann-Silva
+      given: Márcio
+  type: book
+
+- URL: 'http://www.casaruibarbosa.gov.br/dados/DOC/literatura/gonzaga_duque/PA25.pdf'
+  accessed:
+    -
+      day: 15
+      month: 2
+      year: 2018
+  author:
+    - family: Lins
+      given: Vera
+  collection-title: Papéis avulsos
+  container-title: Fundação Casa de Rui Barbosa
+  id: 'lins:1996gonzaga25'
+  issued:
+    -
+      year: 1996
+  title: 'Gonzaga Duque: crítica e utopia na virada do século'
+  type: article-journal
+  volume: '25'
+
+- DOI: 10.12838/issn.20390491/n39.2017/3
+  ISSN: '20390491'
+  URL: >-
+    http://www.festivalarchitettura.it/festival/It/ArticoliMagazineDetail.asp?ID=207
+  accessed:
+    -
+      day: 4
+      month: 10
+      year: 2017
+  author:
+    - family: Lobera
+      given: Andrés Caballero
+  container-title: Festival dell'Architettura Magazine
+  id: 'lobera:2017durand'
+  issue: '39'
+  issued:
+    -
+      month: 1
+      year: 2017
+  language: ita
+  source: mEDRA
+  title: >-
+    Durand, Gaudet and Wagner. The evolution of the compositive method in
+    modernity
+  title-short: 'Durand, Gaudet and Wagner'
+  type: article-journal
+
+- ISBN: 978-2-907513-25-8 978-2-7084-0482-3
+  author:
+    - family: Lortie
+      given: André
+  id: 'lortie:1995paris'
+  issued:
+    -
+      year: 1995
+  language: French
+  publisher: 'Pavillon de l''Arsenal : Picard'
+  publisher-place: Paris
+  source: Open WorldCat
+  title: 'Paris s’exporte: modèle d’architecture ou architectures modèles'
+  title-short: Paris s’exporte
+  type: book
+
+- DOI: 10.2307/988523
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/988523'
+  accessed:
+    -
+      day: 28
+      month: 12
+      year: 2012
+  author:
+    - family: Maass
+      given: John
+  container-title: The Journal of the Society of Architectural Historians
+  container-title-short: Journal of the Society of Architectural Historians
+  id: 'maass:1969where'
+  issue: '1'
+  issued:
+    -
+      day: 1
+      month: 3
+      year: 1969
+  page: 3–8
+  source: JSTOR
+  title: Where Architectural Historians Fear to Tread
+  type: article-journal
+  volume: '28'
+
+- URL: 'http://www2.senado.leg.br/bdsf/handle/id/1100'
+  accessed:
+    -
+      day: 12
+      month: 5
+      year: 2018
+  author:
+    - dropping-particle: de
+      family: Macedo
+      given: Joaquim Manuel
+  id: 'macedo:2005passeio'
+  issued:
+    -
+      year: 2005
+  language: Portuguese
+  publisher: Senado Federal
+  publisher-place: Brasília
+  source: Open WorldCat
+  title: Um passeio pela cidade do Rio de Janeiro
+  type: book
+
+- ISBN: 978-1-4051-0257-5 978-1-4051-0258-2
+  call-number: NA2500 .A7115 2006
+  editor:
+    - family: Mallgrave
+      given: Harry Francis
+  id: 'mallgrave:2006architectural'
+  issued:
+    -
+      year: 2006
+  number-of-volumes: '2'
+  publisher: Blackwell
+  publisher-place: 'Malden, Mass.'
+  source: Library of Congress ISBN
+  title: Architectural theory
+  type: book
+
+- ISBN: 978-85-87145-58-1
+  editor:
+    - family: Malta
+      given: Marize
+    - family: Mendoça
+      given: Isabel Mayor Godinho
+  id: 'malta:2013casas'
+  issued:
+    -
+      year: 2013
+  language: Portuguese
+  publisher: Editora UFRJ
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: Casas senhoriais Rio-Lisboa e seus interiores
+  type: book
+
+- ISBN: 978-85-7478-663-6
+  author:
+    - family: Malta
+      given: Marize
+  id: 'malta:2014olhar'
+  issued:
+    -
+      day: 1
+      month: 6
+      year: 2014
+  language: pt
+  number-of-pages: '241'
+  publisher: Mauad
+  publisher-place: Rio de Janeiro
+  source: Google Books
+  title: O olhar decorativo
+  type: book
+
+- author:
+    - family: Marcantonio
+      given: Dino
+  container-title: Theology and Build Environment Colloquium
+  id: 'marcantonio:2004architecture'
+  issued:
+    -
+      year: 2004
+  title: Architecture and the Scandal of Particularity
+  type: article-journal
+
+- author:
+    - family: Markus
+      given: Thomas A.
+  id: 'markus:1993buildings'
+  issued:
+    -
+      year: 1993
+  publisher: Routledge
+  publisher-place: New York
+  title: >-
+    Buildings & Power: Freedom and Control in the Origin of Modern Building
+    Types
+  type: book
+
+- DOI: 10.4000/perspective.3879
+  ISSN: 1777-7852
+  URL: 'http://journals.openedition.org/perspective/3879'
+  accessed:
+    -
+      day: 2
+      month: 5
+      year: 2018
+  author:
+    - family: Marques
+      given: Luiz
+    - family: Conduru
+      given: Roberto
+    - family: Mattos
+      given: Claudia
+    - family: Zielinsky
+      given: Mônica
+  container-title: Perspective. Actualité en histoire de l’art
+  id: 'marques:2013existe-t-il'
+  issue: '2'
+  issued:
+    -
+      day: 31
+      month: 12
+      year: 2013
+  language: fr
+  page: 251-268
+  source: journals.openedition.org
+  title: Existe-t-il un art brésilien ?
+  type: article-journal
+
+- URL: 'https://run.unl.pt/handle/10362/19092'
+  accessed:
+    -
+      day: 22
+      month: 9
+      year: 2019
+  author:
+    - family: Martins
+      given: Pedro Alexandre Guerreiro
+  genre: Tese (Doutoramento em História Contemporânea)
+  id: 'martins:2016history'
+  issued:
+    -
+      day: 20
+      month: 9
+      year: 2016
+  language: eng
+  publisher: 'Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa'
+  publisher-place: Lisboa
+  source: run.unl.pt
+  title: 'History, Nation and Politics: the Middle Ages in Modern Portugal (1890-1947)'
+  title-short: 'History, Nation and Politics'
+  type: thesis
+
+- URL: 'http://www.realgabinete.com.br/revistaconvergencia/?p=187'
+  accessed:
+    -
+      day: 8
+      month: 6
+      year: 2014
+  author:
+    - family: Mascaro
+      given: Luciana Paes
+    - family: Bortolucci
+      given: Maria Ângela
+    - family: Lourenço
+      given: Júlia Maria
+  container-title: Convergência Lusíada
+  id: 'mascaro:2011ricardo'
+  issue: '25'
+  issued:
+    - literal: jan./jul. 2011
+  page: 102–123
+  title: 'Ricardo Severo, Raul Lino e os Movimentos Tradicionalistas'
+  type: article-journal
+
+- author:
+    - family: McLean
+      given: George F.
+  id: 'mclean:2003hermeneutics'
+  issued:
+    -
+      year: 2003
+  publisher: The Council for Research in Values and Philosophy
+  publisher-place: 'Washington, D.C.'
+  title: 'Hermeneutics, Tradition and Contemporary Change'
+  type: book
+
+- ISBN: 978-968-16-1149-1
+  author:
+    - family: Meinecke
+      given: Friedrich
+  id: 'meinecke:1943historicismo'
+  issued:
+    -
+      year: 1943
+  language: Spanish
+  publisher: Fondo de Cultura Económica
+  publisher-place: México
+  source: Open WorldCat
+  title: El historicismo y su génesis
+  type: book
+
+- URL: >-
+    https://www.academia.edu/1137915/Saverio_Muratori._Didattica_della_Composizione_architettonica_nella_Facolt%C3%A0_di_Architettura_di_Roma_1954-1973
+  accessed:
+    -
+      day: 18
+      month: 5
+      year: 2017
+  author:
+    - family: Menghini
+      given: Anna Bruna
+    - family: Palmieri
+      given: Valerio
+  id: 'menghini:saverio'
+  source: www.academia.edu
+  title: >-
+    Saverio Muratori. Didattica della Composizione architettonica nella Facoltà
+    di Architettura di Roma 1954–1973
+  title-short: Saverio Muratori
+  type: book
+
+- author:
+    - family: Middleton
+      given: Robin
+    - family: Watkin
+      given: David
+  id: 'middleton:1980architecture'
+  issued:
+    -
+      year: 1980
+  publisher: Electa
+  publisher-place: Milano
+  title: Architecture of the Nineteenth Century
+  type: book
+
+-
+  editor:
+    - family: Middleton
+      given: Robin
+  id: 'middleton:1982beauxarts'
+  issued:
+    -
+      year: 1982
+  publisher: Thames & Hudson
+  publisher-place: London
+  title: The Beaux-Arts and Nineteenth-Century French Architecture
+  type: book
+
+- ISBN: 978-2-904057-47-2
+  author:
+    - family: Monnier
+      given: Gérard
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 8-LJ1-510
+  collection-title: Histoire des arts
+  id: 'monnier:1990histoire'
+  issued:
+    -
+      year: 1990
+  language: fre
+  number-of-pages: '483'
+  publisher: Ph. Sers
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: 'Histoire critique de l''architecture en France :  1918-1950'
+  title-short: Histoire critique de l'architecture en France
+  type: book
+
+- ISBN: 978-2-13-058268-7
+  author:
+    - family: Monnier
+      given: Gérard
+  call-number: Tolbiac - Rez de Jardin - Littérature et art - Magasin - 2010-196260
+  collection-number: n° 18
+  collection-title: Que sais-je ?
+  edition: 6e éd. mise à jour
+  id: 'monnier:2010histoire'
+  issued:
+    -
+      year: 2010
+  language: fre
+  number-of-pages: '127'
+  number-of-volumes: '1'
+  publisher: Presses universitaires de France
+  publisher-place: Paris
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: Histoire de l'architecture
+  type: book
+
+- author:
+    - family: Morgan
+      given: David
+  container-title: Journal of the History of Ideas
+  id: 'morgan:1992concepts'
+  issue: '4'
+  issued:
+    -
+      year: 1992
+  page: 669-685
+  title: >-
+    Concepts of Abstraction in French Art Theory from the Enlightenment to
+    Modernism
+  type: article-journal
+  volume: '53'
+
+- DOI: 10.2307/1424280
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424280'
+  author:
+    - family: Morris
+      given: Ellen K.
+  container-title: JAE
+  id: 'morris:1978symbols'
+  issue: '2'
+  issued:
+    -
+      year: 1978
+  page: 8-13
+  source: JSTOR
+  title: >-
+    Symbols of Empire: Architectural Style and the Government Offices
+    Competition
+  title-short: Symbols of Empire
+  type: article-journal
+  volume: '32'
+
+- DOI: 10.2307/1424728
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424728'
+  accessed:
+    -
+      day: 23
+      month: 7
+      year: 2016
+  author:
+    - family: Morris
+      given: Ellen K.
+  container-title: Journal of Architectural Education
+  container-title-short: JAE
+  id: 'morris:1980teaching'
+  issue: '1'
+  issued:
+    -
+      year: 1980
+  page: 27–28
+  source: JSTOR
+  title: Teaching History Typologically
+  type: article-journal
+  volume: '34'
+
+- URL: 'http://bibliotecadigital.fgv.br/dspace/handle/10438/6770'
+  accessed:
+    -
+      day: 28
+      month: 9
+      year: 2015
+  author:
+    - dropping-particle: da
+      family: Motta
+      given: Marly Silva
+  id: 'motta:1992nacao'
+  issued:
+    -
+      year: 1992
+  publisher: Fundação Getúlio Vargas
+  publisher-place: São Paulo
+  source: bibliotecadigital.fgv.br
+  title: 'A nação faz 100 anos: a questão nacional no centenário da independência'
+  title-short: A nação faz 100 anos
+  type: book
+
+- author:
+    - family: Munro
+      given: Thomas
+  container-title: The Journal of Aesthetics and Art Criticism
+  id: 'munro:1961arts'
+  issue: '4'
+  issued:
+    -
+      year: 1961
+  page: 407–417
+  title: Do the Arts Evolve? Some Recent Conflicting Answers
+  type: article-journal
+  volume: '19'
+
+- DOI: 10.1108/02630800910985108
+  ISSN: 0263-080X
+  URL: 'http://www.emeraldinsight.com/doi/abs/10.1108/02630800910985108'
+  accessed:
+    -
+      day: 29
+      month: 1
+      year: 2017
+  author:
+    - family: Murphy
+      given: Maurice
+    - family: McGovern
+      given: Eugene
+    - family: Pavia
+      given: Sara
+  container-title: Structural Survey
+  container-title-short: Structural Survey
+  id: 'murphy:2009historic'
+  issue: '4'
+  issued:
+    -
+      day: 27
+      month: 8
+      year: 2009
+  page: 311-327
+  source: emeraldinsight.com (Atypon)
+  title: Historic building information modelling (HBIM)
+  type: article-journal
+  volume: '27'
+
+- ISSN: 0277-1322
+  URL: 'http://www.jstor.org/stable/20167543'
+  accessed:
+    -
+      day: 4
+      month: 8
+      year: 2017
+  author:
+    - family: Naginski
+      given: Erika
+  container-title: 'RES: Anthropology and Aesthetics'
+  id: 'naginski:2001riegl'
+  issue: '40'
+  issued:
+    -
+      year: 2001
+  page: 135-152
+  source: JSTOR
+  title: 'Riegl, Archaeology, and the Periodization of Culture'
+  type: article-journal
+
+- DOI: 10.2307/165535
+  ISSN: 0022-1937
+  URL: 'http://www.jstor.org/stable/165535'
+  accessed:
+    -
+      day: 9
+      month: 2
+      year: 2018
+  author:
+    - family: Needell
+      given: Jeffrey D.
+  container-title: Journal of Interamerican Studies and World Affairs
+  id: 'needell:1983rio25'
+  issue: '1'
+  issued:
+    -
+      year: 1983
+  page: 83-103
+  source: JSTOR
+  title: >-
+    Rio de Janeiro at the Turn of the Century: Modernization and the Parisian
+    Ideal
+  title-short: Rio de Janeiro at the Turn of the Century
+  type: article-journal
+  volume: '25'
+
+- ISBN: 978-0-521-33374-0
+  author:
+    - family: Needell
+      given: Jeffrey D.
+  call-number: >-
+    Tolbiac - Rez de Jardin - Philosophie, histoire, sciences de l'homme -
+    Magasin - 8-PC-3552 (62)
+  collection-number: '62'
+  collection-title: Cambridge Latin American studies
+  id: 'needell:1987tropical'
+  issued:
+    -
+      year: 1987
+  language: eng
+  number-of-pages: '351'
+  publisher: Cambridge University Press
+  publisher-place: Cambridge New York Melbourne
+  source: 'BnF Catalogue général (http://catalogue.bnf.fr)'
+  title: >-
+    A Tropical "belle époque" :  elite culture and society in
+    turn-of-the-century Rio de Janeiro
+  title-short: A Tropical "belle époque"
+  type: book
+
+- ISBN: 978-0-521-12601-4 0-521-12601-0 978-0-521-33374-0 0-521-33374-1
+  author:
+    - family: Needell
+      given: Jeffrey D
+  id: 'needell:2010tropical'
+  issued:
+    -
+      year: 2010
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: New York
+  source: Open WorldCat
+  title: >-
+    A tropical belle epoque: elite culture and society in turm-of-the-century
+    Rio de Janeiro
+  title-short: A tropical belle epoque
+  type: book
+
+- ISBN: 978-85-268-1070-9 978-85-61673-88-8
+  call-number: D13 .C638 2014
+  editor:
+    - family: Nemi
+      given: Ana Lúcia Lana
+    - family: Almeida
+      given: Néri de Barros
+    - family: Pinheiro
+      given: Rossana Alves Baptista
+  id: 'nemi:2014construcao'
+  issued:
+    -
+      year: 2014
+  number-of-pages: '284'
+  publisher: Editora Unicamp ; Editora FAP–UNIFESP
+  publisher-place: 'Campinas : São Paulo'
+  source: Library of Congress ISBN
+  title: 'A construção da narrativa histórica: séculos XIX e XX'
+  title-short: A construção da narrativa histórica
+  type: book
+
+- ISBN: 978-85-11-13099-7
+  author:
+    - dropping-particle: de
+      family: Oliveira
+      given: Lúcia Lippi
+  id: 'oliveira:1990questao'
+  issued:
+    -
+      year: 1990
+  language: Portuguese
+  publisher: Brasiliense
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: A questão nacional na Primeira República
+  type: book
+
+- ISBN: 978-85-7108-323-3 85-7108-323-1
+  editor:
+    - dropping-particle: de
+      family: Oliveira
+      given: Myriam Andrade Ribeiro
+    - family: Pereira
+      given: Sonia Gomes
+    - dropping-particle: da
+      family: Luz
+      given: Angela Ancora
+  id: 'oliveira:2008historia'
+  issued:
+    -
+      year: 2008
+  language: Portuguese
+  publisher: Editora UFRJ
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: 'História da arte no Brasil: textos de síntese'
+  title-short: História da arte no Brasil
+  type: book
+
+- URL: 'http://www.dezenovevinte.net/obras/obras_avahy_encomenda.htm'
+  accessed:
+    -
+      day: 3
+      month: 1
+      year: 2014
+  author:
+    - dropping-particle: de
+      family: Oliveira
+      given: Vladimir Machado
+  container-title: Dezenove & Vinte
+  id: 'oliveira:2012vicissitudesVII'
+  issue: '2'
+  issued:
+    - literal: abr./jun. 2012
+  title: >-
+    As vicissitudes das encomendas no século XIX: A encomenda a Pedro Américo da
+    pintura Batalha do Avahy em 1872
+  title-short: As vicissitudes das encomendas no século XIX
+  type: article-journal
+  volume: VII
+
+- ISBN: 978-2-7084-0851-7
+  editor:
+    - family: Oulebsir
+      given: Nabila
+  id: 'oulebsir:2009orientalisme'
+  issued:
+    -
+      year: 2009
+  language: French
+  publisher: CNRS
+  publisher-place: Paris
+  source: Open WorldCat
+  title: 'L’orientalisme architectural : entre imaginaires et savoirs'
+  title-short: L’orientalisme architectural
+  type: book
+
+- author:
+    - family: Panofsky
+      given: Erwin
+    - family: Northcott
+      given: Kenneth J.
+    - family: Snyder
+      given: Joel
+  container-title: Critical Inquiry
+  id: 'panofsky:1981concept'
+  issue: '1'
+  issued:
+    -
+      year: 1981
+  page: 17-33
+  title: The Concept of Artistic Volition
+  type: article-journal
+  volume: '8'
+
+- archive: Fichário 01
+  call-number: '82.09'
+  collection-number: '6'
+  collection-title: Narratologie
+  editor:
+    - family: Parisot
+      given: Fabrice
+  id: 'parisot:2005'
+  issued:
+    -
+      year: 2005
+  publisher: L’Harmattan
+  publisher-place: Paris
+  source: Université de Paris-Saint-Denis
+  title: Littérature et représentations artistiques
+  type: book
+
+- author:
+    - family: Patetta
+      given: Luciano
+  id: 'patetta:1975l''architettura'
+  issued:
+    -
+      year: 1975
+  language: it
+  number-of-pages: '412'
+  publisher: G. Mazzotta
+  publisher-place: Milano
+  source: Google Books
+  title: 'L''architettura dell''eclettismo: fonti, teorie, modelli 1750-1900'
+  title-short: L'architettura dell'eclettismo
+  type: book
+
+- DOI: 10.2307/990940
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/990940'
+  accessed:
+    -
+      day: 2
+      month: 3
+      year: 2013
+  author:
+    - family: Payne
+      given: Alina A.
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: Journal of the Society of Architectural Historians
+  id: 'payne:1994rudolf'
+  issue: '3'
+  issued:
+    -
+      day: 1
+      month: 9
+      year: 1994
+  page: 322-342
+  source: JSTOR
+  title: Rudolf Wittkower and Architectural Principles in the Age of Modernism
+  type: article-journal
+  volume: '53'
+
+- DOI: 10.1590/S0101-47141994000100012
+  ISSN: 0101-4714
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0101-47141994000100012&lng=pt&nrm=iso&tlng=pt
+  accessed:
+    -
+      day: 12
+      month: 3
+      year: 2017
+  author:
+    - family: Pereira
+      given: Margareth da Silva
+  container-title: 'Anais do Museu Paulista: História e Cultura Material'
+  id: 'pereira:1994romantismo'
+  issue: '1'
+  issued:
+    -
+      year: 1994
+  language: en
+  page: 169-195
+  source: CrossRef
+  title: 'Romantismo e objetividade: notas sobre um panorama do Rio de Janeiro'
+  title-short: Romantismo e objetividade
+  type: article-journal
+  volume: '2'
+
+- ISBN: 85-87145-01-0 978-85-87145-01-7
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  id: 'pereira:1998reforma'
+  issued:
+    -
+      year: 1998
+  language: Portuguese
+  publisher: 'Universidade Federal do Rio de Janeiro : Escola de Belas Artes'
+  publisher-place: Rio de Janeiro
+  source: Open WorldCat
+  title: A reforma urbana de Pereira Passos e a construção da identidade carioca
+  type: book
+
+- ISSN: 0101-4064
+  URL: 'http://www.redalyc.org/html/1346/134618596009/'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  container-title: Estudos Ibero-Americanos
+  id: 'pereira:2005historiografiaXXXI'
+  issue: '2'
+  issued:
+    -
+      month: 12
+      year: 2005
+  page: 143–154
+  title: >-
+    A historiografia da arquitetura brasileira no século XIX e os conceitos de
+    estilo e tipologia
+  title-short: A historiografia da arquitetura brasileira no século XIX
+  type: article-journal
+  volume: XXXI
+
+- ISBN: 85-7654-019-3
+  URL: 'http://www.cbha.art.br/coloquios/2004/anais/textos/108_sonia_gomes.pdf'
+  accessed:
+    -
+      day: 3
+      month: 1
+      year: 2014
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  event: XXIV Colóquio do Comitê Brasileiro de História da Arte
+  id: 'pereira:2005repensando'
+  issued:
+    -
+      year: 2005
+  page: 1–9
+  publisher-place: Belo Horizonte
+  title: >-
+    Repensando Alguns Conceitos do Ensino Acadêmico: Desenho, Composição,
+    Tipologia e Tradição Clássica
+  type: paper-conference
+
+- author:
+    - family: Pereira
+      given: Sonia Gomes
+    - family: Pimentel
+      given: Lucia Gouvêa
+    - family: Paula Pereira
+      given: Patricia
+      non-dropping-particle: de
+  id: 'pereira:2008arte3'
+  issued:
+    -
+      year: 2008
+  publisher: C/Arte
+  publisher-place: São Paulo
+  source: Google Scholar
+  title: Arte brasileira no século XIX
+  type: book
+  volume: '3'
+
+- URL: 'http://www.seer.ufu.br/index.php/artcultura/article/viewFile/11308/6747'
+  accessed:
+    -
+      day: 3
+      month: 1
+      year: 2014
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  container-title: ArtCultura
+  id: 'pereira:2010sincronia12'
+  issue: '20'
+  issued:
+    - literal: jan./jun. 2010
+  page: 85–94
+  title: >-
+    A sincronia entre valores tradicionais e modernos na Academia Imperial de
+    Belas Artes
+  type: article-journal
+  volume: '12'
+
+- call-number: '981'
+  editor:
+    - family: Pereira
+      given: Margareth da Silva
+  id: 'pereira:20111908'
+  issued:
+    -
+      year: 2011
+  language: por
+  publisher: Casa 12
+  publisher-place: Rio de Janeiro
+  source: Primo
+  title: 1908 um Brasil em exposição
+  title-short: '1908'
+  type: book
+
+- DOI: 10.1590/S0020-38742012000100007
+  ISSN: 0020-3874
+  URL: 'http://dx.doi.org/10.11606/issn.2316-901X.v0i54p87-106'
+  accessed:
+    -
+      day: 13
+      month: 3
+      year: 2014
+  author:
+    - family: Pereira
+      given: Sonia Gomes
+  container-title: Revista do Instituto de Estudos Brasileiros
+  id: 'pereira:2012revisao'
+  issue: '54'
+  issued:
+    -
+      month: 3
+      year: 2012
+  page: 87–106
+  source: SciELO
+  title: Revisão historiográfica da arte brasileira do século XIX
+  type: article-journal
+
+- DOI: 10.4000/perspective.3895
+  ISSN: 1777-7852
+  URL: 'http://journals.openedition.org/perspective/3895'
+  accessed:
+    -
+      day: 2
+      month: 5
+      year: 2018
+  author:
+    - family: "Silva\_Pereira"
+      given: Margareth
+      non-dropping-particle: da
+  container-title: Perspective. Actualité en histoire de l’art
+  id: 'pereira:2013architecture'
+  issue: '2'
+  issued:
+    -
+      day: 31
+      month: 12
+      year: 2013
+  language: fr
+  page: 343-364
+  source: journals.openedition.org
+  title: >-
+    L’architecture et l’urbanisme au Brésil, une réflexion sur trente ans
+    d’histoire
+  type: article-journal
+
+- URL: 'http://www.dezenovevinte.net/ensino_artistico/ensino_enba_rp.htm'
+  accessed:
+    -
+      day: 6
+      month: 11
+      year: 2014
+  author:
+    - family: Pereira
+      given: Ricardo A.B.
+  call-number: 7.035 (81)
+  container-title: Dezenove & Vinte
+  id: 'pereira:2013enbaVIII'
+  issue: '1'
+  issued:
+    -
+      month: 1
+      year: 2013
+  title: >-
+    A ENBA da primeira metade do século XX vista pela obra de alguns dos seus
+    professores - uma gradual transição para o moderno
+  title-short: A ENBA da primeira metade do século XX
+  type: article-journal
+  volume: VIII
+
+- archive: Fichário 01
+  author:
+    - family: Pérez-Gómez
+      given: Alberto
+    - family: Bronfman
+      given: Chaire Saidye Rosner
+    - family: Bédard
+      given: Jean-François
+  call-number: '72.01'
+  container-title: Architecture-Québec
+  id: 'perez-gomez:1990'
+  issued:
+    -
+      year: 1990
+  page: 42–45
+  title: L’architecture et la culture technologique
+  type: article-journal
+  volume: '55'
+
+- author:
+    - family: Pevsner
+      given: Nikolaus
+  id: 'pevsner:1972architectural'
+  issued:
+    -
+      year: 1972
+  publisher: Clarendon
+  publisher-place: Oxford
+  title: Some Architectural Writers of he Nineteenth Century
+  type: book
+
+- ISBN: 85-359-0587-1 978-85-359-0587-8
+  author:
+    - family: Pevsner
+      given: Nikolaus
+  id: 'pevsner:2005academias'
+  issued:
+    -
+      year: 2005
+  language: Portuguese
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Academias de arte passado e presente
+  translator:
+    - family: Pereira
+      given: Vera Maria
+  type: book
+
+- author:
+    - family: Piacentini
+      given: Marcello
+  id: 'piacentini:1996architettura'
+  issued:
+    -
+      year: 1996
+  publisher: Marsilio
+  publisher-place: Venezia
+  title: Architettura moderna
+  type: book
+
+- ISBN: 978-2-87009-711-3
+  author:
+    - family: Pigafetta
+      given: Giorgio
+    - family: Abbondandolo
+      given: Ilaria
+  id: 'pigafetta:1999architecture'
+  issued:
+    -
+      year: 1999
+  language: 'Translation of: Le teorie tradizionaliste nell''architettura contemporanea.'
+  publisher: Mardaga
+  publisher-place: Sprimont
+  source: Open WorldCat
+  title: 'Architecture traditionaliste: les théories et les œuvres'
+  title-short: Architecture traditionaliste
+  type: book
+
+- ISBN: 978-85-314-1304-9 85-314-1304-4
+  author:
+    - family: Pinheiro
+      given: Maria Lúcia Bressan
+  call-number: 72.035.9+72.025(817.4)
+  id: 'pinheiro:2012neocolonial'
+  issued:
+    -
+      year: 2012
+  language: Portuguese
+  publisher: EdUSP
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: >-
+    Neocolonial, modernismo e preservação do patrimônio no debate cultural dos
+    anos 1920 no Brasil
+  title-short: Neocolonial
+  type: book
+
+- ISBN: >-
+    0-300-02862-8 978-0-300-02862-1 978-0-300-03240-6 0-300-03240-4
+    0-300-03223-4 978-0-300-03223-9
+  author:
+    - family: Podro
+      given: Michael
+  id: 'podro:1982a'
+  issued:
+    -
+      year: 1982
+  language: English
+  publisher: Yale University Press
+  publisher-place: New Haven
+  source: Open WorldCat
+  title: The critical historians of art
+  type: book
+
+- author:
+    - family: Polanyi
+      given: Michael
+  id: 'polanyi:1975meaning'
+  issued:
+    -
+      year: 1975
+  publisher: University of Chicago Press
+  publisher-place: Chicago
+  title: Meaning
+  type: book
+
+- author:
+    - family: Porphyrios
+      given: Demetri
+  id: 'porphyrios:2006classical'
+  issued:
+    -
+      year: 2006
+  publisher: Andreas Papadakis
+  publisher-place: London
+  title: Classical Architecture
+  type: book
+
+- ISBN: 978-0-7727-2019-1
+  author:
+    - family: Portebois
+      given: Yannick
+    - family: Terpstra
+      given: Nicholas
+    - family: Studies
+      given: Victoria University (Toronto
+      suffix: Ont ) Centre for Reformation and Renaissance
+  id: 'portebois:2003renaissance'
+  issued:
+    -
+      year: 2003
+  language: en
+  number-of-pages: '320'
+  publisher: Centre for Reformation and Renaissance Studies
+  source: Google Books
+  title: The Renaissance in the Nineteenth Century
+  type: book
+
+- ISBN: 978-84-8489-329-5 84-8489-329-4
+  author:
+    - family: Priego
+      given: Natalia
+    - family: Lozano
+      given: Sonia
+    - literal: Asociación de Historiadores Latinoamericanistas Europeos
+  id: 'priego:2007paradigmas'
+  issued:
+    -
+      year: 2007
+  language: 'Textos pricipalment en portuguès, alguns en castellà i un en francès.'
+  publisher: Iberoamericana ; Vervuert
+  publisher-place: Madrid; Frankfurt am Main
+  source: Open WorldCat
+  title: >-
+    Paradigmas, culturas y saberes: la transmisión del conocimiento científico a
+    Latinoamérica
+  title-short: 'Paradigmas, culturas y saberes'
+  type: book
+
+- author:
+    - family: Puppi
+      given: Marcelo
+  id: 'puppi:1998historia'
+  issued:
+    -
+      year: 1998
+  number-of-pages: '190'
+  publisher: 'Pontes : Unicamp'
+  publisher-place: Campinas
+  title: >-
+    Por uma história não moderna da arquitetura brasileira: questões de
+    historiografia
+  type: book
+
+- DOI: 10.2307/1425411
+  ISSN: 1046-4883
+  URL: 'http://www.jstor.org/stable/1425411'
+  accessed:
+    -
+      day: 11
+      month: 7
+      year: 2013
+  archive: Fichário 02
+  author:
+    - family: Pyla
+      given: Panayiota
+  call-number: '72.03:378'
+  container-title: Journal of Architectural Education (1984-)
+  container-title-short: Journal of Architectural Education (1984-)
+  id: 'pyla:1999historicizing'
+  issue: '4'
+  issued:
+    -
+      month: 5
+      year: 1999
+  page: 216–225
+  source: JSTOR
+  title: 'Historicizing Pedagogy: A Critique of Kostof''s "A History of Architecture"'
+  title-short: Historicizing Pedagogy
+  type: article-journal
+  volume: '52'
+
+- author:
+    - family: Reis Filho
+      given: Nestor Goulart
+  id: 'reisfilho:1997racionalismo'
+  issued:
+    -
+      year: 1997
+  publisher: Fundação Bienal de São Paulo
+  publisher-place: São Paulo
+  title: Racionalismo e proto-modernismo na obra de Victor Dubugras
+  type: book
+
+- author:
+    - family: Riegl
+      given: Alois
+  container-title: Oppositions
+  id: 'riegl:1982modern'
+  issued:
+    -
+      year: 1982
+  title: 'The Modern Cult of Monuments: Its Essence and its Origin'
+  type: article-journal
+  volume: '25'
+
+- author:
+    - family: Riegl
+      given: Alois
+  id: 'riegl:1992questions'
+  issued:
+    -
+      year: 1992
+  publisher: Hazan
+  publisher-place: Paris
+  title: "Questions de style\_: fondements d’une histoire de l’ornementation"
+  type: book
+
+- author:
+    - family: Rocha-Peixoto
+      given: Gustavo
+  call-number: 720.907 R582e
+  collection-title: Coleção Proarq
+  id: 'rochapeixoto:2013estrategia'
+  issued:
+    -
+      year: 2013
+  language: por
+  number-of-pages: '170'
+  publisher: Rio Books
+  publisher-place: Rio de Janeiro
+  source: www.buscaintegrada.usp.br
+  title: >-
+    A estratégia da aranha ou da possibilidade de um ensino metahistórico em
+    arquitetura
+  title-short: A estratégia da aranha
+  type: book
+
+- ISBN: 85-04-00214-4 978-85-04-00214-0
+  author:
+    - family: Rodrigues
+      given: José Honório
+  call-number: 94(81)
+  id: 'rodrigues:1979'
+  issued:
+    -
+      year: 1979
+  language: Portuguese
+  publisher: Companhia Editora Nacional
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: História da História do Brasil
+  type: book
+  volume: '1: Historiografia Colonial'
+
+- ISBN: 0-521-25666-6 978-0-521-25666-7
+  author:
+    - family: Rose
+      given: Margaret A
+  id: 'rose:1984marx''s'
+  issued:
+    -
+      year: 1984
+  language: English
+  publisher: Cambridge University Press
+  publisher-place: 'Cambridge [Cambridgeshire]; New York'
+  source: Open WorldCat
+  title: 'Marx''s lost aesthetic: Karl Marx and the visual arts'
+  title-short: Marx's lost aesthetic
+  type: book
+
+- archive: UnB BCE
+  author:
+    - family: Saia
+      given: Luiz
+  call-number: 728(816.11)
+  id: 'saia:1972morada'
+  issued:
+    -
+      year: 1972
+  language: Portuguese
+  publisher: Perspectiva
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: Morada paulista
+  type: book
+
+- ISBN: 978-85-7656-197-2
+  editor:
+    - family: Salgado
+      given: Ivone
+    - family: Bertoni
+      given: Angelo
+  id: 'salgado:2010construcao'
+  issued:
+    -
+      year: 2010
+  number-of-pages: '212'
+  publisher: Rima
+  publisher-place: São Carlos
+  source: Library of Congress ISBN
+  title: >-
+    Da construção do território ao planejamento das cidades: competências
+    técnicas e saberes profissionais na Europa e nas Américas (1850-1930)
+  title-short: Da construção do território ao planejamento das cidades
+  type: book
+
+- ISBN: 978-85-314-0614-0
+  editor:
+    - family: Salgueiro
+      given: Heliana Angotti
+  id: 'salgueiro:2001cidades'
+  issued:
+    -
+      year: 2001
+  publisher: Edusp
+  publisher-place: São Paulo
+  title: >-
+    Cidades capitais do século XIX: racionalidade, cosmopolitismo e
+    transferência de modelos
+  title-short: Cidades capitais do século XIX
+  type: book
+
+- DOI: 10.11606/issn.2316-9036.v0i50p303-307
+  ISSN: 2316-9036
+  URL: 'https://www.revistas.usp.br/revusp/article/view/35699'
+  accessed:
+    -
+      day: 7
+      month: 5
+      year: 2018
+  author:
+    - family: Saliba
+      given: Elias Thomé
+  container-title: Revista USP
+  id: 'saliba:2001tempos'
+  issue: '50'
+  issued:
+    -
+      day: 30
+      month: 8
+      year: 2001
+  language: pt
+  page: 303-307
+  source: www.revistas.usp.br
+  title: Nos tempos de Villa Kyrial
+  type: article-journal
+
+- ISBN: 978-9937-623-13-1 978-0-9893469-2-4
+  author:
+    - family: Salingaros
+      given: Nikos Angelos
+    - family: Alexander
+      given: Christopher
+  id: 'salingaros:2014antiarchitecture'
+  issued:
+    -
+      year: 2014
+  language: English
+  source: Open WorldCat
+  title: 'Anti-architecture and deconstruction: the triumph of nihilism'
+  title-short: Anti-architecture and deconstruction
+  type: book
+
+- DOI: 10.4013/arq.20082.06
+  ISSN: '18085741'
+  URL: 'http://revistas.unisinos.br/index.php/arquitetura/article/view/5471/2707'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Salvatori
+      given: Elena
+  container-title: Arquitetura Revista
+  id: 'salvatori:2008arquitetura4'
+  issue: '2'
+  issued:
+    -
+      day: 31
+      month: 12
+      year: 2008
+  page: 52-77
+  source: Crossref
+  title: 'Arquitetura no Brasil: ensino e profissão'
+  title-short: Arquitetura no Brasil
+  type: article-journal
+  volume: '4'
+
+- DOI: 10.2307/3051319
+  ISSN: 0004-3079
+  URL: 'http://www.jstor.org/stable/3051319'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Sankovitch
+      given: Anne-Marie
+  container-title: The Art Bulletin
+  id: 'sankovitch:1998structureornament'
+  issue: '4'
+  issued:
+    -
+      year: 1998
+  page: 687-717
+  source: JSTOR
+  title: Structure/Ornament and the Modern Figuration of Architecture
+  type: article-journal
+  volume: '80'
+
+- author:
+    - dropping-particle: dos
+      family: Santos
+      given: Sydney Martins Gomes
+  call-number: '927.3'
+  id: 'santos:1983legado'
+  issued:
+    -
+      year: 1983
+  language: Portuguese
+  publisher: Editora UFRJ
+  publisher-place: Rio de Janeiro
+  source: BnF Tolbiac
+  title: 'O Legado de Vicente Licínio Cardoso: as leis básicas da filosofia da arte'
+  title-short: O Legado de Vicente Licínio Cardoso
+  type: book
+
+- author:
+    - family: Schapiro
+      given: Meyer
+    - family: Janson
+      given: H. W.
+    - family: Gombrich
+      given: E. H.
+  container-title: New Literary History
+  id: 'schapiro:1970criteria1'
+  issue: '2, A Symposium on Periods'
+  issued:
+    -
+      year: 1970
+  page: 113-125
+  title: Criteria of Periodization in the History of European Art
+  type: article-journal
+  volume: '1'
+
+- ISBN: 85-85095-87-3 978-85-85095-87-1
+  author:
+    - family: Schorske
+      given: Carl E
+  id: 'schorske:1988viena'
+  issued:
+    -
+      year: 1988
+  language: Portuguese
+  publisher: Companhia das Letras
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Viena fin de siècle: política e cultura'
+  title-short: Viena fin de siècle
+  type: book
+
+- URL: 'http://issuu.com/cornellaap/docs/cja003-opt'
+  archive: Fichário 02
+  author:
+    - family: Schumacher
+      given: Thomas L.
+  call-number: 72.4.012.036
+  container-title: The Cornell Architectural Journal
+  id: 'schumacher:1986skull'
+  issued:
+    -
+      season: 3
+      year: 1986
+  page: 4–11
+  title: 'The Skull and the Mask: The Modern Movement and the Dilemma of the Facade'
+  title-short: The Skull and the Mask
+  type: article-journal
+  volume: '3'
+
+- author:
+    - family: Scruton
+      given: Roger
+  id: 'scruton:1979aesthetics'
+  issued:
+    -
+      year: 1979
+  publisher: Methuen
+  publisher-place: London
+  title: The Aesthetics of Architecture
+  type: book
+
+- ISBN: 85-314-0445-2 978-85-314-0445-0
+  author:
+    - family: Segawa
+      given: Hugo
+  id: 'segawa:2002arquiteturas'
+  issued:
+    -
+      year: 2002
+  language: Portuguese
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Open WorldCat
+  title: 'Arquiteturas no Brasil: 1900 - 1990'
+  title-short: Arquiteturas no Brasil
+  type: book
+
+- DOI: 10.2307/1424722
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424722'
+  author:
+    - family: Seligmann
+      given: Claus
+  container-title: Journal of Architectural Education
+  id: 'seligmann:1980architectural'
+  issue: '1'
+  issued:
+    -
+      year: 1980
+  page: 14–19
+  source: JSTOR
+  title: 'Architectural History: Discipline or Routine?'
+  title-short: Architectural History
+  type: article-journal
+  volume: '34'
+
+- ISBN: 3-8228-6124-3 978-3-8228-6124-0
+  author:
+    - family: Sembach
+      given: Klaus-Jürgen
+  id: 'sembach:2000arte'
+  issued:
+    -
+      year: 2000
+  language: Portuguese
+  publisher: Taschen
+  publisher-place: Köln
+  source: Open WorldCat
+  title: 'Arte Nova: a utopia da reconciliação'
+  title-short: Arte Nova
+  translator:
+    - family: Milheiro
+      given: Luís
+  type: book
+
+- author:
+    - family: Severo
+      given: Ricardo
+  call-number: '72'
+  collection-title: >-
+    Separata das conferencias 1914–15 da Sociedade de Cultura Artistica de S.
+    Paulo
+  id: 'severo:1916arte'
+  issued:
+    -
+      year: 1916
+  number-of-pages: '46'
+  publisher: Tip.Levi
+  publisher-place: São Paulo
+  source: webopac.sib.uc.pt Library Catalog
+  title: 'A arte tradicional no Brasil: a casa e o templo'
+  title-short: A arte tradicional no Brasil
+  type: book
+
+- URL: 'http://www.revlet.com.br/artigos/188.pdf'
+  accessed:
+    -
+      day: 4
+      month: 6
+      year: 2014
+  author:
+    - dropping-particle: da
+      family: Silva
+      given: Marcela Verônica
+  call-number: 869.0(81) M775
+  container-title: Revista Virtual de Letras
+  container-title-short: RevLet
+  id: 'silva:2013modernidade'
+  issue: '1'
+  issued:
+    - literal: jan.–jul. 2013
+  page: 293–308
+  title: >-
+    A modernidade em Monteiro Lobato: Cidades Mortas e o retrato de um Brasil
+    decadente no início do século XX
+  title-short: A modernidade em Monteiro Lobato
+  type: article-journal
+  volume: '5'
+
+- DOI: 10.1590/S0103-20702005000100015
+  ISSN: 1809-4554
+  URL: 'http://www.revistas.usp.br/ts/article/view/12466'
+  accessed:
+    -
+      day: 14
+      month: 5
+      year: 2018
+  author:
+    - family: Simioni
+      given: Ana Paula Cavalcanti
+  container-title: Tempo Social
+  id: 'simioni:2005viagem17'
+  issue: '1'
+  issued:
+    -
+      day: 1
+      month: 6
+      year: 2005
+  language: pt
+  page: 343-366
+  source: www.revistas.usp.br
+  title: A viagem a Paris de artistas brasileiros no final do século XIX
+  type: article-journal
+  volume: '17'
+
+- ISBN: 978-85-237-0165-9
+  author:
+    - dropping-particle: de
+      family: Sousa
+      given: Alberto José
+  id: 'sousa:2000classicismo'
+  issued:
+    -
+      year: 2000
+  language: Portuguese
+  publisher: 'Ed. Univ. UFPB : Hominem Evehere'
+  publisher-place: 'João Pessoa : Salvador'
+  source: Open WorldCat
+  title: O classicismo arquitetônico no Recife imperial
+  type: book
+
+-
+  editor:
+    - family: Stern
+      given: Fritz
+  id: 'stern:1972varieties'
+  issued:
+    -
+      year: 1972
+  publisher: Vintage
+  publisher-place: New York
+  title: The Varieties of History
+  type: book
+
+- author:
+    - family: Summerson
+      given: John
+  id: 'summerson:1963heavenly'
+  issued:
+    -
+      year: 1963
+  publisher: Norton
+  publisher-place: New York
+  title: Heavenly Mansions
+  type: book
+
+- ISBN: 978-2-7084-0585-1
+  author:
+    - family: Talenti
+      given: Simona
+  id: 'talenti:2000histoire'
+  issued:
+    -
+      year: 2000
+  language: fr
+  number-of-pages: '300'
+  publisher: Picard
+  publisher-place: Paris
+  source: Google Books
+  title: >-
+    L’histoire de l'architecture en France: émergence d'une discipline
+    (1863–1914)
+  title-short: L'histoire de l'architecture en France
+  type: book
+
+- ISBN: 978-989-8217-31-8
+  author:
+    - family: Tavares
+      given: Domingos
+  call-number: MLCM 2017/43505 (N)
+  collection-title: Equações de arquitectura
+  edition: '1'
+  id: 'tavares:2015casas'
+  issued:
+    -
+      year: 2015
+  number-of-pages: '202'
+  publisher: Dafne
+  publisher-place: Porto
+  source: Library of Congress ISBN
+  title: 'Casas de Brasileiro: erudito e popular na arquitectura dos torna-viagem'
+  title-short: Casas de Brasileiro
+  type: book
+
+- author:
+    - family: Taylor
+      given: Katherine Fischer
+  container-title: The Art Bulletin
+  id: 'taylor:2001architectures'
+  issue: '2'
+  issued:
+    -
+      year: 2001
+  page: 342-346
+  title: 'Architecture''s Place in Art History: Art or Adjunct?'
+  type: article-journal
+  volume: '83'
+
+- URL: 'http://linguagensedialogos.com.br/2010.1/textos/07art-Thiengo.pdf'
+  accessed:
+    -
+      day: 4
+      month: 6
+      year: 2014
+  author:
+    - family: Thiengo
+      given: Mariana
+  call-number: 869.0(81) M775
+  container-title: Linguagens e Diálogos
+  id: 'thiengo:2010questao'
+  issue: '1'
+  issued:
+    -
+      year: 2010
+  page: 104–115
+  title: >-
+    A questão da tradição em Monteiro Lobato: breve comentário à margem de
+    Urupês
+  title-short: A questão da tradição em Monteiro Lobato
+  type: article-journal
+  volume: '1'
+
+- DOI: 10.2307/1425241
+  ISSN: '10464883'
+  URL: 'https://www.jstor.org/stable/1425241'
+  accessed:
+    -
+      day: 17
+      month: 12
+      year: 2012
+  author:
+    - family: Tigerman
+      given: Stanley
+  container-title: Journal of Architectural Education
+  id: 'tigerman:1992has46'
+  issue: '1'
+  issued:
+    -
+      month: 9
+      year: 1992
+  page: '48'
+  source: CrossRef
+  title: >-
+    Has Theory Displaced History as a Generator of Ideas for Use in the
+    Architectural Studio, or (More Importantly), Why Do Studio Critics
+    Continuously Displace Service Course Specialists?
+  title-short: Has Theory Displaced History?
+  type: article-journal
+  volume: '46'
+
+- DOI: 10.1590/S0104-87752011000200008
+  ISSN: 0104-8775
+  URL: >-
+    http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-87752011000200008&lng=en&nrm=iso
+  accessed:
+    -
+      day: 10
+      month: 5
+      year: 2013
+  author:
+    - family: Tognon
+      given: Marcos
+  container-title: Varia Historia
+  id: 'tognon:2011desenho27'
+  issue: '46'
+  issued:
+    -
+      month: 12
+      year: 2011
+  page: 547-556
+  source: SciELO
+  title: O desenho e a história da técnica na arquitetura do Brasil colonial
+  title-short: O desenho e a história da técnica
+  type: article-journal
+  volume: '27'
+
+- ISBN: 978-972-759-090-2 978-972-759-091-9
+  author:
+    - family: Torgal
+      given: Luís Reis
+    - family: Mendes
+      given: José Maria Amado
+    - family: Catroga
+      given: Fernando
+  call-number: DP646 .T67 1998
+  edition: 2a. ed.
+  id: 'torgal:1998historia'
+  issued:
+    -
+      year: 1998
+  number-of-pages: '2'
+  publisher: Temas & Debates
+  publisher-place: Lisbon
+  source: Library of Congress ISBN
+  title: 'História da história em Portugal, séculos XIX-XX'
+  title-short: História da história em Portugal
+  type: book
+
+- DOI: 10.2307/991875
+  ISSN: 0037-9808
+  URL: 'http://www.jstor.org/stable/991875'
+  accessed:
+    -
+      day: 27
+      month: 8
+      year: 2017
+  author:
+    - family: Torre
+      given: Susana
+  container-title: Journal of the Society of Architectural Historians
+  id: 'torre:2002teaching'
+  issue: '4'
+  issued:
+    -
+      year: 2002
+  page: 549-558
+  source: JSTOR
+  title: >-
+    Teaching Architectural History in Latin America: The Elusive Unifying
+    Architectural Discourse
+  title-short: Teaching Architectural History in Latin America
+  type: article-journal
+  volume: '61'
+
+- DOI: 10.2307/1424316
+  ISSN: 0149-2993
+  URL: 'http://www.jstor.org/stable/1424316'
+  accessed:
+    -
+      day: 15
+      month: 4
+      year: 2017
+  author:
+    - family: Tzonis
+      given: Alexander
+    - family: Lefaivre
+      given: Liane
+  container-title: Journal of Architectural Education
+  id: 'tzonis:1975mechanical'
+  issue: '1'
+  issued:
+    -
+      year: 1975
+  page: 4-7
+  source: JSTOR
+  title: 'The Mechanical Body versus the Divine Body: The Rise of Modern Design Theory'
+  title-short: The Mechanical Body versus the Divine Body
+  type: article-journal
+  volume: '29'
+
+- author:
+    - family: Tzonis
+      given: Alexander
+    - family: Lefaivre
+      given: Liane
+  id: 'tzonis:1986classical'
+  issued:
+    -
+      year: 1986
+  publisher: MIT Press
+  publisher-place: 'Cambridge, Mass.'
+  title: 'Classical Architecture: The Poetics of Order'
+  title-short: Classical Architecture
+  type: book
+
+- ISBN: 978-1-4742-9855-1
+  author:
+    - family: Warren
+      given: Richard
+  call-number: N6465.A7 W38 2018
+  collection-title: Imagines - Classical receptions in the visual and performing arts
+  id: 'warren:2018art'
+  issued:
+    -
+      year: 2018
+  number-of-pages: '217'
+  publisher: Bloomsbury Academic
+  publisher-place: London ; New York
+  source: Library of Congress ISBN
+  title: Art nouveau and the classical tradition
+  type: book
+
+- ISBN: 0-19-817350-4 978-0-19-817350-2
+  author:
+    - family: Watkin
+      given: David
+  id: 'watkin:1977morality'
+  issued:
+    -
+      year: 1977
+  language: English
+  publisher: Clarendon Press
+  publisher-place: 'Oxford [England]'
+  source: Open WorldCat
+  title: >-
+    Morality and architecture: the development of a theme in architectural
+    history and theory from the Gothic revival to the modern movement
+  title-short: Morality and architecture
+  type: book
+
+- ISBN: >-
+    0-85139-545-7 978-0-85139-545-6 0-89860-040-5 978-0-89860-040-7
+    0-226-87486-9 978-0-226-87486-9
+  author:
+    - family: Watkin
+      given: David
+  id: 'watkin:1980rise'
+  issued:
+    -
+      year: 1980
+  language: English
+  publisher: 'Architectural Press : Eastview Editions'
+  publisher-place: 'London; Westfield, N.J.'
+  source: Open WorldCat
+  title: The rise of architectural history
+  type: book
+
+- author:
+    - family: Westfall
+      given: Carroll William
+    - family: Pelt
+      given: Robert Jan
+      non-dropping-particle: van
+  id: 'westfall:1991architectural'
+  issued:
+    -
+      year: 1991
+  publisher: Yale University Press
+  publisher-place: New Haven
+  title: Architectural Principles in the Age of HIstoricism
+  type: book
+
+- author:
+    - family: Wigley
+      given: Mark
+  container-title: October
+  id: 'wigley:2000architectural'
+  issued:
+    -
+      year: 2000
+  page: 31-61
+  title: The Architectural Cult of Synchronization
+  type: article-journal
+  volume: '94'
+
+- author:
+    - family: Wittkower
+      given: Rudolf
+  id: 'wittkower:1962architectural'
+  issued:
+    -
+      year: 1962
+  number-of-pages: '173'
+  publisher: Alec Tiranti
+  publisher-place: London
+  title: Architectural Principles in the Age of Humanism
+  type: book
+
+- author:
+    - family: Zupnick
+      given: Irving L.
+  container-title: The Journal of Aesthetics and Art Criticism
+  id: 'zupnick:1961iconology'
+  issue: '3'
+  issued:
+    -
+      year: 1961
+  page: 263-273
+  title: The Iconology of Style (Or Wölfflin Reconsidered)
+  type: article-journal
+  volume: '19'
+...
