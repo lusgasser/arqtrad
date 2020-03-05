@@ -28,3 +28,12 @@ na etapa do *longo século XIX* caracterizada
 pelo historiador britânico Eric Hobsbawm (1917--2012) como
 *a era do imperialismo* (1875--1914).
 
+* * *
+
+ Classicismo, tradicionalismo, ecletismo (c) 2020 by Pedro P. Palazzo
+ 
+ Classicismo, tradicionalismo, ecletismo is licensed under a
+ Creative Commons Attribution-ShareAlike 3.0 Unported License.
+ 
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
