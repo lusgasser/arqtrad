@@ -1,0 +1,15 @@
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+fail-if-warnings        : True
+file-scope              : True
+default-image-extension : '.jpg'
+resource-path:
+- .
+- fig
+metadata:
+  xnos-cleveref         : True
+  xnos-capitalise       : True
+  fignos-caption-name   : True
+  xnos-caption-separator: period
+  xnos-number-by-section: False
