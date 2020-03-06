@@ -24,10 +24,10 @@ Substituir as lacunas com os links dos seus perfis nas respectivas plataformas:
 
 Assinalar o plano de trabalho no qual tem mais interesse marcando um 'x' entre os colchetes. Esta resposta tem caráter indicativo e não vinculante.
 
-- [ ] Módulos e dimensões do parcelamento urbano no século XIX
+- [ ] Módulos e dimensões do parcelamento urbano no Brasil do século XIX
 
 - [ ] Distribuições da morada eclética em Goiás
 
-- [ ] Antigas casas rurais no Distrito Federal e entorno
+- [ ] Arqueologia das antigas casas rurais no Distrito Federal e entorno
 
 - [ ] Casa de cultura de Luziânia
