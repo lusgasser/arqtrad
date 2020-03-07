@@ -18,16 +18,12 @@ Substituir as lacunas com os links dos seus perfis nas respectivas plataformas:
 
 - http://lattes.cnpq.br/________________ # :warning: trata-se do link indicado no campo "Endereço para acessar este CV", logo abaixo do seu nome, na *visualização* do curriculum.
 - http://orcid.org/____-____-____-____
-- https://www.scopus.com/authid/detail.uri?authorId=___________
 
 ### Plano de trabalho
 
 Assinalar o plano de trabalho no qual tem mais interesse marcando um 'x' entre os colchetes. Esta resposta tem caráter indicativo e não vinculante.
 
 - [ ] Módulos e dimensões do parcelamento urbano no Brasil do século XIX
-
 - [ ] Distribuições da morada eclética em Goiás
-
 - [ ] Arqueologia das antigas casas rurais no Distrito Federal e entorno
-
 - [ ] Casa de cultura de Luziânia
