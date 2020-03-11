@@ -46,13 +46,18 @@ plugins:
 exclude:
   - docs/reveal.js/
   - README.md
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+  - lib/
+  - spec/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - Makefile
+  - .bundle/
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - node_modules/
+  - .vendor/bundle/
+  - .vendor/cache/
+  - .vendor/gems/
+  - .vendor/ruby/
