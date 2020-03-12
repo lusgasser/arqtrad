@@ -12,28 +12,22 @@ github_username:  p3palazzo
 
 # Content {{{1
 collections: # {{{2
+  agent:
+    output   : true
+    permalink: /:collection/:name
+  agentclass:
+    output   : true
+    permalink: /:collection/:name
   event:
     output   : true
     permalink: /:collection/:name
-  intangible:
+  location:
     output   : true
     permalink: /:collection/:name
-  org:
+  physicalobject:
     output   : true
     permalink: /:collection/:name
-  person:
-    output   : true
-    permalink: /:collection/:name
-  place:
-    output   : true
-    permalink: /:collection/:name
-  product:
-    output   : true
-    permalink: /:collection/:name
-  thing:
-    output   : true
-    permalink: /:collection/:name
-  work:
+  resource:
     output   : true
     permalink: /:collection/:name
 
@@ -41,51 +35,50 @@ defaults: # {{{2
   -
     scope:
       path      : ""
+      type      : "agent"
+    values:
+      layout    : "resource"
+      itemtype  : "http://schema.org/Person"
+      class     : "Agent"
+  -
+    scope:
+      path      : ""
+      type      : "agentclass"
+    values:
+      layout    : "resource"
+      itemtype  : "http://schema.org/Organization"
+      class     : "AgentClass"
+  -
+    scope:
+      path      : ""
       type      : "event"
     values:
-      layout    : "thing"
+      layout    : "resource"
+      itemtype  : "http://schema.org/Event"
+      type      : "Event"
   -
     scope:
       path      : ""
-      type      : "intangible"
+      type      : "location"
     values:
-      layout    : "thing"
+      layout    : "resource"
+      itemtype  : "http://schema.org/Place"
+      class     : "Location"
   -
     scope:
       path      : ""
-      type      : "org"
+      type      : "physicalobject"
     values:
-      layout    : "thing"
+      layout    : "resource"
+      itemtype  : "http://schema.org/CreativeWork"
+      type      : "PhysicalObject"
   -
     scope:
       path      : ""
-      type      : "person"
+      type      : "resource"
     values:
-      layout    : "thing"
-  -
-    scope:
-      path      : ""
-      type      : "place"
-    values:
-      layout    : "thing"
-  -
-    scope:
-      path      : ""
-      type      : "product"
-    values:
-      layout    : "thing"
-  -
-    scope:
-      path      : ""
-      type      : "thing"
-    values:
-      layout    : "thing"
-  -
-    scope:
-      path      : ""
-      type      : "work"
-    values:
-      layout    : "thing"
+      layout    : "resource"
+      itemtype  : "http://schema.org/Thing"
 
 # Build settings {{{1
 theme: minima # {{{2
