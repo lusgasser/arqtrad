@@ -38,9 +38,63 @@ collections: # {{{2
     permalink: /:collection/:name
 
 defaults: # {{{2
+  -
+    scope:
+      path      : ""
+      type      : "event"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "intangible"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "org"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "person"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "place"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "product"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "thing"
+    values:
+      layout    : "thing"
+  -
+    scope:
+      path      : ""
+      type      : "work"
+    values:
+      layout    : "thing"
 
 # Build settings {{{1
-theme: minima
+theme: minima # {{{2
+minima:
+  date_format : "%Y-%m-%d"
+  social_links:
+    twitter   : p3palazzo
+    github    : p3palazzo
+
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
@@ -66,4 +120,4 @@ exclude: # {{{2
   - .vendor/gems/
   - .vendor/ruby/
 
-# vim: foldmethod: marker
+# vim: set foldmethod=marker :
