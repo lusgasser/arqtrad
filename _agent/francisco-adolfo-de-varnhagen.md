@@ -1,7 +1,7 @@
 ---
 title      : Francisco Adolfo, visconde de Varnhagen
 author     : Pedro Paulo Palazzo
-date       :
+date       : 2020-03-12
 abstract: >
 keywords:
 lang       : pt-BR
