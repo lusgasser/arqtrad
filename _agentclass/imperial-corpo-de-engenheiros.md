@@ -20,6 +20,12 @@ creator    :
 description:
 extent     :
 hasPart:
+  - beaurepaire-rohan
+  - francisco-adolfo-de-varnhagen
+  - francisco-pereira-da-silva
+  - jose-maria-jacinto-rebelo
+  - joaquim-candido-guilhobel
+  - sebastiao-jose-basilio-pirro
 identifier :
 isFormatOf:
 isPartOf:

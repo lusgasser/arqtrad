@@ -1,5 +1,5 @@
 ---
-title      : Sebastião José Basilio Pyrrho
+title      : Sebastião José Basilio Pirro
 author     : Pedro Paulo Palazzo
 date       : 2020-03-12
 abstract: >
@@ -9,7 +9,7 @@ keywords:
 lang       : pt-BR
 nocite: >
 # DCMI
-alternative: Sebastião Pirro
+alternative: Sebastião Pyrrho
 contributor:
 coverage:
 description:
