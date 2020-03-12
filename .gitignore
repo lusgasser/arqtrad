@@ -20,7 +20,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-vendor/
+.vendor/
 .bundle/
 
 # eBook build output {{{1
