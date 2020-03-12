@@ -1,46 +1,49 @@
 ---
-title      :
+title      : Imperial corpo de engenheiros
 author     : Pedro Paulo Palazzo
-date       :
+date       : 2020-03-12
 abstract: >
+  Unidade do exército brasileiro, sucessora do Real corpo de engenheiros
+  português. Vários dos seus integrantes alcançaram posições destacadas
+  na administração pública, nos círculos intelectuais, e realizaram
+  projetos importantes.
 keywords:
+  - engenharia militar
+  - império do Brasil
 lang       : pt-BR
 nocite: >
-# DCMI terms
-audience   :
+# DCMI
 contributor:
 coverage:
+  - império do Brasil
 creator    :
 description:
 extent     :
-format     : 
-hasFormat:
 hasPart:
-hasVersion:
 identifier :
 isFormatOf:
 isPartOf:
 isReferencedBy:
 isReplacedBy:
 isRequiredBy:
-isVersionOf:
 language   :
 mediator   :
-medium     :
 provenance :
-publisher  :
 references :
 relation   :
 replaces   :
 requires   :
 source     :
-spatial    :
+spatial:
+  - br-rj-rio_de_janeiro
+  - Rio de Janeiro
+  - Brasil
 subject    :
 temporal   :
-- available:
 - created  :
 - issued   :
 - modified :
+- valid    :
 # Schema.org
 image      :
 sameAs     : https://pt.wikipedia.org/wiki/

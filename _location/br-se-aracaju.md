@@ -1,6 +1,7 @@
 ---
 title      : Aracaju
 author     : Pedro Paulo Palazzo
+date       : 2020-03-12
 abstract: >
   Capital do estado de Sergipe, fundada em 1855.
 keywords:

@@ -1,6 +1,7 @@
 ---
 title      :
 author     : Pedro Paulo Palazzo
+date       :
 abstract: >
 keywords:
 lang       : pt-BR

@@ -1,6 +1,7 @@
 ---
 title      :
 author     : Pedro Paulo Palazzo
+date       :
 abstract: >
 keywords:
 lang       : pt-BR
@@ -8,9 +9,6 @@ nocite: >
 # DCMI
 contributor:
 coverage:
-date:
-- birth    :
-- death    :
 description:
 identifier :
 isPartOf:
@@ -27,6 +25,9 @@ source     :
 spatial    :
 subject    :
 temporal   :
+  - birth  :
+  - death  :
+  - active :
 # Schema.org
 image      :
 sameAs     : https://pt.wikipedia.org/wiki/

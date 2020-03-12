@@ -1,6 +1,7 @@
 ---
 title      :
 author     : Pedro Paulo Palazzo
+date       :
 abstract: >
 keywords:
 lang       : pt-BR
@@ -9,10 +10,6 @@ nocite: >
 contributor:
 coverage:
 creator    :
-date:
-- created  :
-- issued   :
-- modified :
 description:
 extent     :
 format     : 
@@ -39,6 +36,9 @@ source     :
 spatial    :
 subject    :
 temporal   :
+- created  :
+- issued   :
+- modified :
 # Schema.org
 image      :
 sameAs     : https://pt.wikipedia.org/wiki/
