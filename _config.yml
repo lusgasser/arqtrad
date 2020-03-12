@@ -24,7 +24,7 @@ collections: # {{{2
   location:
     output   : true
     permalink: /:collection/:name
-  physicalobject:
+  object:
     output   : true
     permalink: /:collection/:name
   resource:
@@ -67,7 +67,7 @@ defaults: # {{{2
   -
     scope:
       path      : ""
-      type      : "physicalobject"
+      type      : "object"
     values:
       layout    : "resource"
       itemtype  : "http://schema.org/CreativeWork"
