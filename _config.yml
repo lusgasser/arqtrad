@@ -12,22 +12,22 @@ github_username:  p3palazzo
 
 # Content {{{1
 collections: # {{{2
-  agent:
-    output   : true
-    permalink: /:collection/:name
-  agentclass:
+  creativework:
     output   : true
     permalink: /:collection/:name
   event:
     output   : true
     permalink: /:collection/:name
-  location:
+  organization:
     output   : true
     permalink: /:collection/:name
-  object:
+  person:
     output   : true
     permalink: /:collection/:name
-  resource:
+  place:
+    output   : true
+    permalink: /:collection/:name
+  thing:
     output   : true
     permalink: /:collection/:name
 
@@ -35,17 +35,17 @@ defaults: # {{{2
   -
     scope:
       path      : ""
-      type      : "agent"
+      type      : "person"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/Person"
       class     : "Agent"
   -
     scope:
       path      : ""
-      type      : "agentclass"
+      type      : "organization"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/Organization"
       class     : "AgentClass"
   -
@@ -53,31 +53,31 @@ defaults: # {{{2
       path      : ""
       type      : "event"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/Event"
       type      : "Event"
   -
     scope:
       path      : ""
-      type      : "location"
+      type      : "place"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/Place"
       class     : "Location"
   -
     scope:
       path      : ""
-      type      : "object"
+      type      : "creativework"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/CreativeWork"
       type      : "PhysicalObject"
   -
     scope:
       path      : ""
-      type      : "resource"
+      type      : "thing"
     values:
-      layout    : "resource"
+      layout    : "thing"
       itemtype  : "http://schema.org/Thing"
 
 # Build settings {{{1
