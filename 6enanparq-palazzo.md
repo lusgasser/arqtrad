@@ -39,11 +39,15 @@ abstração se presta, naturalmente, a ser manipulada de modo mais ou
 menos arbitrário, conferindo um verniz de legitimidade metodológica a
 qualquer visão determinista da história construída *a priori.*
 
-Dentre os vários argumentos que poderíamos levantar, numa abordagem
-crítica da tradição, a essas três abordagens da sua definição e
-operacionalização --- a modernista, a arqueológica, e a abstração ---, o
-que nos interessa aqui é apontar as fragilidades desses três aspectos no
-contexto do conhecimento histórico sobre a arquitetura brasileira. 
+As formulações acima expostas, em cada um desses três níveis, partem, na
+verdade, de dois pressupostos em comum: uma visão de mundo que erige a
+cisão passado/presente em critério epistemológico fundador não apenas da
+interpretação *historiográfica,* mas sobretudo da própria realidade
+*histórica;* e a aceitação tácita de que é a formulação discursiva que
+produz a realidade tangível, e não o inverso. Ora, ambos pressupostos
+são desde o início antitéticos ao próprio conceito de tradição como
+*levar-através* --- ou seja, a possibilidade de conhecimentos, práticas,
+mas também artefatos exemplares, atravessarem o tempo e o espaço.
 
 Referências
 -----------
