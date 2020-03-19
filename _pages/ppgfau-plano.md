@@ -1,19 +1,20 @@
 ---
-title:           Classicismo, tradicionalismo, ecletismo
-subtitle:        O cosmopolita e o nacionalista na cidade industrial
-author:
-- name:          Pedro Paulo Palazzo
-  affiliation:   Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo  
-  email:         palazzo@unb.br
-date:            "11 de junho de 2018"
-keywords:        Ecletismo, Nacionalismo, História urbana
-bibliography:    "/Users/palazzo/Nextcloud/pesquisa/_projeto_nacionalismo/biblio.yaml"
-csl:             "/Users/palazzo/Nextcloud/pesquisa/_projeto_nacionalismo/csl/chicago-note-bibliography-with-ibid.csl"
+title          : "Clássico, tradicional, eclético"
+subtitle       : "Arquitetura brasileira no longo século XIX"
+date           : 2018-06-11
+author         : Pedro Paulo Palazzo
+creator:
+- name         : Pedro Paulo Palazzo
+  affiliation  : Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo  
+  email        : palazzo@unb.br
+keywords       : [Ecletismo, Nacionalismo, História urbana]
+bibliography   : "../_data/biblio.yaml"
+csl            : "../lib/styles/chicago-note-bibliography-with-ibid.csl"
 ---
 
 
 Relatório de atividades
-=======================
+-----------------------
 
 Durante o período de credenciamento vencido,
 de 2013 a 2018, atuamos no âmbito do ensino,
@@ -68,7 +69,7 @@ em especial a construção em terra e em concreto.
 
 
 Ensino
-======
+------
 
 A atuação no ensino de pós-graduação vincula-se
 sobretudo à linha de pesquisa
@@ -120,7 +121,7 @@ a metodologias tradicionais de projeto.
 
 
 Pesquisa
-========
+--------
 
 A execução do projeto de pesquisa divide-se em três etapas:
 fundamentação teórica e documentação de bens inéditos,
@@ -153,7 +154,7 @@ relacionados ao projeto de pesquisa.
 
 
 Extensão
-========
+--------
 
 Contatos em andamento com o Ibram,
 no âmbito do grupo de pesquisa que lideramos,
@@ -181,7 +182,7 @@ vinda da Université catholique de Louvain (Bélgica).
 
 
 Recursos
-========
+--------
 
 A viabilidade de execução das atividades planejadas
 ampara-se nos vínculos interinstitucionais já estabelecidos
@@ -203,7 +204,7 @@ nas condições de trabalho de pesquisadores e estudantes.
 
 
 Cronograma
-==========
+----------
 
   
 
