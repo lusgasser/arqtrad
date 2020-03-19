@@ -2,9 +2,9 @@
 title: "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
 email: palazzo@unb.br
 description: >-
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Discursos arquitetônicos produzidos de c. 1860 a 1930,
+  com ênfase na formação dos campos teóricos brasileiros
+  compreendidos numa abordagem global.
 baseurl: "arqtrad"
 url: "https://dmcpatrimonio.github.io"
 twitter_username: p3palazzo
@@ -113,5 +113,6 @@ exclude: # {{{2
   - .vendor/cache/
   - .vendor/gems/
   - .vendor/ruby/
+  - vendor/
 
 # vim: set foldmethod=marker :
