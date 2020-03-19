@@ -46,8 +46,20 @@ interpretação *historiográfica,* mas sobretudo da própria realidade
 *histórica;* e a aceitação tácita de que é a formulação discursiva que
 produz a realidade tangível, e não o inverso. Ora, ambos pressupostos
 são desde o início antitéticos ao próprio conceito de tradição como
-*levar-através* --- ou seja, a possibilidade de conhecimentos, práticas,
-mas também artefatos exemplares, atravessarem o tempo e o espaço.
+*trazer-através* --- ou seja, a possibilidade de conhecimentos,
+práticas, mas também da realidade material, persistirem no tempo e no
+espaço.
+
+Fosse apenas um problema conceitual, no entanto, permaneceríamos no
+âmbito da especulação teórica. Na verdade, essas premissas são
+contraditórias com a própria existência da disciplina da arquitetura.
+Esta se baseia exatamente na autonomia do espaço com respeito ao tempo,
+e mais ainda na persistência da matéria construída e dos saberes
+técnico-artísticos nela incorporados, *trazidos através* do tempo.
+A realidade tangível do universo da arquitetura é exatamente a
+justaposição simultânea de espaços edificados --- a sua divisão segundo
+períodos históricos e estilos artísticos é que é uma abstração
+discursiva, necessária ao estudo histórico, porém arbitrária.
 
 Referências
 -----------
