@@ -45,7 +45,7 @@ profissionais e os preconceitos de classe ou de gosto daqueles que
 exclamavam "Isto não é (ou não tem) Arquitetura!" *Tudo* é arquitetura,
 e nenhuma é "mais" arquitetônica que outra, ponto.
 
-*Tradição* é, naturalmente, o problema central da nossa intervenção, no
+*Tradicional* é, naturalmente, a razão de ser da nossa intervenção, na
 qual vamos nos deter mais um pouco. Já aludimos à sua etimologia, que
 nos dá um ponto de partida útil. Ao contrário da definição de
 Arquitetura que usamos, porém, este conceito só é útil na medida em que
@@ -71,6 +71,8 @@ arquitetura. Três critérios são necessários para tanto:
    excluída, destarte, a artimanha retórica da vanguarda como "tradição
    da inovação", e semelhantes invocações *abstratas* do conceito de
    tradição.
+
+*Brasileira* é a noção mais nebulosa
 
 Referências
 -----------
