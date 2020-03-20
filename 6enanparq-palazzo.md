@@ -58,12 +58,16 @@ arquitetura. Três critérios são necessários para tanto:
    histórico pode ser chamado de tradicional; a tradição se adapta aos
    tempos, é certo, mas se adapta na superfície para melhor preservar o
    cerne dos seus conhecimentos e práticas.
-2) Do postulado da transmissão decorre que uma coleção de *objetos*
-   recorrendo a iconografias tradicionais não constitui uma tradição.
-   Esta é, antes, um *processo* de consolidação e transmissão de
-   conhecimentos e práticas. Esse processo evidenciará, na sua
-   continuidade, aquilo que constitui o cerne duradouro da tradição e,
-   reciprocamente, a superfície cambiante que o engloba.
+2) A tradição é, portanto, um *processo* de transmissão cultural no qual
+   o papel preponderante é desempenhado pela receptora --- a pessoa,
+   organização, ou comunidade que assume para si o teor do conhecimento
+   tradicional e a responsabilidade por mantê-lo em vigor. Trata-se,
+   portanto, de um olhar retrospectivo que sobrepõe, tal qual o
+   palimpsesto freudiano, a multiplicidade de camadas do passado na
+   singularidade do momento presente. Não se trata, portanto, da
+   reprodução de formas, ou do seu mero agrupamento arqueológico, mas de
+   assumir a validade atual de modos de fazer e de valores transmitidos
+   ao longo do tempo.
 3) Os conhecimentos e práticas tradicionais são demonstrados por meio de
    fatos *tangíveis* cuja persistência atesta a continuidade da
    tradição: tipologias de configurações espaciais, sistemas
