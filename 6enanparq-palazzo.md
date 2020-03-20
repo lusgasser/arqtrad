@@ -76,7 +76,20 @@ disciplinar internalista --- ou seja, de uma história *da arquitetura*
 propriamente dita, em vez de uma história *social* ou *econômica* dos
 contextos de produção da arquitetura.
 
-*Como* uma arquitetura tradicional brasileira? 
+*Como* uma arquitetura tradicional brasileira? Debulhando, a título de
+propedêutica --- a nada mais que isso poderemos pretender nestes breves
+apontamentos --- cada um dos termos que a constituem, muito
+literalmente, do mais fácil ao mais difícil.
+
+*Arquitetura* --- corpo ou disciplina cuja definição é objeto de debate
+ao menos desde os primeiros intérpretes de Vitrúvio --- pode parecer um
+ponto improvável para começarmos esta exploração. No entanto, basta
+dizer que por meio desse termo entendemos a totalidade do ambiente
+construído e dos conhecimentos que lhe dizem respeito. Nada mais, nada
+menos, do popular e do vernáculo ao erudito e ao monumental. Temos por
+superadas as segmentações profissionais e os preconceitos de classe ou
+de gosto daqueles que exclamavam "Isto não é (ou não tem) Arquitetura!"
+*Tudo* é arquitetura, ponto.
 
 Referências
 -----------
