@@ -84,13 +84,12 @@ estertores da primeira República e na era Vargas. Modernistas e
 tradicionalistas subscreveram igualmente a esse programa de aplastamento
 cultural, que vitimou não apenas arquiteturas vernáculas regionais e
 étnicas, mas também o ecletismo, tachado de "estrangeirismo". Ora, a
-definição arbitrária de identidades --- nacionais, culturais, étnicas,
+definição *a priori* de identidades --- nacionais, culturais, étnicas,
 religiosas ou de classe --- é incompatível com o conceito de tradição
-que acabamos de expor, baseado na *recepção* e não na *imposição* de
-práticas ou ideologias. Assim como é preciso rejeitar uma chancela de
-*tradição* com base em pretextos abstratos, também será preciso rejeitar
-o rótulo de *brasileira* sujeito ao arbítrio da hegemonia
-político-ideológica no momento.
+que acabamos de expor: tratar a arquitetura tradicional como um
+*atributo* de uma "nação brasileira" preexistente recai na abstração de
+considerar *brasileira* como uma categoria meta-histórica que não diz
+respeito ao conteúdo da tradição.
 
 
 Referências
