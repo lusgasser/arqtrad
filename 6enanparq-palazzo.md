@@ -15,6 +15,63 @@ propor o conceito de tradição enquanto um marco explicativo possível
 para a história da arquitetura brasileira? Ou, para ser mais direto:
 existe (uma) arquitetura tradicional brasileira?
 
+*Por que* uma arquitetura tradicional brasileira? Justamente porque
+esta questão, posta no âmbito da Arquitetura como disciplina prática e
+objeto de pesquisa histórica, tem sido duplamente suprimida.
+Do lado da prática, suprimida pela recomposição de um cânone hegemônico
+do (neo) modernismo brasileiro que, contrariamente ao modernismo
+pioneiro de há um século, prescinde de uma narrativa legitimadora
+fundada na tradição --- e constrói sua ideologia a-histórica sobre o
+mito de um Brasil eternamente jovem, porém eternamente nação unitária.
+Do lado da história, suprimida pela falência dos modelos
+historiográficos que associavam o olhar sobre a longa duração à leitura
+disciplinar internalista --- ou seja, de uma história *da arquitetura*
+propriamente dita, em vez de uma história *social* ou *econômica* dos
+contextos de produção da arquitetura.
+
+*O que é* uma arquitetura tradicional brasileira? Debulhando, a título
+de propedêutica --- a nada mais que isso poderemos pretender nestes
+breves apontamentos --- cada um dos termos que a constituem, muito
+literalmente, do mais fácil ao mais difícil.
+
+*Arquitetura* --- corpo ou disciplina cuja definição é objeto de debate
+ao menos desde os primeiros intérpretes de Vitrúvio --- pode parecer um
+ponto improvável para começarmos esta exploração. No entanto, basta
+dizer que por meio desse termo entendemos a totalidade do ambiente
+construído e dos conhecimentos que lhe dizem respeito. Nada mais, nada
+menos, do popular e do vernáculo ao erudito e ao monumental passando
+pelos imóveis especulativos. Temos por superadas as segmentações
+profissionais e os preconceitos de classe ou de gosto daqueles que
+exclamavam "Isto não é (ou não tem) Arquitetura!" *Tudo* é arquitetura,
+e nenhuma é "mais" arquitetônica que outra, ponto.
+
+*Tradição* é, naturalmente, o problema central da nossa intervenção, no
+qual vamos nos deter mais um pouco. Já aludimos à sua etimologia, que
+nos dá um ponto de partida útil. Ao contrário da definição de
+Arquitetura que usamos, porém, este conceito só é útil na medida em que
+permitir distinguir entre o que *é* e o que *não é* tradicional em
+arquitetura. Três critérios são necessários para tanto:
+
+1) O ponto central de qualquer definição de tradição está no significado
+   da própria palavra: a *transmissão* de um conhecimento *através do
+   tempo.* O vínculo que une o presente ao passado por meio da tradição
+   tem, assim, precedência sobre os vínculos desse conhecimento com seu
+   contexto sincrônico. Dito de outro modo, a tradição se estabelece
+   pela sua *continuidade* frente às mudanças do contexto histórico, e
+   não pelo modo em que é condicionada por esse contexto.
+2) Do postulado da transmissão decorre que uma coleção de *objetos*
+   recorrendo a iconografias tradicionais não constitui uma tradição.
+   Esta é, antes, um *processo* de consolidação e transmissão de
+   conhecimentos e práticas. Esse processo evidenciará, na sua
+   continuidade, aquilo que constitui o cerne duradouro da tradição e,
+   reciprocamente, a superfície cambiante que o engloba.
+3) Os conhecimentos e práticas tradicionais são demonstrados por meio de
+   fatos *tangíveis* cuja persistência atesta a continuidade da
+   tradição: tipologias de plantas, sistemas construtivos, motivos
+   decorativos, módulos e proporções, etc. Fica excluída, destarte, a
+   artimanha retórica da vanguarda como "tradição da inovação", e
+   semelhantes invocações *abstratas* do conceito de tradição.
+
 Três níveis de entendimento têm pautado a formulação de discursos em
 torno da tradição.
 O primeiro nível diz respeito a uma apropriação da tradição enquanto uma
@@ -61,35 +118,6 @@ A realidade tangível do universo da arquitetura é exatamente a
 justaposição simultânea de espaços edificados --- a sua divisão segundo
 períodos históricos e estilos artísticos é que é uma abstração
 discursiva, necessária ao estudo histórico, porém arbitrária.
-
-*Por que* uma arquitetura tradicional brasileira? Justamente porque
-esta questão, posta no âmbito da Arquitetura como disciplina prática e
-objeto de pesquisa histórica, tem sido duplamente suprimida.
-Do lado da prática, suprimida pela recomposição de um cânone hegemônico
-do (neo) modernismo brasileiro que, contrariamente ao modernismo
-pioneiro de há um século, prescinde de uma narrativa legitimadora
-fundada na tradição --- e constrói sua ideologia a-histórica sobre o
-mito de um Brasil eternamente jovem, porém eternamente nação unitária.
-Do lado da história, suprimida pela falência dos modelos
-historiográficos que associavam o olhar sobre a longa duração à leitura
-disciplinar internalista --- ou seja, de uma história *da arquitetura*
-propriamente dita, em vez de uma história *social* ou *econômica* dos
-contextos de produção da arquitetura.
-
-*Como* uma arquitetura tradicional brasileira? Debulhando, a título de
-propedêutica --- a nada mais que isso poderemos pretender nestes breves
-apontamentos --- cada um dos termos que a constituem, muito
-literalmente, do mais fácil ao mais difícil.
-
-*Arquitetura* --- corpo ou disciplina cuja definição é objeto de debate
-ao menos desde os primeiros intérpretes de Vitrúvio --- pode parecer um
-ponto improvável para começarmos esta exploração. No entanto, basta
-dizer que por meio desse termo entendemos a totalidade do ambiente
-construído e dos conhecimentos que lhe dizem respeito. Nada mais, nada
-menos, do popular e do vernáculo ao erudito e ao monumental. Temos por
-superadas as segmentações profissionais e os preconceitos de classe ou
-de gosto daqueles que exclamavam "Isto não é (ou não tem) Arquitetura!"
-*Tudo* é arquitetura, ponto.
 
 Referências
 -----------
