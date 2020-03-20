@@ -54,10 +54,11 @@ arquitetura. Três critérios são necessários para tanto:
 
 1) O ponto central de qualquer definição de tradição está no significado
    da própria palavra: a *transmissão* de um conhecimento *através do
-   tempo.* Aquilo que persiste ao longo das transformações no contexto
-   histórico pode ser chamado de tradicional; a tradição se adapta aos
-   tempos, é certo, mas se adapta na superfície para melhor preservar o
-   cerne dos seus conhecimentos e práticas.
+   tempo.* Na verdade, a prática tradicional se apresenta como que num
+   colapso do tempo, colocando passado e presente em contato direto.
+   Assim, perdem importância os efeitos da *passagem* do tempo,
+   favorecendo a *continuidade* na unidade do conteúdo tradicional que
+   atravessa os períodos históricos.
 2) A tradição é, portanto, um *processo* de transmissão cultural no qual
    o papel preponderante é desempenhado pela receptora --- a pessoa,
    organização, ou comunidade que assume para si o teor do conhecimento
