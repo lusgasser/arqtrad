@@ -72,7 +72,15 @@ arquitetura. Três critérios são necessários para tanto:
    da inovação", e semelhantes invocações *abstratas* do conceito de
    tradição.
 
-*Brasileira* é a noção mais nebulosa
+*Brasileira* é, talvez, a parte mais controversa da expressão que
+estamos tratando de definir. Recordemos a supressão de particularidades
+culturais e regionais promovida sob a bandeira da *brasilidade* nos
+estertores da primeira República e na era Vargas. Modernistas e
+tradicionalistas subscreveram igualmente a esse programa de aplastamento
+cultural, que vitimou não apenas arquiteturas vernáculas regionais e
+étnicas, mas também o ecletismo, tachado de "estrangeirismo".
+
+
 
 Referências
 -----------
