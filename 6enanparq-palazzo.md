@@ -12,7 +12,8 @@ Diante dessa constatação de senso comum, há apenas uma atitude
 progressista a ser tomada: questionar o senso comum. Nosso
 questionamento consiste, aqui, num problema em forma de provocação: como
 propor o conceito de tradição enquanto um marco explicativo possível
-para a história da arquitetura brasileira?
+para a história da arquitetura brasileira? Ou, para ser mais direto:
+existe (uma) arquitetura tradicional brasileira?
 
 Três níveis de entendimento têm pautado a formulação de discursos em
 torno da tradição.
@@ -60,6 +61,22 @@ A realidade tangível do universo da arquitetura é exatamente a
 justaposição simultânea de espaços edificados --- a sua divisão segundo
 períodos históricos e estilos artísticos é que é uma abstração
 discursiva, necessária ao estudo histórico, porém arbitrária.
+
+*Por que* uma arquitetura tradicional brasileira? Justamente porque
+esta questão, posta no âmbito da Arquitetura como disciplina prática e
+objeto de pesquisa histórica, tem sido duplamente suprimida. Do lado da
+historiografia, suprimida pelo esgarçamento, no Brasil, do campo
+disciplinar de uma história *da arquitetura* propriamente dita, em prol
+de uma história *social* ou *econômica* dos contextos de produção da
+arquitetura --- especialidades necessárias, mas que não suprem a
+carência de uma leitura historiográfica internalista da disciplina.
+Do lado da prática, suprimida pela recomposição de um cânone hegemônico
+do (neo) modernismo brasileiro que, contrariamente ao modernismo
+pioneiro de há um século, prescinde de uma narrativa legitimadora
+fundada na tradição --- e constrói sua ideologia no mito de um Brasil
+eternamente jovem.
+
+*Como* uma arquitetura tradicional brasileira? 
 
 Referências
 -----------
