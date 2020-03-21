@@ -86,8 +86,11 @@ tradicionais. Essas linhagens desconsideram a periodização determinista
 convencional da arquitetura brasileira, já em grande medida
 desacreditada pela historiografia recente. No lugar dessa periodização,
 o conceito de *arquitetura tradicional* oferece um marco explicativo
-estritamente ancorado nos processos de circulação e consolidação de
-práticas edilícias no Brasil.
+estritamente ancorado na realidade dos processos de circulação e
+consolidação de práticas edilícias no Brasil. Podemos, assim, ilustrar
+as linhagens da tradição sem cair numa --- interminável --- regressão às
+origens, nem numa indesejável teleologia que se sirva do passado apenas
+à luz da ideologia hegemônica no presente.
 
 *Brasileira* é, talvez, a parte mais controversa da expressão que
 estamos tratando de definir. Recordemos a supressão de particularidades
