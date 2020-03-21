@@ -1,5 +1,5 @@
 ---
-title      : "Em busca de (uma?) tradição arquitetônica brasileira"
+title      : "Em busca de (uma?) arquitetura tradicional brasileira"
 author     : "Pedro Paulo Palazzo"
 date       : 2020-03-31
 ---
@@ -23,17 +23,16 @@ pioneiro de há um século, prescinde de uma narrativa legitimadora
 fundada na tradição --- e constrói sua ideologia a-histórica sobre o
 mito de um Brasil eternamente jovem.
 Do lado da história, suprimida pela falência dos modelos
-historiográficos "militantes" do século XX --- inicialmente
+historiográficos teleológicos do século XX --- inicialmente
 neocoloniais, mas em seguida e com maior força, modernistas. Ora, a
-superação dessa historiografia militante se deu por meio do abandono da
-leitura disciplinar internalista --- portanto, de uma
-história *da arquitetura* propriamente dita, dos conhecimentos técnicos
-e das práticas compositivas e decorativas intrínsecas aos ofícios de
-produção do ambiente construído. No seu lugar, emergiu uma
-historiografia dos contextos *social* e *econômico* que cingem a
-arquitetura --- renovação necessária, porém incompleta diante do vazio
-central que agora paira sobre o estudo da história da arquitetura
-enquanto disciplina.
+superação dessa historiografia teleológica se deu por meio do abandono
+da leitura disciplinar internalista --- portanto, de uma história *da
+arquitetura* propriamente dita, dos conhecimentos técnicos e das
+práticas compositivas e decorativas intrínsecas aos ofícios de produção
+do ambiente construído. No seu lugar, emergiu uma historiografia dos
+contextos *social* e *econômico* que cingem a arquitetura --- renovação
+necessária, porém incompleta diante do vazio central que agora paira
+sobre o estudo da história da arquitetura enquanto disciplina.
 
 Esse "centro vazio" --- inquietação por excelência do pensamento moderno
 --- corresponde, justamente, ao lugar da tradição no âmbito da
@@ -64,8 +63,9 @@ uma historiografia disciplinar da arquitetura --- historiografia esta
 que, ao mesmo tempo, verse *sobre* a arquitetura enquanto ofício e
 processo de produção do ambiente construído, e que *faça parte* dos
 atributos disciplinares do ofício de arquiteto. Indispensável, também,
-para enxergarmos a produção arquitetônica tradicionalista da atualidade,
-livre dos preconceitos estéticos ou moralistas herdados do modernismo.
+para situarmos a produção arquitetônica tradicionalista da atualidade
+como manifestação legítima, livre das pechas de "falso histórico" ou de
+"fachadismo".
 Propomos, então, que um conceito de tradição apto a cumprir esse duplo
 papel se articule com base em três critérios.
 
@@ -91,10 +91,7 @@ papel se articule com base em três critérios.
 3) Os conhecimentos e práticas tradicionais são demonstrados por meio de
    fatos *tangíveis* cuja persistência atesta a continuidade da
    tradição: tipologias de configurações espaciais, sistemas
-   construtivos, esquemas decorativos, módulos e proporções, etc. Fica
-   excluída, destarte, a artimanha retórica da vanguarda como "tradição
-   da inovação", e semelhantes invocações *abstratas* do conceito de
-   tradição.
+   construtivos, esquemas decorativos, módulos e proporções, etc.
 
 Mais do que impor distinções e exclusões, esses três critérios formam um
 esqueleto sobre o qual podemos esquematizar um quadro de linhagens
