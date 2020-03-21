@@ -106,6 +106,16 @@ que acabamos de expor: tratar a arquitetura tradicional como um
 considerar *brasileira* como uma categoria meta-histórica que não diz
 respeito ao conteúdo da tradição.
 
+Talvez a chave para uma reconciliação com o problema de uma arquitetura
+tradicional *brasileira* se situe não tanto na definição deste gentílico
+quanto no artigo que abre a expressão como um todo. Haveria, de fato,
+--- apenas --- *uma* arquitetura tradicional no Brasil? As ideologias
+autoritárias, do projeto historiográfico imperial do IHGB ao varguismo
+dos modernistas cariocas, quiseram nos fazer crer que a única tradição
+legítima correspondia a uma certa linhagem luso-brasileira da pedra e
+cal, cuja natural e inevitável evolução resultaria numa certa linhagem
+carioca do vidro e concreto.
+
 
 Referências
 -----------
