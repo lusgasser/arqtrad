@@ -35,21 +35,39 @@ arquitetura --- renovação necessária, porém incompleta diante do vazio
 central que agora paira sobre o estudo da história da arquitetura
 enquanto disciplina.
 
-Esse "centro vazio" --- inquietação por excelência do pensamento
-contemporâneo --- corresponde, justamente, ao lugar dos conhecimentos
-tradicionais pertencentes ao âmbito da arquitetura. O vazio é paradoxal
-se considerarmos a projeção dada atualmente à salvaguarda dos *modos de
-fazer* tradicionais na esfera do patrimônio cultural, ou mesmo a
-importância operativa de tais conhecimentos na conservação e restauro de
-edifícios históricos.
+Esse "centro vazio" --- inquietação por excelência do pensamento moderno
+--- corresponde, justamente, ao lugar da tradição no âmbito da
+arquitetura. O vazio é paradoxal se considerarmos a projeção dada
+atualmente à salvaguarda dos *modos de fazer* tradicionais na esfera do
+patrimônio cultural, ou mesmo a importância operativa de tais
+conhecimentos na conservação e restauro de edifícios históricos. Isto
+posto, é preciso explicar por que consideramos o cerne dos conhecimentos
+e das práticas disciplinares da arquitetura como uma *tradição.*
 
-*Tradicional* é, naturalmente, a razão de ser da nossa intervenção, na
-qual vamos nos deter mais um pouco. Já aludimos à sua etimologia, que
-nos dá um ponto de partida útil. Ao contrário da definição de
-Arquitetura que usamos, porém, este conceito só é útil na medida em que
-permitir *organizar* o universo arquitetônico de modo a extrair dele um
-sentido explicativo relevante seja para a historiografia, seja para uma
-prática tradicional. Três critérios são necessários para tanto:
+Partir do conceito de *tradição* para formular uma historiografia --- e
+por que não uma teoria --- do domínio disciplinar da arquitetura é, em
+primeiro lugar, um expediente útil na medida em que *organiza* o
+conhecimento arquitetônico acumulado através dos tempos segundo um
+critério internalista. Isso nos permite, então, extrair dele um sentido
+explicativo seja para a historiografia disciplinar, seja para uma
+prática contemporânea que se coloque na continuidade dessa tradição.
+Mais do que uma simples conveniência utilitária, porém, olhar para a
+disciplina da Arquitetura por meio de um paradigma tradicional
+corresponde à *realidade* observada ao longo da história do ambiente
+construído, especialmente no espectro vernáculo, tão marcante no
+patrimônio cultural brasileiro.
+
+*Por que* uma arquitetura tradicional brasileira, portanto? Porque a
+tradição é, ao mesmo tempo, *parte da realidade e ferramenta para
+explicar essa mesma realidade.* Dualidade indispensável ao resgate de
+uma historiografia disciplinar da arquitetura --- historiografia esta
+que, ao mesmo tempo, verse *sobre* a arquitetura enquanto ofício e
+processo de produção do ambiente construído, e que *faça parte* dos
+atributos disciplinares do ofício de arquiteto. Indispensável, também,
+para enxergarmos a produção arquitetônica tradicionalista da atualidade,
+livre dos preconceitos estéticos ou moralistas herdados do modernismo.
+Propomos, então, que um conceito de tradição apto a cumprir esse duplo
+papel se articule com base em três critérios.
 
 1) O ponto central de qualquer definição de tradição está no significado
    da própria palavra: a *transmissão* de um conhecimento *através do
