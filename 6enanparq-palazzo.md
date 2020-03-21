@@ -22,7 +22,7 @@ Do lado da prática, suprimida pela recomposição de um cânone hegemônico
 do (neo) modernismo brasileiro que, contrariamente ao modernismo
 pioneiro de há um século, prescinde de uma narrativa legitimadora
 fundada na tradição --- e constrói sua ideologia a-histórica sobre o
-mito de um Brasil eternamente jovem, porém eternamente nação unitária.
+mito de um Brasil eternamente jovem.
 Do lado da história, suprimida pela falência dos modelos
 historiográficos que associavam o olhar sobre a longa duração à leitura
 disciplinar internalista --- ou seja, de uma história *da arquitetura*
@@ -49,8 +49,9 @@ e nenhuma é "mais" arquitetônica que outra, ponto.
 qual vamos nos deter mais um pouco. Já aludimos à sua etimologia, que
 nos dá um ponto de partida útil. Ao contrário da definição de
 Arquitetura que usamos, porém, este conceito só é útil na medida em que
-permitir distinguir entre o que *é* e o que *não é* tradicional em
-arquitetura. Três critérios são necessários para tanto:
+permitir *organizar* o universo arquitetônico de modo a extrair dele um
+sentido explicativo relevante seja para a historiografia, seja para uma
+prática tradicional. Três critérios são necessários para tanto:
 
 1) O ponto central de qualquer definição de tradição está no significado
    da própria palavra: a *transmissão* de um conhecimento *através do
@@ -59,16 +60,18 @@ arquitetura. Três critérios são necessários para tanto:
    Assim, perdem importância os efeitos da *passagem* do tempo,
    favorecendo a *continuidade* na unidade do conteúdo tradicional que
    atravessa os períodos históricos.
+
 2) A tradição é, portanto, um *processo* de transmissão cultural no qual
    o papel preponderante é desempenhado pela receptora --- a pessoa,
    organização, ou comunidade que assume para si o teor do conhecimento
    tradicional e a responsabilidade por mantê-lo em vigor. Trata-se,
    portanto, de um olhar retrospectivo que sobrepõe, tal qual o
    palimpsesto freudiano, a multiplicidade de camadas do passado na
-   singularidade do momento presente. Não se trata, portanto, da
-   reprodução de formas, ou do seu mero agrupamento arqueológico, mas de
-   assumir a validade atual de modos de fazer e de valores transmitidos
-   ao longo do tempo.
+   singularidade do momento presente. Não se caracteriza, portanto, pela
+   reprodução de formas, ou por seu mero agrupamento arqueológico, mas
+   por assumir a validade atual de modos de fazer e de valores
+   transmitidos ao longo do tempo.
+
 3) Os conhecimentos e práticas tradicionais são demonstrados por meio de
    fatos *tangíveis* cuja persistência atesta a continuidade da
    tradição: tipologias de configurações espaciais, sistemas
@@ -76,6 +79,15 @@ arquitetura. Três critérios são necessários para tanto:
    excluída, destarte, a artimanha retórica da vanguarda como "tradição
    da inovação", e semelhantes invocações *abstratas* do conceito de
    tradição.
+
+Mais do que impor distinções e exclusões, esses três critérios formam um
+esqueleto sobre o qual podemos esquematizar um quadro de linhagens
+tradicionais. Essas linhagens desconsideram a periodização determinista
+convencional da arquitetura brasileira, já em grande medida
+desacreditada pela historiografia recente. No lugar dessa periodização,
+o conceito de *arquitetura tradicional* oferece um marco explicativo
+estritamente ancorado nos processos de circulação e consolidação de
+práticas edilícias no Brasil.
 
 *Brasileira* é, talvez, a parte mais controversa da expressão que
 estamos tratando de definir. Recordemos a supressão de particularidades
