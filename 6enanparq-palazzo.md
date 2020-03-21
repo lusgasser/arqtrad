@@ -12,8 +12,7 @@ constatação de senso comum, há apenas uma atitude progressista a ser
 tomada: questionar o senso comum. Nosso questionamento consiste, aqui,
 num problema em forma de provocação: como propor o conceito de tradição
 enquanto um marco explicativo possível para a história da arquitetura
-brasileira? Ou, para ser mais direto: existe (uma) arquitetura
-tradicional brasileira?
+brasileira?
 
 *Por que* uma arquitetura tradicional brasileira? Justamente porque
 esta questão, posta no âmbito da Arquitetura como disciplina prática e
@@ -24,26 +23,25 @@ pioneiro de há um século, prescinde de uma narrativa legitimadora
 fundada na tradição --- e constrói sua ideologia a-histórica sobre o
 mito de um Brasil eternamente jovem.
 Do lado da história, suprimida pela falência dos modelos
-historiográficos que associavam o olhar sobre a longa duração à leitura
-disciplinar internalista --- ou seja, de uma história *da arquitetura*
-propriamente dita, em vez de uma história *social* ou *econômica* dos
-contextos de produção da arquitetura.
+historiográficos "militantes" do século XX --- inicialmente
+neocoloniais, mas em seguida e com maior força, modernistas. Ora, a
+superação dessa historiografia militante se deu por meio do abandono da
+leitura disciplinar internalista --- portanto, de uma
+história *da arquitetura* propriamente dita, dos conhecimentos técnicos
+e das práticas compositivas e decorativas intrínsecas aos ofícios de
+produção do ambiente construído. No seu lugar, emergiu uma
+historiografia dos contextos *social* e *econômico* que cingem a
+arquitetura --- renovação necessária, porém incompleta diante do vazio
+central que agora paira sobre o estudo da história da arquitetura
+enquanto disciplina.
 
-*O que é* uma arquitetura tradicional brasileira? Debulhando, a título
-de propedêutica --- a nada mais que isso poderemos pretender nestes
-breves apontamentos --- cada um dos termos que a constituem, muito
-literalmente, do mais fácil ao mais difícil.
-
-*Arquitetura* --- corpo ou disciplina cuja definição é objeto de debate
-ao menos desde os primeiros intérpretes de Vitrúvio --- pode parecer um
-ponto improvável para começarmos esta exploração. No entanto, basta
-dizer que por meio desse termo entendemos a totalidade do ambiente
-construído e dos conhecimentos que lhe dizem respeito. Nada mais, nada
-menos, do popular e do vernáculo ao erudito e ao monumental passando
-pelos imóveis especulativos. Temos por superadas as segmentações
-profissionais e os preconceitos de classe ou de gosto daqueles que
-exclamavam "Isto não é (ou não tem) Arquitetura!" *Tudo* é arquitetura,
-e nenhuma é "mais" arquitetônica que outra, ponto.
+Esse "centro vazio" --- inquietação por excelência do pensamento
+contemporâneo --- corresponde, justamente, ao lugar dos conhecimentos
+tradicionais pertencentes ao âmbito da arquitetura. O vazio é paradoxal
+se considerarmos a projeção dada atualmente à salvaguarda dos *modos de
+fazer* tradicionais na esfera do patrimônio cultural, ou mesmo a
+importância operativa de tais conhecimentos na conservação e restauro de
+edifícios históricos.
 
 *Tradicional* é, naturalmente, a razão de ser da nossa intervenção, na
 qual vamos nos deter mais um pouco. Já aludimos à sua etimologia, que
@@ -91,30 +89,6 @@ consolidação de práticas edilícias no Brasil. Podemos, assim, ilustrar
 as linhagens da tradição sem cair numa --- interminável --- regressão às
 origens, nem numa indesejável teleologia que se sirva do passado apenas
 à luz da ideologia hegemônica no presente.
-
-*Brasileira* é, talvez, a parte mais controversa da expressão que
-estamos tratando de definir. Recordemos a supressão de particularidades
-culturais e regionais promovida sob a bandeira da *brasilidade* nos
-estertores da primeira República e na era Vargas. Modernistas e
-tradicionalistas subscreveram igualmente a esse programa de aplastamento
-cultural, que vitimou não apenas arquiteturas vernáculas regionais e
-étnicas, mas também o ecletismo, tachado de "estrangeirismo". Ora, a
-definição *a priori* de identidades --- nacionais, culturais, étnicas,
-religiosas ou de classe --- é incompatível com o conceito de tradição
-que acabamos de expor: tratar a arquitetura tradicional como um
-*atributo* de uma "nação brasileira" preexistente recai na abstração de
-considerar *brasileira* como uma categoria meta-histórica que não diz
-respeito ao conteúdo da tradição.
-
-Talvez a chave para uma reconciliação com o problema de uma arquitetura
-tradicional *brasileira* se situe não tanto na definição deste gentílico
-quanto no artigo que abre a expressão como um todo. Haveria, de fato,
---- apenas --- *uma* arquitetura tradicional no Brasil? As ideologias
-autoritárias, do projeto historiográfico imperial do IHGB ao varguismo
-dos modernistas cariocas, quiseram nos fazer crer que a única tradição
-legítima correspondia a uma certa linhagem luso-brasileira da pedra e
-cal, cuja natural e inevitável evolução resultaria numa certa linhagem
-carioca do vidro e concreto.
 
 
 Referências
