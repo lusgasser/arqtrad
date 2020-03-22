@@ -1,0 +1,18 @@
+to: markdown-citations+gfm_auto_identifiers
+standalone: true
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+bibliography            : '_data/biblio.yaml'
+csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+fail-if-warnings        : True
+file-scope              : True
+default-image-extension : '.jpg'
+email-obfuscation       : references
+shift-heading-level-by  : 1
+resource-path:
+- .
+- fig
+- assets
+metadata:
+  suppress-bibliography   : True

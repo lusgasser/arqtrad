@@ -171,7 +171,7 @@ em publicações nacionais e internacionais.
 [@ficher:2005paradigmas;
 @ficher:2010modern;
 @palazzo:2011hibridizacao;
-@palazzo:2012capital;
+@palazzo:2012capital239;
 @palazzo:2012architecture;
 -@palazzo:2013fragmento;
 -@palazzo:2014louvre]
@@ -249,7 +249,7 @@ Tal discurso valida, paradoxalmente,
 como formulação teórica brasileira a afirmação
 feita desde 1887 nesse sentido pelo crítico carioca
 Luiz Gonzaga Duque Estrada (1863--1911).
-[@gonzaga-duque:1995arte]
+[@gonzagaduque:1995arte]
 
 A recusa em se reconhecer não apenas essa produção crítica,
 mas igualmente a diversidade de teorias a fundamentarem

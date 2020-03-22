@@ -1,12 +1,11 @@
 ---
-title      : "La restauración monumental"
-author     : "Leopoldo Gil Cornet"
-date       : 2020-03-31
-lang       : es-ES
+author: Leopoldo Gil Cornet
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-31'
+suppress-bibliography: true
+title: La restauración monumental
 ---
-
-La restauración monumental
-==========================
 
 Introducción
 ------------
@@ -121,4 +120,3 @@ El objetivo final de un proyecto de restauración es que el monumento
 restaurado sea más bello, lo conozcamos mejor, que aumente el aprecio
 por él de la sociedad que lo disfruta y, no menos importante, que todo
 el conocimiento adquirido se difunda. Pensamos que lo hemos conseguido.
-

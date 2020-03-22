@@ -1,0 +1,17 @@
+to: markdown-citations
+standalone: true
+bibliography           : '_data/biblio.yaml'
+csl                    : 'lib/styles/associacao-brasileira-de-normas-tecnicas.csl'
+fail-if-warnings       : True
+file-scope             : True
+default-image-extension: '.jpg'
+# shift-heading-level-by : 1
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+resource-path:
+- .
+- fig
+- assets
+metadata:
+  suppress-bibliography  : False

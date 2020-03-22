@@ -1,7 +1,8 @@
-![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
-
-Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX
-===========================================================================
+---
+title      : "Classicismo, tradicionalismo, ecletismo: Arquitetura brasileira no longo século XIX"
+author     : "Pedro Paulo Palazzo"
+date       : 2018-06-11
+---
 
 Este projeto de pesquisa versa sobre
 os discursos arquitetônicos produzidos entre 1860 e 1930,
@@ -29,14 +30,4 @@ Insere-se, em sua maior parcela,
 na etapa do *longo século XIX* caracterizada
 pelo historiador britânico Eric Hobsbawm (1917--2012) como
 *a era do imperialismo* (1875--1914).
-
-* * *
-
- Classicismo, tradicionalismo, ecletismo (c) 2020 by Pedro P. Palazzo
- 
- Classicismo, tradicionalismo, ecletismo is licensed under a
- Creative Commons Attribution-ShareAlike 3.0 Unported License.
- 
- You should have received a copy of the license along with this
- work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
 

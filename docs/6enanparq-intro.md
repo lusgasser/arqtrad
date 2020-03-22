@@ -1,16 +1,56 @@
 ---
-title      : "Tradições arquitetônicas na contemporaneidade"
+author:
+- Pedro Paulo Palazzo
+- Rui Florentino
+bibliography: \_data/biblio.yaml
+collection: 'Eixo temático Patrimônio, escalas e processos'
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-31'
+lang: 'pt-BR'
 subtitle: |
   Architectural traditions today
 
   Tradiciones arquitectónicas contemporáneas
-author:
-- Pedro Paulo Palazzo
-- Rui Florentino
-date       : 2020-03-31
-collection : "Eixo temático: Patrimônio, escalas e processos"
-lang       : pt-BR
+suppress-bibliography: true
+title: Tradições arquitetônicas na contemporaneidade
 ---
+
+Coordenador 1
+:   Palazzo, Pedro Paulo
+:   Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
+    Universidade de Brasília
+:   [palazzo@unb.br]{.underline}
+
+Coordenador 2
+:   Florentino, Rui
+:   Doutor; Professor da Escola Superior Gallaecia, Vila Nova de
+    Cerveira
+:   [ruiflorentino@gmail.com]{.underline}
+
+Título do Trabalho 1
+:   **FLORENTINO, Rui**
+:   Doutor; Professor da Escola Superior Gallaecia
+:   [ruiflorentino@gmail.com]{.underline}
+
+La restauración monumental
+:   **GIL Cornet, Leopoldo**
+:   Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra
+:   [lgilcorn@navarra.es]{.underline}
+
+Título do Trabalho 3
+:   **DUANY, Douglas Alejandro**
+:   Doutor; University of Notre Dame School of Architecture
+:   [douglasduany@gmail.com]{.underline}
+
+Título do Trabalho 4
+:   **CRAVEIRO CUNHA, Fernanda**
+:   Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
+:   [fernanda@estudiobic.com.br]{.underline}
+
+[Em busca de (uma?) arquitetura tradicional
+brasileira](./6enanparq-palazzo.md) : **PALAZZO, Pedro Paulo** : Doutor;
+Professor da Faculdade de Arquitetura e Urbanismo da Universidade de
+Brasília : [palazzo@unb.br]{.underline}
 
 Tradições arquitetônicas na contemporaneidade
 =============================================
@@ -123,4 +163,3 @@ países. Suas contribuições vão desde a pesquisa historiográfica e a
 teoria e prática da preservação do patrimônio até a recuperação de
 sítios degradados por conflitos ou pelo descaso, passando pela prática
 projetual cotidiana com princípios e tecnologias tradicionais.
-

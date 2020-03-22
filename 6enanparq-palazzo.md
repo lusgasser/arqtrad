@@ -2,7 +2,13 @@
 title      : "Em busca de (uma?) arquitetura tradicional brasileira"
 author     : "Pedro Paulo Palazzo"
 date       : 2020-03-31
+csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+lang       : pt-BR
+suppress-bibliography: False
 ---
+
+Em busca de (uma?) arquitetura tradicional brasileira
+=====================================================
 
 *Por que* uma arquitetura tradicional brasileira? Justamente porque
 esta questão, posta no âmbito da Arquitetura como disciplina prática e
@@ -27,7 +33,7 @@ e das práticas compositivas e decorativas intrínsecas aos ofícios de
 produção do ambiente construído. No seu lugar, emerge uma historiografia
 do contexto *social e econômico* que cinge a arquitetura, sinalizada
 pelo trabalho de Myriam Andrade Ribeiro [-@oliveira:1990rococo] e de
-Beatriz Bueno [-@bueno:2001desenho; -@bueno:2005tecido], entre outras.
+Beatriz Bueno [-@bueno:2001desenho; -@bueno:2005tecido13], entre outras.
 Esta renovação metodológica é bem-vinda, porém incompleta diante do
 vazio central que agora paira sobre o estudo da história da arquitetura
 enquanto disciplina.
@@ -113,5 +119,3 @@ origens, nem numa indesejável teleologia que se sirva do passado apenas
 Referências
 -----------
 
-::: {#refs}
-:::

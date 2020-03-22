@@ -4,52 +4,97 @@
 VPATH = lib
 vpath %.csl lib/styles
 vpath %.yaml .:spec
-vpath default.% lib/pandoc-templates
+vpath default.% lib/templates
+vpath reference.% lib/templates
+# Sets a base directory for project files that reside somewhere else,
+# for example in a synced virtual drive.
+SHARE = ~/dmcp/arqtrad/arqtrad
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+PAGES_SRC     = $(wildcard *.md)
+PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
+ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
+ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
+
+build : $(PAGES_OUT) _config.yml
+	bundle exec jekyll build
+
+docs/%.md : %.md jekyll.yaml _data/biblio.yaml
+	pandoc -o $@ -d spec/jekyll.yaml $<
+	rm docs/README.md
+
+.INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
+
+_book/6enanparq.docx : _book/6enanparq.odt
+	libreoffice --invisible --convert-to docx --outdir _book $<
+
+_book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
+	6enanparq-metadata.yaml default.opendocument reference.odt
+	pandoc -o $@ -d spec/6enanparq-sl.yaml \
+		6enanparq-toc.md 6enanparq-intro.md \
+		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
+		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
+		6enanparq-craveiro.tmp 6enanparq-metadata.yaml
+
+%.tmp : %.md concat.yaml _data/biblio.yaml
+	pandoc -o $@ -d spec/concat.yaml $<
 
 # Install and cleanup {{{1
 # ===================
 # `make install` copies various config files and hooks to the .git
 # directory and sets up standard empty directories:
-# - link-template: sets up the template repo in a branch named `template`, for
-#   when you want to update local boilerplates across different projects.
-# - makedirs: creates standard folders for output (_book), received files
-#   (_share), and figures (fig).
+# - link-template: sets up the template repo in a branch named
+#   `template`, for when you want to update local boilerplates across
+#   different projects.
+# - makedirs: creates standard folders for output (_book), received
+#   files (_share), and figures (fig).
 # - submodule: initializes the submodules for the CSL styles and for the
 #   Reveal.js framework.
-# - virtualenv: sets up a virtual environment (but you still need to activate
-#   it from the command line).
-.PHONY : install link-template makedirs submodule virtualenv bundle serve build clean
-install : link-template makedirs submodule virtualenv bundle license
-	# If you reached this message, installation was successful, even if
-	# you see some errors above. Inspect them to see if there are any
-	# errors that affect the features of this template and, if this is
-	# the case, please report them by opening an issue at
-	# https://github.com/p3palazzo/research_template/issues/.
+# - lib: Pulls the latest version of the submodules (use with caution if
+#   you add non-trivial libraries!) and does a sparse-checkout to avoid
+#   having too many files that you don't use.
+# - virtualenv: sets up a virtual environment (but you still need to
+#   activate it from the command line).
+.PHONY : install link-template makedirs submodule_init virtualenv bundle serve clean
+install : link-template makedirs submodule_init lib \
+	  virtualenv bundle license
 
 makedirs :
-	-mkdir _share && mkdir _book && mkdir fig
+	# -mkdir -p _share && mkdir -p _book && mkdir -p fig
+	# if you prefer to keep binary files somewhere else (for
+	# example, in a synced Dropbox), uncomment the lines below.
+	ln -s $(SHARE)/_book _book
+	ln -s $(SHARE)/_share _share
+	ln -s $(SHARE)/fig fig
+	ln -s $(SHARE)/assets assets
 
-submodule : link-template
+lib :   .install/git/modules/lib/styles/info/sparse-checkout \
+	.install/git/modules/lib/pandoc-templates/info/sparse-checkout
+	rsync -aq .install/git/ .git/
+	cd lib/styles && git config core.sparsecheckout true && \
+		git checkout master && git pull && \
+		git read-tree -m -u HEAD
+	cd lib/pandoc-templates && git config core.sparsecheckout true \
+		&& git checkout master && git pull && \
+		git read-tree -m -u HEAD
+
+submodule_init : link-template
 	git checkout template
 	git pull
 	-git submodule init
 	git submodule update
 	git checkout -
 	git merge template --allow-unrelated-histories
-	rsync -aq .install/git/ .git/
-	cd lib/styles && git config core.sparsecheckout true && \
-		git read-tree -m -u HEAD
 
 link-template :
-	# Generating a repo from a GitHub template breaks the submodules.
-	# As a workaround, we create a branch that clones directly from the
-	# template repo, activate the submodules there, then merge it into
-	# whatever branch was previously active (the master branch if your
-	# repo has just been initialized).
+	# Generating a repo from a GitHub template breaks the
+	# submodules. As a workaround, we create a branch that clones
+	# directly from the template repo, activate the submodules
+	# there, then merge it into whatever branch was previously
+	# active (the master branch if your repo has just been
+	# initialized).
 	-git remote add template git@github.com:p3palazzo/research_template.git
 	git fetch template
 	git checkout -B template --track template/master
@@ -66,19 +111,16 @@ virtualenv :
 bundle :
 	bundle config set path '.vendor/bundle'
 	# Remove the line above if you want to install gems system-wide.
-	# (This requires sudo)
-	# The config set path is effectively ignored by bundle in favor of
-	# the global path setting. My global config at ~/.bundle, however,
-	# is itself overridden by the built-in bundle path setting, which
-	# is `.vendor`. Can't seem to be able to change this in any way.
+	# (This requires sudo).
+	# The config set path is effectively ignored by bundle in favor
+	# of the global path setting. My global config at ~/.bundle,
+	# however, is itself overridden by the built-in bundle path
+	# setting, which is `.vendor`. Can't seem to be able to change
+	# this in any way.
 	bundle install
 
 serve :
 	bundle exec jekyll serve
-
-build :
-	bundle exec jekyll build
-	cp -r _site/* docs/
 
 license :
 	source .venv/bin/activate && \
@@ -89,6 +131,6 @@ license :
 # files should be. Anything you might have placed manually in them will
 # also be deleted!
 clean :
-	-rm -r _book/* _site/*
+	-rm -rf _site *.tmp
 
-# vim: set foldmethod=marker :
+# vim: set foldmethod=marker tw=72 :
