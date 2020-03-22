@@ -42,7 +42,7 @@ Título do Trabalho 4
 : Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 : [fernanda\@estudiobic.com.br]{.underline}
 
-Em busca de (uma?) tradição arquitetônica luso-brasileira
+Em busca de (uma?) tradição arquitetônica brasileira
 : **PALAZZO, Pedro Paulo**
 : Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
   Universidade de Brasília
@@ -68,7 +68,7 @@ contemporaneidade.
 O estudo das tradições construtivas e, concomitantemente, do
 tradicionalismo artístico, vêm cada vez mais se afirmando
 internacionalmente tanto na pesquisa acadêmica quanto na prática
-profissional em contraposição à meta-narrativa ainda hegemônica na
+profissional em contraposição à metanarrativa ainda hegemônica na
 historiografia da arquitetura e do urbanismo, que privilegia a sucessão
 linear de estilos e as vanguardas artísticas como paradigmas
 explicativos. Hoje em dia tanto quanto à época da "Querela dos Antigos e
