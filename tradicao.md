@@ -1,6 +1,23 @@
 ---
 ---
 
+Isto posto, é preciso explicar por que consideramos o cerne dos
+conhecimentos e das práticas disciplinares da arquitetura como uma
+*tradição.*
+
+Partir do conceito de *tradição* para formular uma historiografia --- e
+por que não uma teoria --- do domínio disciplinar da arquitetura é, em
+primeiro lugar, um expediente útil na medida em que *organiza* o
+conhecimento arquitetônico acumulado através dos tempos segundo um
+critério internalista. Isso nos permite, então, extrair dele um sentido
+explicativo seja para a historiografia disciplinar, seja para uma
+prática contemporânea que se coloque na continuidade dessa tradição.
+Mais do que uma simples conveniência utilitária, porém, olhar para a
+disciplina da Arquitetura por meio de um paradigma tradicional
+corresponde à *realidade* observada ao longo da história do ambiente
+construído, especialmente no espectro vernáculo, tão marcante no
+patrimônio cultural brasileiro.
+
 Três níveis de entendimento têm pautado a formulação de discursos em
 torno da tradição.
 O primeiro nível diz respeito a uma apropriação da tradição enquanto uma
