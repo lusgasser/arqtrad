@@ -9,13 +9,14 @@ vpath default.% lib/pandoc-templates
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-PAGES_SRC = $(wildcard txt/*.md)
-PAGES_OUT := $(patsubst txt/%,docs/%, $(PAGES_SRC))
+PAGES_SRC = $(wildcard *.md)
+PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
 
 build : $(PAGES_OUT)
+	-rm docs/README.md
 	bundle exec jekyll build
 
-docs/%.md : txt/%.md _data/biblio.yaml jekyll.yaml
+docs/%.md : %.md _data/biblio.yaml jekyll.yaml
 	pandoc -o $@ --defaults spec/jekyll.yaml $<
 
 # Install and cleanup {{{1
