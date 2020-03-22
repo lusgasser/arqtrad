@@ -1,4 +1,7 @@
 ---
+title      : "Apontamentos sobre tradicionalismo"
+author     : "Pedro Paulo Palazzo"
+date       : 2020-03-22
 ---
 
 Isto posto, é preciso explicar por que consideramos o cerne dos

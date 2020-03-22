@@ -4,24 +4,20 @@
 VPATH = lib
 vpath %.csl lib/styles
 vpath %.yaml .:spec
+vpath %.md txt
 vpath default.% lib/pandoc-templates
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-PAGES_SRC = $(wildcard src/pages/*.md)
-PAGES_OUT := $(patsubst src/pages/%,_pages/%, $(PAGES_SRC))
-POSTS_SRC = $(wildcard src/posts/*.md)
-POSTS_OUT := $(patsubst src/posts/%,_posts/%, $(POSTS_SRC))
+JEKYLL_SRC = $(wildcard txt/*.md)
+JEKYLL_OUT := $(patsubst txt/%,./%, $(JEKYLL_SRC))
 
-build : $(PAGES_OUT) $(POSTS_OUT)
+build : $(JEKYLL_OUT)
 	bundle exec jekyll build
 
-_pages/%.md : src/pages/%.md _data/biblio.yaml posts.yaml
-	pandoc -o $@ --defaults spec/posts.yaml $<
-
-_posts/%.md : src/posts/%.md _data/biblio.yaml posts.yaml
-	pandoc -o $@ --defaults spec/posts.yaml $<
+./%.md : %.md _data/biblio.yaml jekyll.yaml
+	pandoc -o $@ --defaults spec/jekyll.yaml $<
 
 # Install and cleanup {{{1
 # ===================

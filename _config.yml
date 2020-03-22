@@ -37,6 +37,7 @@ plugins:
 destination: docs
 keep_files: 
   - reveal.js
+permalink: /:categories/:year/:month/:day/:title/
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -51,7 +52,7 @@ exclude:
   - README.md
   - lib/
   - spec/
-  - src/
+  - txt/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
