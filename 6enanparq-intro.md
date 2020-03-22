@@ -7,7 +7,8 @@ subtitle: |
 author:
 - Pedro Paulo Palazzo
 - Rui Florentino
-date       : "Eixo temático Patrimônio, escalas e processos"
+date       : 2020-03-31
+collection : "Eixo temático Patrimônio, escalas e processos"
 ---
 
 Coordenador 1
