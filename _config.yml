@@ -46,6 +46,7 @@ plugins:
 exclude:
   - docs/reveal.js/
   - README.md
+  - src/
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
