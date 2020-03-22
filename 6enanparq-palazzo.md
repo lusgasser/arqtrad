@@ -39,32 +39,34 @@ paradoxal se considerarmos a projeção dada atualmente à salvaguarda da
 memória [@cymbalista:2017patrimonio] e dos *modos de fazer* tradicionais
 na esfera do patrimônio cultural [@marins:2016novos29], ou mesmo a
 importância operativa de tais conhecimentos na conservação e restauro de
-edifícios históricos.
+edifícios históricos --- como atesta, em grande escala, a *recriação* de
+uma paisagem urbana de caráter vernáculo na cidade de Paraty, em meados
+do século XX.
 
 *Por que* uma arquitetura tradicional brasileira, portanto? Porque a
-tradição é, ao mesmo tempo, *parte da realidade e ferramenta para
-explicar essa mesma realidade.* Dualidade indispensável ao resgate de
-uma historiografia disciplinar da arquitetura --- historiografia esta
-que, ao mesmo tempo, verse *sobre* a arquitetura enquanto ofício e
-processo de produção do ambiente construído, e que *faça parte* dos
+tradição é *parte da realidade,* mas também *ferramenta para explicar
+essa mesma realidade.* Essa dupla natureza da tradição é indispensável
+ao resgate de uma historiografia disciplinar da arquitetura --- por um
+lado, *versando sobre* a arquitetura enquanto ofício e processo de
+produção do ambiente construído e, por outro lado, *fazendo parte* dos
 atributos disciplinares do ofício de arquiteto. O conceito de *tradição*
 expande o alcance do conceito de *oficina,* atualmente aplicado, por
 exemplo, à atuação dos mestres barrocos [@oliveira:2002aleijadinho;
-@pedrosa:2013oficina29] --- ao passo que este engloba as relações
+@pedrosa:2013oficina29] --- ao passo que *oficina* engloba as relações
 materiais dos artistas com seus clientes e as relações de trabalho,
-aquele resgata os aspectos propriamente artísticos do seu trabalhas
+*tradição* resgata os aspectos propriamente artísticos do seu trabalhas
 relações de trabalho, aquele resgata os aspectos propriamente artísticos
 da sua atuação.
 
-Indispensável, também, para situarmos a produção arquitetônica
+É indispensável, também, para situarmos a produção arquitetônica
 tradicionalista da atualidade como parte integrante do panorama da
 prática e da teoria, fomentando, inclusive, uma maior proximidade
 técnica e estética entre preservação do patrimônio cultural e novas
 construções. Este percurso já fora ensaiado pontualmente por arquitetos
 como Jô Vasconcellos, Éolo Maia, ou Nivaldo de Andrade, sendo tratado na
 crítica contemporânea como fenômeno marginal. Pensamos, aqui, nos
-dissabores críticos do famigerado *neoclássico paulista* da virada deste
-século [@pulici:2011gosto], cujo principal protagonista é Marcos
+dissabores críticos do famigerado *neoclássico paulista* da virada do
+nosso século [@pulici:2011gosto], cujo principal protagonista é Marcos
 Tomanik, mas também na reduzida inserção do emprego do adobe na
 arquitetura sustentável [@mann:1985traditionalism39] no discurso
 hegemônico da arquitetura contemporânea. Propomos, então, que um
