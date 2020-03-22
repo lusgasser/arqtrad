@@ -9,15 +9,19 @@ vpath default.% lib/pandoc-templates
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-ENANPARQ_SRC = $(wildcard src/6enanparq-*.md)
-ENANPARQ_OUT := $(patsubst src/%,_pages/%, $(ENANPARQ_SRC))
+PAGES_SRC = $(wildcard src/pages/*.md)
+PAGES_OUT := $(patsubst src/pages/%,_pages/%, $(PAGES_SRC))
+POSTS_SRC = $(wildcard src/posts/*.md)
+POSTS_OUT := $(patsubst src/posts/%,_posts/%, $(POSTS_SRC))
 
-build : $(ENANPARQ_OUT)
+build : $(PAGES_OUT) $(POSTS_OUT)
 	bundle exec jekyll build
-	mv _site/* docs/
 
-_pages/6enanparq-%.md : src/6enanparq-%.md _data/biblio.yaml pages.yaml
-	pandoc -o $@ --defaults spec/pages.yaml $<
+_pages/%.md : src/pages/%.md _data/biblio.yaml posts.yaml
+	pandoc -o $@ --defaults spec/posts.yaml $<
+
+_posts/%.md : src/posts/%.md _data/biblio.yaml posts.yaml
+	pandoc -o $@ --defaults spec/posts.yaml $<
 
 # Install and cleanup {{{1
 # ===================

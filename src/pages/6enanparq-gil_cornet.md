@@ -1,0 +1,121 @@
+---
+title      : La restauración monumental
+author     : Leopoldo Gil Cornet
+date       : 2020-03-31
+csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+---
+
+Introducción
+------------
+
+Hay un principio general que no se suele considerar y que sin embargo
+resulta muy útil al enfrentarse con un proyecto de restauración
+monumental. El principio es el siguiente: el problema que debe resolver
+la arquitectura no es de forma, es de relación.
+
+En efecto, en mi opinión, no es un problema de forma lo que la sociedad
+plantea a la arquitectura; es un problema de relación. Mejor sería decir
+de relaciones porque son múltiples y muy variadas: la relación con el
+lugar, con la tradición constructiva, con la función, con los deseos de
+quien encarga el proyecto, con la disponibilidad económica, con la
+legislación vigente, etc., y con la belleza que nosotros para
+simplificar llamamos forma.
+
+No hay que olvidar que la arquitectura es un arte, un arte con razón de
+uso. Y precisamente esa funcionalidad de la arquitectura es lo que la
+diferencia de la pintura y de la escultura. Esto nos permitirá afirmar y
+defender que los principios que rigen en la restauración de bienes
+muebles no son aplicables a la restauración de la arquitectura.
+
+La arquitectura que es considerada como patrimonio arquitectónico se
+distingue por poseer unos valores que están en la esencia del monumento.
+¿Cuáles son estos valores esenciales? Valor artístico; valor histórico o
+documental; y un valor social o significativo que lo vincula con su
+entorno. Estos tres valores se dan, en mayor o menor medida, en todo
+monumento. Y estos son los valores que debemos defender, conservar y
+potenciar en un monumento, para transmitirlo a las futuras generaciones.
+
+¿Cómo plantear un proyecto de restauración monumental? No hay criterios
+preconcebidos. Los criterios deben ser consecuencia de las
+características del objeto a restaurar. Cada monumento es diferente,
+singular, único e irrepetible, porque es consecuencia de su tiempo, de
+su lugar y de su devenir histórico.
+
+¿Cómo se debe actuar? Para empezar es preciso saber qué tenemos entre
+manos. Se suele decir que no se puede amar lo que no se conoce. Y será
+necesario conocerlo en todas sus facetas. Aquí empieza el proceso que
+debe seguir un proyecto de restauración monumental. Y para que este
+proceso llegue a buen puerto hay que actuar con orden, es decir, con
+método.
+
+Voy a resaltar dos momentos fundamentales en el proceso de restauración
+monumental: el que se refiere al análisis del objeto y el que se debe
+producirse a continuación, la reflexión.
+
+En la fase de conocimiento del objeto a restaurar se debe analizar su
+historia, su materialidad, y su entorno social.
+
+En la fase de reflexión la información se convierte en conocimiento y es
+en ella cuando se determinan los objetivos y los criterios de
+intervención. Criterios que pueden variar a lo largo del proceso en
+función de los datos que pueda suministrar el propio monumento durante
+la ejecución de la obra. Es el momento de recordar el principio general
+que se ha expuesto al inicio de este texto: la arquitectura no es un
+problema de forma, es un problema de relación. Y en el caso de la
+restauración monumental son relaciones ineludibles las que se refieren a
+los valores esenciales del monumento.
+
+La restauración del claustro de la catedral de Pamplona
+-------------------------------------------------------
+
+En la restauración del claustro de la catedral (2015-2020) se han puesto
+en practica las ideas expuestas más arriba y se ha puesto en crisis la
+autenticidad, algo que sugiere pero no define, la Carta de Venecia
+(1964), y la Ley de Patrimonio Histórico Español (1985) que proscribe la
+reconstrucción del monumento. En mi opinión, restaurar en muchos casos
+exige reconstruir y en algunos casos la intervención mínima necesaria
+será la reconstrucción.
+
+Si se analizan los elementos del claustro se verá que alguno de sus
+contrafuertes había perdido su pináculo y su gárgola, y otros se
+encontraban en proceso de ruina. Los pináculos tienen una doble función:
+estructural y estética. Con las gárgolas ocurre algo parecido; aunque su
+función de conducir el agua desapareció al construir el sobreclaustro,
+conservan su componente estética que marca un ritmo en las fachadas.
+
+Las decisiones tomadas para su restauración se han basado en una
+realidad evidente: el claustro es arquitectura y como tal debe ser
+restaurado; es un espacio singular alrededor del cual gira toda la
+actividad de la catedral, y está vivo; el claustro tiene el mismo uso
+para el que fue concebido hace ya más de setecientos años.
+
+Siguiendo este principio, se han consolidado y restaurado los elementos
+de piedra que su estado de conservación lo permitía, se han sustituido
+(reconstruido) aquellos elementos de piedra irrecuperables ---pináculos,
+pilares y bateaguas---, se han repuesto (reconstruido) elementos pétreos
+desaparecidos ---pináculos y gárgolas---, se han reintegrado sillares y
+otros elementos constructivos con piedra artificial, y se han perfilado
+los maineles más deteriorados con mortero de restitución, para
+devolverles la dignidad perdida.
+
+Uno de los trabajos que ha despertado mayor interés ha sido la
+reposición, mediante reproducción facsímil en papel gel, de las pinturas
+murales que fueron arrancadas de las paredes del claustro, en 1947, para
+ser llevadas al Museo de Navarra.
+
+Una vez reproducidas, la discusión sobre su autenticidad resulta
+inevitable ¿Cuáles son más auténticas? ¿Las pinturas reproducidas o las
+que se conservan en el museo? Las pinturas que se conservan y exponen en
+el museo fueron arrancadas, trasladadas, enteladas, restauradas,
+repintadas, recolocadas... , y están en el Museo de Navarra. Las otras,
+reproducidas con el máximo rigor desde el punto de vista científico,
+capaces de transmitir al espectador la información y la emoción del
+interior de un claustro gótico, se encuentran en el claustro de la
+catedral. Para nosotros, estas son las auténticas pinturas murales del
+claustro de la catedral de Pamplona.
+
+El objetivo final de un proyecto de restauración es que el monumento
+restaurado sea más bello, lo conozcamos mejor, que aumente el aprecio
+por él de la sociedad que lo disfruta y, no menos importante, que todo
+el conocimiento adquirido se difunda. Pensamos que lo hemos conseguido.
+

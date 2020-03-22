@@ -9,6 +9,7 @@ author:
 - Rui Florentino
 date       : 2020-03-31
 collection : "Eixo temático Patrimônio, escalas e processos"
+csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
 ---
 
 Coordenador 1

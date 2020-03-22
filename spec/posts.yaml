@@ -1,0 +1,15 @@
+to: markdown-citations
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+bibliography            : '_data/biblio.yaml'
+csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+fail-if-warnings        : True
+file-scope              : True
+default-image-extension : '.jpg'
+resource-path:
+- .
+- fig
+- assets
+metadata:
+  suppress-bibliography   : True
