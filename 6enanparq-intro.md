@@ -27,7 +27,7 @@ Título do Trabalho 1
 : Doutor; Professor da Escola Superior Gallaecia
 : [ruiflorentino\@gmail.com]{.underline}
 
-Título do Trabalho 2
+La restauración monumental
 : **GIL Cornet, Leopoldo**
 : Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra
 : [lgilcorn\@navarra.es]{.underline}
@@ -42,7 +42,7 @@ Título do Trabalho 4
 : Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 : [fernanda\@estudiobic.com.br]{.underline}
 
-Em busca de (uma?) tradição arquitetônica brasileira
+Em busca de (uma?) arquitetura tradicional brasileira
 : **PALAZZO, Pedro Paulo**
 : Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
   Universidade de Brasília
