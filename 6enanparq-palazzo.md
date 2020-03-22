@@ -4,16 +4,6 @@ author     : "Pedro Paulo Palazzo"
 date       : 2020-03-31
 ---
 
-Falar em tradição no domínio contemporâneo da arquitetura pode parecer,
-em meados do século XXI, inconciliável seja com a liberdade criativa
-presumida na prática arquitetônica, seja com a pretensa rejeição do
-anacronismo que fundamenta a pesquisa histórica criteriosa. Diante dessa
-constatação de senso comum, há apenas uma atitude progressista a ser
-tomada: questionar o senso comum. Nosso questionamento consiste, aqui,
-num problema em forma de provocação: como propor o conceito de tradição
-enquanto um marco explicativo possível para a história da arquitetura
-brasileira?
-
 *Por que* uma arquitetura tradicional brasileira? Justamente porque
 esta questão, posta no âmbito da Arquitetura como disciplina prática e
 objeto de pesquisa histórica, tem sido duplamente suprimida. Do lado da
