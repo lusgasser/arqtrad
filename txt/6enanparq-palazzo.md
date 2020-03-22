@@ -28,7 +28,7 @@ e das práticas compositivas e decorativas intrínsecas aos ofícios de
 produção do ambiente construído. No seu lugar, emerge uma historiografia
 do contexto *social e econômico* que cinge a arquitetura, sinalizada
 pelo trabalho de Myriam Andrade Ribeiro [-@oliveira:1990rococo] e de
-Beatriz Bueno [-@bueno:2001desenho; -@bueno:2005tecido], entre outras.
+Beatriz Bueno [-@bueno:2001desenho; -@bueno:2005tecido13], entre outras.
 Esta renovação metodológica é bem-vinda, porém incompleta diante do
 vazio central que agora paira sobre o estudo da história da arquitetura
 enquanto disciplina.

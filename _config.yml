@@ -34,10 +34,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
-destination: docs
-keep_files: 
-  - reveal.js
-permalink: /:categories/:year/:month/:day/:title/
+source: docs
+permalink: /:categories/:year/:month/:day/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
