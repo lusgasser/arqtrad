@@ -1,7 +1,7 @@
-![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg)
+![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
-Classicismo, tradicionalismo, ecletismo: Arquitetura brasileira no longo século XIX
-===================================================================================
+Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX
+===========================================================================
 
 Este projeto de pesquisa versa sobre
 os discursos arquitetônicos produzidos entre 1860 e 1930,
