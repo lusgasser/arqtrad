@@ -12,8 +12,7 @@ vpath default.% lib/pandoc-templates
 PAGES_SRC = $(wildcard *.md)
 PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
 
-build : $(PAGES_OUT)
-	-rm docs/README.md
+build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
 
 docs/%.md : %.md _data/biblio.yaml jekyll.yaml

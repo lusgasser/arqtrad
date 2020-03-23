@@ -18,6 +18,7 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
   gem "jekyll-github-metadata"
+  gem "jekyll-relative-links"
 end
 # Jekyll-feed had to be downgraded from 0.12 to 0.11 due to compatibility
 # with github-pages (which presently does not support jekyll 4.0).

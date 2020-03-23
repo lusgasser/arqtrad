@@ -1,3 +1,12 @@
+---
+author: Pedro Paulo Palazzo
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-22'
+suppress-bibliography: true
+title: Apontamentos sobre tradicionalismo
+---
+
 Isto posto, é preciso explicar por que consideramos o cerne dos
 conhecimentos e das práticas disciplinares da arquitetura como uma
 *tradição.*

@@ -3,6 +3,7 @@ title      : "Em busca de (uma?) arquitetura tradicional brasileira"
 author     : "Pedro Paulo Palazzo"
 date       : 2020-03-31
 csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+lang       : pt-BR
 ---
 
 *Por que* uma arquitetura tradicional brasileira? Justamente porque
@@ -114,5 +115,3 @@ origens, nem numa indesejável teleologia que se sirva do passado apenas
 Referências
 -----------
 
-::: {#refs}
-:::

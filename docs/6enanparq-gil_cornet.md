@@ -1,3 +1,12 @@
+---
+author: Leopoldo Gil Cornet
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-31'
+suppress-bibliography: true
+title: La restauración monumental
+---
+
 Introducción
 ------------
 

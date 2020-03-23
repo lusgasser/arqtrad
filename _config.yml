@@ -34,8 +34,11 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-github-metadata
-source: docs
-permalink: /:categories/:year/:month/:day/:title
+  - jekyll-relative-links
+source: docs/
+relative_links:
+  enabled: true
+  collections: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -48,6 +51,7 @@ permalink: /:categories/:year/:month/:day/:title
 exclude:
   - LICENSE
   - README.md
+  - docs/*.md
   - lib/
   - spec/
   - txt/

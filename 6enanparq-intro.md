@@ -10,6 +10,7 @@ author:
 date       : 2020-03-31
 collection : "Eixo temático Patrimônio, escalas e processos"
 csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+lang       : pt-BR
 ---
 
 Coordenador 1
@@ -43,7 +44,8 @@ Título do Trabalho 4
 : Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 : [fernanda\@estudiobic.com.br]{.underline}
 
-Em busca de (uma?) arquitetura tradicional brasileira
+[Em busca de (uma?) arquitetura tradicional
+brasileira](./6enanparq-palazzo.md)
 : **PALAZZO, Pedro Paulo**
 : Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
   Universidade de Brasília

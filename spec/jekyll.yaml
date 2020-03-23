@@ -1,4 +1,5 @@
-to: markdown-citations
+to: markdown-citations+gfm_auto_identifiers
+standalone: true
 filters:
 - pandoc-xnos
 - pandoc-citeproc

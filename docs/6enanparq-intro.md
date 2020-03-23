@@ -1,3 +1,20 @@
+---
+author:
+- Pedro Paulo Palazzo
+- Rui Florentino
+bibliography: \_data/biblio.yaml
+collection: 'Eixo temático Patrimônio, escalas e processos'
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-31'
+lang: 'pt-BR'
+subtitle: |
+  Architectural traditions today
+
+  Tradiciones arquitectónicas contemporáneas
+suppress-bibliography: true
+title: Tradições arquitetônicas na contemporaneidade
+---
+
 Coordenador 1
 :   Palazzo, Pedro Paulo
 :   Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
@@ -30,11 +47,10 @@ Título do Trabalho 4
 :   Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 :   [fernanda@estudiobic.com.br]{.underline}
 
-Em busca de (uma?) arquitetura tradicional brasileira
-:   **PALAZZO, Pedro Paulo**
-:   Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
-    Universidade de Brasília
-:   [palazzo@unb.br]{.underline}
+[Em busca de (uma?) arquitetura tradicional
+brasileira](./6enanparq-palazzo.md) : **PALAZZO, Pedro Paulo** : Doutor;
+Professor da Faculdade de Arquitetura e Urbanismo da Universidade de
+Brasília : [palazzo@unb.br]{.underline}
 
 Tradições arquitetônicas na contemporaneidade
 =============================================

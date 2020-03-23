@@ -1,3 +1,23 @@
+---
+abstract: |
+  Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
+  arquitetônicos da virada do século XIX no tocante às suas aspirações
+  cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira
+  República.
+author: Pedro Paulo Palazzo
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2018-06-11'
+keywords:
+- Ecletismo
+- Nacionalismo
+- História urbana
+source: '23106.067490/2018-89'
+subtitle: Arquitetura brasileira no longo século XIX
+suppress-bibliography: true
+title: 'Clássico, tradicional, eclético'
+---
+
 Introdução
 ----------
 

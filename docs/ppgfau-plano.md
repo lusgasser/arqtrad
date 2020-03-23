@@ -1,3 +1,22 @@
+---
+author: Pedro Paulo Palazzo
+bibliography: \_data/biblio.yaml
+creator:
+- affiliation: 'Programa de Pós-graduação da Faculdade de Arquitetura e
+    Urbanismo'
+  email: 'palazzo@unb.br'
+  name: Pedro Paulo Palazzo
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2018-06-11'
+keywords:
+- Ecletismo
+- Nacionalismo
+- História urbana
+subtitle: Arquitetura brasileira no longo século XIX
+suppress-bibliography: true
+title: 'Clássico, tradicional, eclético'
+---
+
 Relatório de atividades
 -----------------------
 

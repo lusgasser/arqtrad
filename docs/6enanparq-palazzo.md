@@ -1,3 +1,13 @@
+---
+author: Pedro Paulo Palazzo
+bibliography: \_data/biblio.yaml
+csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+date: '2020-03-31'
+lang: 'pt-BR'
+suppress-bibliography: true
+title: 'Em busca de (uma?) arquitetura tradicional brasileira'
+---
+
 *Por que* uma arquitetura tradicional brasileira? Justamente porque esta
 questão, posta no âmbito da Arquitetura como disciplina prática e objeto
 de pesquisa histórica, tem sido duplamente suprimida. Do lado da
@@ -98,18 +108,15 @@ origens, nem numa indesejável teleologia que se sirva do passado apenas
 Referências
 -----------
 
-::: {#refs}
-:::
-
-[^1]: Lauro Cavalcanti and André Aranha Corrêa do Lago, *Ainda moderno?
+[^1]: Lauro Cavalcanti e André Aranha Corrêa do Lago, *Ainda moderno?
     Arquitetura brasileira contemporânea* (Rio de Janeiro: Nova
     Fronteira, 2005).
 
-[^2]: Lucio Costa, "Documentação Necessária," in *Sôbre Arquitetura*
+[^2]: Lucio Costa, "Documentação necessária", in *Sôbre arquitetura*
     (Porto Alegre: Editora UniRitter, 2007), 86--94.
 
-[^3]: *Quadro da arquitetura no Brasil*, 1st ed., Coleção Debates 18
-    (São Paulo: Perspectiva, 1970).
+[^3]: *Quadro da arquitetura no Brasil*, 1º ed, Coleção Debates 18 (São
+    Paulo: Perspectiva, 1970).
 
 [^4]: *Arquitetura brasileira* (São Paulo: Melhoramentos : Edusp, 1979).
 
@@ -117,51 +124,51 @@ Referências
     (Tese (doutoramento), Université Catholique de Louvain, 1990).
 
 [^6]: "Desenho e desígnio: o Brasil dos engenheiros militares
-    (1500-1822)" (2001); "Tecido Urbano E Mercado Imobiliário Em São
-    Paulo: Metodologia de Estudo Com Base Na Décima Urbana de 1809,"
-    *Anais Do Museu Paulista: História E Cultura Material* 13, no. 1
-    (June 2005): 59--97,
+    (1500-1822)" (2001); "Tecido urbano e mercado imobiliário em São
+    Paulo: metodologia de estudo com base na Décima Urbana de 1809",
+    *Anais do Museu Paulista: História e Cultura Material* 13, nº 1
+    (junho de 2005): 59--97,
     <https://doi.org/10.1590/S0101-47142005000100003>.
 
-[^7]: Hans Sedlmayr, *Art in crisis: The lost center*, trans. Brian
-    Battershaw, 1st ed. (Chicago: Regnery, 1958).
+[^7]: Hans Sedlmayr, *Art in crisis: The lost center*, trad. Brian
+    Battershaw, 1º ed (Chicago: Regnery, 1958).
 
-[^8]: Renato Cymbalista, Sarah Feldman, and Beatriz Mugayar Kühl,
+[^8]: Renato Cymbalista, Sarah Feldman, e Beatriz Mugayar Kühl,
     *Patrimônio cultural: memória e intervenções urbanas* (São Paulo:
     Annablume : Núcleo de Apoio e Pesquisa São Paulo, 2017).
 
-[^9]: Paulo César Garcez Marins, "Novos Patrimônios, Um Novo Brasil? Um
-    Balanço Das Políticas Patrimoniais Federais Após a Década de 1980,"
-    *Estudos Históricos (Rio de Janeiro)* 29, no. 57 (April 2016):
+[^9]: Paulo César Garcez Marins, "Novos patrimônios, um novo Brasil? Um
+    balanço das políticas patrimoniais federais após a década de 1980",
+    *Estudos Históricos (Rio de Janeiro)* 29, nº 57 (abril de 2016):
     9--28, <https://doi.org/10.1590/S0103-21862016000100002>.
 
 [^10]: Myriam Andrade Ribeiro de Oliveira et al., *O Aleijadinho e sua
     oficina: catálogo das esculturas devocionais* (São Paulo: Capivara,
-    2002); Aziz José de Oliveira Pedrosa, "Uma Oficina de Talha Na Sé de
-    Mariana: O Fazer Artístico E O Contrato de Trabalho," *Varia
-    Historia* 29, no. 50 (August 2013): 597--631,
+    2002); Aziz José de Oliveira Pedrosa, "Uma oficina de talha na Sé de
+    Mariana: o fazer artístico e o contrato de trabalho", *Varia
+    Historia* 29, nº 50 (agosto de 2013): 597--631,
     <https://doi.org/10.1590/S0104-87752013000200012>.
 
-[^11]: Carolina Pulici, "O Gosto Dominante Como Gosto Tradicional:
-    Preferências E Aversões Estéticas Das Classes Altas de São Paulo,"
-    *Novos Estudos CEBRAP*, no. 91 (November 2011): 123--39,
+[^11]: Carolina Pulici, "O gosto dominante como gosto tradicional:
+    preferências e aversões estéticas das classes altas de São Paulo",
+    *Novos estudos CEBRAP*, nº 91 (novembro de 2011): 123--39,
     <https://doi.org/10.1590/S0101-33002011000300007>.
 
 [^12]: Dennis Alan Mann, "Between Traditionalism and Modernism:
-    Approaches to a Vernacular Architecture," *Journal of Architectural
-    Education* 39, no. 2 (1985): 10--16,
+    Approaches to a Vernacular Architecture", *Journal of Architectural
+    Education* 39, nº 2 (1985): 10--16,
     <https://doi.org/10.2307/1424962>.
 
-[^13]: Josef Pieper, "The Concept of Tradition," *The Review of
-    Politics* 20, nos. 4, (1958): 465--91,
+[^13]: Josef Pieper, "The Concept of Tradition", *The Review of
+    Politics* 20, nº 4, (1958): 465--91,
     <http://www.jstor.org/stable/1404856>.
 
 [^14]: Edmund N. Bacon, *Design of Cities* (New York: Penguin, 1974).
 
 [^15]: Saverio Muratori, "Studi per una operante storia urbana di
-    Venezia. I," *Palladio. Rivista di storia dell'architettura* IX,
-    nos. 3--4 (July 1959): 97--209.
+    Venezia. I", *Palladio. Rivista di storia dell'architettura* IX, nº
+    3--4 (julho de 1959): 97--209.
 
-[^16]: Briane Elisabeth Panitz Bicca, Paulo Renato Silveira Bicca, and
+[^16]: Briane Elisabeth Panitz Bicca, Paulo Renato Silveira Bicca, e
     Augusto Carlos da Silva Telles, *Arquitetura na formação do Brasil*
     (Brasília: UNESCO : Caixa Econômica Federal, 2007).
