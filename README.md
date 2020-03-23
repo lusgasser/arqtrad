@@ -1,3 +1,5 @@
+![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg)
+
 Classicismo, tradicionalismo, ecletismo: Arquitetura brasileira no longo século XIX
 ===================================================================================
 
