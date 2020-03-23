@@ -14,20 +14,21 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 
 PAGES_SRC  = $(wildcard *.md)
 PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
-ENANPARQ   = 6enanparq-florentino.md 6enanparq-gil_cornet.md \
-	   6enanparq-craveiro.md 6enanparq-palazzo.md
+ENANPARQ   =  6enanparq-palazzo.md 6enanparq-florentino.md \
+	      6enanparq-gil_cornet.md 6enanparq-duany.md \
+	      6enanparq-craveiro.md
 
 build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
 
 docs/%.md : %.md _data/biblio.yaml jekyll.yaml
-	pandoc -o $@ --defaults spec/jekyll.yaml $<
+	pandoc -o $@ -d spec/jekyll.yaml $<
 
-_book/6enanparq.docx _book/6enanparq.odt : \
-	$(ENANPARQ) _data/biblio.yaml docx-abnt.yaml
-	pandoc -o tmp.md --defaults spec/concat.yaml $(ENANPARQ)
-	pandoc -o $@ --defaults spec/docx-abnt.yaml \
-		6enanparq-intro.md tmp.md
+_book/6enanparq.docx _book/6enanparq.odt : $(ENANPARQ) \
+	_data/biblio.yaml concat.yaml 6enanparq-sl.yaml
+	pandoc -o tmp.md -d spec/concat.yaml $(ENANPARQ)
+	pandoc -o $@     -d spec/6enanparq-sl.yaml \
+		6enanparq-toc.md 6enanparq-intro.md tmp.md
 	rm -f tmp.md
 
 # Install and cleanup {{{1
@@ -41,6 +42,9 @@ _book/6enanparq.docx _book/6enanparq.odt : \
 #   files (_share), and figures (fig).
 # - submodule: initializes the submodules for the CSL styles and for the
 #   Reveal.js framework.
+# - lib: Pulls the latest version of the submodules (use with caution if
+#   you add non-trivial libraries!) and does a sparse-checkout to avoid
+#   having too many files that you don't use.
 # - virtualenv: sets up a virtual environment (but you still need to
 #   activate it from the command line).
 .PHONY : install link-template makedirs submodule_init virtualenv bundle serve clean

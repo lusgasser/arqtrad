@@ -8,6 +8,7 @@ csl                     : 'lib/styles/chicago-fullnote-bibliography-with-ibid.cs
 fail-if-warnings        : True
 file-scope              : True
 default-image-extension : '.jpg'
+email-obfuscation       : references
 resource-path:
 - .
 - fig

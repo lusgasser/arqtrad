@@ -2,7 +2,7 @@
 title      : La restauración monumental
 author     : Leopoldo Gil Cornet
 date       : 2020-03-31
-csl        : "lib/styles/associacao-brasileira-de-normas-tecnicas.csl"
+lang       : es-ES
 ---
 
 Introducción

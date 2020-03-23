@@ -8,7 +8,7 @@ default-image-extension: '.jpg'
 from                   : 'markdown'
 table-of-contents      : False
 number-sections        : False
-csl                    : 'lib/styles/associacao-brasileira-de-normas-tecnicas.csl'
+csl                    : 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 bibliography           : '_data/biblio.yaml'
 resource-path:
 - .
