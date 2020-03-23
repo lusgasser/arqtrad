@@ -1,0 +1,17 @@
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+fail-if-warnings       : True
+file-scope             : True
+standalone             : True
+default-image-extension: '.jpg'
+from                   : 'markdown'
+table-of-contents      : False
+number-sections        : False
+csl                    : 'lib/styles/associacao-brasileira-de-normas-tecnicas.csl'
+bibliography           : '_data/biblio.yaml'
+resource-path:
+- .
+- fig
+metadata:
+  suppress-bibliography  : False

@@ -1,0 +1,14 @@
+to: markdown-citations+gfm_auto_identifiers
+standalone: true
+filters:
+- pandoc-xnos
+- pandoc-citeproc
+bibliography            : '_data/biblio.yaml'
+fail-if-warnings        : True
+file-scope              : True
+default-image-extension : '.jpg'
+shift-heading-level-by  : 1
+resource-path:
+- .
+- fig
+- assets

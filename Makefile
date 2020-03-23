@@ -5,12 +5,17 @@ VPATH = lib
 vpath %.csl lib/styles
 vpath %.yaml .:spec
 vpath default.% lib/pandoc-templates
+# Sets a base directory for project files that reside somewhere else,
+# for example in a synced virtual drive.
+SHARE = ~/dmcp/arqtrad/arqtrad
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-PAGES_SRC = $(wildcard *.md)
+PAGES_SRC  = $(wildcard *.md)
 PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
+ENANPARQ   = 6enanparq-florentino.md 6enanparq-gil_cornet.md \
+	   6enanparq-craveiro.md 6enanparq-palazzo.md
 
 build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
@@ -18,33 +23,47 @@ build : $(PAGES_OUT) _config.yml
 docs/%.md : %.md _data/biblio.yaml jekyll.yaml
 	pandoc -o $@ --defaults spec/jekyll.yaml $<
 
+_book/6enanparq.docx _book/6enanparq.odt : \
+	$(ENANPARQ) _data/biblio.yaml docx-abnt.yaml
+	pandoc -o tmp.md --defaults spec/concat.yaml $(ENANPARQ)
+	pandoc -o $@ --defaults spec/docx-abnt.yaml \
+		6enanparq-intro.md tmp.md
+	rm -f tmp.md
+
 # Install and cleanup {{{1
 # ===================
 # `make install` copies various config files and hooks to the .git
 # directory and sets up standard empty directories:
-# - link-template: sets up the template repo in a branch named `template`, for
-#   when you want to update local boilerplates across different projects.
-# - makedirs: creates standard folders for output (_book), received files
-#   (_share), and figures (fig).
+# - link-template: sets up the template repo in a branch named
+#   `template`, for when you want to update local boilerplates across
+#   different projects.
+# - makedirs: creates standard folders for output (_book), received
+#   files (_share), and figures (fig).
 # - submodule: initializes the submodules for the CSL styles and for the
 #   Reveal.js framework.
-# - virtualenv: sets up a virtual environment (but you still need to activate
-#   it from the command line).
-.PHONY : install link-template makedirs submodule virtualenv bundle serve clean
-install : link-template makedirs submodule csl virtualenv bundle license
-	# If you reached this message, installation was successful, even if
-	# you see some errors above. Inspect them to see if there are any
-	# errors that affect the features of this template and, if this is
-	# the case, please report them by opening an issue at
-	# https://github.com/p3palazzo/research_template/issues/.
+# - virtualenv: sets up a virtual environment (but you still need to
+#   activate it from the command line).
+.PHONY : install link-template makedirs submodule_init virtualenv bundle serve clean
+install : link-template makedirs submodule_init lib \
+	  virtualenv bundle license
 
 makedirs :
-	-mkdir _share && mkdir _book && mkdir fig
+	# -mkdir _share && mkdir _book && mkdir fig
+	# if you prefer to keep binary files somewhere else (for
+	# example, in a synced Dropbox), uncomment the lines below.
+	ln -s $(SHARE)/_book _book
+	ln -s $(SHARE)/_share _share
+	ln -s $(SHARE)/fig fig
+	ln -s $(SHARE)/assets assets
 
-csl : .install/git/modules/lib/styles/info/sparse-checkout
+lib :   .install/git/modules/lib/styles/info/sparse-checkout \
+	.install/git/modules/lib/pandoc-templates/info/sparse-checkout
 	rsync -aq .install/git/ .git/
 	cd lib/styles && git config core.sparsecheckout true && \
 		git checkout master && git pull && \
+		git read-tree -m -u HEAD
+	cd lib/pandoc-templates && git config core.sparsecheckout true \
+		&& git checkout master && git pull && \
 		git read-tree -m -u HEAD
 
 submodule_init : link-template
@@ -56,11 +75,12 @@ submodule_init : link-template
 	git merge template --allow-unrelated-histories
 
 link-template :
-	# Generating a repo from a GitHub template breaks the submodules.
-	# As a workaround, we create a branch that clones directly from the
-	# template repo, activate the submodules there, then merge it into
-	# whatever branch was previously active (the master branch if your
-	# repo has just been initialized).
+	# Generating a repo from a GitHub template breaks the
+	# submodules. As a workaround, we create a branch that clones
+	# directly from the template repo, activate the submodules
+	# there, then merge it into whatever branch was previously
+	# active (the master branch if your repo has just been
+	# initialized).
 	-git remote add template git@github.com:p3palazzo/research_template.git
 	git fetch template
 	git checkout -B template --track template/master
@@ -77,11 +97,12 @@ virtualenv :
 bundle :
 	bundle config set path '.vendor/bundle'
 	# Remove the line above if you want to install gems system-wide.
-	# (This requires sudo)
-	# The config set path is effectively ignored by bundle in favor of
-	# the global path setting. My global config at ~/.bundle, however,
-	# is itself overridden by the built-in bundle path setting, which
-	# is `.vendor`. Can't seem to be able to change this in any way.
+	# (This requires sudo).
+	# The config set path is effectively ignored by bundle in favor
+	# of the global path setting. My global config at ~/.bundle,
+	# however, is itself overridden by the built-in bundle path
+	# setting, which is `.vendor`. Can't seem to be able to change
+	# this in any way.
 	bundle install
 
 serve :
@@ -98,4 +119,4 @@ license :
 clean :
 	-rm -r _book/* _site/*
 
-# vim: set foldmethod=marker :
+# vim: set foldmethod=marker tw=72 :
