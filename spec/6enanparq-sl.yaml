@@ -1,0 +1,15 @@
+fail-if-warnings       : True
+file-scope             : True
+standalone             : True
+default-image-extension: '.jpg'
+from                   : 'markdown'
+table-of-contents      : False
+number-sections        : False
+data-dir               : 'lib/templates/'
+template               : 'lib/templates/default.opendocument'
+filters:
+- pandoc-xnos
+resource-path:
+- .
+- fig
+- assets

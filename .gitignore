@@ -9,6 +9,8 @@
 # Generated binary files (PDF, Word, etc.) go here {{{1
 ## Book build output
 _book
+assets
+fig
 
 # For when you want to keep downloaded or received files next to your
 # repo without committing them (bc they're usually binaries).
@@ -20,6 +22,8 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.vendor/
+.bundle/
 
 # eBook build output {{{1
 *.epub

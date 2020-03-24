@@ -1,5 +1,7 @@
-Classicismo, tradicionalismo, ecletismo: Arquitetura brasileira no longo século XIX
-===================================================================================
+![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
+
+Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX
+===========================================================================
 
 Este projeto de pesquisa versa sobre
 os discursos arquitetônicos produzidos entre 1860 e 1930,
@@ -37,3 +39,4 @@ pelo historiador britânico Eric Hobsbawm (1917--2012) como
  
  You should have received a copy of the license along with this
  work.  If not, see <http://creativecommons.org/licenses/by-sa/3.0/>.
+

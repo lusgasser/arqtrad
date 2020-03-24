@@ -1,20 +1,20 @@
 ---
-title:           Classicismo, tradicionalismo, ecletismo
-subtitle:        O cosmopolita e o nacionalista na cidade industrial
+title          : "Clássico, tradicional, eclético"
+subtitle       : "Arquitetura brasileira no longo século XIX"
 author         : Pedro Paulo Palazzo
-date:            11 de junho de 2018
-abstract: |
+date           : 2018-06-11
+abstract: >
   Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
   arquitetônicos da virada do século XIX no tocante às suas aspirações
   cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
-keywords:        Ecletismo, Nacionalismo, História urbana
-bibliography:    /Users/palazzo/Nextcloud/pesquisa/_projeto_nacionalismo/biblio-projeto.yaml
-csl:             /Users/palazzo/Nextcloud/pesquisa/_projeto_nacionalismo/csl/chicago-note-bibliography-with-ibid.csl
-processo:        23106.067490/2018-89
+keywords       : [Ecletismo, Nacionalismo, História urbana]
+bibliography   : "../_data/biblio-projeto.yaml"
+csl            : "../lib/styles/chicago-note-bibliography-with-ibid.csl"
+source         : 23106.067490/2018-89
 ---
 
 Introdução
-==========
+----------
 
 Este projeto de pesquisa versa sobre
 os discursos arquitetônicos produzidos entre 1860 e 1930,
@@ -132,7 +132,7 @@ movimento neocolonial quanto no modernismo.
 
 
 Justificativa
-=============
+-------------
 
 O presente projeto de pesquisa insere-se
 nas linhas de pesquisa História e Teoria da Arquitetura,
@@ -171,7 +171,7 @@ em publicações nacionais e internacionais.
 [@ficher:2005paradigmas;
 @ficher:2010modern;
 @palazzo:2011hibridizacao;
-@palazzo:2012capital;
+@palazzo:2012capital239;
 @palazzo:2012architecture;
 -@palazzo:2013fragmento;
 -@palazzo:2014louvre]
@@ -249,7 +249,7 @@ Tal discurso valida, paradoxalmente,
 como formulação teórica brasileira a afirmação
 feita desde 1887 nesse sentido pelo crítico carioca
 Luiz Gonzaga Duque Estrada (1863--1911).
-[@gonzaga-duque:1995arte]
+[@gonzagaduque:1995arte]
 
 A recusa em se reconhecer não apenas essa produção crítica,
 mas igualmente a diversidade de teorias a fundamentarem
@@ -269,7 +269,7 @@ no discurso arquitetônico.
 
 
 Problemática e marco teórico
-============================
+----------------------------
 
 Assume-se como problema central desta pesquisa, destarte,
 a necessidade de resgate do panorama teórico
@@ -326,7 +326,7 @@ de discussões verdadeiramente públicas.
 
 
 Objetivos
-=========
+---------
 
 Objetivo geral
 : Propor uma tipologia do panorama teórico e
@@ -352,7 +352,7 @@ Objetivos específicos
 
 
 Metodologia
-===========
+-----------
 
 De modo a retratar o panorama teórico
 e edificado do período estudado,
@@ -416,7 +416,7 @@ dos objetos arquitetônicos.
 
 
 Resultados esperados
-====================
+--------------------
 
 Este projeto de pesquisa deve resultar
 em produtos de cunho tanto técnico quanto científico,
@@ -460,7 +460,7 @@ a respeito do caráter histórico da arquitetura.
 
 
 Bibliografia crítica
-====================
+--------------------
 
 [^1]: Em especial, Lima, Anabel Sousa. Cidades Invisíveis
   e Arquitetura da Cidade: Relacionando a
