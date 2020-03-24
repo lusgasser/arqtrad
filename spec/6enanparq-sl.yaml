@@ -5,8 +5,8 @@ default-image-extension: '.jpg'
 from                   : 'markdown'
 table-of-contents      : False
 number-sections        : False
-template               : 'lib/templates/default.opendocument'
 data-dir               : 'lib/templates/'
+template               : 'lib/templates/default.opendocument'
 filters:
 - pandoc-xnos
 resource-path:

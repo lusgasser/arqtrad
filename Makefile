@@ -24,18 +24,18 @@ build : $(PAGES_OUT) _config.yml
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
-.INTERMEDIATE : $(ENANPARQ_TMP)
+.INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
 
 _book/6enanparq.docx : _book/6enanparq.odt
 	libreoffice --invisible --convert-to docx --outdir _book $<
 
 _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
-	default.opendocument reference.odt
+	6enanparq-metadata.yaml default.opendocument reference.odt
 	pandoc -o $@ -d spec/6enanparq-sl.yaml \
 		6enanparq-toc.md 6enanparq-intro.md \
 		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
 		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
-		6enanparq-craveiro.tmp 6enanparq-metadata.md
+		6enanparq-craveiro.tmp 6enanparq-metadata.yaml
 
 %.tmp : %.md concat.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/concat.yaml $<
