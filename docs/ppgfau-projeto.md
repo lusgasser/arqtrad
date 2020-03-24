@@ -18,8 +18,7 @@ suppress-bibliography: true
 title: 'Clássico, tradicional, eclético'
 ---
 
-Introdução
-----------
+### Introdução
 
 Este projeto de pesquisa versa sobre os discursos arquitetônicos
 produzidos entre 1860 e 1930, com ênfase na formação dos campos teóricos
@@ -92,8 +91,7 @@ que o nacionalismo arquitetônico terá manifestação tardia,
 expressando-se, contraditoriamente, tanto no movimento neocolonial
 quanto no modernismo.
 
-Justificativa
--------------
+### Justificativa
 
 O presente projeto de pesquisa insere-se nas linhas de pesquisa História
 e Teoria da Arquitetura, Cidade, Urbanismo e Urbanização, e Patrimônio
@@ -168,8 +166,7 @@ manifestações artísticas supostamente "promíscuas".[^28] Trata-se de uma
 ameaça acertadamente condenada em diversos âmbitos culturais recentes,
 mas que vem passando curiosamente inconteste no discurso arquitetônico.
 
-Problemática e marco teórico
-----------------------------
+### Problemática e marco teórico
 
 Assume-se como problema central desta pesquisa, destarte, a necessidade
 de resgate do panorama teórico do ecletismo, evidenciando a diversidade
@@ -206,8 +203,7 @@ documentos textuais ou gráficos inéditos, o material publicado e as
 obras construídas apresentam maior relevância por comporem o contexto de
 discussões verdadeiramente públicas.
 
-Objetivos
----------
+### Objetivos
 
 Objetivo geral
 :   Propor uma tipologia do panorama teórico e do acervo edificado na
@@ -226,8 +222,7 @@ Objetivos específicos
 :   Organizar uma tipologia histórica da arquitetura eclética no Brasil,
     com ênfase no Planalto central e imediações.
 
-Metodologia
------------
+### Metodologia
 
 De modo a retratar o panorama teórico e edificado do período estudado,
 privilegiam-se abordagens formalistas na análise das fontes. A ênfase
@@ -265,8 +260,7 @@ também permite o processamento quantitativo de informações qualitativas
 relacionadas à descrição e interpretação dos objetos
 arquitetônicos.[^34]
 
-Resultados esperados
---------------------
+### Resultados esperados
 
 Este projeto de pesquisa deve resultar em produtos de cunho tanto
 técnico quanto científico, abarcando a diversidade teórica e material da
@@ -294,8 +288,7 @@ história da arquitetura, com foco no papel do ecletismo como momento
 crucial nas abordagens críticas a respeito do caráter histórico da
 arquitetura.
 
-Bibliografia crítica
---------------------
+### Bibliografia crítica
 
 [^1]: Eric J. Hobsbawm, *The Age of Empire 1875-1914* (New York:
     Vintage, 1989).

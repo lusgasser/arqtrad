@@ -8,6 +8,9 @@ suppress-bibliography: true
 title: 'Em busca de (uma?) arquitetura tradicional brasileira'
 ---
 
+Em busca de (uma?) arquitetura tradicional brasileira
+-----------------------------------------------------
+
 *Por que* uma arquitetura tradicional brasileira? Justamente porque esta
 questão, posta no âmbito da Arquitetura como disciplina prática e objeto
 de pesquisa histórica, tem sido duplamente suprimida. Do lado da
@@ -105,8 +108,7 @@ as linhagens da tradição sem cair numa --- interminável --- regressão às
 origens, nem numa indesejável teleologia que se sirva do passado apenas
 à luz da ideologia hegemônica no presente.
 
-Referências
------------
+### Referências
 
 [^1]: Lauro Cavalcanti e André Aranha Corrêa do Lago, *Ainda moderno?
     Arquitetura brasileira contemporânea* (Rio de Janeiro: Nova
