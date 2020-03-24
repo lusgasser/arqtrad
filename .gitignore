@@ -9,6 +9,7 @@
 # Generated binary files (PDF, Word, etc.) go here {{{1
 ## Book build output
 _book
+assets
 fig
 
 # For when you want to keep downloaded or received files next to your
