@@ -17,8 +17,7 @@ suppress-bibliography: true
 title: 'Clássico, tradicional, eclético'
 ---
 
-Relatório de atividades
------------------------
+### Relatório de atividades
 
 Durante o período de credenciamento vencido, de 2013 a 2018, atuamos no
 âmbito do ensino, pesquisa, extensão e administração do Programa de
@@ -52,8 +51,7 @@ Museus (Ibram). Possui como foco de atuação o patrimônio arquitetônico
 tradicional e moderno em seus aspectos de formulação teórica e de
 conservação física, em especial a construção em terra e em concreto.
 
-Ensino
-------
+### Ensino
 
 A atuação no ensino de pós-graduação vincula-se sobretudo à linha de
 pesquisa História e Teoria da Arquitetura (HTA), conforme planejamento
@@ -88,8 +86,7 @@ atualização dos conteúdos curriculares com base no desenvolvimento da
 pesquisa, bem como de aplicação de conceitos referentes a metodologias
 tradicionais de projeto.
 
-Pesquisa
---------
+### Pesquisa
 
 A execução do projeto de pesquisa divide-se em três etapas:
 fundamentação teórica e documentação de bens inéditos, desenvolvimento
@@ -112,8 +109,7 @@ fortalecimento da iniciação científica na graduação, serão oferecidas a
 partir de 2020 vagas em planos de trabalho relacionados ao projeto de
 pesquisa.
 
-Extensão
---------
+### Extensão
 
 Contatos em andamento com o Ibram, no âmbito do grupo de pesquisa que
 lideramos, devem criar oportunidades para a documentação de bens
@@ -130,8 +126,7 @@ jornadas do laboratório por ocasião da Semana Universitária, bem como o
 acolhimento de visita técnica vinda da Université catholique de Louvain
 (Bélgica).
 
-Recursos
---------
+### Recursos
 
 A viabilidade de execução das atividades planejadas ampara-se nos
 vínculos interinstitucionais já estabelecidos pelo grupo de pesquisa
@@ -147,8 +142,7 @@ entidades externas, como o Ibram. Essas parcerias podem resultar na
 aquisição de materiais e insumos que sustentem um aprimoramento nas
 condições de trabalho de pesquisadores e estudantes.
 
-Cronograma
-----------
+### Cronograma
 
   ---------------------------------------------------------------------------
    Período   Ensino         Pesquisa               Extensão

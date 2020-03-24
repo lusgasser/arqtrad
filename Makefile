@@ -23,6 +23,7 @@ build : $(PAGES_OUT) _config.yml
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
+	rm docs/README.md
 
 .INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
 
