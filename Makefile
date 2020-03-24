@@ -18,24 +18,24 @@ PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
 ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 
-.INTERMEDIATE : $(ENANPARQ_TMP)
-
 build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
 
-docs/%.md : %.md _data/biblio.yaml jekyll.yaml
+docs/%.md : %.md jekyll.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
-_book/6enanparq.docx : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
+.INTERMEDIATE : $(ENANPARQ_TMP)
+
+_book/6enanparq.docx : _book/6enanparq.odt
+	libreoffice --invisible --convert-to docx --outdir _book $<
+
+_book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 	default.opendocument reference.odt
-	pandoc -o $(*F).odt -d spec/6enanparq-sl.yaml -f markdown \
+	pandoc -o $@ -d spec/6enanparq-sl.yaml \
 		6enanparq-toc.md 6enanparq-intro.md \
 		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
 		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-craveiro.tmp 6enanparq-metadata.md
-	libreoffice --invisible --convert-to docx $(*F).odt \
-		--outdir _book
-	rm -f $(*F).odt
 
 %.tmp : %.md concat.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/concat.yaml $<
