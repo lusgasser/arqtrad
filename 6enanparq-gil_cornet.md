@@ -1,12 +1,15 @@
 ---
-title      : La restauración monumental
-author     : Leopoldo Gil Cornet
+title      : "La restauración monumental"
+author     : "Leopoldo Gil Cornet"
 date       : 2020-03-31
 lang       : es-ES
 ---
 
+La restauración monumental
+==========================
+
 Introducción
-============
+------------
 
 Hay un principio general que no se suele considerar y que sin embargo
 resulta muy útil al enfrentarse con un proyecto de restauración
@@ -66,7 +69,7 @@ restauración monumental son relaciones ineludibles las que se refieren a
 los valores esenciales del monumento.
 
 La restauración del claustro de la catedral de Pamplona
-=======================================================
+-------------------------------------------------------
 
 En la restauración del claustro de la catedral (2015-2020) se han puesto
 en practica las ideas expuestas más arriba y se ha puesto en crisis la
@@ -118,5 +121,4 @@ El objetivo final de un proyecto de restauración es que el monumento
 restaurado sea más bello, lo conozcamos mejor, que aumente el aprecio
 por él de la sociedad que lo disfruta y, no menos importante, que todo
 el conocimiento adquirido se difunda. Pensamos que lo hemos conseguido.
-
 

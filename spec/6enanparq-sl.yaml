@@ -3,10 +3,10 @@ file-scope             : True
 standalone             : True
 default-image-extension: '.jpg'
 from                   : 'markdown'
-table-of-contents      : True
+table-of-contents      : False
 number-sections        : False
-data-dir               : 'lib/pandoc-templates/'
-reference-doc          : '_share/6enanparq-sl.docx'
+template               : 'lib/templates/default.opendocument'
+data-dir               : 'lib/templates/'
 filters:
 - pandoc-xnos
 resource-path:

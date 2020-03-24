@@ -4,7 +4,8 @@
 VPATH = lib
 vpath %.csl lib/styles
 vpath %.yaml .:spec
-vpath default.% lib/pandoc-templates
+vpath default.% lib/templates
+vpath reference.% lib/templates
 # Sets a base directory for project files that reside somewhere else,
 # for example in a synced virtual drive.
 SHARE = ~/dmcp/arqtrad/arqtrad
@@ -12,11 +13,12 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 # Branch-specific targets and recipes {{{1
 # ===================================
 
-PAGES_SRC  = $(wildcard *.md)
-PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
-ENANPARQ   =  6enanparq-palazzo.md 6enanparq-florentino.md \
-	      6enanparq-gil_cornet.md 6enanparq-duany.md \
-	      6enanparq-craveiro.md
+PAGES_SRC     = $(wildcard *.md)
+PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
+ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
+ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
+
+.INTERMEDIATE : $(ENANPARQ_TMP)
 
 build : $(PAGES_OUT) _config.yml
 	bundle exec jekyll build
@@ -24,12 +26,19 @@ build : $(PAGES_OUT) _config.yml
 docs/%.md : %.md _data/biblio.yaml jekyll.yaml
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
-_book/6enanparq.docx _book/6enanparq.odt : $(ENANPARQ) \
-	_data/biblio.yaml concat.yaml 6enanparq-sl.yaml
-	pandoc -o tmp.md -d spec/concat.yaml $(ENANPARQ)
-	pandoc -o $@     -d spec/6enanparq-sl.yaml \
-		6enanparq-toc.md 6enanparq-intro.md tmp.md
-	rm -f tmp.md
+_book/6enanparq.docx : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
+	default.opendocument reference.odt
+	pandoc -o $(*F).odt -d spec/6enanparq-sl.yaml -f markdown \
+		6enanparq-toc.md 6enanparq-intro.md \
+		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
+		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
+		6enanparq-craveiro.tmp 6enanparq-metadata.md
+	libreoffice --invisible --convert-to docx $(*F).odt \
+		--outdir _book
+	rm -f $(*F).odt
+
+%.tmp : %.md concat.yaml _data/biblio.yaml
+	pandoc -o $@ -d spec/concat.yaml $<
 
 # Install and cleanup {{{1
 # ===================
@@ -52,7 +61,7 @@ install : link-template makedirs submodule_init lib \
 	  virtualenv bundle license
 
 makedirs :
-	# -mkdir _share && mkdir _book && mkdir fig
+	# -mkdir -p _share && mkdir -p _book && mkdir -p fig
 	# if you prefer to keep binary files somewhere else (for
 	# example, in a synced Dropbox), uncomment the lines below.
 	ln -s $(SHARE)/_book _book
@@ -121,6 +130,6 @@ license :
 # files should be. Anything you might have placed manually in them will
 # also be deleted!
 clean :
-	-rm -r _book/* _site/*
+	-rm -rf _site *.tmp
 
 # vim: set foldmethod=marker tw=72 :

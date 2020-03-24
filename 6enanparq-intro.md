@@ -12,6 +12,9 @@ collection : "Eixo temático: Patrimônio, escalas e processos"
 lang       : pt-BR
 ---
 
+Tradições arquitetônicas na contemporaneidade
+=============================================
+
 Os discursos tradicionalistas na arquitetura contemporânea se
 transformaram e se diversificaram radicalmente nas quatro últimas
 décadas. Superando o declínio teórico e operativo do pós-modernismo, os

@@ -9,6 +9,7 @@ fail-if-warnings        : True
 file-scope              : True
 default-image-extension : '.jpg'
 email-obfuscation       : references
+shift-heading-level-by  : 1
 resource-path:
 - .
 - fig

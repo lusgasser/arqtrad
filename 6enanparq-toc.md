@@ -1,16 +1,5 @@
-Coordenador 1
-: Palazzo, Pedro Paulo
-: Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
-  Universidade de Brasília
-: [palazzo\@unb.br](mailto:palazzo@unb.br)
 
-Coordenador 2
-: Florentino, Rui
-: Doutor; Professor da Escola Superior Gallaecia, Vila Nova de Cerveira
-: [ruiflorentino\@gmail.com](mailto:ruiflorentino@gmail.com)
-
-[Em busca de (uma?) arquitetura tradicional
-brasileira](6enanparq-palazzo.md)
+[Em busca de (uma?) arquitetura tradicional brasileira](6enanparq-palazzo.md)
 : **PALAZZO, Pedro Paulo**
 : Doutor; Professor da Faculdade de Arquitetura e Urbanismo da
   Universidade de Brasília

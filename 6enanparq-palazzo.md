@@ -7,6 +7,9 @@ lang       : pt-BR
 suppress-bibliography: False
 ---
 
+Em busca de (uma?) arquitetura tradicional brasileira
+=====================================================
+
 *Por que* uma arquitetura tradicional brasileira? Justamente porque
 esta questão, posta no âmbito da Arquitetura como disciplina prática e
 objeto de pesquisa histórica, tem sido duplamente suprimida. Do lado da
@@ -114,5 +117,5 @@ origens, nem numa indesejável teleologia que se sirva do passado apenas
 
 
 Referências
-===========
+-----------
 
