@@ -5,7 +5,7 @@ description: >-
   Discursos arquitetônicos produzidos de c. 1860 a 1930,
   com ênfase na formação dos campos teóricos brasileiros
   compreendidos numa abordagem global.
-baseurl: "arqtrad"
+baseurl: "/arqtrad"
 url: "https://dmcpatrimonio.github.io"
 twitter_username: p3palazzo
 github_username:  dmcpatrimonio
@@ -94,6 +94,9 @@ plugins:
   - jekyll-github-metadata
   - jekyll-relative-links
 source: docs/
+relative_links:
+  enabled: true
+  collections: true
 markdown: kramdown
 kramdown:
   auto_ids: true

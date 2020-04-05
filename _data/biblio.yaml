@@ -1446,17 +1446,6 @@ references:
   title-short: The Brazilian empire
   type: book
 
-- id: 'costa:2007arquitetura'
-  author:
-    - family: Costa
-      given: Lucio
-  issued:
-    - year: 2007
-  publisher: Editora UniRitter
-  publisher-place: Porto Alegre
-  title: Sôbre arquitetura
-  type: book
-
 - id: 'costa:2007documentacao'
   author:
     - family: Costa
@@ -1474,9 +1463,11 @@ references:
   author:
     - family: Costa
       given: Lúcio
+  call-number: 72(81)
+  edition: '2'
+  editor:
     - family: Xavier
       given: Alberto
-  call-number: 72(81)
   ISBN: 85-60100-08-3 978-85-60100-08-8
   issued:
     - year: 2007
@@ -4204,6 +4195,7 @@ references:
     - year: 1959
       month: 7
   language: italiano
+  number: 3–4
   page: 97-209
   title: Studi per una operante storia urbana di Venezia. I
   title-short: Studi per una operante storia urbana di Venezia
