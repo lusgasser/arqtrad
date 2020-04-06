@@ -5,10 +5,12 @@
   Universidade de Brasília
 : [palazzo\@unb.br](mailto:palazzo@unb.br)
 
-[Título do Trabalho 2](6enanparq-florentino.md)
+[A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores](6enanparq-florentino.md)
 : **FLORENTINO, Rui**
-: Doutor; Professor da Escola Superior Gallaecia
-: [ruiflorentino\@gmail.com](mailto:ruiflorentino@gmail.com)
+: Doutor; Professor Auxiliar e Coordenador da linha de Investigação de
+  Urbanismo e Planeamento do Centro de Investigação da Escola Superior
+  Gallaecia
+: [ruiflorentino\@esg.pt](mailto:ruiflorentino@esg.pt)
 
 [La restauración monumental](6enanparq-gil_cornet.md)
 : **GIL Cornet, Leopoldo**
