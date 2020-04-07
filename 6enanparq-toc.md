@@ -27,3 +27,8 @@
 : Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 : [fernanda\@estudiobic.com.br](mailto:fernanda@estudiobic.com.br)
 
+[Título do Trabalho 6](6enanparq-tinoco.md)
+: **TINOCO, Jorge Eduardo Lucena**
+: Doutor; Professor no Centro de Estudos em Conservação Integrada
+: [tinoco\@ceci-br.org](mailto:tinoco@ceci-br.org)
+
