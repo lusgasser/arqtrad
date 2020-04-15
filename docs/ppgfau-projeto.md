@@ -18,6 +18,9 @@ suppress-bibliography: true
 title: 'Clássico, tradicional, eclético'
 ---
 
+Clássico, tradicional, eclético
+-------------------------------
+
 ### Introdução
 
 Este projeto de pesquisa versa sobre os discursos arquitetônicos

@@ -1,7 +1,4 @@
 ---
-title      : "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
-author     : "Pedro Paulo Palazzo"
-date       : 2018-06-11
 ---
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e
@@ -22,15 +19,15 @@ da arquitetura europeias, mas também, reciprocamente, uma crise das
 tradições e dos paradigmas até então dominantes no universo artístico
 ocidental. Insere-se, em sua maior parcela, na etapa do *longo século
 XIX* caracterizada pelo historiador britânico Eric Hobsbawm
-(1917&endash;2012) como *a era do imperialismo* (1875&endash;1914).
+(1917–2012) como *a era do imperialismo* (1875–1914).
 
 Assume-se como problema central desta pesquisa, destarte,
 a necessidade de resgate do panorama teórico do ecletismo, evidenciando
 a diversidade de pensamento nos próprios termos dos profissionais,
 críticos e obras do longo século XIX. Para tanto, propõe-se, no lugar da
-dicotomia convencional historicismo&endash;modernismo, avalizar outras
+dicotomia convencional historicismo–modernismo, avalizar outras
 caracterizações mais granulares. Em particular, defende-se a viabilidade
-interpretativa de um gradiente erudito classicismo&endash;nativismo articulado
+interpretativa de um gradiente erudito classicismo–nativismo articulado
 em triangulação com a persistência de práticas tradicionais vernáculas.
 Essa perspectiva respeita as particularidades e as clivagens intrínsecas
 à formação dos discursos teóricos durante o longo século XIX, bem como a

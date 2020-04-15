@@ -1,13 +1,16 @@
 ---
-title : "Resumo do projeto de pesquisa"
+title : "Iniciação científica 2020–2021"
 author: "Pedro Paulo Palazzo"
 date  : 2020-04-13
 nocite: "@*"
 suppress-bibliography: false
 ---
 
-Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX
-===========================================================================
+Planos de trabalho
+------------------
+
+Resumo do projeto de pesquisa
+=============================
 
 Problema e objetivos
 --------------------

@@ -7,6 +7,7 @@ description: >-
   compreendidos numa abordagem global.
 baseurl: "/arqtrad"
 url: "https://dmcpatrimonio.github.io"
+lang: pt
 twitter_username: p3palazzo
 github_username:  dmcpatrimonio
 
@@ -88,6 +89,9 @@ minima:
     twitter   : https://twitter.com/p3palazzo
     github    : https://github.com/dmcpatrimonio/arqtrad
     instagram : https://instagram.com/arqtrad
+header_pages:
+  - 6enanparq-intro.md
+  - pibic21-projeto.md
 
 plugins:
   - jekyll-feed

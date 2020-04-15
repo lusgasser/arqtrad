@@ -10,10 +10,12 @@ suppress-bibliography: true
     Universidade de Brasília
 :   <palazzo@unb.br>
 
-[Título do Trabalho 2](6enanparq-florentino.md)
+[A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores](6enanparq-florentino.md)
 :   **FLORENTINO, Rui**
-:   Doutor; Professor da Escola Superior Gallaecia
-:   <ruiflorentino@gmail.com>
+:   Doutor; Professor Auxiliar e Coordenador da linha de Investigação de
+    Urbanismo e Planeamento do Centro de Investigação da Escola Superior
+    Gallaecia
+:   <ruiflorentino@esg.pt>
 
 [La restauración monumental](6enanparq-gil_cornet.md)
 :   **GIL Cornet, Leopoldo**
@@ -29,3 +31,8 @@ suppress-bibliography: true
 :   **CRAVEIRO CUNHA, Fernanda**
 :   Mestre; Professora da Universidade Paulista e sócia do Estúdio BIC
 :   <fernanda@estudiobic.com.br>
+
+[Título do Trabalho 6](6enanparq-tinoco.md)
+:   **TINOCO, Jorge Eduardo Lucena**
+:   Doutor; Professor no Centro de Estudos em Conservação Integrada
+:   <tinoco@ceci-br.org>
