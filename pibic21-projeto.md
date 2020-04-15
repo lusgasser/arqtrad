@@ -9,11 +9,23 @@ suppress-bibliography: false
 Planos de trabalho
 ------------------
 
-Resumo do projeto de pesquisa
-=============================
+- [Arqueologia das antigas casas rurais no Distrito Federal e
+  entorno](pibic21-arqueologia.md): Ana Caroline dos Santos Paiva
+- [Barreiras: urbanização numa encruzilhada do
+  sertão](pibic21-barreiras.md): João Testi Neto
+- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
+  Maria Isabela Araújo
+- [Arqueologia da morada suburbana na rua do Rosário,
+  Luziânia](pibic21-luziania.md): Mariana Azevedo Silva
+- [Módulos e dimensões do parcelamento urbano no Brasil do século
+  XIX](pibic21-modulos.md): Daniela Matias Xavier
+- [Transformações espaciais na morada urbana do planalto
+  Central](pibic21-sintaxe.md): Flávia Rosa de la Plata
 
-Problema e objetivos
---------------------
+Resumo do projeto de pesquisa
+-----------------------------
+
+### Problema e objetivos ###
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e
 urbanística de 1780 a 1930, com ênfase na formação dos campos de
@@ -95,8 +107,7 @@ Objetivos específicos
   teorização erudita quanto das práticas vernáculas;
 
 
-Justificativa
--------------
+### Justificativa ###
 
 Uma das obras de referência sobre a história do pensamento
 arquitetônico, a *História da teoria da arquitetura* de Hanno-Walter
@@ -176,8 +187,7 @@ atravessamentos de repertórios e práticas entre a tradição vernácula
 luso-brasileira e os discursos teóricos e críticos atinentes à esfera
 erudita e de elite.
 
-Metodologia
------------
+### Metodologia ###
 
 De modo a retratar o panorama teórico e edificado do período estudado,
 privilegiam-se abordagens formalistas na análise das fontes. A ênfase
@@ -259,6 +269,5 @@ arquitetura brasileira no longo século XIX (1780--1930), com foco no
 papel do ecletismo como momento crucial nas abordagens críticas a
 respeito do caráter histórico do ambiente construído.
 
-Bibliografia
-------------
+### Bibliografia ###
 
