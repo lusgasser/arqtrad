@@ -21,8 +21,8 @@ ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 serve : build
 	bundle exec jekyll serve
 
-build : $(PAGES_OUT) _config.yml bundle
-	-rm docs/README.md
+build : $(PAGES_OUT) _config.yml
+	cp README.md docs/
 	bundle exec jekyll build
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
@@ -111,7 +111,7 @@ virtualenv :
 		pip install -r .install/requirements.txt
 	-rm -rf src
 
-bundle : Gemfile
+bundle :
 	bundle config set path '.vendor/bundle'
 	# Remove the line above if you want to install gems system-wide.
 	# (This requires sudo).

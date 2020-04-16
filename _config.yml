@@ -1,15 +1,15 @@
 # General {{{1
 title: "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
-author:
-  name: "Pedro Paulo Palazzo"
-  email: palazzo@unb.br
+email: palazzo@unb.br
 description: >-
-  Discursos arquitetônicos produzidos de c. 1860 a 1930,
+  Discursos arquitetônicos produzidos de c. 1780 a 1930,
   com ênfase na formação dos campos teóricos brasileiros
   compreendidos numa abordagem global.
 baseurl: "/arqtrad"
 url: "https://dmcpatrimonio.github.io"
 lang: pt
+twitter_username: p3palazzo
+github_username:  dmcpatrimonio
 
 # Content {{{1
 collections: # {{{2
@@ -81,7 +81,7 @@ defaults: # {{{2
       layout    : "thing"
       itemtype  : "http://schema.org/Thing"
 
-# Template settings {{{1
+# Build settings {{{1
 theme: minima # {{{2
 minima:
   date_format : "%Y-%m-%d"
@@ -93,8 +93,7 @@ header_pages:
   - 6enanparq-intro.md
   - pibic21-projeto.md
 
-# Build settings {{{1
-plugins: # {{{2
+plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
@@ -109,18 +108,20 @@ plugins: # {{{2
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
-
-source: docs/ # {{{2
-#relative_links:
-  #enabled: true
-  #collections: true
+source: docs/
+relative_links:
+  enabled: true
+  collections: true
 markdown: kramdown
 kramdown:
   auto_ids: true
-  transliterated_header_ids: true
 permalink: pretty
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: false
 
-exclude: # {{{2
+exclude:
   - LICENSE
 
 # vim: set foldmethod=marker :

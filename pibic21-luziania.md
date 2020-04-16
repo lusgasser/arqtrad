@@ -4,11 +4,8 @@ author   : "Mariana Azevedo Silva"
 date     : 2020-04-13
 ---
 
-Arqueologia da morada suburbana na rua do Rosário, Luziânia
-===========================================================
-
 Objetivos, problema e justificativa
------------------------------------
+===================================
 
 O objeto deste plano de trabalho é compilar uma documentação
 arquitetônica descritiva de algumas moradas suburbanas tradicionais
@@ -75,14 +72,39 @@ preliminar quanto às relações das casas estudadas entre si e com a
 cidade.
 
 Viabilidade, recursos e metodologia
------------------------------------
+===================================
+
+Inserir a descrição da metodologia da pesquisa contendo os passos
+metodológicos necessários para a sua execução e para o alcance dos
+objetivos enunciados. Também devem ser descritos os recursos materiais
+(bibliografia, computadores, softwares, metodologias, equipamentos de
+laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
+a infraestrutura (laboratórios, salas de pesquisa, salas de informática
+e outros espaços) disponíveis para a execução do plano de trabalho do
+aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
+
+Texto com 4000 caracteres.
+
 
 Bibliografia
-------------
+============
+
+Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
+do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
+do(a) Orientador(a)
+
+Texto com no máximo 2000 caracteres.
+
 
 Competências e habilidades
---------------------------
+==========================
+
+Texto com no máximo 1000 caracteres.
+
 
 Cronograma
-----------
+==========
+
+Mês a mês
+
 
