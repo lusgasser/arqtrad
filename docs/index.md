@@ -1,4 +1,5 @@
 ---
+title: "Clássico, tradicional eclético: Arquitetura brasileira no longo século XIX"
 ---
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e
