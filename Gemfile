@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.11"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
+  gem "kramdown"
   gem "jekyll-coffeescript"
   gem "jekyll-default-layout"
   gem "jekyll-gist"

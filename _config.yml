@@ -2,7 +2,7 @@
 title: "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
 email: palazzo@unb.br
 description: >-
-  Discursos arquitetônicos produzidos de c. 1860 a 1930,
+  Discursos arquitetônicos produzidos de c. 1780 a 1930,
   com ênfase na formação dos campos teóricos brasileiros
   compreendidos numa abordagem global.
 baseurl: "/arqtrad"
@@ -115,7 +115,7 @@ relative_links:
 markdown: kramdown
 kramdown:
   auto_ids: true
-#permalink: pretty
+permalink: pretty
 readme_index:
   enabled:          true
   remove_originals: true
