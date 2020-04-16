@@ -7,10 +7,8 @@ suppress-bibliography: true
 title: 'Barreiras: urbanização numa encruzilhada do sertão'
 ---
 
-Barreiras: urbanização numa encruzilhada do sertão
---------------------------------------------------
-
-### Objetivos, problema e justificativa
+Objetivos, problema e justificativa
+-----------------------------------
 
 Este plano de trabalho versa sobre a memória do desenvolvimento urbano
 da cidade de Barreiras, no estado da Bahia. A pesquisa tem por objetivo
@@ -75,44 +73,35 @@ urbano de Barreiras, complementada por uma diligente disposição para
 coletar documentos arquivísticos em lugares conhecidos --- junto a
 pesquisadores da cidade e nos arquivos públicos Nacional e do Estado.
 
-### Viabilidade, recursos e metodologia
+Viabilidade, recursos e metodologia
+-----------------------------------
 
-```{=html}
-<!--
-   -Inserir a descrição da metodologia da pesquisa contendo os passos
-   -metodológicos necessários para a sua execução e para o alcance dos
-   -objetivos enunciados. Também devem ser descritos os recursos materiais
-   -(bibliografia, computadores, softwares, metodologias, equipamentos de
-   -laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
-   -a infraestrutura (laboratórios, salas de pesquisa, salas de informática
-   -e outros espaços) disponíveis para a execução do plano de trabalho do
-   -aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
-   -
-   -Texto com 4000 caracteres.
-   -->
-```
-### Bibliografia
+Inserir a descrição da metodologia da pesquisa contendo os passos
+metodológicos necessários para a sua execução e para o alcance dos
+objetivos enunciados. Também devem ser descritos os recursos materiais
+(bibliografia, computadores, softwares, metodologias, equipamentos de
+laboratório, reagentes e outros materiais e equipamentos de pesquisa) e
+a infraestrutura (laboratórios, salas de pesquisa, salas de informática
+e outros espaços) disponíveis para a execução do plano de trabalho do
+aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 
-```{=html}
-<!--
-   -Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
-   -do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
-   -do(a) Orientador(a)
-   -
-   -Texto com no máximo 2000 caracteres.
-   -->
-```
-### Competências e habilidades do aluno
+Texto com 4000 caracteres.
 
-```{=html}
-<!--
-   -Texto com no máximo 1000 caracteres.
-   -->
-```
-### Cronograma
+Bibliografia
+------------
 
-```{=html}
-<!--
-   -Mês a mês
-   -->
-```
+Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
+do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
+do(a) Orientador(a)
+
+Texto com no máximo 2000 caracteres.
+
+Competências e habilidades do aluno
+-----------------------------------
+
+Texto com no máximo 1000 caracteres.
+
+Cronograma
+----------
+
+Mês a mês

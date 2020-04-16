@@ -8,10 +8,9 @@ suppress-bibliography: false
 ---
 
 Planos de trabalho
-------------------
+==================
 
-- [Arqueologia das antigas casas rurais no Distrito Federal e
-  entorno](pibic21-arqueologia.md): Ana Caroline dos Santos Paiva 
+- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md): Ana Caroline dos Santos Paiva 
 - [Barreiras: urbanização numa encruzilhada do
   sertão](pibic21-barreiras.md): João Testi Neto
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
