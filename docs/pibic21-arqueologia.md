@@ -71,16 +71,6 @@ Distrito Federal, o Arquivo Público do Distrito Federal, e o Instituto
 do Patrimônio Histórico e Artístico Nacional, antes da submissão do
 Plano de Trabalho.
 
-```{=html}
-<!--
-   -Inserir aqui o resumo do plano de trabalho, contendo objetivos, problema
-   -de pesquisa do aluno e justificativa para o desenvolvimento do plano, de
-   -maneira a demonstrar claramente a adequação do plano ao projeto de
-   -pesquisa e ao nível de pesquisa de iniciação científica.
-   -
-   -Texto com 5000 caracteres.
-   -->
-```
 ### Viabilidade, recursos e metodologia
 
 ```{=html}

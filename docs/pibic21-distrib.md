@@ -1,5 +1,5 @@
 ---
-author: Maria Isabela Araújo
+author: Flávia Rosa de la Plata
 bibliography: \_data/biblio.yaml
 csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 date: '2020-04-13'
@@ -25,8 +25,9 @@ bem como no afastamento do corpo principal da casa com respeito às
 divisas laterais e, eventualmente, dianteira do lote. A introdução desse
 tipo nas grandes cidades do litoral --- Salvador, Recife e Olinda, Rio
 de Janeiro --- e em São Paulo ocorre na segunda metade do século XIX,
-chegando em Goiás entre o final daquele século e o início do XX. A
-adoção do partido eclético se acopla ao emprego de uma variedade de
+chegando em Goiás entre o final daquele século e o início do XX.
+
+A adoção do partido eclético se acopla ao emprego de uma variedade de
 sistemas construtivos tradicionais e modernos que persistem e se
 sobrepõem segundo as condições econômicas e tecnológicas de cada região.
 Tal processo vem sendo pesquisado no âmbito, sobretudo, da arquitetura
@@ -68,16 +69,6 @@ objetivos específicos:
     adotados e com os padrões de implantação no lote, apontado as
     aderências e os descompassos.
 
-```{=html}
-<!--
-   -Inserir aqui o resumo do plano de trabalho, contendo objetivos, problema
-   -de pesquisa do aluno e justificativa para o desenvolvimento do plano, de
-   -maneira a demonstrar claramente a adequação do plano ao projeto de
-   -pesquisa e ao nível de pesquisa de iniciação científica.
-   -
-   -Texto com 5000 caracteres.
-   -->
-```
 ### Viabilidade, recursos e metodologia
 
 ```{=html}
