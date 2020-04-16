@@ -19,7 +19,6 @@ ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
 ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 
 build : $(PAGES_OUT) _config.yml
-	-rm docs/README.md
 	bundle exec jekyll build
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
