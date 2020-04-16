@@ -1,6 +1,8 @@
 # General {{{1
 title: "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
-email: palazzo@unb.br
+author:
+  name: "Pedro Paulo Palazzo"
+  email: palazzo@unb.br
 description: >-
   Discursos arquitetônicos produzidos de c. 1860 a 1930,
   com ênfase na formação dos campos teóricos brasileiros
@@ -8,8 +10,6 @@ description: >-
 baseurl: "/arqtrad"
 url: "https://dmcpatrimonio.github.io"
 lang: pt
-twitter_username: p3palazzo
-github_username:  dmcpatrimonio
 
 # Content {{{1
 collections: # {{{2
@@ -81,7 +81,7 @@ defaults: # {{{2
       layout    : "thing"
       itemtype  : "http://schema.org/Thing"
 
-# Build settings {{{1
+# Template settings {{{1
 theme: minima # {{{2
 minima:
   date_format : "%Y-%m-%d"
@@ -93,24 +93,34 @@ header_pages:
   - 6enanparq-intro.md
   - pibic21-projeto.md
 
-plugins:
+# Build settings {{{1
+plugins: # {{{2
   - jekyll-feed
-  - jekyll-github-metadata
-  - jekyll-relative-links
   - jekyll-sitemap
   - jekyll-seo-tag
   - kramdown
-source: docs/
-relative_links:
-  enabled: true
-  collections: true
+    # The following plugins are always used by GH-Pages
+  - jekyll-coffeescript
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+
+source: docs/ # {{{2
+#relative_links:
+  #enabled: true
+  #collections: true
 markdown: kramdown
 kramdown:
   auto_ids: true
+  transliterated_header_ids: true
 permalink: pretty
 
-exclude:
+exclude: # {{{2
   - LICENSE
-  - README.md
 
 # vim: set foldmethod=marker :

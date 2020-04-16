@@ -1,12 +1,14 @@
+---
+---
+
 ![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX
 ===========================================================================
 
-Este projeto de pesquisa versa sobre
-os discursos arquitetônicos produzidos entre 1860 e 1930,
-com ênfase na formação dos campos teóricos brasileiros
-compreendidos numa abordagem global.
+Este projeto de pesquisa versa sobre os discursos arquitetônicos
+produzidos entre 1780 e 1930, com ênfase na formação dos campos teóricos
+brasileiros compreendidos numa abordagem global.
 
 Diante das múltiplas abordagens das quais
 esse período tem sido objeto, privilegia-se
