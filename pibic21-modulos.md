@@ -12,7 +12,26 @@ Objetivos, problema e justificativa
 
 Este plano de trabalho propõe uma análise morfológica dos parcelamentos
 urbanos empreendidos em algumas cidades brasileiras ao longo do século
-XIX.
+XIX. O objetivo geral deste trabalho é mapear e tabular os módulos
+dimensionais de lotes e vias adotados nas novas capitais provinciais
+fundadas *ex novo* ou por meio da reforma de tecidos urbanos
+preexistentes --- Aracaju, Maceió, Manaus, Teresina e Belo Horizonte ---
+bem como parcelamentos urbanos planejados no crescimento de algumas das
+principais capitais já estabelecidas --- Rio de Janeiro, Salvador,
+Recife, São Paulo, Belém, Porto Alegre, Curitiba e Goiás. São objetivos
+específicos necessários à sua consecução:
+
+- Inventariar, classificar, reproduzir, georreferenciar e redesenhar
+  fontes cartográficas primárias das cidades objeto deste Plano no
+  período estudado;
+- Analisar as dimensões dos elementos urbanísticos --- lotes e vias ---,
+  propondo para cada setor urbano estudado uma normalização ideal das
+  dimensões projetadas;
+- Tabular as dimensões normalizadas assim obtidas e confrontá-las com os
+  módulos predominantes na urbanização tradicional luso-brasileira;
+- Confrontar os levantamentos históricos ou reconstituídos das cidades
+  com a situação atual do parcelamento urbano, observando a resiliência
+  dos padrões urbanísticos.
 
 Entre o final do ciclo de fundações de vilas promovido pelo marquês de
 Pombal (1777) e o início do ciclo de projetos urbanos da primeira
@@ -36,36 +55,6 @@ novos tecidos urbanos constituídos neste recorte cronológico adotam os
 módulos dimensionais portugueses, vigentes desde a Idade Média e apenas
 parcialmente alterados no período pombalino: lotes de 25 por 50 palmos e
 ruas com 60 a 100 palmos de caixa.
-
-O objetivo geral deste trabalho é mapear e tabular os módulos
-dimensionais de lotes e vias adotados nas novas capitais provinciais
-fundadas *ex novo* ou por meio da reforma de tecidos urbanos
-preexistentes --- Aracaju, Maceió, Manaus, Teresina e Belo Horizonte ---
-bem como parcelamentos urbanos planejados no crescimento de algumas das
-principais capitais já estabelecidas --- Rio de Janeiro, Salvador,
-Recife, São Paulo, Belém, Porto Alegre, Curitiba e Goiás. São objetivos
-específicos necessários à sua consecução:
-
-- Inventariar, classificar, reproduzir, georreferenciar e redesenhar
-  fontes cartográficas primárias das cidades objeto deste Plano no
-  período estudado;
-- Analisar as dimensões dos elementos urbanísticos --- lotes e vias ---,
-  propondo para cada setor urbano estudado uma normalização ideal das
-  dimensões projetadas;
-- Tabular as dimensões normalizadas assim obtidas e confrontá-las com os
-  módulos predominantes na urbanização tradicional luso-brasileira;
-- Confrontar os levantamentos históricos ou reconstituídos das cidades
-  com a situação atual do parcelamento urbano, observando a resiliência
-  dos padrões urbanísticos.
-
-<!--
-   -Inserir aqui o resumo do plano de trabalho, contendo objetivos, problema
-   -de pesquisa do aluno e justificativa para o desenvolvimento do plano, de
-   -maneira a demonstrar claramente a adequação do plano ao projeto de
-   -pesquisa e ao nível de pesquisa de iniciação científica.
-   -
-   -Texto com 5000 caracteres.
-   -->
 
 
 Viabilidade, recursos e metodologia
