@@ -18,7 +18,10 @@ PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
 ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 
-build : $(PAGES_OUT) _config.yml
+serve : build
+	bundle exec jekyll serve
+
+build : $(PAGES_OUT) _config.yml bundle
 	-rm docs/README.md
 	bundle exec jekyll build
 
@@ -108,7 +111,7 @@ virtualenv :
 		pip install -r .install/requirements.txt
 	-rm -rf src
 
-bundle :
+bundle : Gemfile
 	bundle config set path '.vendor/bundle'
 	# Remove the line above if you want to install gems system-wide.
 	# (This requires sudo).
@@ -118,9 +121,6 @@ bundle :
 	# setting, which is `.vendor`. Can't seem to be able to change
 	# this in any way.
 	bundle install
-
-serve : build
-	bundle exec jekyll serve
 
 license :
 	source .venv/bin/activate && \
