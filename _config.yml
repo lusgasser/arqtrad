@@ -82,7 +82,7 @@ defaults: # {{{2
       itemtype  : "http://schema.org/Thing"
 
 # Build settings {{{1
-theme: minima # {{{2
+theme: minima 
 minima:
   date_format : "%Y-%m-%d"
   social_links:
@@ -93,7 +93,7 @@ header_pages:
   - 6enanparq-intro.md
   - pibic21-projeto.md
 
-plugins:
+plugins: # {{{2
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
