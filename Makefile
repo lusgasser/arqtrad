@@ -18,8 +18,11 @@ PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
 ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 
+serve : build
+	bundle exec jekyll serve
+
 build : $(PAGES_OUT) _config.yml
-	-rm docs/README.md
+	cp README.md docs/
 	bundle exec jekyll build
 
 docs/%.md : %.md jekyll.yaml _data/biblio.yaml
@@ -118,9 +121,6 @@ bundle :
 	# setting, which is `.vendor`. Can't seem to be able to change
 	# this in any way.
 	bundle install
-
-serve : build
-	bundle exec jekyll serve
 
 license :
 	source .venv/bin/activate && \
