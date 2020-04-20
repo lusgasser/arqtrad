@@ -29,7 +29,7 @@ Planos de trabalho
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
   Maria Isabela Araújo
 - [Arqueologia da morada suburbana na rua do Rosário,
-  Luziânia](pibic21-luziania.md): Mariana Azevedo Silva
+  Luziânia](pibic21-luziania.md): Mariana de Fátima Macedo Nunes de Azevedo
 - [Módulos e dimensões do parcelamento urbano no Brasil do século
   XIX](pibic21-modulos.md): Daniela Matias Xavier
 - [Transformações espaciais na morada urbana do planalto
