@@ -74,6 +74,28 @@ references:
   volume: '37'
 
 - id: 'alsayyad:2017whose'
+  abstract: >-
+    In seeking to answer the question Whose Tradition? this book pursues four
+    themes: Place: Whose Nation, Whose City?; People: Whose Indigeneity?;
+    Colonialism: Whose Architecture?; and Time: Whose Identity?Following Nezar
+    AlSayyad’s Prologue, contributors addressing the first theme take examples
+    from Indonesia, Myanmar and Brazil to explore how traditions rooted in a
+    particular place can be claimed by various groups whose purposes may be at
+    odds with one another. With examples from Hong Kong, a Santal village in
+    eastern India and the city of Kuala Lumpur, contributors investigate the
+    concept of indigeneity, the second theme, and its changing meaning in an
+    increasingly globalized milieu from colonial to post-colonial times.
+    Contributors to the third theme examine the lingering effects of colonial
+    rule in altering present-day narratives of architectural identity, taking
+    examples from Guam, Brazil, and Portugal and its former colony, Mozambique.
+    Addressing the final theme, contributors take examples from Africa and the
+    United States to demonstrate how traditions construct identities, and in
+    turn how identities inform the interpretation and manipulation of tradition
+    within contexts of socio-cultural transformation in which such identities
+    are in flux and even threatened. The book ends with two reflective pieces:
+    the first drawing a comparison between a sense of ‘home’ and a sense of
+    tradition; the second emphasizing how the very concept of a tradition is an
+    attempt to pin down something that is inherently in flux.
   edition: 1 edition
   editor:
     - family: AlSayyad
@@ -175,6 +197,25 @@ references:
   volume: '33'
 
 - id: 'araujo:1997nature'
+  abstract: >-
+    LA THESE TRAITE DE L'INTRODUCTION DES EQUIPEMENTS ET DES SAVOIRS ISSUS DE LA
+    REVOLUTION INDUSTRIELLE AU BRESIL DURANT LA DEUXIEME MOITIE DU XIXE SIECLE.
+    LA RECHERCHE PORTE NOTAMMENT SUR LE DEVELOPPEMENT DES CHEMINS DE FER, DE
+    L'INDUSTRIALISATION ET DE L'ELECTRICITE EN PLUSIEURS REGIONS DU PAYS. SI
+    D'UN COTE L'INTRODUCTION DE CES EQUIPEMENTS TECHNIQUES A REPRESENTE UN ESSOR
+    DE MODERNISATION ECONOMIQUE SUR PLUSIEURS REGIONS DU TERRITOIRE NATIONAL,
+    D'UN AUTRE COTE, CETTE INTRODUCTION N'A PAS REPRESENTE UNE VERITABLE
+    MODERNISATION POLITIQUE. LES NOUVELLES TECHNOLOGIES N'ONT PAS ETE
+    ACCOMPAGNEES PAR UNE TRANSFORMATION APPROFONDIE DES MOEURS POLITIQUES
+    TRADITIONELLES. THIS THESIS TREATS THE INTRODUCTION OF EQUIPMENTS AND
+    KNOWLEDGES COMING FROM INDUSTRIAL REVOLUTION IN BRAZIL DURING THE SECOND
+    HALF OF THE XIX CENTURY. THE RESEARCH INSISTS ON THE DEVELOPMENT OF THE
+    RAILWAYS, INDUSTRIALISATION AND ELECTRICAL EQUIPEMENTS IN MANY AREAS OF THE
+    COUNTRY. IF, FROM ONE POINT, THE INTRODUCTION OF THESES TECHNICAL EQUIPMENTS
+    HAS REPRESENTED AN STARUP OF MODERNISATION, ON THE OTHER ONE, THESES
+    EQUIPMENTS DID NOT REPRESENTED A REAL POLITICAL MODERNISATION. THE NEW
+    TECHNOLOGIES DID NOT WENT TOGHETER WITH AN EVOLUTION OF THE POLITICAL
+    TRADITIONS.
   author:
     - family: Araújo
       given: Hermetes Reis
@@ -354,6 +395,45 @@ references:
   type: book
 
 - id: 'bernabei:1990jan'
+  abstract: >-
+    An examination of the cultural landscape preceding the official birth of
+    iconology provides a rich and varied picture in which diverse critical
+    tendencies merge and diverge. Even today, the exchange of ideas during this
+    period can provide useful insights to help clarify the discussion of
+    critical theory. The work of Jan Białostocki, which reflects the Polish
+    scholar's open-mindedness, breadth of interests, and attention to the
+    necessity of reconsidering perspectives in terms of contemporary art, offers
+    an interpretation of iconology in which the contradictions between iconology
+    and formalism, as developed by Panofsky, are absent. Moreover, Białostocki's
+    interpretation of iconology furnishes an opportunity to consider several
+    themes of the iconographic method in relation to formal problems, without
+    confusion and freed from extraneous polemics. /// Une étude du paysage
+    culturel avant la naissance de l'iconologie fait apparaître un tableau
+    coloré aux multiples facettes, dans lequel les différents courants de la
+    critique se rassemblent -- et divergent. Même aujourd'hui l'échange d'idées
+    qui s'est produit à cette époque peut fournir des aperçus utiles pour aider
+    à éclairer la discussion sur les théories critiques. L'oeuvre de Jan
+    Białostocki reflète l'ouverture d'esprit de l'universitaire polonais, le
+    large champ de ses intérêts et le soin nouveau qu'il a mis à choisir ses
+    perspectives du point de vue de l'art contemporain. Il propose une
+    interprétation de l'iconologie dans laquelle disparaissent les
+    contradictions soulignées par Panofsky entre iconologie et formalisme. Plus
+    encore, l'interprétation que Białostocki donne de l'iconologie permet de
+    mettre différents thèmes de la méthode iconographique en relation avec des
+    problèmes formels sans tomber dans la confusion et les polémiques étrangères
+    au sujet. /// Eine Untersuchung der kulturellen Landschaft vor der
+    Entstehung der Ikonologie liefert uns ein facettenreiches, buntes Bild,
+    wobei unterschiedliche kritische Strömungen verschmelzen und
+    auseinanderlaufen. Noch heute kann der Austausch von Ideen dieser Periode
+    nützliche Einsichten bei der Klärung der Diskussion der kritischen Theorie
+    liefern. Białostockis Werk reflektiert seine Aufgeschlossenheit, sein
+    breites Interesse und seine Einsicht gegenüber der Notwendigkeit,
+    Perspektiven vom Standpunkt der Gegenwartskunst neu zu überdenken. Seine
+    Interpretation von Ikonologie weist nicht die bei Panofsky entwickelten
+    Widersprüche zwischen Ikonologie und Formalismus auf. Außerdem ermöglicht
+    uns Białostockis Interpretation von Ikonologie mehrere Themen der
+    ikonographischen Methode im Hinblick auf formale Probleme in Ruhe und frei
+    von fremder Polemik zu betrachten.
   accessed:
     - year: 2013
       month: 10
@@ -492,6 +572,7 @@ references:
   volume: '43'
 
 - id: 'bonametti:2007arquitetura0'
+  abstract: "Este trabalho tem como objeto de estudo a investigação da paisagem urbana brasileira\_como produto da arquitetura eclética do início do século XX, principalmente as intervenções\_paisagísticas e urbanísticas nas cidades do Rio de Janeiro e São Paulo. Tendo o ecletismo como\_parâmetro artístico estruturador da paisagem urbana, detecta os efeitos produzidos pela arquitetura\_eclética na construção de espaços livres eou revitalização dos antigos; como ocorreu este processo e\_quais as suas causas e conseqüências.PALAVRAS-CHAVE: Arquitetura, paisagem urbana, ecletismo, intervenções."
   accessed:
     - year: 2018
       month: 5
@@ -550,6 +631,17 @@ references:
   type: book
 
 - id: 'bozdogan:1999architectural'
+  abstract: >-
+    In recent years, our inherited architectural culture, which privileges the
+    autonomy of form and the paradigmatic status of the western tradition, has
+    been contested from a range of critical perspectives. In this article I
+    address some of the new challenges that architectural history faces today
+    and contemplate two questions with important implications for teaching
+    survey courses. First, how does one make architectural history less
+    Eurocentric and more cross-cultural without either naturalizing the cultural
+    difference of "others" or essentializing these differences into
+    incommensurable categories? Second, how does one talk about the politics of
+    architecture without reducing architecture to politics?
   accessed:
     - year: 2013
       month: 7
@@ -649,6 +741,7 @@ references:
   type: book
 
 - id: 'bueno:2001desenho'
+  abstract: "Esta tese se propÃµe a apresentar uma revisÃ£o do conceito de desenho entre os sÃ©culos XVI e XVIII, em Portugal, visando a demonstrar a importÃ¢ncia dessa ciÃªncia nas aÃ§Ãµes oficiais da Coroa. O investimento nesse precioso instrumental de \"projeto\" e na formaÃ§Ã£o de um quadro de profissionais habilitados para tanto, foi parte da polÃ­tica expansionista desenvolvida pelas naÃ§Ãµes do perÃ­odo. Disegno apresentava a tripla conotaÃ§Ã£o de raciocÃ­nio prÃ©vio (i.e. projeto), representaÃ§Ã£o grÃ¡fica e desÃ­gnio. Nesse sentido, a interpretaÃ§Ã£o da sÃ©rie de \"desenhos-desÃ­gnios\" e documentaÃ§Ã£o correlata legada pelos engenheiros militares, permite entrever os diferentes momentos da polÃ­tica de colonizaÃ§Ã£o e produÃ§Ã£o do \"territÃ³rio\" do Brasil e conhecer os instrumentos e a racionalidade dessa aÃ§Ã£o polÃ­tica. Tanto quanto qualquer arma de fogo, foi o desenho eficiente mecanismo de conhecimento, apropriaÃ§Ã£o e controle do \"territÃ³rio\"; veÃ­culo capaz de fornecer Ã\_ Coroa a medida do seu impÃ©rio e materializar nas \"Conquistas\" a presenÃ§a de um Rei ausente"
   author:
     - family: Bueno
       given: Beatriz Piccolotto Siqueira
@@ -815,6 +908,14 @@ references:
   type: book
 
 - id: 'caniggia:2008lettura'
+  abstract: >-
+    Questo volume si occupa di codificare il metodo per l'esecuzione di
+    operazioni di lettura delle strutture edilizie che si sono costituite in
+    passato a livello di "coscienza spontanea" in una progressione di grandezze
+    scalari che vanno dall'edificio, all'aggregazione di edifici, all'organismo
+    urbano, al territorio. L'attenzione ai prodotti architettonici del passato è
+    il campo della "tipologia processuale" che è la chiave per l'utilizzazione
+    della storia nell'operare come architetti nel mondo contemporaneo.
   author:
     - family: Caniggia
       given: Gianfranco
@@ -833,6 +934,98 @@ references:
   type: book
 
 - id: 'cardoso:2013histories'
+  abstract: >-
+    L’histoire de l’art brésilien du xixe siècle a subi, pendant les douze
+    dernières années, de si importantes transformations qu’il est possible de
+    dire qu’elle a été réécrite, si l’on s’en réfère à ce qui a été produit au
+    cours du siècle précédent. Le présent essai vise à fournir une révision
+    critique de la biographie établie entre 2000 et 2012 en se concentrant en
+    particulier sur les livres mais aussi en prenant en considération les
+    catalogues, les revues, les articles académiques et les sites Internet.
+    Ceux-ci sont situés dans un contexte institutionnel et professionnel qui a
+    pour but de répertorier les études publiées actuellement. Cet examen se
+    subdivise de la façon suivante : évaluations de l’état de l’art dans les
+    années 1990 ; études générales ; paysage et autres genres ; biographies et
+    monographies ; approches thématiques ; sources Internet. Il contient en
+    outre un résumé du panorama institutionnel. Une attention particulière est
+    attribuée aux questions d’histoires non élitistes de l’art et de la
+    transdisciplinarité en tant qu’opportunités qui représentent un défi pour le
+    développement futur du champ d’investigation., The history of
+    nineteenth-century Brazilian art has undergone enormous transformation over
+    the past twelve years, to the point where it has been arguably re-written
+    with regard to the output of the preceding century. The present essay
+    attempts to provide a critical overview of the bibliography produced during
+    the interval between 2000 and 2012, focusing primarily on books but also
+    taking into account catalogues, journals, scholarly articles and websites.
+    These are situated, in turn, in their institutional and professional
+    contexts, so as to map the scholarship currently being produced. The review
+    is broken down into evaluations of the state of the art in the 1990s;
+    general surveys; landscape and other genres; biographies and monographs;
+    thematic approaches; internet resources; and a brief summary of the
+    institutional landscape. Special attention is given to non-elite histories
+    of art and trans-disciplinarity as fronts that still pose a particular
+    challenge to the further development of the field., A história da arte
+    brasileira do século xix tem passado por enormes transformações ao longo dos
+    últimos doze anos, ao ponto de ser possível argumentar que foi reescrita com
+    relação ao que foi produzido nos cem anos anteriores. O presente ensaio visa
+    fornecer uma revisão crítica da bibliografia produzida entre 2000-2012,
+    enfocando especialmente livros, mas também levando em consideração
+    catálogos, revistas, artigos acadêmicos e sites da internet. Estes são
+    situados, por sua vez, em seu contexto institucional e profissional, a fim
+    de mapear os estudos produzidos atualmente. A resenha é subdividida em
+    avaliações do estado da arte na década de 1990; estudos gerais; paisagem e
+    outros gêneros; biografias e monografias; abordagens temáticas; fontes da
+    internet; assim como um resumo do cenário institucional. Dedica-se especial
+    atenção às questões de histórias não-elitistas da arte e da
+    trans-disciplinaridade como frentes que ainda representam um desafio para o
+    desenvolvimento futuro do campo., Die Geschichte der brasilianischen Kunst
+    des 19. Jahrhunderts hat im Laufe der letzten zwölf Jahre so starke
+    Veränderungen erfahren, dass man im Vergleich zur theoretischen Produktion
+    der vorhergehenden hundert Jahre von einer Umschreibung sprechen kann. Der
+    vorliegende Artikel versucht, eine kritische Bestandsaufnahme der zwischen
+    2000 und 2012 entstandenen Bibliographie zu liefern, indem er sich besonders
+    mit den monographischen Schriften, aber auch mit den Katalogen,
+    Zeitschriften, wissenschaftlichen Artikeln und Internetseiten
+    auseinandersetzt. Letztere stehen in einem institutionellen und
+    professionellen Kontext, um die aktuellen Veröffentlichungen zu sichten und
+    zu ordnen. Die hier vorliegende kritische Betrachtung ist in folgende
+    Abschnitte gegliedert: Evaluierung des Wissenschaftsstands in den 1990er
+    Jahren; allgemeine Studien; Landschaft und andere Bildgattungen; Biographien
+    und Monographien; thematische Untersuchungen; Internetquellen. Darüber
+    hinaus enthält dieser Artikel einen Überblick über das institutionelle
+    Spektrum. Besonderes Augenmerk liegt auf den Fragen und Möglichkeiten einer
+    nicht elitären Kunstgeschichte und ihrer Transdisziplinarität als
+    Herausforderungen für die weitere Entwicklung dieses Forschungsgebiets.,
+    Durante gli ultimi dodici anni, la storia dell’arte brasiliana
+    dell’Ottocento ha conosciuto delle trasformazioni così importanti da poter
+    affermare che essa è stata riscritta, in particolare in riferimento a ciò
+    che era stato prodotto nei cento anni precedenti. Questo saggio intende
+    fornire una revisione critica della bibliografia pubblicata tra il 2000 e il
+    2012; per far ciò, si concentra soprattutto sulle monografie, ma prende in
+    considerazione anche cataloghi, riviste, articoli accademici e siti
+    internet. Questi si inseriscono in un contesto istituzionale e professionale
+    che ha per scopo di recensire gli studi attualmente pubblicati. L’analisi si
+    compone delle seguenti parti: valutazione dello stato degli studi negli anni
+    Novanta; studi generali; paesaggio e altri generi; biografie e monografie;
+    approcci tematici; fonti internet. Essa contiene inoltre un riassunto del
+    panorama istituzionale. Un’attenzione particolare è assegnata alle storie
+    non elitarie dell’arte e dell’interdisciplinarietà – due strade che
+    costituiscono una sfida per lo sviluppo futuro del campo di indagine., La
+    historia del arte brasileño del siglo xix ha experimentado transformaciones
+    tales, a lo largo de los últimos doce años, que podría decirse que ha sido
+    reescrita, si nos atenemos a lo producido en los cien años anteriores. Este
+    estudio aspira a ofrecer una revisión crítica de la biografía establecida
+    entre 2000 y 2012, basándose sobre todo en los libros pero también teniendo
+    en cuenta los catálogos, las revistas, los artículos académicos y los sitios
+    web. Éstos se sitúan en un contexto institucional y profesional cuyo
+    propósito es catalogar los estudios publicados en la actualidad. Se
+    subdivide el examen de la forma siguiente: evaluaciones del estado del arte
+    en la década de 1990; estudios generales; paisajes y otros géneros;
+    biografías y monografías; enfoques temáticos; fuentes en Internet. A esto se
+    añade un resumen del panorama institucional. Se ha prestado una atención
+    específica a las cuestiones de historias no elitistas del arte y de la
+    transdisciplinaridad en tanto que oportunidades que representan un desafío
+    para el futuro desarrollo del campo de investigación.
   accessed:
     - year: 2018
       month: 5
@@ -895,6 +1088,31 @@ references:
   type: book
 
 - id: 'carvalho:2014rio'
+  abstract: >-
+    A transferência da Corte Portuguesa para o Brasilem 1808 trouxe consigo
+    novas intenções e planospara o Brasil e para a cidade do Rio de Janeiro.
+    Acarente colônia necessitava de um governo organizadoe instituições
+    administrativas, de escolas,estradas, bancos, fábricas. Todas as mudançasque
+    ocorreriam na estrutura urbana naquele períodoteriam como pano de fundo a
+    sua adaptaçãoà função de sede do Império. Nesse processo,afastar-se das
+    características de cidade colonialera imprescindível para o Rio de Janeiro.A
+    pesquisa que deu origem a esse artigo temcomo objetivo resgatar, sob o olhar
+    dos planosurbanísticos, dos projetos e das transformaçõesefetuadas no Rio de
+    Janeiro no século XIX, amaneira de pensar a cidade a partir da chegadada
+    corte real, mostrando o quanto esse fato foifundamental para alterá-la,
+    posteriormente, noinício do século XX. Os novos hábitos trazidos dametrópole
+    europeia modificaram o comportamentodos moradores, e a Missão Francesa de
+    1816,chefiada por Joaquim Lebreton, contribuiu nesseprocesso. Durante o
+    século XIX foram elaboradosdois planos urbanísticos para a cidade do Riode
+    Janeiro: o Relatório Beaurepaire em 1843 e oRelatório da Comissão de
+    Melhoramentos, em1875 e 1876. Ambos tinham como preocupaçãoquestões de
+    higiene, controle e indução do desenvolvimentoda cidade, pavimentação,
+    aberturae alargamento de vias, além de representarem asíntese do pensamento
+    urbanístico do momento.Ao se analisar os planos anteriormente
+    citados,observamos muitos princípios que foram colocadosem prática nas
+    grandes intervenções urbanasdo século XX.Palavras-chave: Rio de Janeiro.
+    História Urbana.Planos Urbanísticos. Transferência da CortePortuguesa.
+    Século XIX.
   accessed:
     - year: 2018
       month: 5
@@ -921,6 +1139,21 @@ references:
   URL: 'http://periodicos.unb.br/index.php/paranoa/article/view/12047'
 
 - id: 'cast:1993speaking'
+  abstract: >-
+    The reading Jones gave to the books he owned could serve him in various
+    ways. This article is concerned with one such use he made of the materials
+    in the Vite by Giorgio Vasari, one volume of which we know he possessed and
+    on which he made notes. It is suggested that this text gave him an
+    opportunity to construct a critical vocabulary for architecture, different
+    in character from that available to him from such sources as Palladio,
+    Vitruvius, or Serlio. And it is also suggested that this new vocabulary is
+    specifically reflected in two passages about architecture, and in what J. A.
+    Gotch called Jones' sentiments about architecture, written in the notebook
+    now at Chatsworth. In addition, this article is concerned with the
+    development of a more general vocabulary in England in the seventeenth
+    century, for gentlemen and architects alike, that came from the tradition of
+    praise, or epideixis, together with terms of a more particular kind to refer
+    to the parts of architecture that came both from Italian and French.
   accessed:
     - year: 2017
       month: 4
@@ -972,6 +1205,9 @@ references:
   type: chapter
 
 - id: 'cataldi:1989attualita'
+  abstract: >-
+    Atti del Convegno internazionale Le ragioni dell'abitare, Prato, 8-9 gennaio
+    1988
   collection-title: Convegno internazionale Le ragioni dell'abitare
   editor:
     - family: Cataldi
@@ -1007,6 +1243,14 @@ references:
   type: book
 
 - id: 'cavalcanti:2006moderno'
+  abstract: >-
+    A partir da década de 1930, diversas correntes estavam em franca disputa na
+    formação da arquitetura brasileira. Os modernos - dentre os quais Lucio
+    Costa e Oscar Niemeyer - sobressaíram-se a neocoloniais e acadêmicos, e
+    conquistaram reconhecimento internacional. Como se formou o grupo dos
+    modernos e sua estética revolucionária. Como a arquitetura forjou a imagem
+    de um novo Brasil. Depoimentos exclusivos e mais de 130 fotos, desenhos,
+    plantas e fac-símiles, muitos deles inéditos.
   author:
     - family: Cavalcanti
       given: Lauro
@@ -1057,6 +1301,24 @@ references:
   type: book
 
 - id: 'cimadomo:2014teaching'
+  abstract: >-
+    The changes that the European Higher Education Area (EHEA) framework obliged
+    the School of Architecture of Malaga, University of Malaga. to make to its
+    “History of Architecture” course are discussed in this paper. It was taken
+    up as an opportunity to modify the whole course, introducing creative
+    teaching and “imaginative activities” to put the students at the centre of
+    the learning experience and giving them part control over the course. IT
+    technologies such as Pinterest were used to create a friendly visual
+    learning environment to offer richer learning experiences and positive
+    effects on the students. Time dedicated to the presentation of theoretical
+    content in the course was reduced by half and the program was redefined from
+    the chronology of the previous program to a reading of the use of the
+    classical orders throughout history. This change generated interest,
+    curiosity and a greater understanding of the relationships between different
+    styles which use the same elements. The implementation of several activities
+    such as problem solving exercises, complementary readings and video helped
+    to focus the course on a student-centred learning environment, was valued
+    positively by the students.
   accessed:
     - year: 2017
       month: 1
@@ -1148,6 +1410,14 @@ references:
   type: book
 
 - id: 'coli:2013fabrique'
+  abstract: >-
+    Première constatation : la production artistique du Brésil, depuis le début
+    de son histoire, n’a jamais été fondée sur l’observation. Tant dans les arts
+    plastiques qu’en littérature, artistes, intellectuels et écrivains, aveugles
+    à la réalité de ce qui les entourait, se sont enfermés dans un monde
+    imaginaire. Cette remarque liminaire, simple et générique annonce les
+    caractéristiques fondamentales de l’art brésilien ; cette spécificité est
+    issue de croyances idéologiques, et en particulier de ...
   accessed:
     - year: 2018
       month: 5
@@ -1183,6 +1453,21 @@ references:
   type: book
 
 - id: 'collins:1966architectural'
+  abstract: >-
+    It is notorious that our present age, for all the lip service that it pays
+    to structural and economic considerations and the sanctity of the program
+    when it theorizes about architecture, tends to give undue weight to
+    pictorial or sculptural criteria when it judges individual buildings.
+    Photography and the illustrated press are sometimes blamed for this. Mr.
+    Collins, in an address to the annual meeting of the Province of Quebec
+    Architectural Association, shows that the trouble has deeper roots, which
+    reach back three centuries to the establishment of the French Académie de
+    Peinture, Sculpture et Architecture in Rome. He points out that the
+    so-called "beaux-arts" system in France, far from being characteristically
+    and traditionally French, is essentially Italian, and suggests that the
+    Quebec Provincial Government's Report on Architectural Education may well be
+    a major factor leading to a revival of a truly French tradition in
+    architecture--and in France itself.
   author:
     - family: Collins
       given: Peter
@@ -1214,6 +1499,23 @@ references:
   type: book
 
 - id: 'colonetti:2007selecao3'
+  abstract: >-
+    Macedo, em seu Um passeio pela cidade do Rio de Janeiro, procura levantar o
+    véu ideológico estendido sobre a capital do Império, numa tentativa de
+    restabelecer as coordenadas heurísticas de uma Identidade Nacional que
+    pairava indeterminada no imaginário da época. Para tanto, se vale de sua
+    posição-sujeito privilegiada como articulador da ‘cidade letrada’ (RAMA,
+    1984) e entretece, em suas projeções ideais do imaginário, ficcionalizações
+    dos discursos-fonte oriundos da ‘cidade real’. Neste jogo de
+    sobredeterminação, o espaço urbano e seus marcos arquitetônicos servem de
+    mapa e signo para o traçado de uma nova hermenêutica da realidade social,
+    republicana e progressista. A partir deste panorama, procuro investigar as
+    estratégias representacionais de Macedo, de acordo com as categorias de
+    ‘seleção’ (ISER, 1996), ‘ideologia’ (EAGLETON, 1997) e o binômio ‘cidade
+    letrada’ e ‘cidade real’ (RAMA, 1984).
+
+
+    Palavras-chave: república; ideologia; ficção; Brasil; crítica
   accessed:
     - year: 2018
       month: 5
@@ -1405,6 +1707,11 @@ references:
   volume: '37'
 
 - id: 'costa:1940ensino'
+  abstract: >-
+    O texto foi produzido por Lucio Costa para o Ministro Gustavo Capanema a
+    respeito do ensino do desenho nas escolas em 1940. A publicação foi
+    autorizada por Maria Elisa Costa, filha do Dr. Lucio Costa e Diretora da
+    Casa de Lucio Costa.
   author:
     - family: Costa
       given: Lucio
@@ -1807,6 +2114,28 @@ references:
   volume: 1. The present relevance of the primitive in architecture
 
 - id: 'eisenman:1994nineteenth'
+  abstract: >-
+    This is a radical reconsideration of the origins of modern painting and
+    sculpture in Europe and North America. In art, as in nearly every other
+    field, the nineteenth century was a time of questioning, experimentation,
+    discovery and modernization. Artists divined and portrayed, as never before,
+    the crucial connections between seeing and knowing, vision and society. From
+    Goya to Blake, from Courbet to Eakins, from Cassatt to Cezanne, from Van
+    Gogh to Ensor, they challenged the prevailing definitions of art and the
+    social order. Nineteenth Century Art: A Critical History embraces many
+    aspects of the so-called "new" art history - attention to issues of class
+    and gender, reception and spectatorship, racism and Eurocentrism - while
+    emphasizing the remarkable vitality, salience and subversiveness of the
+    era's best art. Indeed, the authors insist that there is a profound sympathy
+    between these new methods and the art under examination. For it was
+    nineteenth-century artists who first addressed the issues that preoccupy
+    audiences and scholars today: the relation between popular and elite
+    culture, the legacy of the Enlightenment, the question of the canon, and the
+    representation of women and non-European peoples. This rich and diverse
+    volume suggests that nineteenth-century art remains compelling today because
+    its critical insights have rarely been surpassed. It will prove of interest
+    not only to the specialist, but to anyone fascinated by the art, history and
+    culture of this unique era.
   author:
     - family: Eisenman
       given: Stephen
@@ -1837,6 +2166,18 @@ references:
   volume: '14'
 
 - id: 'elliott:1964monuments'
+  abstract: >-
+    In his article "The Variety of Scale" in the December issue, Cecil Elliott
+    discussed a concept which, though of manifold intellectual ramifications, is
+    relatively free from emotive content. The case is very different with the
+    subject of the following article. For reasons connected with the history of
+    modern architecture and the ideals of certain of the most articulate of its
+    pioneers and theorists, monumentality is a word which, encountered on the
+    printed page, provokes in most of us an instant reaction of a non-rational
+    kind. Yet, as Professor Elliott points out, there has as a matter of
+    historical fact been a revival of monumentality, and of the monument too,
+    during the past two decades. In view of this, the time has clearly come for
+    a reconsideration of the subject of monuments and monumentality.
   accessed:
     - year: 2014
       month: 3
@@ -1920,6 +2261,12 @@ references:
   type: book
 
 - id: 'evans:1995projective'
+  abstract: >-
+    Introduction: Composition and Projection – Ch. 1. Perturbed Circles – Ch. 2.
+    Persistent Breakage – Ch. 3. Seeing through Paper – Ch. 4. Piero's Heads –
+    Ch. 5. Drawn Stone – Ch. 6. The Trouble with Numbers – Ch. 7. Comic Lines –
+    Ch. 8. Forms Lost and Found Again – Ch. 9. Rumors at the Extremities –
+    Conclusion: The Projective Cast xxxvii, 413 p
   author:
     - family: Evans
       given: Robin
@@ -2082,6 +2429,18 @@ references:
   URL: 'https://www.docomomo.com/pdfs/events/docomomo_news/124410_DJ43WEB.pdf'
 
 - id: 'ficher:2019imprevidentes10'
+  abstract: >-
+    Entre aqueles preceitos presentes na concepção original de Brasília que
+    deixaram marcas profundas no seu posterior crescimento destaca-se a opção
+    por baixas densidades. Desde sempre, a densificação populacional tem sido
+    anátema, tanto mais denegrida quando associada a altas alturas nas
+    edificações. As consequências são visíveis na dimensão desmesurada da mancha
+    urbanizada do Distrito Federal. Contudo, o aumento crescente das distâncias
+    e a elevação dos valores fundiários findaram por impor sua lógica nesta que
+    já é a terceira metrópole brasileira. Hoje, está em curso um processo de
+    acelerada verticalização justamente naquelas áreas menos capacitadas para
+    suportar os impactos da nova massa edificada e do concomitante aumento
+    populacional.
   accessed:
     - year: 2019
       month: 12
@@ -2144,6 +2503,13 @@ references:
   type: book
 
 - id: 'fisher:2000architectural54'
+  abstract: >-
+    Architecture programs should include a curriculum on philosophy of
+    architecture in the analytic philosophical tradition. I describe such a
+    curriculum and distinguish it from both the typical architectural theory
+    curriculum and the typical philosophical aesthetics courses. Without such a
+    curriculum, students likely lack exposure to the philosophical approach to
+    aesthetics that is dominant in American universities.
   accessed:
     - year: 2017
       month: 8
@@ -2276,6 +2642,36 @@ references:
   type: book
 
 - id: 'freitas:2016nem'
+  abstract: >-
+    O concreto armado não foi apenas apropriado como tecnologia construtiva, mas
+    também, segundo seu potencial de expressão arquitetônica, passou a ser o
+    paradigma da renovação da arquitetura das primeiras três décadas do século
+    XX, em sintonia com a modernização urbana, industrial e intelectual de toda
+    a sociedade. Para tanto, cisões foram crescendo em campos tradicionais da
+    arte e da arquitetura e conceitos tiveram seus significados revistos,
+    alterados ou até corrompidos. Neste trabalho, serão analisados os caminhos
+    de incorporação da tecnologia construtiva do concreto armado pela
+    arquitetura, através de alguns discurso e imagens divulgados em periódicos
+    especializados e jornais diários, que fizeram a apologia da nova prática
+    arquitetônica, supostamente dotada de modernidade e de racionalidade
+    construtiva. Olha-se o momento de transformação dos ideários arquitetônicos,
+    quando se assume a necessidade de uma expressão para o sistema construtivo,
+    seja ele calcado em referências da arquitetura do passado, seja pela
+    inovação na forma a partir da procura por uma nova estética. O presente
+    trabalho aborda a partir de dois artigos o discurso em defesa de uma
+    arquitetura do concreto armado no Brasil. O primeiro, de 1917, momento no
+    qual o Jornal do Comércio editou a tese apresentada pelo engenheiro Otávio
+    Ribeiro da Cunha para a cadeira de arquitetura civil da Escola Politécnica
+    do Rio de Janeiro, “Estética do cimento armado”. O segundo, intitulado
+    “Fundamentos da Architectura Brasileira”, do engenheiro e arquiteto Gastão
+    Bahiana, publicado em 1926 no periódico Architectura no Brasil, do Instituto
+    Central dos Architectos. Nos mais distintos meios de publicação periódicos –
+    revistas e jornais –, os arquitetos difundiram suas opiniões sobre as ações
+    urbanas nas cidades brasileiras, a defesa da profissão de arquiteto seja
+    como “gerenciador” da obra, seja como o pensador das cidades, isto é, como
+    urbanista, e a apologia de distintas práticas arquitetônicas.
+
+    Palavras-chave: Concreto armado. Periódicos. Arquitetura e Discurso.
   accessed:
     - year: 2018
       month: 2
@@ -2387,6 +2783,16 @@ references:
   type: book
 
 - id: 'gere:2009knossos'
+  abstract: >-
+    In the spring of 1900, British archaeologist Arthur Evans began to excavate
+    the palace of Knossos on Crete, bringing ancient Greek legends to life just
+    as a new century dawned amid far-reaching questions about human history,
+    art, and culture. Over the next three decades, Evans engaged in an
+    unprecedented reconstruction project, creating a complex of concrete
+    buildings on the site that owed at least as much to modernist architecture
+    as they did to Bronze Age remains. In the process, he fired the imaginations
+    of a whole generation of intellectuals and artists, whose work would drive
+    movements as.
   accessed:
     - year: 2015
       month: 3
@@ -2684,6 +3090,18 @@ references:
   volume: '12'
 
 - id: 'grieder:2011search'
+  abstract: >-
+    Entering the architectural dialogue in 1830, the term néo-grec came to
+    characterize the stylistic movement represented by Henri Labrouste's
+    Bibliothèque Sainte-Geneviève, but the meaning of the term was always
+    elusive. Josephine Grieder analyzes the confusing record of remarks by
+    architects and the subsequent commentary by scholars and historians, noting
+    the difficulty of aligning the terminology with visible architectural
+    phenomena. The Search for the Néo-Grec in Second Empire Paris turns to
+    contemporary books and journals for testimony about the visual
+    characteristics of the style and traces the subtle shift in its meaning as
+    néo-grec be-came inextricably linked with the urban transformation effected
+    by Napoleon III and Haussmann.
   author:
     - family: Grieder
       given: Josephine
@@ -2810,6 +3228,17 @@ references:
   type: book
 
 - id: 'hegemann:1911stadtebau'
+  abstract: >-
+    Die Internationale Städtebau-ausstellung in Düsseldorf; 600 Wiedergaben des
+    Bilder- und Planmaterials der beiden Ausstellungen, mit Förderung durch die
+    königlichen preussischen Ministerien des Inneren, des Handels und der
+    öffentlichen Arbeiten, sowie durch die Städte Berlin, Charlottenburg,
+    Rixdorf, Schöneberg, Wilmersdorf, Pottsdam, Spandeau, Lichtenberg und
+    Düsseldorf hrsg
+
+
+    Book digitized by Google from the library of the University of Michigan and
+    uploaded to the Internet Archive by user tpb.
   accessed:
     - year: 2014
       month: 2
@@ -3013,6 +3442,17 @@ references:
   type: book
 
 - id: 'iori:2014sixxi1'
+  abstract: >-
+    La ricerca SIXXI (Twentieth Century Structural Engineering: The Italian
+    Contribution) ha lo scopo di ricostruire la storia dell'ingegneria
+    strutturale in Italia. Una storia avvincente, a tratti gloriosa, e comunque
+    singolare. Una storia, inopinatamente, dimenticata. Nei volumi di questa
+    serie intendiamo raccontare la vicenda, cosí come la veniamo man mano
+    riscoprendo. Le indagini restituiscono alcuni episodi della storia,
+    recuperati con studi trasversali su territori largamente inesplorati. In
+    appendice, un fotoromanzo a puntate (invenzione italiana) illustra in breve
+    la sequenza complessiva degli eventi e delle opere principali e ripropone
+    l'universo figurativo scomparso dell'ingegneria moderna.
   editor:
     - family: Iori
       given: Tullia
@@ -3034,6 +3474,26 @@ references:
   volume: '1'
 
 - id: 'iori:2015sixxi2'
+  abstract: >-
+    La ricerca Sixxi (Twentieth Century Structural Engineering: the Italian
+    Contribution) ha lo scopo di ricostruire la storia dell'ingegneria
+    strutturale in italia. una storia avvincente, a tratti gloriosa, e comunque
+    singolare. una storia, inopinatamente, dimenticata. Nei volumi di questa
+    serie intendiamo raccontare la vicenda, così come la veniamo man mano
+    riscoprendo. le indagini restituiscono alcuni episodi della storia,
+    recuperati con studi trasversali su territori largamente inesplorati. in
+    appendice, un fotoromanzo a puntate (invenzione italiana) illustra in breve
+    la sequenza complessiva degli eventi e delle opere principali e ripropone
+    l'universo figurativo scomparso dell’ingegneria moderna. SIXXI 2 – TULLIA
+    IORI e SERGIO PORETTI, Il linguaggio delle strutture – ILARIA GIANNETTI,
+    Fotogenia della struttura. In posa con il ponte – ILARIA PALAZZI, Proiezioni
+    di strutture. Luigi Cremona e la statica grafica nelle scuole d’ingegneria
+    italiane – ELIANA ALESSANDRELLI, Distorsioni sistematiche. I ponti
+    “truccati” di Eugenio Miozzi – ILARIA GIANNETTI, Cemento “armato”. Strutture
+    per la conquista dell’Impero – GIANLUCA CAPURSO e FRANCESCA MARTIRE,
+    “Buongiorno, signori. Io sono un elaboratore ELEA 9000”. Calcolo automatico
+    e progettazione strutturale – TULLIA IORI e SERGIO PORETTI, Fotoromanzo
+    SIXXI -3. La sperimentazione autarchica, 4. La Ricostruzione.
   editor:
     - family: Iori
       given: Tullia
@@ -3053,6 +3513,23 @@ references:
   volume: '2'
 
 - id: 'iori:2016sixxi3'
+  abstract: >-
+    La ricerca SIXXI (twentieth century structural engineering: the italian
+    contribution) ha lo scopo di ricostruire la storia dell’ingegneria
+    strutturale in Italia. una storia avvincente, a tratti gloriosa, e comunque
+    singolare. una storia, inopinatamente, dimenticata. Nei volumi di questa
+    serie intendiamo raccontare la vicenda, così come la veniamo man mano
+    riscoprendo. Le indagini restituiscono alcuni episodi della storia,
+    recuperati con studi trasversali su territori largamente inesplorati. in
+    appendice, un fotoromanzo a puntate (invenzione italiana) illustra in breve
+    la sequenza complessiva degli eventi e delle opere principali e ripropone
+    l’universo figurativo scomparso dell’ingegneria moderna. SIXXI 3 – SERGIO
+    PORETTI, La biblioteca magica – Bell’Italia. L’ingegneria in posa – TULLIA
+    IORI e GRAZIANO SAVONE, La costruzione di un mito. La vera storia del ponte
+    del Risorgimento – ILARIA GIANNETTI, Bridging Italy 1943-1952. Diario della
+    Ricostruzione – GIANLUCA CAPURSO e FRANCESCA MARTIRE, La crisi (in)visibile
+    1964-2001. Cronache italiane – TULLIA IORI e SERGIO PORETTI, Fotoromanzo
+    SIXXI - 5. L’Autostrada del Sole, 6. Le Olimpiadi di Roma ’60 e Italia ’61.
   editor:
     - family: Iori
       given: Tullia
@@ -3074,6 +3551,23 @@ references:
   volume: '3'
 
 - id: 'jarzombek:1991crisis'
+  abstract: >-
+    I outline the discursive logic of the two principal ways architectural
+    theory has been conceived: historiographic critique and interdisciplinary
+    historiography. Post-Renaissance theory-making fell into a pattern I call
+    historiographic critique, which centered around the humanist imperative to
+    link historical knowledge, social criticism, and architectural practice. In
+    the 19th century, historiographic critique became increasingly incapable of
+    creating viable conceptions of the past and was replaced by
+    interdisciplinary historiography. The advantages and disadvantages of
+    interdisciplinary historiography can already be seen in the work of Mies van
+    der Rohe. He abolished narrow historicism in favor of consciously created
+    dependencies between philosophy, history, and architectural theory drawn out
+    over various times, cultures, languages, and academic disciplines.
+    Unfortunately, the paradoxes inherent in the discursive logic of
+    interdisciplinary historiography left it open to manipulations by
+    intellectual formalists, in whose hands theory came to be treated as a
+    discourse separate from its own historicity
   author:
     - family: Jarzombek
       given: Mark
@@ -3143,6 +3637,20 @@ references:
   type: book
 
 - id: 'kessel:2011estilo0'
+  abstract: >-
+    Neste artigo as reflexões sobre o neocolonial, estilo arquitetônico que
+    ganhou proeminência no Brasil durante as décadas de 1920 e 1930, mas que
+    posteriormente recebeu pouca atenção dos historiadores da arte, estão
+    focadas particularmente sobre algumas discussões de ordem política em torno
+    do caráter da nação brasileira. Os criadores e adeptos do neocolonial
+    apontavam a produção arquitetônica como instrumento privilegiado de
+    intervenção na ordem social. Tal crença foi partilhada por profissionais de
+    diferentes posições políticas e concepções ideológicas. Esse ponto de vista
+    está presente na polêmica entre modernistas e defensores do neocolonial, e a
+    rivalidade se estendeu à disputa pela direção das ações governamentais
+    destinadas a proteger o patrimônio artístico do país, e se transformou numa
+    disputa em que o neocolonial assumiu cores preponderantemente conservadoras
+    e racistas.
   accessed:
     - year: 2018
       month: 5
@@ -3221,6 +3729,10 @@ references:
   volume: '30'
 
 - id: 'kremer:1997deutscher'
+  abstract: >-
+    Am 4.4. 1770 traf G. von Frankfurt kommend in Straßburg ein, um seine
+    juristische Dissertation anzufertigen. Dem Neunten Buch von Dichtung und
+    Wahrheit läßt sich entnehmen, daß ihn gleich sein erster...
   accessed:
     - year: 2018
       month: 6
@@ -3365,6 +3877,27 @@ references:
   volume: '121'
 
 - id: 'lavin:1991names'
+  abstract: >-
+    The institutional and ideational reconfiguration of architecture into
+    discrete and professional practices began in late eighteenth-century France.
+    Quatremère de Quincy (1755-1849) was caught in this critical divide between
+    a humanist organic tradition and a modern age of specialized disciplines.
+    One of his most important texts concerns Egyptian architecture, a subject
+    that played a significant role in establishing a methodological alliance
+    between history and science. By comparing Quatremère's work with other
+    publications on Egypt, it becomes apparent that while the name of history
+    was increasingly invoked to lend an impersonal and hence authoritative voice
+    to studies of the past, the individual voices continued to speak in the
+    ideologically motivated language of the present. Quatremère's work
+    illuminates the consequences of this historiographical evolution because he
+    deliberately attempted to negotiate between the dispassionate methods of the
+    modern historian and the tendentious aims of a theorist of contemporary
+    architecture. What was a difficult conflation of disciplines has become an
+    almost suspect perversion of methodological standards: today scholarship
+    loses acclaim in the degree to which the subjective participation of the
+    scholar is acknowledged. Disclaiming this engagement, however, reduces the
+    historian's ability to perceive and thus to assume critical responsibility
+    for the shape and meaning of his or her own practice.
   author:
     - family: Lavin
       given: Sylvia
@@ -3496,6 +4029,14 @@ references:
   type: book
 
 - id: 'lemos:1993transformacoes1'
+  abstract: >-
+    Depois de referências à arquitetura colonial (inclusive no exame de modelos
+    vernaculares portugueses, da contribuição indígena e da adaptação a
+    condições climáticas, ao isolamento geográfico e a padrões segregacionistas
+    de comportamento), o autor descreve os principais traços do padrão difuso de
+    residência rural, assim como de seus equivalentes urbanos. O Ecletismo - com
+    suas raízes externas - é apontado como o principal vetor de transformações,
+    da segunda metade do século XIX até a 1.0 Guerra Mundial.
   accessed:
     - year: 2018
       month: 5
@@ -3557,6 +4098,15 @@ references:
   type: book
 
 - id: 'lins:1996gonzaga25'
+  abstract: >-
+    Os textos de Gonzaga Duque revelam uma consciência trágica da modernidade,
+    incomum na literatura brasileira. Trágico não é o patético, mas, sim, a
+    crítica radical que propõe a reversão da ordem das coisas. Vê−se o mundo
+    como aparência, ilusão, e se pretende virá−lo do avesso, o que se traduz na
+    busca de uma outra linguagem com a imaginação livre para ultrapassar o
+    sensível. Essa consciência trágica é a única possibilidade de contraposição
+    ao otimismo progressista, às tentativas modernizadoras, à identificação do
+    pensamento como cálculo.
   accessed:
     - year: 2018
       month: 2
@@ -3574,6 +4124,21 @@ references:
   volume: '25'
 
 - id: 'lobera:2017durand'
+  abstract: >-
+    Andrés Caballero Lobera. Architect since 1987 from the Higher Technical
+    School (E.T.S.) of Architecture of San Sebastian (UPV/EHU). Since then and
+    until the present time I have freely exercised the profession, carrying out
+    building projects both for the private initiative and for the public
+    administration. In 1989, I was hired by the University of the Basque Country
+    (UPV/EHU) as associate professor, working part time at the E.T.S of
+    Architecture in San Sebastian. In 1994, I was attached to the area of
+    Architectonic Projects of the Department of Architecture of the same centre,
+    where I taught the Projects IV subject (5th year) until the 2013/14 academic
+    year. Currently I teach Projects I and II subjects at the aforementioned
+    centre. In February 2016, I presented my doctoral dissertation at the E.T.S.
+    of Architecture of San Sebastian, entitled: “Victor Eusa-architect (Pamplona
+    1894-1990)”, under the guidance of Manuel Iñiguez Villanueva (Professor of
+    Projects), which received “cum laude” distinction.
   accessed:
     - year: 2017
       month: 10
@@ -3700,6 +4265,22 @@ references:
   type: book
 
 - id: 'malta:2014olhar'
+  abstract: >-
+    Durante o século XIX, os ambientes domésticos começaram a se tornar
+    decorados em uma escala quantitativa e qualitativa sem precedente, tanto no
+    continente europeu quanto no Brasil. O público seleto encontrava no espaço
+    doméstico a possibilidade de personificar seu mundo através da apropriação
+    de revestimentos, têxteis, móveis e objetos que iriam representar suas
+    necessidades, escolhas, desejos. Foi uma época que creditaram aos interiores
+    das casas o papel de revelar condições subjetivas, expressando
+    personalidades e intimidades, confirmando o que Machado de Assis
+    sentenciava: “Dize-me como moras, dir-te-ei quem és”. Estar cercado pela
+    decoração de interiores também garantia a entrada para o mundo civilizado,
+    como o alcance da ordem e do progresso. Para conceber e saber julgar a
+    decoração, era necessário desenvolver uma capacidade visual específica: o
+    olhar decorativo. Olhava-se a decoração por intermédio de dispositivos que
+    promoviam uma nova cultura da visão, transformando o modo de olhar para
+    dentro das casas.
   author:
     - family: Malta
       given: Marize
@@ -3717,6 +4298,19 @@ references:
   type: book
 
 - id: 'mann:1985traditionalism39'
+  abstract: >-
+    Little in the history of the profession of architecture or in our current
+    paradigm of architectural education teaches us to understand architecture
+    from the stand-point of traditional social values. The ideology of
+    modernism, which remains the foundation for the educational philosophy in
+    most architectural schools, is too closely linked with the forces of
+    positivism, idealism and rationalism to respond adequately to the
+    traditional cultural patterns of society. Yet, it is generally felt that it
+    is modernist ideology which pulls us into the future by setting new
+    standards and destroying old icons. In a pluralist and democratic society
+    students of architecture should be equipped with strategies for design which
+    are informed by the ideologies of modernism and traditionalism and with the
+    ability to make judgments as to their appropriate uses.
   accessed:
     - year: 2019
       month: 12
@@ -3753,6 +4347,17 @@ references:
   type: article-journal
 
 - id: 'marins:2016novos29'
+  abstract: >-
+    Resumo Este artigo examina as práticas de preservação do patrimônio cultural
+    adotadas na esfera federal a partir da redemocratização do país na década de
+    1980, tendo por foco os bens que alcançaram tombamento e registro. Procura
+    analisar em que medida conceitos de identidade nacional, tradicionalmente
+    acolhidos pelo IPHAN desde a ditadura varguista, foram efetivamente revistos
+    ao se realizarem as seleções de novos bens protegidos.
+              , 
+                Résumé L'article examine les pratiques de préservation de l'héritage culturel adoptées au niveau fédéral depuis la démocratisation du pays aux années 1980, en se concentrant sur les biens culturels classés et enrigistrés. Il analyse dans quelle mesure les concepts d'identité nationale traditionnellement accueillis par l'IPHAN depuis la dictature Vargas ont effectivement souffert une révision lors de la sélection de nouveaux biens protégés.
+              , 
+                Abstract The article examines the practices of conservation of the cultural heritage adopted by the federal government since the democratization of the country in the 1980s, focusing on the heritages nominated by the "tombamento" and "registro". It analyzes to what extent national identity concepts traditionally welcomed by IPHAN since the Vargas dictatorship have been effectively revised when new protected heritages are selected.
   accessed:
     - year: 2020
       month: 3
@@ -3793,6 +4398,14 @@ references:
   type: book
 
 - id: 'marques:2013existe-t-il'
+  abstract: >-
+    Luiz Marques | Fragilité et apories de l’historiographie artistique
+    brésilienne Proposer une vue d’ensemble sur les rapports entre l’histoire
+    des arts visuels au Brésil et l’histoire des réflexions qu’elle a suscitées
+    chez nous (et, plus rarement, ailleurs) relève de la gageure, car il s’agit
+    d’un dossier difficile. Et cela, peut-on dire, pour trois raisons. Avant
+    tout, cette historiographie n’a pas fait jusqu’à présent l’objet de bilans
+    ou mêmes de réflexions d’ensemble. Or, dès que l’on s’y...
   accessed:
     - year: 2018
       month: 5
@@ -3822,6 +4435,69 @@ references:
   URL: 'http://journals.openedition.org/perspective/3879'
 
 - id: 'martins:2016history'
+  abstract: >-
+    Nas últimas décadas, o estudo da historiografia, da memória histórica e dos
+    usos do 
+
+    passado tem suscitado cada vez maior atenção junto dos meios académicos. O 
+
+    medievalismo em particular, comummente entendido como a representação ou o
+    uso da 
+
+    Idade Média no período pós-medieval, assume aqui um papel significativo,
+    dada a 
+
+    importância da época medieval na cultura histórica romântica e nos processos
+    de 
+
+    construção das identidades nacionais desde o século XIX. No contexto
+    académico 
+
+    português, porém, o medievalismo foi ainda escassamente analisado, faltando
+    um 
+
+    estudo que abranja as suas várias dimensões, da historiografia às políticas
+    de memória. 
+
+    Esta dissertação pretende colmatar esta lacuna, ao explorar as várias
+    representações da 
+
+    Idade Média em Portugal entre o final do século XIX e a primeira metade do
+    século 
+
+    XX. Focando três grandes temas – escrita da história, património artístico
+    e 
+
+    comemorações históricas – iremos demonstrar como certos conceitos,
+    instituições, 
+
+    figuras, eventos e obras da história medieval portuguesa foram narrados,
+    retrabalhados e 
+
+    celebrados, à luz dos discursos decadentistas sobre a nação e sobre o mundo
+    ocidental e 
+
+    da evolução política do país neste período. Estudos internacionais sobre
+    este tema 
+
+    permitirão a realização de exercícios comparativos, bem como considerar a
+    dimensão 
+
+    transnacional do medievalismo português, inserido nas grandes correntes
+    culturais e 
+
+    ideologias políticas que influenciaram as várias representações da época
+    medieval neste 
+
+    período. No final, iremos verificar como uma visão essencialmente romântica
+    da 
+
+    história portuguesa persistiu ao longo de grande parte do século XX, ao
+    representar 
+
+    dicotomicamente a Idade Média de forma positiva em comparação com uma 
+
+    Modernidade identificada com declínio civilizacional e espiritual.
   accessed:
     - year: 2019
       month: 9
@@ -3878,6 +4554,20 @@ references:
   type: book
 
 - id: 'mascaro:2011ricardo'
+  abstract: >-
+    Nosso objetivo foi melhor compreender o ambiente cultural de onde emergiram
+    os movimentos tradicionalistas surgidos no início do século XX – o
+    neocolonial e o da casa portuguesa – liderados no Brasil por Ricardo Severo
+    e em Portugal por Raul Lino. Para tanto analisamos as trajetórias desses
+    dois profissionais da arquitetura e fizemos uma confrontação entre ambas.
+    Como resultado, verificamos que Severo e Lino provavelmente nunca se
+    conheceram e não sofreram influências mútuas. Verificamos também que Severo
+    já estava muito envolvido com debates etnográficos, culturais e políticos
+    enquanto Lino apenas voltava para Portugal depois de um longo período de
+    estudos na Alemanha e na Inglaterra. Por isso, Severo e Lino foram pioneiros
+    lado a lado do movimento português, até que Severo embarca definitivamente
+    para o Brasil, para lá impulsionar o movimento neocolonial, e Lino encabeça
+    o que viria a ser o movimento da casa portuguesa.
   accessed:
     - year: 2014
       month: 6
@@ -3910,6 +4600,7 @@ references:
   type: book
 
 - id: 'meeks:1956railroad'
+  abstract: '"Bibliographical essay": p. 175-186'
   accessed:
     - year: 2019
       month: 9
@@ -3959,6 +4650,9 @@ references:
   type: book
 
 - id: 'menghini:saverio'
+  abstract: >-
+    A study on the teaching of Saverio Muratori in Rome architectural Faculty,
+    between 1954 and 1973.
   accessed:
     - year: 2017
       month: 5
@@ -4346,6 +5040,10 @@ references:
   type: book
 
 - id: 'netto:2015fundamentos'
+  abstract: >-
+    Este livro é dirigido principalmente aos estudantes e profissionais de
+    arquitetura, urbanismo e paisagismo, mas também a todo indivíduo que tenha
+    interesse em compreender a Morfologia...
   author:
     - family: Netto
       given: Maria Manoela Gimmler
@@ -4463,6 +5161,20 @@ references:
   volume: VII
 
 - id: 'oliveira:2016urban'
+  abstract: >-
+    This is a book about cities or, more precisely, about the physical form of
+    cities. It starts presenting the main elements of urban form – streets,
+    urban blocks, plots and buildings – structuring our cities and the
+    fundamental actors and processes of transformation shaping these elements.
+    It then applies this analytical framework to describe the evolution of
+    cities over history as well as to explain the functioning of contemporary
+    cities. After the initial focus on the ‘object’ (cities) the book describes
+    how different researchers and different schools of thought have been dealing
+    with this object since the emergence of Urban Morphology, as the science of
+    urban form, in the turning to the twentieth century. Finally, the book tries
+    to identify what are the most important (and specific) contributions that
+    Urban Morphology has to offer to contemporary cities, societies and
+    economies.
   accessed:
     - year: 2018
       month: 11
@@ -4486,6 +5198,9 @@ references:
   URL: 'http://www.springer.com/la/book/9783319320816'
 
 - id: 'oulebsir:2009orientalisme'
+  abstract: >-
+    [actes du colloque international à Paris, à l'Institut National d'Histoire
+    de l'Art (INHA), les 4 et 5 mai 2006
   editor:
     - family: Oulebsir
       given: Nabila
@@ -4572,6 +5287,19 @@ references:
   volume: '239'
 
 - id: 'palazzo:2012patrimonio'
+  abstract: >-
+    A prática de preservação patrimonial no Brasil representa um recorte parcial
+    da teoria patrimonial tal como esta foi constituída nas convenções
+    internacionais e nas práticas européias e norte-americanas, com forte ênfase
+    numa teleologia histórica. Partindo desses precedentes, estudaram-se os
+    marcos teóricos que têm informado a preservação do patrimônio material
+    imóvel, com conseqüências para as identidades profissionais que se
+    constituem em torno da prática de preservação e do patrimônio preservado. As
+    cartas patrimoniais, bem como as boas práticas da preservação do patrimônio,
+    devem ser mais amplamente discutidas no que se refere a diferentes graus de
+    deterioração de sítios urbanos e ao conceito de autenticidade histórica.
+    Questiona-se uma interpretação abusiva da Carta de Veneza, contrapondo-se a
+    esta as disposições de outras cartas patrimoniais mais recentes.
   author:
     - family: Palazzo
       given: Pedro Paulo
@@ -4594,6 +5322,20 @@ references:
   type: chapter
 
 - id: 'palazzo:2013fragmento'
+  abstract: >-
+    Este artigo analisa as formas de representação de cidades em duas
+    ilustrações produzidas por volta de 1600: a gravura de Macau, por Theodor de
+    Bry, e a vista de Quioto, atribuída a Iwasa Katsumochi Matabei. Investiga-se
+    a relação entre formas de representação fragmentária e global em ambas as
+    imagens. A gravura europeia da cidade retrata o espaço urbano como um todo,
+    enquanto a pintura japonesa representa uma série de fragmentos separados por
+    nuvens douradas. Entretanto, a imagem global da figura europeia é
+    fragmentada pela multiplicidade de perspectivas concomitantes, ao passo que
+    o biombo japonês tem uma ordem global subjacente gerada pela projeção
+    cavaleira. Em ambos os casos, há interação entre olhares fragmentados e uma
+    visão de conjunto que se relacionam de modos variados. PALAVRAS-CHAVE:
+    Cidade oriental. Fragmento. Funaki. Iconografia. Iwasa Katsumochi Matabei.
+    Theodor de Bry.
   accessed:
     - year: 2017
       month: 2
@@ -4618,6 +5360,11 @@ references:
   volume: '10'
 
 - id: 'palazzo:2013sistema'
+  abstract: >-
+    O georreferenciamento de características morfológicas pode auxiliar não
+    apenas na visualização de conjuntos arquitetônicos já protegidos, mas também
+    no processo decisório de delimitação de áreas de interesse. No âmbito do
+    Inventário do conjunto
   accessed:
     - year: 2016
       month: 2
@@ -4688,6 +5435,11 @@ references:
   type: chapter
 
 - id: 'palazzo:2014urbanisation'
+  abstract: >-
+    This paper examines the patterns of urbanization in Planaltina, one of a
+    number of towns founded during the economic slump in central Brazil in the
+    nineteenth century. Laid out on a rough grid sometime after 1811, this town
+    belies several key
   accessed:
     - year: 2015
       month: 9
@@ -4750,6 +5502,23 @@ references:
     planaltina
 
 - id: 'palazzo:2015planaltina6'
+  abstract: |-
+    Planaltina é o único núcleo urbano do Distrito Federal
+    preexistente à construção de Brasília. Como tal, foi tanto objeto
+    de descrições e estudos quanto berço de autores que, nos séculos
+    XX e XXI, têm retratado a cidade segundo seus conhecimentos,
+    preocupações e interesses. Neste artigo, os relatos produzidos em e
+    sobre Planaltina são estudados não pelo seu conteúdo factual, mas
+    como testemunhos desses interesses. Os textos são classificados neste
+    artigo de acordo com os ciclos históricos abordados, sendo estes as
+    narrativas inaugurais celebrando as origens do povoamento local,
+    a consolidação do núcleo urbano e sua modernização, e os desafios
+    socioculturais provocados pelo crescimento da capital federal. Percebese,
+    nesse acervo de relatos, frequente reprodução de anedotas míticas
+    sobre as origens da cidade e o papel de certas famílias, assim como
+    discursos buscando afirmar a legitimidade de seus emissores perante
+    a oposição ou a omissão personificadas pela narrativa dominante em
+    torno da cidade de Brasília e de seu governo.
   accessed:
     - year: 2018
       month: 6
@@ -4958,6 +5727,18 @@ references:
   volume: '8'
 
 - id: 'papapetros:2018preposterous'
+  abstract: >-
+    Confronted by an ostensible “end of theory,” periodically invoked and
+    perennially suspended, that has nevertheless triggered a renewed
+    investigation into the origins of both the histories and theories of
+    architecture, one might turn to a series of historical moments when both the
+    history and theory of architecture appeared to start from scratch, the very
+    beginning, or even before the beginning: a time when architecture did not
+    apparently exist. But was there, or can there ever be a world with no
+    architecture, meaning without any architecture at all? In other words, is
+    there an arche—in terms of the Greek semasiology of the term connoting
+    origin, beginning, as well as authority—that precedes the appearance of
+    architectonics?
   accessed:
     - year: 2018
       month: 11
@@ -4977,6 +5758,20 @@ references:
     https://www.e-flux.com/architecture/history-theory/225184/pre-post-erous-histories/
 
 - id: 'paquette:2013imperial'
+  abstract: >-
+    "As the British, French and Spanish Atlantic empires were torn apart in the
+    Age of Revolution, Portugal steadily pursued reforms to tie its American,
+    African and European territories more closely together. Eventually, after a
+    period of revival and prosperity, the Luso-Brazilian world also succumbed to
+    revolution, which ultimately resulted in Brazil's independence from
+    Portugal. The first of its kind in the English language to examine the
+    Portuguese Atlantic World in the period from 1750 to 1850, this book reveals
+    that despite formal separation, the links and relationships that survived
+    the demise of empire entwined the historical trajectories of Portugal and
+    Brazil even more deeply. From constitutionalism to economic policy to the
+    problem of slavery, Portuguese and Brazilian statesmen and political writers
+    laboured under the long shadow of empire as they sought to begin anew and
+    forge stable post-imperial orders on both sides of the Atlantic"--
   author:
     - family: Paquette
       given: Gabriel B.
@@ -5045,6 +5840,25 @@ references:
   type: book
 
 - id: 'payne:1994rudolf'
+  abstract: >-
+    To date Rudolf Wittkower's Architectural Principles in the Age of Humanism
+    of 1949 remains a fundamental evaluation of Renaissance architectural
+    aesthetics. Although not unique in having achieved such paradigmatic status
+    within its discipline, its simultaneous impact upon architectural production
+    remains unprecedented. It is precisely the fact that this work captured the
+    imagination of two traditionally distinct groups at a moment in history when
+    exchanges between the two seemed least likely to occur that constitutes the
+    starting point for this inquiry. Based upon an examination of Principles
+    against the Renaissance literature it so categorically supplanted, against
+    its art historical and broader intellectual context, as well as against
+    contemporary architectural theory, the argument presented here proposes a
+    deeper cultural continuity between the discourse of modernist architecture
+    in the 1940s and 1950s and the readings of history that were conceived at
+    the same time. In conclusion it is argued that beyond affording specific
+    insight into the historicity of our constructions of the Renaissance, such a
+    pattern of exchange between history writing and criticism/theory alerts us
+    to the complex symbiosis that existed between these two reflective
+    activities at the very heart of modernism itself.
   accessed:
     - year: 2013
       month: 3
@@ -5091,6 +5905,21 @@ references:
   volume: '58'
 
 - id: 'pedrosa:2013oficina29'
+  abstract: >-
+    Os modos pelos quais se organizavam as oficinas de talha ainda são pouco
+    conhecidos pela historiografia da arte mineira setecentista. Isso ocorre,
+    entre outros fatores, pela escassez de fontes primárias que forneçam tais
+    informações. Nesse sentido, o presente artigo demonstra algumas
+    peculiaridades da formação e gestão de uma oficina de talha instalada no
+    interior da Matriz de Nossa Senhora da Conceição, atual Sé de Mariana.
+    Buscou-se também, ressaltar a importância do contrato de arrematação da obra
+    de talha, no tocante ao cumprimento de suas cláusulas contratuais. Tal
+    estudo foi subsidiado em documentação primária que relata a composição e
+    organização de uma oficina de talha que, por volta do ano de 1749, sofre
+    sanções penais por descumprimento dos prazos e condições previamente
+    estabelecidas no contrato de arrematação da obra.
+              , 
+                The ways in which carving ateliers were organized are still unknown by Minas Gerais art historiography in the 18th century. This fact is due, besides other reasons, to the scarcity of primary sources that can provide further information about it. Therefore, this article shows some peculiarities of the creation and management of a carving atelier that was installed in the Church of Nossa Senhora da Conceição, the current Cathedral of Mariana. In addition, this article will try to highlight the importance of the contract of the action of the carving work regarding the fulfillment of their contractual terms. This study is possible due to the existence of some primary documentation that shows the composition and organization of a carving atelier around the year 1749, which suffers criminal penalties for noncompliance with the terms and conditions of the contract of the auction of the carving work.
   accessed:
     - year: 2020
       month: 3
@@ -5250,6 +6079,13 @@ references:
   volume: '3'
 
 - id: 'pereira:2010sincronia12'
+  abstract: >-
+    Este artigo trata de algumas discussões importantes que vieram à tona a
+    partir da reavaliação historiográfica da arte brasileira do século XIX.
+    Enfatiza a coexistência de pinturas tradicionais e modernas dentro da
+    Academia Imperial de Belas Artes, tomando como caso de estudo os envios de
+    Rodolfo Amoedo durante o seu pensionato em Paris (1879 — 1887) e a recepção
+    destes trabalhos na Academia do Rio pelos velhos mestres.
   accessed:
     - year: 2014
       month: 1
@@ -5286,6 +6122,29 @@ references:
   type: book
 
 - id: 'pereira:2011novo'
+  abstract: >-
+    Este artigo trata do novo Museu D. joão VI, da Escola de belas artes da
+    universidade Federal do rio de janeiro. Examina a sua criação em 1979; a
+    constituição de seu acervo – proveniente da antiga
+
+    academia imperial de belas artes/Escola Nacional de
+
+    belas artes; sua relação com a pesquisa liderada pela pós-graduação da
+    Escola; e os projetos de revitalização do
+
+    Museu, em especial, o projeto patrocinado pela Petrobras, que teve início em
+    julho de 2005 e
+
+    compreendeu quatro tópicos: a higienização de todo o acervo; a expansão do
+    banco de dados
+
+    e sua inserção no site do Museu: <www.museu.eba.ufrj.br>; a edição de novo
+    catálogo; e a reabertura do Museu com nova curadoria, em dezembro de 2008. É
+    exatamente sobre este último tópico que o artigo se detém mais
+    detalhadamente, destacando o seu ponto mais importante — a ideia de eliminar
+    a exposição permanente e abrir as reservas técnicas à visitação do público —
+    e examinando as suas premissas, tanto no campo da museologia quanto da
+    história da arte.
   accessed:
     - year: 2014
       month: 1
@@ -5306,6 +6165,16 @@ references:
   URL: 'http://www.unicamp.br/chaa/rhaa/downloads/Revista%2015%20-%20artigo%206.pdf'
 
 - id: 'pereira:2012revisao'
+  abstract: >-
+    Este artigo discute alguns pontos primordiais na revisão crítica da arte
+    brasileira do século XIX e início do XX. São eles: a questão de uma melhor
+    conceituação do termo acadêmico em relação aos estilos artísticos; a
+    dificuldade de entender a produção artística brasileira fora do esquema
+    sequencial de estilos – usualmente utilizado para a apresentação da arte
+    europeia; e a discussão sobre o papel da Academia Imperial de Belas Artes e
+    o projeto cultural do Império de construção de uma identidade nacional –
+    destacando, neste último tópico, a relação entre a produção artística e as
+    teorias sociais da época.
   accessed:
     - year: 2014
       month: 3
@@ -5327,6 +6196,127 @@ references:
   URL: 'http://dx.doi.org/10.11606/issn.2316-901X.v0i54p87-106'
 
 - id: 'pereira:2013architecture'
+  abstract: >-
+    Durant la dernière décennie, les études dans le domaine de l’architecture et
+    de l’urbanisme se sont largement manifestées publiquement au Brésil. Cette
+    tendance se traduit non seulement par un nombre croissant de programmes de
+    formation en architecture et en urbanisme, qui offrent une qualification en
+    histoire, mais aussi par la création de maisons d’édition spécialisées dans
+    ces domaines et la présence d’historiens et de critiques d’architecture et
+    d’urbanisme dans les journaux à grande diffusion. Elle a permis aussi
+    l’organisation de congrès et de cours magistraux sur les villes et leurs
+    histoires et privilégié les études des biographies professionnelles
+    d’architectes et d’urbanistes. Enfin, elle permet aujourd’hui la circulation
+    de dizaines de chercheurs brésiliens qui remplissent les auditoriums ou
+    présentent les résultats de leurs investigations dans les circuits
+    internationaux de colloques et de séminaires.Cet article traite donc des
+    contours récents de la professionnalisation dans le domaine de l’histoire de
+    l’architecture et de l’urbanisme. Il cherche à répertorier les pratiques des
+    acteurs et des groupes qui travaillent dans le pays, leurs contributions à
+    différents niveaux et les tensions entre les orientations théoriques
+    maintenues ou déplacées. En filigrane, il s’agit d’une invitation à
+    réfléchir sur les interactions multiples et fluides qui, à chaque époque et
+    dans chaque lieu, ont construit un champ de connaissance et d’action
+    indissociable d’une histoire conjuguée et construite au présent., Over the
+    past decade, studies on architecture and urbanism have gained in visibility
+    in Brazil. This tendency is illustrated not only by the increasing number of
+    vocational and academic programs related to these two fields offering a
+    concentration in history, but also by the creation of specialized publishing
+    houses and the presence of historians and critics of architecture and
+    urbanism in mainstream newspapers. It has also led to the organization of
+    conferences and lectures on cities and their histories and brought to light
+    studies by the professional biographers of architects and urban planners. In
+    addition, it has also resulted in the circulation of dozens of Brazilian
+    scholars, who fill auditoriums and present the results of their
+    investigations during international colloquiums and seminars. This article
+    discusses recent developments shaping professionalization in the fields of
+    architectural and urban history. It seeks to record the practices of
+    individual protagonists and groups working in Brazil, their different
+    contributions, and the tensions between sustained or shifting theoretical
+    orientations. In a more implicit fashion, it invites reflection on the many
+    and fluid interactions that, in a given period and place, comprise a field
+    of thought and action that cannot be dissociated from a history conjugated
+    and constructed in the present., Os estudos na área da história da
+    arquitetura e do urbanismo vêm exibindo na última década uma grande
+    expressão pública no Brasil. Essa tendência se traduz não só no número
+    crescente de programas de formação em arquitetura e urbanismo que oferecem
+    capacitação em história mas também na criação de editoras especializadas
+    nessas áreas, na presença de historiadores e críticos de arquitetura e
+    urbanismo em jornais de grande circulação, na organização de congressos e
+    cátedras nacionais sobre as cidades e sua história e que privilegiam os
+    estudos das biografias profissionais de arquitetos e urbanistas, enfim, na
+    circulação internacional, hoje, de dezenas de pesquisadores brasileiros que
+    enchem os auditórios ou apresentam resultados de suas investigações nos
+    circuitos internacionais de colóquios e seminários.Este artigo trata, assim,
+    do delineamento recente da profissionalização na área da história da
+    arquitetura e do urbanismo, buscando mapear as práticas de diferentes atores
+    e grupos atuantes no país, suas contribuições em diferentes planos e as
+    tensões e entre as orientações teóricas mantidas e deslocadas. Em suas
+    entrelinhas, trata-se de um convite à reflexão sobre as múltiplas e fluídas
+    interações que, a cada tempo e lugar, têm construído um campo de
+    conhecimento e ação indissociável de uma história conjugada e construída no
+    presente., Während des letzten Jahrzehnts haben die Forschungen im Bereich
+    der Architektur und des Urbanismus in Brasilien wesentlich an Sichtbarkeit
+    gewonnen. Diese Tendenz zeigt sich nicht nur anhand der wachsenden Zahl von
+    Studienprogrammen im Bereich der Architektur und des Urbanismus, die vor
+    allem einen historischen Standpunkt vertreten, sondern auch anhand der
+    Verlagsgründungen, die sich auf diese Bereiche spezialisieren, und der
+    Präsenz von Historikern und Kritikern für Architektur und Urbanismus in der
+    breiten Presse. Diese Entwicklung geht einher mit der Organisation von
+    Kongressen und Vorlesungen zum Thema der Stadt- und Städtebaugeschichte und
+    dem Interesse für biographische Studien über Architekten und Städteplaner.
+    Daraus hat sich schließlich ein Netzwerk von heute ungefähr einem Dutzend
+    brasilianischen Wissenschaftlern entwickelt, die in gefüllten Hörsälen oder
+    in internationalen Veranstaltungen, wie Symposien und Workshops, ihre
+    Ergebnisse darlegen. Dieser Artikel behandelt dementsprechend die jüngsten
+    Konturen der Professionalisierung im Bereich der Architektur- und
+    Städtebaugeschichte. Er versucht, die in Brasilien agierenden Akteure und
+    Gruppen aufzuzeigen und ihre unterschiedlichen Beteiligungen und Spannungen
+    zwischen altbewährten und erneuerten theoretischen Standpunkten einzuordnen.
+    Zwischen den Zeilen versteht sich dieser Artikel als eine Einladung, über
+    die zahlreichen verflochtenen Interaktionen nachzudenken, die zu jeder Zeit
+    und an jedem Ort ein Wissens-und Aktionsfeld aufbauen, das untrennbar von
+    einer sich in der Gegenwart konstruierenden Geschichte ist., Nell’ultimo
+    decennio, gli studi di architettura e di urbanismo hanno raggiunto un’ampia
+    visibilità pubblica. Questa tendenza si traduce non solo nel numero
+    crescente di programmi di formazione di architettura e di urbanismo, che
+    offrono una qualifica in storia, ma anche nella creazione di case editrici
+    specializzate in questi campi, e nella presenza di storici e critici
+    dell’architettura e dell’urbanismo nei giornali di ampia diffusione. Essa ha
+    inoltre permesso di organizzare dei congressi e dei corsi cattedratici sulle
+    città e sulla loro storia, ed ha privilegiato gli studi delle carriere
+    professionali di architetti e urbanisti. Infine, essa consente oggi la
+    circolazione di decine di ricercatori brasiliani che affollano le sale di
+    conferenze o presentano i risultati delle loro investigazioni nei circuiti
+    internazionali di convegni e di seminari.Questo articolo tratta dunque dei
+    contorni recenti della professionalizzazione negli ambiti della storia
+    dell’architettura e dell’urbanismo. Esso tenta di recensire le pratiche
+    degli attori e dei gruppi che lavorano nel paese, le loro contribuzioni a
+    differenti livelli e le tensioni tra le orientazioni teoriche conservate o
+    modificate. In filigrana, si tratta di un invito a riflettere sulle
+    interazioni molteplici e fluide che, a ogni epoca ed in ogni luogo, hanno
+    costruito un campo di conoscenza e di azione indissociabile di una storia
+    coniugata e costruita al presente., En los últimos diez años, numerosos
+    estudios en el campo de la arquitectura y el urbanismo se han dado a conocer
+    en Brasil. Una tendencia que se traduce por un aumento creciente de los
+    programas de formación en arquitectura y urbanismo, que proporcionan una
+    cualificación en historia, y también por la creación de editoriales
+    especializadas en dichos ámbitos o la presencia de historiadores y críticos
+    de ambos campos en la prensa de gran difusión. Asimismo ha dado lugar a la
+    organización de congresos y clases magistrales sobre las ciudades y sus
+    historias, privilegiando los estudios de biografías profesionales de
+    arquitectos y urbanistas. Hoy facilita la circulación de decenas de
+    investigadores brasileños que van llenando los auditorios o presentando los
+    resultados de sus investigaciones en los circuitos internacionales de
+    coloquios y seminarios.Este artículo analiza por lo tanto los recientes
+    contornos de profesionalización en el campo de la historia de la
+    arquitectura y el urbanismo, tratando de catalogar las prácticas de los
+    actores y los grupos en actividad en el país, sus contribuciones a distintos
+    niveles y las tensiones entre las orientaciones teóricas mantenidas o
+    desplazadas. También puede verse como una invitación a reflexionar sobre las
+    múltiples y fluidas interacciones que, en cada época y cada lugar, han
+    constituido un campo de conocimiento y acción indisociables de una historia
+    conjugada y elaborada en presente.
   accessed:
     - year: 2018
       month: 5
@@ -5353,6 +6343,15 @@ references:
   URL: 'http://journals.openedition.org/perspective/3895'
 
 - id: 'pereira:2013enbaVIII'
+  abstract: >-
+    Em meados da década de 50 do século XX, ainda vigorava na Escola Nacional de
+    Belas Artes (ENBA) o ensino acadêmico, ou seja, um tipo de ensino derivado
+    diretamente daquele praticado na anterior Academia Imperial de Belas Artes
+    (AIBA), que tivera seu início como Academia Real de Belas Artes, fundada por
+    D. João VI em 1816[2]. Isto significa que na ENBA, ainda que com várias
+    modificações, muito da maneira de entender a arte e suas funções, e também
+    de ensiná-la, tinha como origem a Missão Francesa que trouxera ao Brasil os
+    artistas que se tornaram os primeiros professores desta instituição
   accessed:
     - year: 2014
       month: 11
@@ -5644,6 +6643,18 @@ references:
   type: book
 
 - id: 'pulici:2011gosto'
+  abstract: >-
+    Baseado em entrevistas semidiretivas com frações das classes altas de São
+    Paulo e em críticas culturais veiculadas pela imprensa paulistana
+    contemporânea, este artigo discute algumas visões que banqueiros,
+    colecionadores de arte, embaixadores, fazendeiros, rentiers, filantropos,
+    grandes empresários, altos executivos, industriais etc. constroem de si
+    mesmos e dos outros em suas preferências estéticas declaradas. A análise de
+    seus juízos de gosto em matéria de arquitetura, cinema e artes plásticas
+    aponta para o apego aos valores artísticos tradicionais.
+
+
+    Palavras-chave: gosto; classes altas; tradicionalismo estético; São Paulo.
   accessed:
     - year: 2018
       month: 5
@@ -5683,6 +6694,15 @@ references:
   type: book
 
 - id: 'pyla:1999historicizing'
+  abstract: >-
+    This paper is concerned with the practical problem of shaping a "History of
+    Architecture" in a way that expands the dominant canon while acknowledging
+    the complex and difficult realities of articulating difference. Through a
+    critical analysis of Spiro Kostof's "A History of Architecture" and an
+    exposition of the shortcomings of Kostof's attempts to discuss "alternative"
+    histories, this paper investigates how architectural history textbooks could
+    play an important role in initiating a broader, critical teaching of
+    history.
   accessed:
     - year: 2013
       month: 7
@@ -5928,6 +6948,16 @@ references:
   volume: '1: Historiografia Colonial'
 
 - id: 'rodrigues:2018augusto'
+  abstract: >-
+    A presente dissertação tem como tema vida e obras do arquiteto leiriense,
+    Augusto Romão. Estabelecido no panorama artístico e cultural em vigor nos
+    anos finais do século XIX e os primeiros do século XX, denominado por Arte
+    Nova. O trabalho pretende inicialmente centrar-se na evolução e integração
+    do estilo, estudando no âmbito internacional, transitando a nível nacional e
+    finalizando no contexto da Cidade de Leiria. Ao pesquisar o percurso de vida
+    do arquiteto e os artistas da sua geração, permite-nos eentender o método de
+    aprendizagem de Augusto Romão. Deste modo, ao ler criticamente as suas obras
+    é possível identificar os elementos predominantes da Arte Nova.
   accessed:
     - year: 2019
       month: 2
@@ -5950,6 +6980,14 @@ references:
   URL: 'http://repositorio.ulusiada.pt/handle/11067/3778'
 
 - id: 'romaozinho:2009modernoII'
+  abstract: >-
+    ará sentido falar de Arte Nova em Portugal? E se assim for, como se enquadra
+    esta ou não numa paisagem marcada por revivalismos resultantes da procura de
+    um estilo nacional? Que visões, conceitos, princípios ou utopias vinculam os
+    testemunhos do Moderno Estilo presentes em Portugal e de que modo a
+    imprensa, em particular A Construcção Moderna, impulsionou este movimento,
+    através da publicação de textos críticos, de fotografias ou desenhos de
+    modelos?
   accessed:
     - year: 2019
       month: 2
@@ -6088,6 +7126,7 @@ references:
   type: book
 
 - id: 'saliba:2001tempos'
+  abstract: nulo
   accessed:
     - year: 2018
       month: 5
@@ -6150,6 +7189,18 @@ references:
   volume: '4'
 
 - id: 'sankovitch:1998structureornament'
+  abstract: >-
+    In architectural writings from about 1830 to the present a great many
+    buildings are consistently described as divided between structures that
+    represent one period style and ornament another. Why are Romantic
+    historicists, early twentieth-century formalists, and contemporary
+    contextualists all in agreement about the binary nature of these buildings?
+    An examination of the literature on one such monument, St-Eustache in Paris,
+    considers the covert, problematic function of "structure/ornament" as a
+    spatially conceived narrative device; its relationship to "transitional"
+    architecture; its (often unacknowledged) figurative significations; and its
+    status in contemporary discourse as a discovery rather than a historically
+    contingent invention.
   accessed:
     - year: 2017
       month: 4
@@ -6358,6 +7409,18 @@ references:
   type: book
 
 - id: 'silva:2013modernidade5'
+  abstract: >-
+    A obra Cidade Mortas, publicada em 1919, é o retrato da decadência das
+    cidades e do homem do interior do Brasil, utilizando-se como matéria-prima a
+    região do Vale do Paraíba. Apesar de demonstrar nesses contos alguns traços
+    realistas, o intuito de Monteiro Lobato estava atrelado a uma produção
+    regionalista preocupada em promover a nacionalização da literatura
+    brasileira, e tal inquietação em renovar as letras do país conferiu a este
+    livro inquestionáveis traços modernistas. O objetivo deste estudo repousa em
+    identificar nos contos “Cidades Mortas”, “A vidinha ociosa – Pé no chão”,
+    “Cabelos compridos”, “Por que Lopes se casou”, “O plágio” e “Café! Café!”
+    aspectos tem áticos inovadores que marcariam a literatura moderna do século
+    XX.
   accessed:
     - year: 2014
       month: 6
@@ -6382,6 +7445,14 @@ references:
   volume: '5'
 
 - id: 'simioni:2005viagem17'
+  abstract: >-
+    Este artigo propõe-se a analisar o papel da Académie Julian, uma academia
+    privada que recebeu grande parte dos artistas brasileiros que aportaram em
+    Paris entre o final do século XIX e o início do século XX. Três temas são
+    aqui abordados: a formação recebida; a importância da instituição para as
+    artistas do sexo feminino e o modo como as novidades estéticas que
+    despontavam em Paris foram absorvidas e reinterpretadas pelos artistas
+    patrícios que para lá se dirigiram.
   accessed:
     - year: 2018
       month: 5
@@ -6454,6 +7525,34 @@ references:
   type: book
 
 - id: 'talenti:2000histoire'
+  abstract: >-
+    " De quoi n'a-t-on pas écrit l'histoire ? Il en reste une cependant qui est
+    encore à faire, et qui ne serait pas la moins intéressante. Je parle de
+    l'histoire des histoires " (César Daly, 1849). Si, depuis les années 1970,
+    de nombreux auteurs se sont penchés sur l'historiographie politique,
+    artistique ou scientifique, l'histoire de l'histoire de l'architecture a
+    fait l'objet de peu d'études. Les raisons en sont multiples :
+    l'éparpillement des sources, la crise de l'architecture elle-même, les
+    clivages qui peuvent exister entre architectes et historiens de l'art. Sans
+    doute la " muséalisation " de l'architecture, la définition du patrimoine et
+    la pédagogie, sont aujourd'hui des questions incontournables. Examiner les
+    origines de l'historiographie de l'architecture - qui a connu récemment une
+    émergence remarquable - est une priorité pour nourrir ce débat. La matière
+    est riche. Depuis les publications des antiquaires du XVIIIe siècle, la
+    connaissance des monuments ne cesse de progresser. L'exemple des
+    naturalistes, des grands fondateurs de l'histoire politique et des
+    archéologues suscitent la volonté de concevoir une autre histoire de
+    l'architecture, plus scientifique. En France, les années 1863 à 1914
+    s'avèrent une véritable période charnière caractérisée par d'innombrables
+    histoires, essais, études globales et partielles, par une évolution continue
+    des moyens de représentation de l'architecture, par la multiplication des
+    établissements d'enseignement et des approches pédagogiques. Parmi les
+    grands acteurs de cette période figurent Viollet-le-Duc, Ramée, Dartein,
+    Baudot, ou Ruprich-Robert. A l'issue de leurs travaux analysés ici
+    méthodiquement dans leur contexte, le visage de l'histoire de l'architecture
+    est entièrement transformé. Elle a trouvé sa propre définition, elle a
+    affiné ses moyens de représentation et dispose désormais d'outils
+    méthodologiques efficaces.
   author:
     - family: Talenti
       given: Simona
@@ -6540,6 +7639,22 @@ references:
   type: book
 
 - id: 'thiengo:2010questao'
+  abstract: >-
+    Partindo da conturbada relação de Monteiro Lobato com o grupo modernista,
+    pretende-se discutir, tomando por base o livro de contos Urupês, como o
+    autor, no papel de criador e empreendedor cultural, captou um momento
+    preciso e conflituoso do processo de modernização do Brasil, flagrando, no
+    interior, situações de decadência e mor
+
+    te que indicariam antes um choque entre uma tradição agonizante e uma
+    modernização conservadora. Nesse sentido, a periodização literária, ao
+    colocar Lobato como pré-modernista, tenderia a desvalorizar sua obra face
+    aos avanços  vanguardistas dos modernistas, quando de fato Lobato nunca quis
+    ser modernista, sem por isso deixar de ser moderno em sua visão da realidade
+    sócio - econômica e cultural do país, pois teria percebido um vácuo entre o
+    declínio da tradição e o que vislumbrava como modernidade. Nesse vácuo
+    movimentam - se suas personagens decadentes e em lugar no processo de
+    odernização do país.
   accessed:
     - year: 2014
       month: 6
@@ -6749,6 +7864,20 @@ references:
   type: book
 
 - id: 'vidler:2008histories'
+  abstract: >-
+    "Anthony Vidler looks at the historical approaches of Emil Kaufmann, Colin
+    Rowe, Reyner Banham, and Manfredo Tafuri, and the specific versions of
+    modernism advanced by their historical narratives. Vidler shows that the
+    modernism conceived by Kaufmann was like the late Enlightenment projects he
+    revered, one of pure geometrical forms and elemental composition; that of
+    Rowe saw manifest ambiguity and complexity in contemporary design; Banham's
+    modernism took its cue from the aspirations of the futurists; and the
+    "Renaissance modernism" of Tafuri found its source in the division between
+    the technical experimentation of Brunelleschi and the cultural nostalgia of
+    Alberti. Vidler's investigation demonstrates the inevitable collision
+    between history and design that pervades all modern architectural discourse
+    - and has given rise to some of the most interesting architectural
+    experiments of the postwar period."--Jacket.
   author:
     - family: Vidler
       given: Anthony
@@ -6764,6 +7893,25 @@ references:
   type: book
 
 - id: 'vidler:2018theories'
+  abstract: >-
+    “History, Theory, and Criticism,” the title of many courses and even
+    departments in academic schools of architecture, attests to the easy way in
+    which these subjects are, however undefined, seen as basic elements of an
+    architectural education. The presumed general humanistic aim of these, often
+    separate courses would no doubt be the introduction of potential architects
+    to history, to ways of thinking inherent to the past and present of their
+    practice, and the interpretation of that practice in the past and present.
+    Such courses have been in existence since the initial division of the
+    subject “architecture” in professional schools—from Jacques-François
+    Blondel’s categorization of the field in the 1750s to the AIA and RIBA
+    protocols of the present. And while theoretical incursions from outside have
+    always had their place in authorizing architectural thought, those of the
+    1960s and 1970s were especially—and deliberately—unsettling. While now
+    happily incorporated in “theory” courses, the resonance and implications of
+    these theories for contemporary research have yet to be fully assessed.
+    Their historicization is not only inevitable, but also necessary, as they
+    are incorporated in the “toolkit” that Manfredo Tafuri saw as required for
+    critical historical work.
   accessed:
     - year: 2018
       month: 11
