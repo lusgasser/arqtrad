@@ -18,22 +18,9 @@ Planos de trabalho
 - [Ecletismo no arquivo do palácio Itamaraty](pibic21-itamaraty.md):
   Luiza Silveira Gasser
 - [Arqueologia da morada suburbana na rua do Rosário,
-  Luziânia](pibic21-luziania.md): Mariana Azevedo Silva
-- [Módulos e dimensões do parcelamento urbano no Brasil do século
-  XIX](pibic21-modulos.md): Daniela Matias Xavier
-
-- [Arqueologia das antigas casas rurais no Distrito Federal e
-  entorno](pibic21-arqueologia.md): Ana Caroline dos Santos Paiva
-- [Barreiras: urbanização numa encruzilhada do
-  sertão](pibic21-barreiras.md): João Testi Neto
-- [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
-  Maria Isabela Araújo
-- [Arqueologia da morada suburbana na rua do Rosário,
   Luziânia](pibic21-luziania.md): Mariana de Fátima Macedo Nunes de Azevedo
 - [Módulos e dimensões do parcelamento urbano no Brasil do século
   XIX](pibic21-modulos.md): Daniela Matias Xavier
-- [Transformações espaciais na morada urbana do planalto
-  Central](pibic21-sintaxe.md): Flávia Rosa de la Plata
 
 Resumo do projeto de pesquisa
 -----------------------------
@@ -142,7 +129,7 @@ diante como resultado de influências estrangeiras. Ironicamente,
 condenar a ausência de caráter nacional na arte brasileira foi uma das
 primeiras manifestações de uma crítica de arte nacional, formulada desde
 1887 pelo crítico carioca Luiz Gonzaga Duque Estrada (1863--1911)
-[@gonzaga-duque:1995arte].
+[@gonzagaduque:1995arte].
 
 A recusa em se reconhecer não apenas a existência de uma produção
 crítica brasileira anterior ao modernismo, mas igualmente a diversidade
