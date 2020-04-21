@@ -44,6 +44,9 @@ _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 %.tmp : %.md concat.yaml _data/biblio.yaml
 	pandoc -o $@ -d spec/concat.yaml $<
 
+fig/%.png : %.svg
+	inkscape -f $< -e $@ -d 96
+
 # Install and cleanup {{{1
 # ===================
 # `make install` copies various config files and hooks to the .git
