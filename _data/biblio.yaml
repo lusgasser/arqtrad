@@ -134,6 +134,7 @@ references:
   issued:
     - year: 2016
       month: 6
+  language: en
   page: 17.1–17.7
   title: >-
     A BIM for the identity of historic urban landscapes. Integrated applications
@@ -240,6 +241,7 @@ references:
   container-title: Enciclopedia universale dell’arte
   issued:
     - year: 1966
+  language: it
   page: 1–15
   publisher: Istituto per la collaborazione culturale
   publisher-place: 'Venezia : Roma'
@@ -308,6 +310,7 @@ references:
       given: Raymond
   issued:
     - year: 1969
+  language: fr
   publisher: Calmann-Lévy
   publisher-place: '[Paris]'
   title: 'Les désillusions du progrès, essai sur la dialectique de la modernité'
@@ -319,6 +322,7 @@ references:
       given: Pedro
   issued:
     - year: 2005
+  language: es
   publisher: Gustavo Gili
   publisher-place: Barcelona
   title: 'Castillos en el aire: Mito y arquitectura en Occidente'
@@ -344,6 +348,7 @@ references:
   ISBN: 978-972-44-1887-2
   issued:
     - year: 2016
+  language: pt
   number-of-pages: '231'
   publisher: Edições 70
   publisher-place: Lisboa
@@ -497,6 +502,7 @@ references:
     - year: 1961
       month: 1
       day: 1
+  language: de
   page: 128-141
   source: JSTOR
   title: >-
@@ -601,6 +607,7 @@ references:
       given: Franco
   issued:
     - year: 1986
+  language: fr
   publisher: Hazan
   publisher-place: Paris
   title: 'L''ordre monumental : Europe 1929–1939'
@@ -614,6 +621,7 @@ references:
   issue: '89'
   issued:
     - year: 1990
+  language: fr
   page: 39–56
   title: "Le regard du XIX^e^ siècle sur le XVI^e^ siècle français\_: ce qu’ont vu les revues d’architecture"
   type: article-journal
@@ -625,6 +633,7 @@ references:
       given: Pierre
   issued:
     - year: 1979
+  language: fr
   publisher: Minuit
   publisher-place: Paris
   title: 'La distinction : critique sociale du jugement'
@@ -681,6 +690,7 @@ references:
   issue: '1'
   issued:
     - literal: jan.–mar. 2012
+  language: pt
   title: Olhares oitocentistas para a arte barroca e rococó
   type: article-journal
   URL: 'http://www.dezenovevinte.net/criticas/mg_viagem.htm'
@@ -770,6 +780,7 @@ references:
   issued:
     - year: 2005
       month: 6
+  language: pt
   page: 59-97
   source: SciELO
   title: >-
@@ -817,6 +828,7 @@ references:
       given: Olof
   issued:
     - year: 1988
+  language: es
   publisher: G.Gili
   publisher-place: Barcelona
   title: Asplund
@@ -1079,6 +1091,7 @@ references:
     978-85-390-0472-0 978-84-9844-433-9 978-85-390-0553-6 978-85-390-0423-2
   issued:
     - year: 2011
+  language: pt
   number-of-volumes: '6'
   publisher: 'Objetiva : Fundación Mapfre'
   publisher-place: 'Rio de Janeiro : Madrid'
@@ -1295,6 +1308,7 @@ references:
       given: Auguste
   issued:
     - year: 1996
+  language: fr
   publisher: Bibliothèque de l'image
   publisher-place: Paris
   title: Histoire de l'architecture
@@ -1344,6 +1358,7 @@ references:
       given: Jean-Louis
   issued:
     - year: 1997
+  language: fr
   publisher: Éditions du Patrimoine
   publisher-place: Paris
   title: >-
@@ -1374,6 +1389,7 @@ references:
       given: Guy
   issued:
     - year: 2002
+  language: fr
   number-of-pages: '445'
   publisher: Éditions du Patrimoine / Le Moniteur
   publisher-place: Paris
@@ -1554,6 +1570,7 @@ references:
   container-title: 'Modernidade e tradição clássica: ensaios sobre arquitetura 1980-1987'
   issued:
     - year: 2004
+  language: pt
   page: 23-37
   publisher: Cosac & Naify
   publisher-place: São Paulo
@@ -1589,6 +1606,7 @@ references:
   issued:
     - year: 2010
       month: 7
+  language: pt
   title: >-
     O passado mora ao lado. Lúcio Costa e o projeto do Grand Hotel de Ouro
     Preto, 1938/40
@@ -1683,6 +1701,7 @@ references:
   ISBN: 978-85-86552-95-3
   issued:
     - year: 2004
+  language: pt
   number-of-pages: '109'
   publisher: RiMa
   publisher-place: São Carlos
@@ -1717,6 +1736,7 @@ references:
       given: Lucio
   issued:
     - year: 1940
+  language: pt
   title: >-
     O ensino do desenho: Programa para a reformulação do ensino de desenho no
     curso secundário, por solicitação do ministro Capanema
@@ -1760,6 +1780,7 @@ references:
   container-title: Sôbre arquitetura
   issued:
     - year: 2007
+  language: pt
   page: 86-94
   publisher: Editora UniRitter
   publisher-place: Porto Alegre
@@ -1967,6 +1988,7 @@ references:
       given: Régis
   issued:
     - year: 1992
+  language: fr
   publisher: Gallimard
   publisher-place: Paris
   title: "Vie et mort de l’image\_: une histoire du regard en Occident"
@@ -1978,6 +2000,7 @@ references:
       given: Régis
   issued:
     - year: 1998
+  language: fr
   publisher: Fayard / Éditions du Patrimoine
   publisher-place: Paris
   title: L'abus monumental ?
@@ -1990,7 +2013,7 @@ references:
   ISBN: 978-85-61556-39-6
   issued:
     - year: 2013
-  language: In Portuguese.
+  language: pt
   publisher: 'Faperj : RioBooks'
   publisher-place: Rio de Janeiro
   source: Open WorldCat
@@ -2007,6 +2030,7 @@ references:
       non-dropping-particle: d’
   issued:
     - year: 2000
+  language: fr
   publisher: Gallimard
   publisher-place: Paris
   title: Du Baroque
@@ -2210,6 +2234,7 @@ references:
     - year: 1911
       month: 3
       day: 10
+  language: pt
   page: '4'
   publisher-place: Rio de Janeiro
   title: Enterros. Gonzaga Duque
@@ -2223,6 +2248,7 @@ references:
       given: Jean-Pierre
   issued:
     - year: 1997
+  language: fr
   publisher: Norma
   publisher-place: Paris
   title: Comprendre l'éclectisme
@@ -2238,6 +2264,7 @@ references:
   ISBN: 978-972-772-719-3
   issued:
     - year: 2007
+  language: pt
   number-of-pages: '296'
   publisher: 'Colibri : IHA - Estudos de Arte Contemporânea'
   publisher-place: Lisboa
@@ -2283,6 +2310,7 @@ references:
       given: Hans Gerhard
   issued:
     - year: 1985
+  language: pt
   publisher: Verbo
   publisher-place: Lisboa
   title: Do historicismo ao funcionalismo
@@ -2294,6 +2322,7 @@ references:
       given: Annateresa
   issued:
     - year: 1987
+  language: pt
   number-of-pages: '296'
   publisher: 'Nobel : Edusp'
   publisher-place: São Paulo
@@ -2333,6 +2362,7 @@ references:
   issued:
     - year: 2004
       month: 4
+  language: pt
   page: 23-25
   source: cienciaecultura.bvs.br
   title: >-
@@ -2350,6 +2380,7 @@ references:
       given: Sylvia
   issued:
     - year: 1984
+  language: pt
   title: Anotações sobre o Pós-Modernismo
   type: article-journal
 
@@ -2363,6 +2394,7 @@ references:
   issued:
     - year: 1988
       month: 9
+  language: pt
   page: 135–140
   title: 'Ensino, Documentação e Pesquisa'
   type: article-journal
@@ -2378,6 +2410,7 @@ references:
   issued:
     - year: 1995
       month: 5
+  language: pt
   page: 77-80
   title: 'Mitos e Perspectivas: Profissão de arquiteto e ensino de arquitetura'
   title-short: Mitos e Perspectivas
@@ -2390,6 +2423,7 @@ references:
       given: Sylvia
   issued:
     - year: 2005
+  language: pt
   publisher: Edusp
   publisher-place: São Paulo
   title: 'Os Arquitetos da Poli: Ensino e Profissão em São Paulo'
@@ -2404,6 +2438,7 @@ references:
   container-title: Cadernos PPG/AU (Universidade Federal da Bahia)
   issued:
     - year: 2005
+  language: pt
   title: Os paradigmas urbanísticos de Brasília
   type: article-journal
   volume: '3'
@@ -2459,6 +2494,7 @@ references:
     - year: 2019
       month: 3
       day: 14
+  language: pt
   page: 278-298
   source: DOI.org (Crossref)
   title: Das imprevidentes baixas densidades à imprudente verticalização
@@ -2552,6 +2588,7 @@ references:
   ISBN: 978-972-8479-51-0
   issued:
     - year: 2007
+  language: pt
   number-of-pages: '143'
   publisher: Argumentum
   publisher-place: Lisboa
@@ -2686,6 +2723,7 @@ references:
     Urbanismo
   issued:
     - literal: 25 a 29 jul. 2016
+  language: pt
   publisher-place: Porto Alegre
   title: >-
     Nem toda construção é arquitetura: a busca por uma forma arquitetônica para
@@ -2757,6 +2795,7 @@ references:
   ISBN: 978-88-8125-253-4
   issued:
     - year: 1998
+  language: it
   number-of-pages: '237'
   publisher: Alinea
   publisher-place: Firenze
@@ -2917,6 +2956,7 @@ references:
       given: Fulvio
   issued:
     - year: 1995
+  language: it
   publisher: Electa Napoli
   publisher-place: Napoli
   title: Napoli città in vista
@@ -2928,6 +2968,7 @@ references:
       given: Johann Wolfgang
   issued:
     - year: 1773
+  language: de
   number-of-pages: '13'
   title: Von Deutscher Baukunst
   title-short: Von Deutscher Baukunst
@@ -3064,6 +3105,7 @@ references:
       given: Edgar Albuquerque
   issued:
     - year: 2006
+  language: pt
   publisher: Trilhas urbanas
   publisher-place: Goiânia
   title: Uma sistemática para o estudo da teoria da arquitetura
@@ -3169,6 +3211,7 @@ references:
       given: François
   issued:
     - year: 2007
+  language: fr
   publisher: Gallimard
   publisher-place: Paris
   title: Évidence de l’histoire. Ce que voient les historiens
@@ -3193,6 +3236,7 @@ references:
       given: Louis
   issued:
     - year: 1957
+  language: fr
   publisher: Picard
   publisher-place: Paris
   title: Histoire de l’architecture classique en France
@@ -3222,6 +3266,7 @@ references:
       given: Paul
   issued:
     - year: 1961
+  language: fr
   publisher: Fayard
   publisher-place: Paris
   title: 'La crise de la conscience européenne, 1680–1715'
@@ -3283,6 +3328,7 @@ references:
   ISBN: 978-989-98624-6-3
   issued:
     - year: 2018
+  language: pt en es
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
   title: >-
@@ -3392,6 +3438,7 @@ references:
       given: Maria Cecília Naclério
   issued:
     - year: 1996
+  language: pt
   publisher: Martins Fontes
   publisher-place: São Paulo
   title: >-
@@ -3540,7 +3587,7 @@ references:
     - year: 2016
       month: 1
       day: 3
-  language: en
+  language: it
   number-of-pages: '159'
   publisher: Gangemi
   publisher-place: Roma
@@ -3697,6 +3744,7 @@ references:
   ISBN: 978-2-7056-9574-3
   issued:
     - year: 2018
+  language: fr
   number-of-pages: '185'
   publisher: Hermann
   publisher-place: Paris
@@ -3759,6 +3807,7 @@ references:
       given: Hanno-Walter
   issued:
     - year: 1985
+  language: de
   publisher: C. H. Beck
   publisher-place: München
   title: Geschichte der Architekturtheorie
@@ -3871,6 +3920,7 @@ references:
   issue: '121'
   issued:
     - year: 1998
+  language: fr
   page: 61–78
   title: Quand Auguste Perret définissait l’architecture moderne au XX^e siècle
   type: article-journal
@@ -3974,6 +4024,7 @@ references:
   issued:
     - year: 2009
       month: 1
+  language: pt
   title: >-
     A Contribuição das Escolas Artísticas Européias no Ensino das Artes no
     Brasil Oitocentista
@@ -4070,7 +4121,7 @@ references:
   ISBN: 978-85-271-0461-6
   issued:
     - year: 1999
-  language: Abstract in English.
+  language: pt
   publisher: Editora Hucitec
   publisher-place: São Paulo
   source: Open WorldCat
@@ -4118,6 +4169,7 @@ references:
   container-title: Fundação Casa de Rui Barbosa
   issued:
     - year: 1996
+  language: pt
   title: 'Gonzaga Duque: crítica e utopia na virada do século'
   type: article-journal
   URL: 'http://www.casaruibarbosa.gov.br/dados/DOC/literatura/gonzaga_duque/PA25.pdf'
@@ -4228,6 +4280,7 @@ references:
   genre: Dissertação (Mestrado em Arquitectura)
   issued:
     - year: 2007
+  language: pt
   publisher: Instituto Superior de Ciências do Trabalho e da Empresa
   publisher-place: Lisboa
   title: A obra do arquitecto Álvaro Machado
@@ -4373,6 +4426,7 @@ references:
   issued:
     - year: 2016
       month: 4
+  language: pt
   page: 9-28
   source: DOI.org (Crossref)
   title: >-
@@ -4528,6 +4582,7 @@ references:
   ISBN: 978-972-24-1757-0
   issued:
     - year: 2012
+  language: pt
   publisher: Horizonte
   publisher-place: Lisboa
   source: Library of Congress ISBN
@@ -4545,6 +4600,7 @@ references:
   ISBN: 978-972-24-1796-9
   issued:
     - year: 2015
+  language: pt
   number-of-pages: '233'
   publisher: Horizonte
   publisher-place: Lisboa
@@ -4583,6 +4639,7 @@ references:
   issue: '25'
   issued:
     - literal: jan./jul. 2011
+  language: pt
   page: 102–123
   title: 'Ricardo Severo, Raul Lino e os Movimentos Tradicionalistas'
   type: article-journal
@@ -4662,6 +4719,7 @@ references:
       given: Anna Bruna
     - family: Palmieri
       given: Valerio
+  language: it
   source: www.academia.edu
   title: >-
     Saverio Muratori. Didattica della Composizione architettonica nella Facoltà
@@ -4717,6 +4775,7 @@ references:
   ISBN: 978-85-7858-555-6
   issued:
     - year: 2017
+  language: pt
   number-of-pages: '226'
   publisher: CEPE
   publisher-place: Recife
@@ -4857,6 +4916,7 @@ references:
       dropping-particle: da
   issued:
     - year: 1992
+  language: pt
   publisher: Fundação Getúlio Vargas
   publisher-place: São Paulo
   source: bibliotecadigital.fgv.br
@@ -5031,6 +5091,7 @@ references:
   ISBN: 978-85-268-1070-9 978-85-61673-88-8
   issued:
     - year: 2014
+  language: pt
   number-of-pages: '284'
   publisher: Editora Unicamp ; Editora FAP–UNIFESP
   publisher-place: 'Campinas : São Paulo'
@@ -5152,6 +5213,7 @@ references:
   issue: '2'
   issued:
     - literal: abr./jun. 2012
+  language: pt
   title: >-
     As vicissitudes das encomendas no século XIX: A encomenda a Pedro Américo da
     pintura Batalha do Avahy em 1872
@@ -5222,6 +5284,7 @@ references:
   event: V Simpósio Internacional de História–Culturas e Identidades
   issued:
     - year: 2011
+  language: pt
   publisher: Universidade Federal de Goiás
   publisher-place: Goiânia
   title: >-
@@ -5240,6 +5303,7 @@ references:
       given: Pedro Paulo
   issued:
     - year: 2011
+  language: pt
   publisher: Universidade de São Paulo
   publisher-place: São Paulo
   source: Google Scholar
@@ -5312,6 +5376,7 @@ references:
   ISBN: 978-85-7478-424-3
   issued:
     - year: 2012
+  language: pt
   page: 191–202
   publisher: Mauad
   publisher-place: Rio de Janeiro
@@ -5379,6 +5444,7 @@ references:
   event: Arquimemória 4
   issued:
     - year: 2013
+  language: pt
   publisher: FAUFBA
   publisher-place: Salvador
   title: >-
@@ -5424,6 +5490,7 @@ references:
   ISBN: 978-85-268-1070-9 978-85-61673-88-8
   issued:
     - year: 2014
+  language: pt
   page: 143–156
   publisher: Editora Unicamp ; Editora FAP–UNIFESP
   publisher-place: 'Campinas : São Paulo'
@@ -5492,6 +5559,7 @@ references:
   event: XIII Seminário de História da Cidade e do Urbanismo
   issued:
     - year: 2014
+  language: pt
   publisher: Universidade de Brasília
   publisher-place: Brasília
   title: 'Urbanização em Goiás no século XIX: o Caso de Planaltina'
@@ -5566,6 +5634,7 @@ references:
   ISBN: 978-85-545-8007-0
   issued:
     - year: 2017
+  language: pt
   page: 642–651
   publisher: UFES
   publisher-place: Vitória
@@ -5615,6 +5684,7 @@ references:
     edificado
   issued:
     - year: 2017
+  language: pt
   page: E1 069
   publisher: UFBA
   publisher-place: Salvador
@@ -5681,6 +5751,7 @@ references:
   ISBN: 978-989-98624-6-3
   issued:
     - year: 2018
+  language: pt en es
   page: 91–97
   publisher: Fundação Serra Henriques
   publisher-place: Lisboa
@@ -5799,6 +5870,7 @@ references:
       given: Fabrice
   issued:
     - year: 2005
+  language: fr
   publisher: L’Harmattan
   publisher-place: Paris
   source: Université de Paris-Saint-Denis
@@ -5935,6 +6007,7 @@ references:
   issued:
     - year: 2013
       month: 8
+  language: pt
   page: 597-631
   source: DOI.org (Crossref)
   title: >-
@@ -5959,6 +6032,7 @@ references:
   ISBN: 978-85-60762-18-7
   issued:
     - year: 2014
+  language: pt
   publisher: Faculdade de Arquitetura e Urbanismo da Universidade de Brasília
   publisher-place: Brasília
   title: 'Tempos e escalas da cidade e do urbanismo: quatro palestras'
@@ -5979,7 +6053,7 @@ references:
   issue: '1'
   issued:
     - year: 1994
-  language: en
+  language: pt
   page: 169-195
   source: CrossRef
   title: 'Romantismo e objetividade: notas sobre um panorama do Rio de Janeiro'
@@ -6031,6 +6105,7 @@ references:
   issued:
     - year: 2005
       month: 12
+  language: pt
   page: 143–154
   title: >-
     A historiografia da arquitetura brasileira no século XIX e os conceitos de
@@ -6052,6 +6127,7 @@ references:
   ISBN: 85-7654-019-3
   issued:
     - year: 2005
+  language: pt
   page: 1–9
   publisher-place: Belo Horizonte
   title: >-
@@ -6071,6 +6147,7 @@ references:
       non-dropping-particle: de
   issued:
     - year: 2008
+  language: pt
   publisher: C/Arte
   publisher-place: São Paulo
   source: Google Scholar
@@ -6097,6 +6174,7 @@ references:
   issue: '20'
   issued:
     - literal: jan./jun. 2010
+  language: pt
   page: 85–94
   title: >-
     A sincronia entre valores tradicionais e modernos na Academia Imperial de
@@ -6156,6 +6234,7 @@ references:
   issue: '15'
   issued:
     - literal: jan.–jun. 2011
+  language: pt
   page: 111–131
   title: >-
     O novo Museu D. João VI: a reinterpretação do acervo e a nova curadoria do
@@ -6189,6 +6268,7 @@ references:
   issued:
     - year: 2012
       month: 3
+  language: pt
   page: 87–106
   source: SciELO
   title: Revisão historiográfica da arte brasileira do século XIX
@@ -6365,6 +6445,7 @@ references:
   issued:
     - year: 2013
       month: 1
+  language: pt
   title: >-
     A ENBA da primeira metade do século XX vista pela obra de alguns dos seus
     professores - uma gradual transição para o moderno
@@ -6401,6 +6482,7 @@ references:
   container-title: Architecture-Québec
   issued:
     - year: 1990
+  language: fr
   page: 42–45
   title: L’architecture et la culture technologique
   type: article-journal
@@ -6476,6 +6558,7 @@ references:
       given: Marcello
   issued:
     - year: 1996
+  language: it
   publisher: Marsilio
   publisher-place: Venezia
   title: Architettura moderna
@@ -6522,7 +6605,7 @@ references:
   ISBN: 978-2-87009-711-3
   issued:
     - year: 1999
-  language: 'Translation of: Le teorie tradizionaliste nell''architettura contemporanea.'
+  language: fr
   publisher: Mardaga
   publisher-place: Sprimont
   source: Open WorldCat
@@ -6632,7 +6715,7 @@ references:
   ISBN: 978-84-8489-329-5 84-8489-329-4
   issued:
     - year: 2007
-  language: 'Textos pricipalment en portuguès, alguns en castellà i un en francès.'
+  language: es pt fr
   publisher: Iberoamericana ; Vervuert
   publisher-place: Madrid; Frankfurt am Main
   source: Open WorldCat
@@ -6669,6 +6752,7 @@ references:
   issued:
     - year: 2011
       month: 11
+  language: pt
   page: 123-139
   source: SciELO
   title: >-
@@ -6685,6 +6769,7 @@ references:
       given: Marcelo
   issued:
     - year: 1998
+  language: pt
   number-of-pages: '190'
   publisher: 'Pontes : Unicamp'
   publisher-place: Campinas
@@ -6742,6 +6827,7 @@ references:
   issued:
     - year: 1788
     - year: 1825
+  language: fr
   number-of-volumes: '3'
   publisher: Panckouke
   publisher-place: Paris
@@ -6765,6 +6851,7 @@ references:
       given: A.C.
   issued:
     - year: 1788
+  language: fr
   page: 477–518
   publisher: Panckouke
   publisher-place: Paris
@@ -6779,6 +6866,7 @@ references:
   container-title: Architecture
   issued:
     - year: 1788
+  language: fr
   page: 417–421
   publisher: Panckouke
   publisher-place: Paris
@@ -6800,6 +6888,7 @@ references:
       given: A.C.
   issued:
     - year: 1820
+  language: fr
   page: 543-546
   publisher: Panckouke
   publisher-place: Paris
@@ -6821,6 +6910,7 @@ references:
       given: A.C.
   issued:
     - year: 1820
+  language: fr
   page: 722-723
   publisher: Panckouke
   publisher-place: Paris
@@ -6842,6 +6932,7 @@ references:
       given: A.C.
   issued:
     - year: 1825
+  language: fr
   page: 543-545
   publisher: Panckouke
   publisher-place: Paris
@@ -6872,6 +6963,7 @@ references:
       given: Nestor Goulart
   issued:
     - year: 1997
+  language: pt
   publisher: Fundação Bienal de São Paulo
   publisher-place: São Paulo
   title: Racionalismo e proto-modernismo na obra de Victor Dubugras
@@ -6894,6 +6986,7 @@ references:
       given: Alois
   issued:
     - year: 1992
+  language: fr
   publisher: Hazan
   publisher-place: Paris
   title: "Questions de style\_: fondements d’une histoire de l’ornementation"
@@ -6905,6 +6998,7 @@ references:
       given: Gustavo
   issued:
     - year: 2000
+  language: pt
   publisher: ProEditores
   publisher-place: São Paulo
   title: >-
@@ -7000,6 +7094,7 @@ references:
   issue: '3'
   issued:
     - year: 2009
+  language: pt
   title: O Moderno Estylo em Portugal
   type: article-journal
   URL: 'http://convergencias.esart.ipcb.pt/?p=article&id=46'
@@ -7020,6 +7115,7 @@ references:
   issued:
     - year: 2013
       month: 12
+  language: pt
   page: 79-124
   source: SciELO
   title: >-
@@ -7100,6 +7196,7 @@ references:
   ISBN: 978-85-7656-197-2
   issued:
     - year: 2010
+  language: pt
   number-of-pages: '212'
   publisher: Rima
   publisher-place: São Carlos
@@ -7117,6 +7214,7 @@ references:
   ISBN: 978-85-314-0614-0
   issued:
     - year: 2001
+  language: pt
   publisher: Edusp
   publisher-place: São Paulo
   title: >-
@@ -7180,6 +7278,7 @@ references:
     - year: 2008
       month: 12
       day: 31
+  language: pt
   page: 52-77
   source: Crossref
   title: 'Arquitetura no Brasil: ensino e profissão'
@@ -7400,6 +7499,7 @@ references:
     Paulo
   issued:
     - year: 1916
+  language: pt
   number-of-pages: '46'
   publisher: Tip.Levi
   publisher-place: São Paulo
@@ -7435,6 +7535,7 @@ references:
   issue: '1'
   issued:
     - literal: jan.–jul. 2013
+  language: pt
   page: 293–308
   title: >-
     A modernidade em Monteiro Lobato: Cidades Mortas e o retrato de um Brasil
@@ -7519,6 +7620,7 @@ references:
       given: Manfredo
   issued:
     - year: 1977
+  language: it
   publisher: Laterza
   publisher-place: Roma
   title: 'Progetto e utopia: architettura e sviluppo capitalistico'
@@ -7580,6 +7682,7 @@ references:
   ISBN: 978-989-8217-31-8
   issued:
     - year: 2015
+  language: pt
   number-of-pages: '202'
   publisher: Dafne
   publisher-place: Porto
@@ -7610,6 +7713,7 @@ references:
   ISBN: 978-972-31-0700-5
   issued:
     - year: 1996
+  language: pt
   number-of-pages: '501'
   publisher: >-
     Fundação Calouste Gulbenkian : Junta Nacional de Investigação Científica e
@@ -7630,6 +7734,7 @@ references:
   ISBN: 978-972-36-1681-1
   issued:
     - year: 2018
+  language: pt
   number-of-pages: '397'
   publisher: Afrontamento
   publisher-place: Porto
@@ -7667,6 +7772,7 @@ references:
   issue: '1'
   issued:
     - year: 2010
+  language: pt
   page: 104–115
   title: >-
     A questão da tradição em Monteiro Lobato: breve comentário à margem de
@@ -7717,6 +7823,7 @@ references:
   issued:
     - year: 2011
       month: 12
+  language: pt
   page: 547-556
   source: SciELO
   title: O desenho e a história da técnica na arquitetura do Brasil colonial
@@ -7739,6 +7846,7 @@ references:
   ISBN: 978-972-759-090-2 978-972-759-091-9
   issued:
     - year: 1998
+  language: pt
   number-of-pages: '2'
   publisher: Temas & Debates
   publisher-place: Lisbon
