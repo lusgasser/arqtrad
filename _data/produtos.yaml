@@ -1,0 +1,206 @@
+---
+references:
+- id: 'mennucci:2018catetinho2'
+  accessed:
+    - year: 2019
+      month: 1
+      day: 21
+  author:
+    - family: Mennucci
+      given: Marina Martins
+    - family: Palazzo
+      given: Pedro P.
+  container-title: 'Building knowledge, constructing histories'
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Voorde
+      given: Stephanie Van
+      dropping-particle: de
+    - family: Bertels
+      given: Inge
+    - family: Espion
+      given: Bernard
+    - family: Jonge
+      given: Krista
+      dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  ISBN: 978-0-429-44675-7
+  issued:
+    - year: 2018
+  language: English
+  page: 927–934
+  publisher: 'CRC : Balkema'
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: 'Catetinho: The first presidential house in Brasilia, Brazil'
+  title-short: Catetinho
+  type: chapter
+  volume: '2'
+
+- id: 'palazzo:2018accouplement2'
+  accessed:
+    - year: 2019
+      month: 1
+      day: 21
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  container-title: 'Building knowledge, constructing histories'
+  editor:
+    - family: Wouters
+      given: Ine
+    - family: Voorde
+      given: Stephanie Van
+      dropping-particle: de
+    - family: Bertels
+      given: Inge
+    - family: Espion
+      given: Bernard
+    - family: Jonge
+      given: Krista
+      dropping-particle: de
+    - family: Zastavni
+      given: Denis
+  ISBN: 978-0-429-44675-7
+  issued:
+    - year: 2018
+  language: English
+  page: 1029–1036
+  publisher: 'CRC : Balkema'
+  publisher-place: Leiden
+  source: Open WorldCat
+  title: 'Accouplement: Vicissitudes of an architectural motif in classical France'
+  title-short: Accouplement
+  type: chapter
+  volume: '2'
+
+- id: 'palazzo:2018gis-assisted10'
+  author:
+    - family: Palazzo
+      given: Pedro Paulo
+  container-title: Preservation Education Research
+  issued:
+    - year: 2018
+  page: 47–70
+  title: >-
+    GIS-Assisted Identification of Historic Districts: A Conceptual Model Case
+    Study in Planaltina, Brazil
+  title-short: GIS-Assisted Identification of Historic Districts
+  type: article-journal
+  volume: '10'
+
+- id: 'palazzo:2018gis3'
+  accessed:
+    - year: 2018
+      month: 6
+      day: 11
+  author:
+    - family: Palazzo
+      given: Pedro P.
+    - family: Laterza
+      given: Ana
+  container-title: 'Putting Tradition into Practice: Heritage, Place and Design'
+  DOI: 10.1007/978-3-319-57937-5_126
+  editor:
+    - family: Amoruso
+      given: Giuseppe
+  ISBN: 978-3-319-57936-8 978-3-319-57937-5
+  issued:
+    - year: 2018
+  page: 1218–1227
+  publisher: Springer
+  publisher-place: Cham
+  source: Crossref
+  title: GIS Model for Morpho-Typology in Historic Preservation and Contextual Design
+  type: chapter
+  URL: 'http://link.springer.com/10.1007/978-3-319-57937-5_126'
+  volume: '3'
+
+- id: 'palazzo:2018tipologia'
+  author:
+    - family: Palazzo
+      given: Pedro Paulo
+  container-title: >-
+    Um projecto de futuro para a Beirã (Marvão) baseado na arquitectura e
+    urbanismo de tradição alentejana = A project for the future of Beirã
+    (Marvão) based on the traditional architecture and urbanism of the Alentejo
+    region
+  editor:
+    - family: Hermida
+      given: Alejandro García
+  ISBN: 978-989-98624-6-3
+  issued:
+    - year: 2018
+  language: pt en es
+  page: 91–97
+  publisher: Fundação Serra Henriques
+  publisher-place: Lisboa
+  title: >-
+    Tipologia da edificação na arquitectura vernácula da Beirã = Building
+    typology in the vernacular architecture of Beirã
+  title-short: Tipologia da edificação
+  type: chapter
+  URL: >-
+    https://www.premiorafaelmanzano.com/wp-content/uploads/2018/12/Livro_FSH_Marvao-1.pdf
+
+- id: 'palazzo:2019imagem'
+  author:
+    - family: Palazzo
+      given: Pedro P.
+  event: >-
+    Imagem da arquitetura árabe no Brasil. Exposição Alhambras: arquiteturas
+    neoárabes em latinoamérica
+  event-place: Brasília
+  genre: Moderação de mesa-redonda
+  issued:
+    - year: 2019
+      month: 5
+      day: 14
+  language: pt-br
+  title: Imagem da arquitetura árabe no Brasil
+  type: speech
+
+- id: 'palazzo:2020relacoes'
+  abstract: "Resumo\n\t\t\t\t\tAs superquadras que caracterizam a malha urbana de Brasília são definidas por Lucio Costa, a posteriori, como a “escala residencial” da cidade: um jogo de palavras que obscurece o entendimento de como se estrutura o tecido residencial da capital. Visando a perceber com maior clareza as relações de escala — no sentido convencional, isto é, geométrico, da palavra — na superquadra, abordam-se inicialmente as contradições inerentes à abstração espacial e discursiva no modernismo. Em seguida, analisam-se as relações de escala na área residencial de Brasília em três níveis sucessivos: as articulações de escala da unidade de vizinhança, os elementos de composição espacial na superquadra, e o papel dos edifícios na concretização das escalas e espacialidades peculiares ao urbanismo desta cidade. A cada passo, observa-se como as categorias interpretativas avançadas por diversos estudiosos de Brasília e da arquitetura moderna se articulam, nos seus esclarecimentos e contradições, com a abstração e ambiguidade espacial da superquadra. O conjunto assim indissociável de espaços e discursos sustenta o paradigma do habitar moderno, ao preço, porém, de se erigir um sistema de mistificações conceituais."
+  accessed:
+    - year: 2020
+      month: 3
+      day: 17
+  author:
+    - family: Palazzo
+      given: Pedro Paulo
+    - family: Solórzano
+      given: Gabriel Ernesto Moura
+  container-title: 'Paranoá: cadernos de arquitetura e urbanismo'
+  container-title-short: Paranoá
+  DOI: 10.18830/issn.1679-0944.n25.2020.8
+  ISSN: 1679-0944
+  issue: '25'
+  issued:
+    - year: 2020
+      month: 3
+      day: 14
+  language: pt
+  number: '25'
+  page: 107-128
+  source: periodicos.unb.br
+  title: 'Relações de escala na superquadra de Brasília: paradigma ou mistificação?'
+  title-short: Relações de escala na superquadra de Brasília
+  type: article-journal
+  URL: 'https://periodicos.unb.br/index.php/paranoa/article/view/29209'
+
+- id: 'solorzano:2019relacoes'
+  author:
+    - family: Solórzano
+      given: Gabriel Ernesto Moura
+    - family: Palazzo
+      given: Pedro P.
+  event: XVIII Enanpur
+  issued:
+    - year: 2019
+  publisher-place: Natal
+  title: Relações de escala na superquadra de Brasília
+  type: paper-conference
+...
