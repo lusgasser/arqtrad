@@ -1,14 +1,11 @@
 ---
 author: Luiza Silveira Gasser
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 date: '2020-04-13'
-suppress-bibliography: true
 title: Ecletismo no arquivo do palácio Itamaraty
 ---
 
 Objetivos, problema e justificativa
------------------------------------
+===================================
 
 Inserir aqui o resumo do plano de trabalho, contendo objetivos, problema
 de pesquisa do aluno e justificativa para o desenvolvimento do plano, de
@@ -18,7 +15,7 @@ pesquisa e ao nível de pesquisa de iniciação científica.
 Texto com 5000 caracteres.
 
 Viabilidade, recursos e metodologia
------------------------------------
+===================================
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -32,7 +29,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 Texto com 4000 caracteres.
 
 Bibliografia
-------------
+============
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -41,11 +38,11 @@ do(a) Orientador(a)
 Texto com no máximo 2000 caracteres.
 
 Competências e habilidades
---------------------------
+==========================
 
 Texto com no máximo 1000 caracteres.
 
 Cronograma
-----------
+==========
 
 Mês a mês

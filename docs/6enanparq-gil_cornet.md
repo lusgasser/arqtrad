@@ -1,17 +1,18 @@
 ---
-author: Leopoldo Gil Cornet
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+author:
+- affiliation: 'Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra'
+  name: Leopoldo Gil Cornet
 date: '2020-03-31'
 lang: 'es-ES'
-suppress-bibliography: true
+layout: notitle
 title: La restauración monumental
 ---
 
 La restauración monumental
---------------------------
+==========================
 
-### Introducción
+Introducción
+------------
 
 Hay un principio general que no se suele considerar y que sin embargo
 resulta muy útil al enfrentarse con un proyecto de restauración
@@ -70,7 +71,8 @@ problema de forma, es un problema de relación. Y en el caso de la
 restauración monumental son relaciones ineludibles las que se refieren a
 los valores esenciales del monumento.
 
-### La restauración del claustro de la catedral de Pamplona
+La restauración del claustro de la catedral de Pamplona
+-------------------------------------------------------
 
 En la restauración del claustro de la catedral (2015-2020) se han puesto
 en practica las ideas expuestas más arriba y se ha puesto en crisis la
@@ -95,9 +97,9 @@ para el que fue concebido hace ya más de setecientos años.
 
 Siguiendo este principio, se han consolidado y restaurado los elementos
 de piedra que su estado de conservación lo permitía, se han sustituido
-(reconstruido) aquellos elementos de piedra irrecuperables ---pináculos,
-pilares y bateaguas---, se han repuesto (reconstruido) elementos pétreos
-desaparecidos ---pináculos y gárgolas---, se han reintegrado sillares y
+(reconstruido) aquellos elementos de piedra irrecuperables —pináculos,
+pilares y bateaguas—, se han repuesto (reconstruido) elementos pétreos
+desaparecidos —pináculos y gárgolas—, se han reintegrado sillares y
 otros elementos constructivos con piedra artificial, y se han perfilado
 los maineles más deteriorados con mortero de restitución, para
 devolverles la dignidad perdida.
@@ -111,7 +113,7 @@ Una vez reproducidas, la discusión sobre su autenticidad resulta
 inevitable ¿Cuáles son más auténticas? ¿Las pinturas reproducidas o las
 que se conservan en el museo? Las pinturas que se conservan y exponen en
 el museo fueron arrancadas, trasladadas, enteladas, restauradas,
-repintadas, recolocadas... , y están en el Museo de Navarra. Las otras,
+repintadas, recolocadas… , y están en el Museo de Navarra. Las otras,
 reproducidas con el máximo rigor desde el punto de vista científico,
 capaces de transmitir al espectador la información y la emoción del
 interior de un claustro gótico, se encuentran en el claustro de la

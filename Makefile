@@ -13,10 +13,10 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+# Jekyll {{{2
+# ------
 PAGES_SRC     = $(wildcard *.md)
 PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
-ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
-ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 
 serve : build
 	bundle exec jekyll serve
@@ -25,9 +25,13 @@ build : $(PAGES_OUT) _config.yml bundle
 	cp -f _config.yml docs/
 	bundle exec jekyll build
 
-docs/%.md : %.md jekyll.yaml _data/biblio.yaml lib/default.jekyll
+docs/%.md : %.md jekyll.yaml _data/biblio.yaml lib/templates/default.jekyll
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
+# VI Enanparq {{{2
+# -----------
+ENANPARQ_SRC  = $(wildcard 6enanparq-*.md)
+ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 .INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
 
 _book/6enanparq.docx : _book/6enanparq.odt
@@ -36,9 +40,8 @@ _book/6enanparq.docx : _book/6enanparq.odt
 _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 	6enanparq-metadata.yaml default.opendocument reference.odt
 	pandoc -o $@ -d spec/6enanparq-sl.yaml \
-		6enanparq-intro.md \
-		6enanparq-palazzo.tmp 6enanparq-florentino.tmp \
-		6enanparq-duany.tmp 6enanparq-gil_cornet.tmp \
+		6enanparq-intro.md 6enanparq-palazzo.tmp \
+		6enanparq-florentino.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-tinoco.tmp 6enanparq-metadata.yaml
 
 %.tmp : %.md concat.yaml _data/biblio.yaml

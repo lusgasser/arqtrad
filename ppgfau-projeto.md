@@ -1,16 +1,20 @@
 ---
 title          : "Clássico, tradicional, eclético"
 subtitle       : "Arquitetura brasileira no longo século XIX"
-author         : Pedro Paulo Palazzo
+author:
+ - name        : Pedro Paulo Palazzo
+   affiliation : Programa de Pós-Graduação da FAU--UnB
 date           : 2018-06-11
 abstract: >
   Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
   arquitetônicos da virada do século XIX no tocante às suas aspirações
   cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
 keywords       : [Ecletismo, Nacionalismo, História urbana]
-bibliography   : "../_data/biblio-projeto.yaml"
-csl            : "../lib/styles/chicago-note-bibliography-with-ibid.csl"
+bibliography   : "_data/biblio-projeto.yaml"
+csl            : "lib/styles/chicago-fullnote-bibliography-with-ibid.csl"
+lang           : pt-BR
 source         : 23106.067490/2018-89
+suppress-bibliography: true
 ---
 
 Clássico, tradicional, eclético

@@ -1,6 +1,10 @@
 ---
+layout: notitle
 title : "Conservação do patrimônio construído: protocolos de boas práticas"
-author: "Jorge Eduardo Lucena Tinoco"
+author:
+- name: "Jorge Eduardo Lucena Tinoco"
+  affiliation: "Doutor; Professor no Centro de Estudos avançados da Conservação
+    Integrada"
 date  : 2020-04-14
 ---
 

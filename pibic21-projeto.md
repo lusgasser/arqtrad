@@ -8,19 +8,20 @@ suppress-bibliography: false
 ---
 
 Planos de trabalho
-==================
+------------------
 
-- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md): Ana Caroline dos Santos Paiva 
-- [Barreiras: urbanização numa encruzilhada do
-  sertão](pibic21-barreiras.md): João Testi Neto
+- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
+  Ana Caroline dos Santos Paiva 
+- [Barreiras: urbanização numa encruzilhada do sertão](pibic21-barreiras.md):
+  João Testi Neto
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
   Flávia Rosa de la Plata
 - [Ecletismo no arquivo do palácio Itamaraty](pibic21-itamaraty.md):
   Luiza Silveira Gasser
-- [Arqueologia da morada suburbana na rua do Rosário,
-  Luziânia](pibic21-luziania.md): Mariana de Fátima Macedo Nunes de Azevedo
-- [Módulos e dimensões do parcelamento urbano no Brasil do século
-  XIX](pibic21-modulos.md): Daniela Matias Xavier
+- [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
+  Mariana de Fátima Macedo Nunes de Azevedo
+- [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
+  Daniela Matias Xavier
 
 Resumo do projeto de pesquisa
 -----------------------------

@@ -8,11 +8,13 @@ $endif$
 $if(date)$
 date: $date$
 $endif$
+$if(author)$
 author:
 $for(author)$
 - name: $author.name$
-  affiliation: $author.affiliation$
+  affiliation: "$author.affiliation$"
 $endfor$
+$endif$
 $if(description)$
 description: |
   $description$
@@ -21,22 +23,34 @@ $if(abstract)$
 abstract: |
   $abstract$
 $endif$
+$if(keywords)$
 keywords: [$for(keywords)$$keywords$$sep$, $endfor$]
+$endif$
 ---
 
+$for(header-includes)$
+$header-includes$
+
+$endfor$
 $for(include-before)$
 $include-before$
+
 $endfor$
-$if(toc)$
-<nav id="$idprefix$TOC" role="doc-toc">
-$if(toc-title)$
-<h2 id="$idprefix$toc-title">$toc-title$</h2>
+$if(title)$
+# $title$
+
 $endif$
+$if(subtitle)$
+<p class="subtitle">$subtitle$</p>
+
+$endif$
+$if(toc)$
 $table-of-contents$
-</nav>
+
 $endif$
 $body$
 $for(include-after)$
+
 $include-after$
 $endfor$
 

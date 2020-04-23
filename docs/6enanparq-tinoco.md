@@ -1,15 +1,14 @@
 ---
-author: Jorge Eduardo Lucena Tinoco
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+author:
+- affiliation: Doutor; Professor no Centro de Estudos avançados da Conservação Integrada
+  name: Jorge Eduardo Lucena Tinoco
 date: '2020-04-14'
-suppress-bibliography: true
-title: 'Conservação do patrimônio construído: protocolos de boas
-  práticas'
+layout: notitle
+title: 'Conservação do patrimônio construído: protocolos de boas práticas'
 ---
 
 Conservação do patrimônio construído: protocolos de boas práticas
------------------------------------------------------------------
+=================================================================
 
 O compromisso com a utilização das boas práticas, em qualquer campo do
 conhecimento, é a garantia de se trabalhar bem e produzir bons
@@ -17,10 +16,10 @@ resultados. As boas práticas são recomendadas como um modelo para se
 obter o melhor benefício com base na experiência acumulada. As boas
 práticas no contexto da conservação do patrimônio construído são aquelas
 que privilegiam condutas que garantam a integridade e a autenticidade do
-bem cultural. A "boa prática" não deve ser considerada apenas um termo
+bem cultural. A “boa prática” não deve ser considerada apenas um termo
 da moda para designar simplesmente um processo ou uma metodologia que
 representa a forma mais eficaz de atingir um objetivo específico. O
-termo deve, preferencialmente, ser empregado no plural "boas práticas",
+termo deve, preferencialmente, ser empregado no plural “boas práticas”,
 pelo fato de ser discutível se existe uma abordagem única e melhor para
 se atingir um fim. Uma definição adequada é de que as boas práticas são
 aquelas que têm provado trabalhar bem e produzir bons resultados e que,
@@ -82,7 +81,7 @@ Curso de Gestão de Restauro às obras e aos serviços de edificações
 tombadas, localizadas nas principais cidades históricas do Nordeste e
 Sudeste do país. A terceira instância dá-se na ocupação e uso onde se
 encontram definidas as responsabilidades e os procedimentos com as
-inspeções periódicas --- monitoramento/controle, e manutenções ---
+inspeções periódicas — monitoramento/controle, e manutenções —
 rotineiras, preventivas ou programadas, corretivas e emergenciais.
 
 A criação de protocolos de boas práticas da conservação e do restauro é

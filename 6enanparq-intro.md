@@ -30,11 +30,6 @@ lang       : pt-BR
 : Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra
 : [lgilcorn\@navarra.es](mailto:lgilcorn@navarra.es)
 
-[Título do Trabalho 4](6enanparq-duany.md)
-: **DUANY, Douglas Alejandro**
-: Doutor; University of Notre Dame School of Architecture
-: [douglasduany\@gmail.com](mailto:douglasduany@gmail.com)
-
 [Conservação do patrimônio construído: protocolos de boas práticas](6enanparq-tinoco.md)
 : **TINOCO, Jorge Eduardo Lucena**
 : Doutor; Professor no Centro de Estudos avançados da Conservação

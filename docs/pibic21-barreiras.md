@@ -1,35 +1,31 @@
 ---
 author: João Testi Neto
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 date: '2020-04-13'
-suppress-bibliography: true
 title: 'Barreiras: urbanização numa encruzilhada do sertão'
 ---
 
 Objetivos, problema e justificativa
------------------------------------
+===================================
 
 Este plano de trabalho versa sobre a memória do desenvolvimento urbano
 da cidade de Barreiras, no estado da Bahia. A pesquisa tem por objetivo
 geral a reconstituição do processo de urbanização do centro urbano até
 meados do século XX, por meio da análise morfológica do seu traçado
-viário e parcelamento, de iconografia histórica existente --- mapas
-cadastrais e fotografias antigas --- e de documentação escrita. Para
+viário e parcelamento, de iconografia histórica existente — mapas
+cadastrais e fotografias antigas — e de documentação escrita. Para
 tanto, desdobra-se nos seguintes objetivos específicos:
 
 -   Recapitular a história da formação territorial luso-brasileira na
-    antiga estrada real da Bahia, que ligava as regiões pecuaristas do
-    rio São Francisco às minas de ouro de Goiás e Mato Grosso;
--   Coligir a documentação iconográfica, cartográfica e escrita
-    existente sobre a formação do núcleo urbano de Barreiras, com base
-    no material já levantado pela bibliografia historiográfica
-    existente;
+    antiga estrada real da Bahia, que ligava as regiões pecuaristas do rio
+    São Francisco às minas de ouro de Goiás e Mato Grosso;
+-   Coligir a documentação iconográfica, cartográfica e escrita existente
+    sobre a formação do núcleo urbano de Barreiras, com base no material
+    já levantado pela bibliografia historiográfica existente;
 -   Propor uma síntese cartográfica e iconográfica preliminar, apta a
     reconstituir as etapas de crescimento e consolidação do centro
     histórico.
 
-A presença portuguesa nos "sertões" do rio São Francisco, desde ao menos
+A presença portuguesa nos “sertões” do rio São Francisco, desde ao menos
 o século XVII, e a abertura da estrada real da Bahia para abastecimento
 das regiões mineradoras, em meados do século XVIII, contrastam com a
 urbanização tardia do sítio de Barreiras, datável da segunda metade do
@@ -70,11 +66,11 @@ correntes na formação em Arquitetura e Urbanismo, destacando-se os
 Sistemas de Informação Geográficas. Tem importância capital no
 desenvolvimento deste plano, portanto, a familiaridade com o centro
 urbano de Barreiras, complementada por uma diligente disposição para
-coletar documentos arquivísticos em lugares conhecidos --- junto a
+coletar documentos arquivísticos em lugares conhecidos — junto a
 pesquisadores da cidade e nos arquivos públicos Nacional e do Estado.
 
 Viabilidade, recursos e metodologia
------------------------------------
+===================================
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -88,7 +84,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 Texto com 4000 caracteres.
 
 Bibliografia
-------------
+============
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -97,11 +93,11 @@ do(a) Orientador(a)
 Texto com no máximo 2000 caracteres.
 
 Competências e habilidades do aluno
------------------------------------
+===================================
 
 Texto com no máximo 1000 caracteres.
 
 Cronograma
-----------
+==========
 
 Mês a mês

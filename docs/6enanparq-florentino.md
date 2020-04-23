@@ -1,15 +1,14 @@
 ---
-author: Rui Florentino
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
+author:
+- affiliation: Doutor; Professor Auxiliar e Coordenador da linha de Investigação de Urbanismo e Planeamento do Centro de Investigação da Escola Superior Gallaecia
+  name: Rui Florentino
 date: '2020-03-31'
-suppress-bibliography: true
-title: 'A arquitectura e o urbanismo tradicionais da ilha do Pico,
-  Açores'
+layout: notitle
+title: 'A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores'
 ---
 
 A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores
------------------------------------------------------------------
+=================================================================
 
 As áreas classificadas pela UNESCO enquanto paisagens culturais estão
 presentes em muitos lugares. Em certos casos, integram a arquitetura

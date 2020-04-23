@@ -1,14 +1,11 @@
 ---
 author: Mariana Azevedo Silva
-bibliography: \_data/biblio.yaml
-csl: 'lib/styles/chicago-fullnote-bibliography-with-ibid.csl'
 date: '2020-04-13'
-suppress-bibliography: true
 title: 'Arqueologia da morada suburbana na rua do Rosário, Luziânia'
 ---
 
 Objetivos, problema e justificativa
------------------------------------
+===================================
 
 O objeto deste plano de trabalho é compilar uma documentação
 arquitetônica descritiva de algumas moradas suburbanas tradicionais
@@ -26,15 +23,15 @@ específicos:
 -   Situar os sistemas construtivos analisados no âmbito da história da
     construção luso-brasileira;
 -   Interpretar a inserção das casas no vetor de expansão noroeste de
-    Luziânia, com base nas fontes documentais coletadas e numa leitura
-    da morfologia urbana da rua do Rosário.
+    Luziânia, com base nas fontes documentais coletadas e numa leitura da
+    morfologia urbana da rua do Rosário.
 
 O antigo arraial e vila de Santa Luzia, atual cidade de Luziânia, foi
 fundado como sítio minerador pelo bandeirante Bartolomeu Bueno da Silva
 Filho em 1746. O local ganha destaque nas fontes históricas a partir do
-final do ciclo do ouro, com a abertura do famoso "rego das cabaças" ---
+final do ciclo do ouro, com a abertura do famoso “rego das cabaças” —
 um dos primeiros empreendimentos de infraestrutura de grande porte em
-Goiás ---, e se torna uma importante encruzilhada comercial ao longo do
+Goiás —, e se torna uma importante encruzilhada comercial ao longo do
 século XIX, quando o leste de Goiás se torna um polo agroexportador de
 porte no mercado nacional. A vila de Santa Luzia chegou a ser visitada
 pelo botânico francês Auguste de Saint-Hilaire em 1818, durante sua
@@ -68,14 +65,14 @@ Este Plano de Trabalho visa a suprir a lacuna documental sobre a Casa de
 Cultura de Luziânia e algumas outras casas suburbanas na rua do Rosário,
 por meio do levantamento detalhado de suas dimensões físicas, sistemas
 construtivos, detalhes, patologias e estado de conservação, bem como da
-documentação arquivística existente --- escrita, oral e iconográfica. A
+documentação arquivística existente — escrita, oral e iconográfica. A
 documentação será consolidada segundo o paradigma do Historic Building
 Information Modeling (HBIM) e dela será derivada uma interpretação
 preliminar quanto às relações das casas estudadas entre si e com a
 cidade.
 
 Viabilidade, recursos e metodologia
------------------------------------
+===================================
 
 Inserir a descrição da metodologia da pesquisa contendo os passos
 metodológicos necessários para a sua execução e para o alcance dos
@@ -89,7 +86,7 @@ aluno, de maneira a mostrar a viabilidade da execução da pesquisa.
 Texto com 4000 caracteres.
 
 Bibliografia
-------------
+============
 
 Preenchimento não obrigatório, caso a bibliografia do plano de trabalho
 do(a) Aluno(a) já esteja inclusa na bibliografia da proposta de pesquisa
@@ -98,11 +95,11 @@ do(a) Orientador(a)
 Texto com no máximo 2000 caracteres.
 
 Competências e habilidades
---------------------------
+==========================
 
 Texto com no máximo 1000 caracteres.
 
 Cronograma
-----------
+==========
 
 Mês a mês

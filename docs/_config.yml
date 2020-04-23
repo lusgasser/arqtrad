@@ -84,7 +84,7 @@ defaults: # {{{2
 # Build settings {{{1
 theme: minima 
 minima:
-  date_format : "%Y-%m-%d"
+  date_format : "%e %B %Y"
   social_links:
     twitter   : https://twitter.com/p3palazzo
     github    : https://github.com/dmcpatrimonio/arqtrad
@@ -108,6 +108,8 @@ plugins: # {{{2
   - jekyll-readme-index
   - jekyll-titles-from-headings
   - jekyll-relative-links
+
+# Other build parameters {{{2
 source: docs/
 relative_links:
   enabled: true
@@ -115,13 +117,12 @@ relative_links:
 markdown: kramdown
 kramdown:
   auto_ids: true
+  header_offset: 1
+  transliterated_header_ids: true
 permalink: pretty
 readme_index:
   enabled:          true
   remove_originals: true
-  with_frontmatter: false
-
-exclude:
-  - LICENSE
+  with_frontmatter: true
 
 # vim: set foldmethod=marker :

@@ -1,6 +1,11 @@
 ---
+layout: notitle
 title: "A arquitectura e o urbanismo tradicionais da ilha do Pico, Açores" 
-author: "Rui Florentino"
+author:
+- name: "Rui Florentino"
+  affiliation: "Doutor; Professor Auxiliar e Coordenador da linha de Investigação de
+    Urbanismo e Planeamento do Centro de Investigação da Escola Superior
+    Gallaecia"
 date: 2020-03-31
 ---
 

@@ -1,3 +1,7 @@
+---
+title: "Clássico, tradicional, eclético: Arquitetura brasileira no longo século XIX"
+---
+
 ![](https://github.com/dmcpatrimonio/arqtrad/workflows/Jekyll%20site%20CI/badge.svg?branch=master)
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e

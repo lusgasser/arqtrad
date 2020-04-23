@@ -1,6 +1,9 @@
 ---
+layout     : notitle
 title      : "La restauración monumental"
-author     : "Leopoldo Gil Cornet"
+author:
+- name: "Leopoldo Gil Cornet"
+  affiliation: "Arquiteto; Sección de Patrimonio Arquitectónico, Gobierno de Navarra"
 date       : 2020-03-31
 lang       : es-ES
 ---
