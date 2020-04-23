@@ -21,11 +21,11 @@ ENANPARQ_TMP := $(patsubst %.md,%.tmp, $(ENANPARQ_SRC))
 serve : build
 	bundle exec jekyll serve
 
-build : $(PAGES_OUT) _config.yml
-	cp README.md docs/
+build : $(PAGES_OUT) _config.yml bundle
+	cp -f _config.yml docs/
 	bundle exec jekyll build
 
-docs/%.md : %.md jekyll.yaml _data/biblio.yaml
+docs/%.md : %.md jekyll.yaml _data/biblio.yaml lib/default.jekyll
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
 .INTERMEDIATE : $(ENANPARQ_TMP) _book/6enanparq.odt
@@ -63,7 +63,7 @@ fig/%.png : %.svg
 #   having too many files that you don't use.
 # - virtualenv: sets up a virtual environment (but you still need to
 #   activate it from the command line).
-.PHONY : install link-template makedirs submodule_init virtualenv bundle serve clean
+.PHONY : install link-template makedirs submodule_init virtualenv clean
 install : link-template makedirs submodule_init lib \
 	  virtualenv bundle license
 
@@ -114,16 +114,8 @@ virtualenv :
 		pip install -r .install/requirements.txt
 	-rm -rf src
 
-bundle :
-	bundle config set path '.vendor/bundle'
-	# Remove the line above if you want to install gems system-wide.
-	# (This requires sudo).
-	# The config set path is effectively ignored by bundle in favor
-	# of the global path setting. My global config at ~/.bundle,
-	# however, is itself overridden by the built-in bundle path
-	# setting, which is `.vendor`. Can't seem to be able to change
-	# this in any way.
-	bundle install
+bundle : Gemfile
+	bundle update
 
 license :
 	source .venv/bin/activate && \

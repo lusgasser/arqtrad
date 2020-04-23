@@ -1,0 +1,42 @@
+---
+$if(title)$
+title: "$title$"
+$endif$
+$if(subtitle)$
+subtitle: "$subtitle$"
+$endif$
+$if(date)$
+date: $date$
+$endif$
+author:
+$for(author)$
+- name: $author.name$
+  affiliation: $author.affiliation$
+$endfor$
+$if(description)$
+description: |
+  $description$
+$endif$
+$if(abstract)$
+abstract: |
+  $abstract$
+$endif$
+keywords: [$for(keywords)$$keywords$$sep$, $endfor$]
+---
+
+$for(include-before)$
+$include-before$
+$endfor$
+$if(toc)$
+<nav id="$idprefix$TOC" role="doc-toc">
+$if(toc-title)$
+<h2 id="$idprefix$toc-title">$toc-title$</h2>
+$endif$
+$table-of-contents$
+</nav>
+$endif$
+$body$
+$for(include-after)$
+$include-after$
+$endfor$
+
