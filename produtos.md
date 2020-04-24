@@ -1,6 +1,6 @@
 ---
 layout: biblio
-title : "Produção bibliográfica e técnica decorrente do projeto de pesquisa"
+title : "Produção bibliográfica e técnica"
 date  : 2020-04-24
 ---
 
