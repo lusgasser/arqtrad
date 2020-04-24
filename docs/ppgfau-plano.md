@@ -2,7 +2,7 @@
 author:
 - affiliation: 'Programa de Pós-Graduação da FAU–UnB'
   name: Pedro Paulo Palazzo
-bibliography: \_data/biblio.yaml
+bibliography: biblio.bib
 creator:
 - affiliation: 'Programa de Pós-graduação da Faculdade de Arquitetura e Urbanismo'
   email: 'palazzo@unb.br'
