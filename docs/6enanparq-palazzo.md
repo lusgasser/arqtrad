@@ -2,7 +2,7 @@
 author:
 - affiliation: Doutor; Professor da Faculdade de Arquitetura e Urbanismo da Universidade de Brasília
   name: Pedro Paulo Palazzo
-bibliography: \_data/biblio.yaml
+bibliography: biblio.bib
 csl: 'lib/styles/associacao-brasileira-de-normas-tecnicas.csl'
 date: '2020-03-31'
 lang: 'pt-BR'
@@ -162,7 +162,7 @@ MARINS, P. C. G. Novos patrimônios, um novo Brasil? Um balanço das políticas 
 :::
 
 ::: {#ref-muratori:1959studiIX}
-MURATORI, S. Studi per una operante storia urbana di Venezia. I. **Palladio. Rivista di storia dell’architettura**, v. IX, n. 3–4, p. 97–209, jul. 1959.
+MURATORI, S. Studi per una operante storia urbana di Venezia. I. **Palladio. Rivista di storia dell’architettura**, v. IX, n. 3–4, 3–4, p. 97–209, jul. 1959.
 :::
 
 ::: {#ref-oliveira:1990rococo}

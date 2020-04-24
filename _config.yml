@@ -82,7 +82,8 @@ defaults: # {{{2
       itemtype  : "http://schema.org/Thing"
 
 # Build settings {{{1
-theme: minima 
+source: docs/
+theme: minima # {{{2
 minima:
   date_format : "%e %B %Y"
   social_links:
@@ -90,8 +91,8 @@ minima:
     github    : https://github.com/dmcpatrimonio/arqtrad
     instagram : https://instagram.com/arqtrad
 header_pages:
-  - 6enanparq-intro.md
-  - pibic21-projeto.md
+  - produtos.md
+  - atual.md
 
 plugins: # {{{2
   - jekyll-feed
@@ -110,16 +111,15 @@ plugins: # {{{2
   - jekyll-relative-links
 
 # Other build parameters {{{2
-source: docs/
-relative_links:
-  enabled: true
-  collections: true
+permalink: pretty
 markdown: kramdown
 kramdown:
   auto_ids: true
   header_offset: 1
   transliterated_header_ids: true
-permalink: pretty
+relative_links:
+  enabled: true
+  collections: true
 readme_index:
   enabled:          true
   remove_originals: true

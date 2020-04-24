@@ -25,7 +25,7 @@ build : $(PAGES_OUT) _config.yml bundle
 	cp -f _config.yml docs/
 	bundle exec jekyll build
 
-docs/%.md : %.md jekyll.yaml _data/biblio.yaml lib/templates/default.jekyll
+docs/%.md : %.md jekyll.yaml lib/templates/default.jekyll
 	pandoc -o $@ -d spec/jekyll.yaml $<
 
 # VI Enanparq {{{2
