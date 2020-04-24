@@ -1,0 +1,74 @@
+---
+- name        : Pedro Paulo Palazzo
+  orcid       : 0000-0002-0187-774X
+  URL         : http://lattes.cnpq.br/5767592881382885
+  nationality : BR
+  employer:
+  - department: Coordenador
+    startDate : 2018-06-18
+    endDate   :
+
+- name        : Octávio Scapin
+  orcid       :
+  URL         : http://lattes.cnpq.br/3958322518141631
+  nationality : BR
+  employer:
+  - department: Mestrado
+    startDate : 2018-03-20
+    endDate   : 2020-02-20
+
+- name        : Gabriel Ernesto Moura Solórzano
+  orcid       : 0000-0002-4078-7579
+  URL         : http://lattes.cnpq.br/045857357323086
+  nationality : BR
+  employer:
+  - department: Mestrado
+    startDate : 2018-03-20
+    endDate   : 2020-02-13
+
+- name        : Andressa Pinheiro Constanti
+  orcid       :
+  URL         : http://lattes.cnpq.br/3938706916241036
+  nationality : BR
+  employer:
+  - department: Mestrado
+    startDate : 2018-03-20
+    endDate   : 
+
+- name        : Sylvio Carneiro de Farias
+  orcid       :
+  URL         : http://lattes.cnpq.br/5477484297623365
+  nationality : BR
+  employer:
+  - department: Doutorado
+    startDate : 2019-03-20
+    endDate   : 
+
+- name        : Laila Beatriz da Rocha Loddi
+  orcid       : 0000-0001-5387-755X
+  URL         : http://lattes.cnpq.br/7468794244623680
+  nationality : BR
+  employer:
+  - department: Doutorado
+    startDate : 2019-03-20
+    endDate   : 
+
+- name        : Irina Alencar de Oliveira
+  orcid       : 0000-0002-6649-263X
+  URL         : http://lattes.cnpq.br/6535350966278993
+  nationality : BR
+  employer:
+  - department: Doutorado
+    startDate : 2019-03-20
+    endDate   : 
+
+- name        : Sarah da Silva Almeida
+  orcid       : 0000-0003-0413-9598
+  URL         : http://lattes.cnpq.br/8028408167525138
+  nationality : BR
+  employer:
+  - department: Mestrado
+    startDate : 2019-03-20
+    endDate   : 
+
+---

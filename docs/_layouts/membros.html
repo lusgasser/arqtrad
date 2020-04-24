@@ -1,0 +1,38 @@
+---
+layout: default
+---
+{% assign membros = site.data.membros | sort: "name" %}
+
+<article class="list">
+  <header class="post-header">
+		<h1 class="post-title">{{ page.title }}</h1>
+  </header>
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+  <dl class="people">
+    {% for membro in membros %}
+      <dt itemscope itemtype="http://schema.org/Person">{{ membro.name }}</dt>
+      <dd>
+        <a itemprop="URL" href="{{ membro.URL }}">Lattes</a>
+        {% if membro.orcid %}
+        <a itemprop="identification" href="{{ membro.orcid }}">ORCID {{ membro.orcid }}</a>
+        {% endif %}
+      </dd>
+      {% for role in membro.employer %}
+      <dd itemprop="employer">
+        <span itemprop="department">{{ role.department }}</span>:
+        <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
+          {{ role.startDate }}
+        </time> a
+        <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
+          {{ role.endDate }}
+        </time>
+      </dd>
+      {% endfor %}
+    {% endfor %}
+  </dl>
+
+</article>
+<!-- vim: set ft=liquid shiftwidth=2 tabstop=2 expandtab foldmethod=indent : -->

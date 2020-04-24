@@ -91,6 +91,7 @@ minima:
     github    : https://github.com/dmcpatrimonio/arqtrad
     instagram : https://instagram.com/arqtrad
 header_pages:
+  - membros.md
   - produtos.md
   - atual.md
 
