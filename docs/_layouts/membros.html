@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% assign membros = site.data.membros | sort: "name" %}
+{% assign membros = site.data.membros | sort: "givenName" %}
 
 <article class="list">
   <header class="post-header">
@@ -13,24 +13,35 @@ layout: default
 
   <dl class="people">
     {% for membro in membros %}
-      <dt itemscope itemtype="http://schema.org/Person">{{ membro.name }}</dt>
+      {% for affiliation in membro.affiliation %}{% if affiliation.Organization.name == "arqtrad" %}
+      <dt itemscope itemtype="http://schema.org/Person">
+        {{ membro.givenName }} {{ membro.additionalName }} {{ membro.familyName }}
+      </dt>
       <dd>
-        <a itemprop="URL" href="{{ membro.URL }}">Lattes</a>
-        {% if membro.orcid %}
-        <a itemprop="identification" href="{{ membro.orcid }}">ORCID {{ membro.orcid }}</a>
-        {% endif %}
+        <a itemprop="url" href="{{ membro.url }}">Lattes</a>
+        {% if membro.identifier %} | 
+        <a itemprop="identifier" href="https://orcid.org/{{ membro.identifier }}">ORCID {{ membro.identifier }}</a>
+        {% endif %} |
+        Produção
       </dd>
-      {% for role in membro.employer %}
-      <dd itemprop="employer">
-        <span itemprop="department">{{ role.department }}</span>:
-        <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
-          {{ role.startDate }}
-        </time> a
-        <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
-          {{ role.endDate }}
-        </time>
-      </dd>
+      {% comment %}
+      {% for affiliation in membro.affiliation %}
+      <ul itemprop="affiliation">
+        {% for role in affiliation.Organization.Role %}
+          <li>
+            <span itemscope itemtype="http://schema.org/Organization">{{ role.name }}</span>:
+            <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
+              {{ role.startDate | date: "%e/%m/%Y" }}
+            </time> a
+            <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
+              {{ role.endDate | date: "%e/%m/%Y" }}
+            </time>
+          </li>
+        {% endfor %}
+      </ul>
       {% endfor %}
+      {% endcomment %}
+    {% endif %}{% endfor %}
     {% endfor %}
   </dl>
 

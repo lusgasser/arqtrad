@@ -1,74 +1,215 @@
 ---
-- name        : Pedro Paulo Palazzo
-  orcid       : 0000-0002-0187-774X
-  URL         : http://lattes.cnpq.br/5767592881382885
-  nationality : BR
-  employer:
-  - department: Coordenador
-    startDate : 2018-06-18
-    endDate   :
+# Este arquivo é a fonte das informações a serem preenchidas no
+# Diretório de Grupos de Pesquisa. Mantenha seus dados e vínculos com o
+# grupo de pesquisa sempre atualizados!
+#
+# Os campos desta lista são baseados em parte nos escopos seguintes:
+# http://schema.org/Person
+# http://schema.org/Organization
+# http://schema.org/Role
+#
+# Acrescente informações com parcimônia, conforme apropriado, seguindo
+# as especificações dos escopos indicados acima, e observando o exemplo
+# dos campos já preenchidos.
+#
+# ATENÇÃO  : Não adicione dados privados, tais como CPF, RG, data de
+# nascimento, telefone pessoal. Este documento é PÚBLICO!
+#
+# A indentação das linhas indica os itens subordinados.
+# Os itens prefixados por hífen podem ser repetidos conforme necessário.
+# Para mais instruções de preenchimento, observe os comentários no
+# primeiro item.
 
-- name        : Octávio Scapin
-  orcid       :
-  URL         : http://lattes.cnpq.br/3958322518141631
-  nationality : BR
-  employer:
-  - department: Mestrado
-    startDate : 2018-03-20
-    endDate   : 2020-02-20
+########################################################
+##                   PESQUISADORES                    ##
+########################################################
 
-- name        : Gabriel Ernesto Moura Solórzano
-  orcid       : 0000-0002-4078-7579
-  URL         : http://lattes.cnpq.br/045857357323086
-  nationality : BR
-  employer:
-  - department: Mestrado
-    startDate : 2018-03-20
-    endDate   : 2020-02-13
+- familyName      : Palazzo        # Sobrenome tal como usado em publicações
+  givenName       : Pedro Paulo    # Nome de batismo tal como usado em publicações
+  additionalName  :                # Partícula (para compatibilidade com Zotero): "de", etc.
+  identifier      : 0000-0002-0187-774X # ORCID
+  image           : https://avatars3.githubusercontent.com/u/8295666 # Caso deseje incluir uma foto sua no site...
+  url             : http://lattes.cnpq.br/5767592881382885 # O link para o CV Lattes tal como impresso ao lado da sua foto!
+  sameAs          : https://p3palazzo.github.io # Outro site, se tiver
+  email           : palazzo@unb.br # E-mail institucional! Não informar e-mail pessoal!
+  telephone       : 55 61 31 07 74 49 # Telefone institucional! Não informar telefone pessoal!
+  affiliation  :                   # Participação no grupo de pesquisa e em projetos de pesquisa
+  - Organization:
+      name        : dmcpatrimonio  # Primeiro, registramos a participação no grupo de pesquisa
+      Role:
+      - name      : Líder          # Líder, Pesquisador, Doutorado, Mestrado, Graduação, Colaborador (conforme DGP)
+        startDate : 2018-02-09     # Data de inclusão no grupo
+        endDate   :                # Data de saída do grupo. Esta linha pode ser apagada se não for usada.
+  - Organization:
+      name        : arqtrad        # Os projetos de pesquisa podem ser identificados pelo seu repositório do GitHub, ou não.
+      Role:
+      - name      : Coordenador    # Coordenador, Pesquisador, ou Colaborador
+        startDate : 2018-06-18
+  worksFor  :                      # Informar o(s) vínculo(s) institucional(is) relevantes
+  - Organization:
+      name        : Universidade de Brasília
+      department  : Teoria e História da Arquitetura e do Urbanismo
+      Role:
+      - name      : Professor Adjunto
+        startDate : 2015-11-30
 
-- name        : Andressa Pinheiro Constanti
-  orcid       :
-  URL         : http://lattes.cnpq.br/3938706916241036
-  nationality : BR
-  employer:
-  - department: Mestrado
-    startDate : 2018-03-20
-    endDate   : 
+########################################################
+##                      TÉCNICOS                      ##
+########################################################
 
-- name        : Sylvio Carneiro de Farias
-  orcid       :
-  URL         : http://lattes.cnpq.br/5477484297623365
-  nationality : BR
-  employer:
-  - department: Doutorado
-    startDate : 2019-03-20
-    endDate   : 
+- familyName      : Gregório
+  givenName       : Luiz Cláudio
+  url             : http://lattes.cnpq.br/6182832712701372
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Técnico
+        startDate : 2018-02-09
+  worksFor:
+  - Organization:
+      name        : Universidade de Brasília
+      department  : Faculdade de Arquitetura e Urbanismo
+      Role:
+      - name      : Técnico em Administração
+        startDate:
 
-- name        : Laila Beatriz da Rocha Loddi
-  orcid       : 0000-0001-5387-755X
-  URL         : http://lattes.cnpq.br/7468794244623680
-  nationality : BR
-  employer:
-  - department: Doutorado
-    startDate : 2019-03-20
-    endDate   : 
+########################################################
+##                     ESTUDANTES                     ##
+########################################################
 
-- name        : Irina Alencar de Oliveira
-  orcid       : 0000-0002-6649-263X
-  URL         : http://lattes.cnpq.br/6535350966278993
-  nationality : BR
-  employer:
-  - department: Doutorado
-    startDate : 2019-03-20
-    endDate   : 
+- familyName      : Scapin
+  givenName       : Octávio
+  identifier      : 
+  url             : http://lattes.cnpq.br/3958322518141631
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Mestrado
+        startDate : 2018-03-20
+        endDate   : 2020-02-20
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2018-03-20
+        endDate   : 2020-02-20
 
-- name        : Sarah da Silva Almeida
-  orcid       : 0000-0003-0413-9598
-  URL         : http://lattes.cnpq.br/8028408167525138
-  nationality : BR
-  employer:
-  - department: Mestrado
-    startDate : 2019-03-20
-    endDate   : 
+- familyName      : Solórzano
+  givenName       : Gabriel Ernesto Moura
+  identifier      : 0000-0002-4078-7579
+  url             : http://lattes.cnpq.br/045857357323086
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Mestrado
+        startDate : 2018-03-20
+        endDate   : 2020-02-13
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2018-03-20
+        endDate   : 2020-02-13
+
+- familyName      : Constanti
+  givenName       : Andressa Pinheiro
+  identifier      : 
+  url             : http://lattes.cnpq.br/3938706916241036
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Mestrado
+        startDate : 2018-03-20
+        endDate   : 
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2018-03-20
+
+- familyName      : Farias
+  givenName       : Sylvio Carneiro
+  additionalName  : de
+  identifier    :
+  url             : http://lattes.cnpq.br/5477484297623365
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Doutorado
+        startDate : 2019-03-20
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2019-03-20
+
+- familyName      : Loddi
+  givenName       : Laila Beatriz da Rocha
+  identifier      : 0000-0001-5387-755X
+  url             : http://lattes.cnpq.br/7468794244623680
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Doutorado
+        startDate : 2019-03-20
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2019-03-20
+
+- familyName      : Oliveira
+  givenName       : Irina Alencar
+  additionalName  : de
+  identifier      : 0000-0002-6649-263X
+  url             : http://lattes.cnpq.br/6535350966278993
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Doutorado
+        startDate : 2019-03-20
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2019-03-20
+
+- familyName      : Almeida
+  givenName       : Sarah da Silva
+  identifier      : 0000-0003-0413-9598
+  url             : http://lattes.cnpq.br/8028408167525138
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Mestrado
+        startDate : 2019-03-20
+
+- familyName      : Pimentel Lopes
+  givenName       : Camila de Queiroz
+  identifier      : 0000-0003-3446-3321
+  url             : http://lattes.cnpq.br/3613601942031627
+  affiliation:
+  - Organization:
+      name        : dmcpatrimonio
+      Role:
+      - name      : Pesquisador
+        startDate : 2019-03-19
+      Role:
+      - name      : Mestrado
+        startDate : 2017-03-20
+        endDate   : 2019-03-18
+  - Organization:
+      name        : arqtrad
+      Role:
+      - name      : Pesquisador
+        startDate : 2018-06-18
 
 ---
