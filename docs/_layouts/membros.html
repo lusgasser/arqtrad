@@ -4,37 +4,38 @@ layout: page
 {% assign membros = site.data.membros | sort: "givenName" %}
 {% assign projeto = site.baseurl | remove: "/" %}
 
-  <dl class="people">
-    {% for membro in membros %}
-      {% for affiliation in membro.affiliation %}{% if affiliation.Organization.name == projeto %}
-      <dt itemscope itemtype="http://schema.org/Person">
-        {{ membro.givenName }} {{ membro.additionalName }} {{ membro.familyName }}
-      </dt>
-      <dd>
-        <a itemprop="url" href="{{ membro.url }}">Curriculum Vitae</a>
-        {% if membro.identifier %} | 
-        <a itemprop="identifier" href="https://orcid.org/{{ membro.identifier }}">ORCID {{ membro.identifier }}</a>
-        {% endif %}
-      </dd>
-      {% for affiliation in membro.affiliation %}{%if affiliation.Organization.name == projeto %}
-      <ul itemprop="affiliation">
-        {% for role in affiliation.Organization.Role %}
-          <li>
-            <span itemscope itemtype="http://schema.org/Organization">{{ role.name }}</span>:
-            {% unless role.endDate %}desde{% endunless %}
-            <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
-              {{ role.startDate | date: "%e/%m/%Y" }}
-            </time> {% if role.endDate %} a
-            <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
-              {{ role.endDate | date: "%e/%m/%Y" }}{% endif %}
-            </time>
-          </li>
-        {% endfor %}
-      </ul>
-      {% endif %}{% endfor %}
-    {% endif %}{% endfor %}
-    {% endfor %}
-  </dl>
+{{ content }}
 
-</article>
+<dl class="people">
+  {% for membro in membros %}
+    {% for affiliation in membro.affiliation %}{% if affiliation.Organization.name == projeto %}
+    <dt itemscope itemtype="http://schema.org/Person">
+      {{ membro.givenName }} {{ membro.additionalName }} {{ membro.familyName }}
+    </dt>
+    <dd>
+      <a itemprop="url" href="{{ membro.url }}">Curriculum Vitae</a>
+      {% if membro.identifier %} | 
+      <a itemprop="identifier" href="https://orcid.org/{{ membro.identifier }}">ORCID {{ membro.identifier }}</a>
+      {% endif %}
+    </dd>
+    {% for affiliation in membro.affiliation %}{%if affiliation.Organization.name == projeto %}
+    <ul itemprop="affiliation">
+      {% for role in affiliation.Organization.Role %}
+        <li>
+          <span itemscope itemtype="http://schema.org/Organization">{{ role.name }}</span>:
+          {% unless role.endDate %}desde{% endunless %}
+          <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
+            {{ role.startDate | date: "%e/%m/%Y" }}
+          </time> {% if role.endDate %} a
+          <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
+            {{ role.endDate | date: "%e/%m/%Y" }}{% endif %}
+          </time>
+        </li>
+      {% endfor %}
+    </ul>
+    {% endif %}{% endfor %}
+  {% endif %}{% endfor %}
+  {% endfor %}
+</dl>
+
 <!-- vim: set ft=liquid shiftwidth=2 tabstop=2 expandtab foldmethod=indent : -->

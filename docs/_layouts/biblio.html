@@ -1,121 +1,114 @@
 ---
-layout: default
+layout: page
 ---
 {%- assign start = "2018" | date: "%Y" -%}
 {%- assign today = "today" | date: "%Y" -%}
 {%- assign produtos = site.data.produtos.references | sort: "id" -%}
 
-<article class="bibliography">
-  <header class="post-header">
-		<h1 class="post-title">{{ page.title }}</h1>
-  </header>
-	<div class="post-content">
-		{{ content }}
-	</div>
-	<ol class="refs">
-		{% for produto in produtos %}
-			<li itemscope itemtype="http://schema.org/
-				{%- case produto.type -%}
-				{%- when "book" -%}Book
-				{%- when "article-journal" -%}Article
-				{%- when "chapter" or "paper-conference" -%}Chapter
-				{%- when "collection" -%}Collection
-				{%- when "thesis" -%}Thesis
-				{%- when "artwork" -%}VisualArtwork
-				{%- else -%}CreativeWork
-				{%- endcase -%}" id="{{ produto.id }}">
-			{% if produto.author %}
-			<span itemprop="author">
-				{% for author in produto.author %}
-					{%- if author.family -%}
-						{%- if forloop.first -%}
-						<span itemscope itemtype="http://schema.org/Person">{{ author.dropping-particle | append: " " }}{{ author.family }}, {{ author.given }}</span>
-						{%- else -%}
-						<span itemscope itemtype="http://schema.org/Person">{{ author.given | append: " " }}{{ author.dropping-particle | append: " " }}{{ author.family }}</span>
-						{%- endif -%}
-					{%- else -%}
-						<span itemscope itemtype="http://schema.org/Organization">{{ author }}</span>
-					{%- endif -%}
-					{%- if forloop.last -%} {%- else -%}; {% endif %}
-				{% endfor %}
-			</span>
-			{% endif %}
-			<time datetime="{{ produto.issued[0].year }}" itemscope itemprop="datePublished" itemtype="http://schema.org/Date">({{ produto.issued[0].year }})</time>
-			<span itemprop="name">
-				{%- case produto.type %}
-				{%- when "book" or "thesis" or "artwork" or "collection" -%}
-					<em>{{ produto.title }}.</em>
-				{%- else %}
-					“{{ produto.title }}.”
-				{%- endcase %}
-			</span>
-			{%- if produto.type == 'chapter' or produto.type == 'paper-conference' -%} In:
-				{% if produto.editor %}
-					<span itemprop="editor">
-						{% for editor in produto.editor %}
-							{%- if editor.family -%}
-								<span itemscope itemtype="http://schema.org/Person">{{ editor.given | append: " " }}{{ editor.dropping-particle | append: " " }}{{ editor.family }}</span>
-							{%- else -%}
-								<span itemscope itemtype="http://schema.org/Organization">{{ editor }}</span>
-							{%- endif -%}
-						{% if forloop.last %}
-							{% if forloop.last == forloop.first %}
-								(ed.)
-							{% else %}
-								(eds.)
-							{% endif %}
-						{%- else -%}; {% endif %}
-						{% endfor %}
-					</span>
-				{% endif %}
-			{%- endif -%}
-			{%- if produto.container-title or produto.event -%}
-				<span itemprop="isPartOf">
-					{%- if produto.container-title -%}
-						{%- if produto.event -%}
-							{{ produto.event | append: ': ' }}
-						{%- endif -%}
-						<em>{{ produto.container-title }}</em>
-					{%- elsif produto.event -%}
-						<em>{{ produto.event }}</em>
-					{%- endif -%}
-					{%- if produto.volume -%}
-						<span itemprop="volumeNumber">{{produto.volume | prepend: ', ' }}</span>
-					{%- endif -%}
-					{%- if produto.issue -%}
-						<span itemprop="issueNumber">{{ produto.issue | prepend: ' (' | append: ')' }}</span>
-					{%- endif -%}
-				</span>
-			{%- endif -%}
-			{%- if produto.publisher or produto.publisher-place -%}. 
-				{% if produto.publisher %}
-					<span itemprop="spatial" itemtype="http://schema.org/Location">{{ produto.publisher-place | append: ': ' }}</span>
-					<span itemprop="publisher" itemtype="http://schema.org/Organization">{{ produto.publisher }}</span>
-				{%- else -%}
-					<span itemprop="spatial" itemtype="http://schema.org/Location">{{ produto.publisher-place }}</span>
-				{%- endif -%}
-			{%- endif -%}
-			{% if produto.genre %}
-				<span itemprop="genre">{{ product.genre }}</span>
-				<span itemprop="locationCreated">{{ produto.event-place }}<span>
-			{% endif %}
-			{%- if produto.page -%},
-				<span itemprop="pagination">{{ produto.page | replace: "-", "--" }}</span>
-			{%- endif -%}
-			{%- if produto.ISBN -%}. ISBN 
-				{% assign isbn = produto.ISBN | split: " " %}
-				<span itemprop="ISBN">{{ isbn[0] }}</span>
-			{%- endif -%}
-			{%- if produto.ISSN -%}. ISSN 
-				<span itemprop="ISSN">{{ produto.ISSN }}</span>
-			{%- endif -%}
-			{%- if produto.DOI -%}.
-				<a itemprop="doi" href="http://dx.doi.org/{{ produto.DOI }}">{{ produto.DOI }}</a>
-			{%- elsif produto.URL -%}.
-				<a itemprop="url" href="{{ produto.URL }}">{{ produto.URL }}</a>
-			{%- endif -%}
-		</li>
-		{% endfor %}
-  </ol>
-</article>
+{{ content }}
+
+<ol class="refs">
+  {% for produto in produtos %}
+  <li itemscope itemtype="http://schema.org/{%- case produto.type -%}
+                                            {%- when "book" -%}Book
+                                            {%- when "article-journal" -%}Article
+                                            {%- when "chapter" or "paper-conference" -%}Chapter
+                                            {%- when "collection" -%}Collection
+                                            {%- when "thesis" -%}Thesis
+                                            {%- when "artwork" -%}VisualArtwork
+                                            {%- else -%}CreativeWork
+                                            {%- endcase -%}" id="{{ produto.id }}">
+    {% if produto.author %}
+    <span itemprop="author">
+      {% for author in produto.author %}
+        {%- if author.family -%}
+          {%- if forloop.first -%}
+          <span itemscope itemtype="http://schema.org/Person">{{ author.dropping-particle | append: " " }}{{ author.family }}, {{ author.given }}</span>
+          {%- else -%}
+          <span itemscope itemtype="http://schema.org/Person">{{ author.given | append: " " }}{{ author.dropping-particle | append: " " }}{{ author.family }}</span>
+          {%- endif -%}
+        {%- else -%}
+          <span itemscope itemtype="http://schema.org/Organization">{{ author }}</span>
+        {%- endif -%}
+        {%- if forloop.last -%} {%- else -%}; {% endif %}
+      {% endfor %}
+    </span>
+    {% endif %}
+    <time datetime="{{ produto.issued[0].year }}" itemscope itemprop="datePublished" itemtype="http://schema.org/Date">({{ produto.issued[0].year }})</time>
+    <span itemprop="name">
+      {%- case produto.type %}
+      {%- when "book" or "thesis" or "artwork" or "collection" -%}
+        <em>{{ produto.title }}.</em>
+      {%- else %}
+        “{{ produto.title }}.”
+      {%- endcase %}
+    </span>
+    {%- if produto.type == 'chapter' or produto.type == 'paper-conference' -%} In:
+      {% if produto.editor %}
+        <span itemprop="editor">
+          {% for editor in produto.editor %}
+            {%- if editor.family -%}
+              <span itemscope itemtype="http://schema.org/Person">{{ editor.given | append: " " }}{{ editor.dropping-particle | append: " " }}{{ editor.family }}</span>
+            {%- else -%}
+              <span itemscope itemtype="http://schema.org/Organization">{{ editor }}</span>
+            {%- endif -%}
+          {% if forloop.last %}
+            {% if forloop.last == forloop.first %}
+              (ed.)
+            {% else %}
+              (eds.)
+            {% endif %}
+          {%- else -%}; {% endif %}
+          {% endfor %}
+        </span>
+      {% endif %}
+    {%- endif -%}
+    {%- if produto.container-title or produto.event -%}
+      <span itemprop="isPartOf">
+        {%- if produto.container-title -%}
+          {%- if produto.event -%}
+            {{ produto.event | append: ': ' }}
+          {%- endif -%}
+          <em>{{ produto.container-title }}</em>
+        {%- elsif produto.event -%}
+          <em>{{ produto.event }}</em>
+        {%- endif -%}
+        {%- if produto.volume -%}
+          <span itemprop="volumeNumber">{{produto.volume | prepend: ', ' }}</span>
+        {%- endif -%}
+        {%- if produto.issue -%}
+          <span itemprop="issueNumber">{{ produto.issue | prepend: ' (' | append: ')' }}</span>
+        {%- endif -%}
+      </span>
+    {%- endif -%}
+    {%- if produto.publisher or produto.publisher-place -%}. 
+      {% if produto.publisher %}
+        <span itemprop="spatial" itemtype="http://schema.org/Location">{{ produto.publisher-place | append: ': ' }}</span>
+        <span itemprop="publisher" itemtype="http://schema.org/Organization">{{ produto.publisher }}</span>
+      {%- else -%}
+        <span itemprop="spatial" itemtype="http://schema.org/Location">{{ produto.publisher-place }}</span>
+      {%- endif -%}
+    {%- endif -%}
+    {% if produto.genre %}
+      <span itemprop="genre">{{ product.genre }}</span>
+      <span itemprop="locationCreated">{{ produto.event-place }}<span>
+    {% endif %}
+    {%- if produto.page -%},
+      <span itemprop="pagination">{{ produto.page | replace: "-", "--" }}</span>
+    {%- endif -%}
+    {%- if produto.ISBN -%}. ISBN 
+      {% assign isbn = produto.ISBN | split: " " %}
+      <span itemprop="ISBN">{{ isbn[0] }}</span>
+    {%- endif -%}
+    {%- if produto.ISSN -%}. ISSN 
+      <span itemprop="ISSN">{{ produto.ISSN }}</span>
+    {%- endif -%}
+    {%- if produto.DOI -%}.
+      <a itemprop="doi" href="http://dx.doi.org/{{ produto.DOI }}">{{ produto.DOI }}</a>
+    {%- elsif produto.URL -%}.
+      <a itemprop="url" href="{{ produto.URL }}">{{ produto.URL }}</a>
+    {%- endif -%}
+  </li>
+  {% endfor %}
+</ol>
 <!--: vim: set ft=liquid shiftwidth=2 tabstop=2 expandtab foldmethod=indent : -->
