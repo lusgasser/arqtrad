@@ -1,6 +1,6 @@
 ---
 layout: membros
-title: Equipe
+title : "Equipe"
 ---
 
-Adicionar filtros.
+Integrantes ativos e egressos deste projeto de pesquisa.

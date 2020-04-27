@@ -37,13 +37,13 @@
   - Organization:
       name        : dmcpatrimonio  # Primeiro, registramos a participação no grupo de pesquisa
       Role:
-      - name      : Líder          # Líder, Pesquisador, Doutorado, Mestrado, Graduação, Colaborador (conforme DGP)
+      - name      : Líder          # Líder, Mestrado, Doutorado, Mestrado, Graduação, Colaborador (conforme DGP)
         startDate : 2018-02-09     # Data de inclusão no grupo
         endDate   :                # Data de saída do grupo. Esta linha pode ser apagada se não for usada.
   - Organization:
       name        : arqtrad        # Os projetos de pesquisa podem ser identificados pelo seu repositório do GitHub, ou não.
       Role:
-      - name      : Coordenador    # Coordenador, Pesquisador, ou Colaborador
+      - name      : Coordenador    # Coordenador, Mestrado, ou Colaborador
         startDate : 2018-06-18
   worksFor  :                      # Informar o(s) vínculo(s) institucional(is) relevantes
   - Organization:
@@ -92,9 +92,9 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Mestrado
         startDate : 2018-03-20
-        endDate   : 2020-02-20
+        endDate   : 2020-02-13
 
 - familyName      : Solórzano
   givenName       : Gabriel Ernesto Moura
@@ -106,13 +106,13 @@
       Role:
       - name      : Mestrado
         startDate : 2018-03-20
-        endDate   : 2020-02-13
+        endDate   : 2020-02-06
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Mestrado
         startDate : 2018-03-20
-        endDate   : 2020-02-13
+        endDate   : 2020-02-06
 
 - familyName      : Constanti
   givenName       : Andressa Pinheiro
@@ -128,7 +128,7 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Mestrado
         startDate : 2018-03-20
 
 - familyName      : Farias
@@ -145,7 +145,7 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Doutorado
         startDate : 2019-03-20
 
 - familyName      : Loddi
@@ -161,7 +161,7 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Doutorado
         startDate : 2019-03-20
 
 - familyName      : Oliveira
@@ -178,7 +178,7 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Doutorado
         startDate : 2019-03-20
 
 - familyName      : Almeida
@@ -200,7 +200,7 @@
   - Organization:
       name        : dmcpatrimonio
       Role:
-      - name      : Pesquisador
+      - name      : Mestrado
         startDate : 2019-03-19
       Role:
       - name      : Mestrado
@@ -209,7 +209,7 @@
   - Organization:
       name        : arqtrad
       Role:
-      - name      : Pesquisador
+      - name      : Mestrado
         startDate : 2018-06-18
 
 ---

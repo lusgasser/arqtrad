@@ -1,7 +1,7 @@
 ---
-date: '2020-04-24'
 layout: biblio
-title: Produção bibliográfica e técnica
+title : "Produção bibliográfica e técnica"
+date  : 2020-04-24
 ---
 
-Adicionar filtros por ano e por autor.
+Produção decorrente deste projeto de pesquisa desde 2018.

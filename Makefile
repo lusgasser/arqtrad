@@ -21,9 +21,11 @@ PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
 serve : build
 	bundle exec jekyll serve
 
-build : $(PAGES_OUT) _config.yml bundle
-	cp -f _config.yml docs/
+build : $(PAGES_OUT) docs/_config.yml bundle
 	bundle exec jekyll build
+
+docs/_config.yml : _config.yml
+	cp -f _config.yml docs/
 
 docs/%.md : %.md jekyll.yaml lib/templates/default.jekyll
 	pandoc -o $@ -d spec/jekyll.yaml $<
