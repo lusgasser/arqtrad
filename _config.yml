@@ -84,7 +84,7 @@ defaults: # {{{2
 
 # Build settings {{{1
 source: docs/
-theme: minima # {{{2
+remote_theme: p3palazzo/minima-scholar # {{{2
 minima:
   date_format : "%e %B %Y"
   social_links:
