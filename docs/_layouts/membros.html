@@ -1,46 +1,37 @@
 ---
-layout: default
+layout: page
 ---
 {% assign membros = site.data.membros | sort: "givenName" %}
-
-<article class="list">
-  <header class="post-header">
-		<h1 class="post-title">{{ page.title }}</h1>
-  </header>
-  <div class="post-content">
-    {{ content }}
-  </div>
+{% assign projeto = site.baseurl | remove: "/" %}
 
   <dl class="people">
     {% for membro in membros %}
-      {% for affiliation in membro.affiliation %}{% if affiliation.Organization.name == "arqtrad" %}
+      {% for affiliation in membro.affiliation %}{% if affiliation.Organization.name == projeto %}
       <dt itemscope itemtype="http://schema.org/Person">
         {{ membro.givenName }} {{ membro.additionalName }} {{ membro.familyName }}
       </dt>
       <dd>
-        <a itemprop="url" href="{{ membro.url }}">Lattes</a>
+        <a itemprop="url" href="{{ membro.url }}">Curriculum Vitae</a>
         {% if membro.identifier %} | 
         <a itemprop="identifier" href="https://orcid.org/{{ membro.identifier }}">ORCID {{ membro.identifier }}</a>
-        {% endif %} |
-        Produção
+        {% endif %}
       </dd>
-      {% comment %}
-      {% for affiliation in membro.affiliation %}
+      {% for affiliation in membro.affiliation %}{%if affiliation.Organization.name == projeto %}
       <ul itemprop="affiliation">
         {% for role in affiliation.Organization.Role %}
           <li>
             <span itemscope itemtype="http://schema.org/Organization">{{ role.name }}</span>:
+            {% unless role.endDate %}desde{% endunless %}
             <time datetime="{{ role.startDate }}" itemprop="startDate" itemtype="http://schema.org/Date">
               {{ role.startDate | date: "%e/%m/%Y" }}
-            </time> a
+            </time> {% if role.endDate %} a
             <time datetime="{{ role.endDate }}" itemprop="endDate" itemtype="http://schema.org/Date">
-              {{ role.endDate | date: "%e/%m/%Y" }}
+              {{ role.endDate | date: "%e/%m/%Y" }}{% endif %}
             </time>
           </li>
         {% endfor %}
       </ul>
-      {% endfor %}
-      {% endcomment %}
+      {% endif %}{% endfor %}
     {% endif %}{% endfor %}
     {% endfor %}
   </dl>

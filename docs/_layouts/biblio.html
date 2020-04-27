@@ -23,8 +23,7 @@ layout: default
 				{%- when "thesis" -%}Thesis
 				{%- when "artwork" -%}VisualArtwork
 				{%- else -%}CreativeWork
-				{%- endcase -%}
-			" id="{{ produto.id }}">
+				{%- endcase -%}" id="{{ produto.id }}">
 			{% if produto.author %}
 			<span itemprop="author">
 				{% for author in produto.author %}
