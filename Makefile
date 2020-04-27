@@ -17,15 +17,17 @@ SHARE = ~/dmcp/arqtrad/arqtrad
 # ------
 PAGES_SRC     = $(wildcard *.md)
 PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
+DOCS          = $(wildcard docs/*.md)
+SITE         := $(patsubst docs/%.md,_site/%/index.html, $(DOCS))
 
-serve : build
-	bundle exec jekyll serve
+serve : _site/index.html
+	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated|obsoleta'
 
-build : $(PAGES_OUT) docs/_config.yml bundle
-	bundle exec jekyll build
+_site/%/index.html : docs/%.md docs/_config.yml
+	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
 
 docs/_config.yml : _config.yml
-	cp -f _config.yml docs/
+	rsync _config.yml docs/_config.yml
 
 docs/%.md : %.md jekyll.yaml lib/templates/default.jekyll
 	pandoc -o $@ -d spec/jekyll.yaml $<
