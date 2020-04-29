@@ -12,4 +12,4 @@ filters:
 resource-path:
 - .
 - fig
-- assets
+- _share

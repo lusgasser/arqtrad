@@ -1,6 +1,6 @@
 to: markdown-citations
 standalone: true
-bibliography           : '_data/biblio.yaml'
+bibliography           : 'biblio.bib'
 csl                    : 'lib/styles/associacao-brasileira-de-normas-tecnicas.csl'
 fail-if-warnings       : True
 file-scope             : True

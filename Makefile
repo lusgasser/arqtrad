@@ -48,7 +48,7 @@ _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 		6enanparq-florentino.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-tinoco.tmp 6enanparq-metadata.yaml
 
-%.tmp : %.md concat.yaml _data/biblio.yaml
+%.tmp : %.md concat.yaml biblio.bib
 	pandoc -o $@ -d spec/concat.yaml $<
 
 fig/%.png : %.svg

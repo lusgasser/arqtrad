@@ -28,7 +28,7 @@ $endfor$
   <office:text text:use-soft-page-breaks="true">
    <text:p text:style-name="P17"/>
    <text:p text:style-name="P18"><draw:frame draw:style-name="fr1" draw:name="Imagem 3" text:anchor-type="as-char" svg:width="8.2681in" svg:height="3.3154in" draw:z-index="2">
-     <draw:image xlink:href="../../assets/6enanparq-capa.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" loext:mime-type="image/jpeg"/>
+     <draw:image xlink:href="../../fig/6enanparq-capa.jpg" xlink:type="simple" xlink:show="embed" xlink:actuate="onLoad" draw:filter-name="&lt;All images&gt;" loext:mime-type="image/jpeg"/>
      <svg:desc>Capa</svg:desc>
    </draw:frame></text:p>
 $if(title)$<text:p text:style-name="Title">$title$</text:p>$endif$
