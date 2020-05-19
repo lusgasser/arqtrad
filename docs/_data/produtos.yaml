@@ -14,11 +14,13 @@ references:
       given: Eduardo Barbosa
   container-title: Anais do 3º Simpósio Científico do ICOMOS Brasil
   event: 3º Simpósio Científico do ICOMOS Brasil
+  event-place: Belo Horizonte
   ISBN: 978-85-5722-038-6
   issued:
     - year: 2019
   publisher: IEDS
   publisher-place: Belo Horizonte
+  source: www.even3.com.br
   title: >-
     Luz, câmera, preservação! O papel do cinema na conservação da arquitetura
     moderna
@@ -52,6 +54,7 @@ references:
       month: 3
   language: pt-BR
   page: 100-112
+  source: www.periodicos.se.df.gov.br
   title: >-
     A caixa patrimonial: Um projeto de Educação Patrimonial para escolas do
     Distrito Federal
@@ -59,45 +62,6 @@ references:
   type: article-journal
   URL: 'http://www.periodicos.se.df.gov.br/index.php/comcenso/article/view/793'
   volume: '7'
-
-- id: 'mennucci:2018catetinho2'
-  accessed:
-    - year: 2019
-      month: 1
-      day: 21
-  author:
-    - family: Mennucci
-      given: Marina Martins
-    - family: Palazzo
-      given: Pedro P.
-  container-title: 'Building knowledge, constructing histories'
-  editor:
-    - family: Wouters
-      given: Ine
-    - family: Voorde
-      given: Stephanie Van
-      dropping-particle: de
-    - family: Bertels
-      given: Inge
-    - family: Espion
-      given: Bernard
-    - family: Jonge
-      given: Krista
-      dropping-particle: de
-    - family: Zastavni
-      given: Denis
-  ISBN: 978-0-429-44675-7
-  issued:
-    - year: 2018
-  language: English
-  page: 927–934
-  publisher: 'CRC : Balkema'
-  publisher-place: Leiden
-  source: Open WorldCat
-  title: 'Catetinho: The first presidential house in Brasilia, Brazil'
-  title-short: Catetinho
-  type: chapter
-  volume: '2'
 
 - id: 'nascimento:2019imagens13'
   accessed:
@@ -137,6 +101,7 @@ references:
   event: >-
     Arquisur: Asociación de escuelas y facultades públicas de arquitectura de
     América del Sur
+  event-place: 'Belo Horizonte : Campinas'
   ISBN: 978-65-80968-09-1
   issued:
     - year: 2019
@@ -144,6 +109,7 @@ references:
   page: '112084'
   publisher: Galoá
   publisher-place: 'Belo Horizonte : Campinas'
+  source: proceedings.science
   title: 'Avenida Goiás em Goiânia-GO: Perspectivas da Memória Social'
   title-short: Avenida Goiás em Goiânia-GO
   type: paper-conference
@@ -162,11 +128,13 @@ references:
       dropping-particle: de
   container-title: 'Anais do 11º mestres e conselheiros: Educação para o patrimônio'
   event: 11º mestres e conselheiros
+  event-place: Belo Horizonte
   ISBN: 2176-2783
   issued:
     - year: 2019
   publisher: IEDS
   publisher-place: Belo Horizonte
+  source: www.even3.com.br
   title: >-
     Elementos da matriz urbana portuguesa em Goiás: Vila Boa e suas identidades
     culturais
@@ -182,7 +150,7 @@ references:
       day: 21
   author:
     - family: Palazzo
-      given: Pedro P.
+      given: Pedro Paulo
   container-title: 'Building knowledge, constructing histories'
   editor:
     - family: Wouters
@@ -199,6 +167,7 @@ references:
       dropping-particle: de
     - family: Zastavni
       given: Denis
+  event-place: Leiden
   ISBN: 978-0-429-44675-7
   issued:
     - year: 2018
@@ -212,48 +181,6 @@ references:
   type: chapter
   volume: '2'
 
-- id: 'palazzo:2018gis-assisted10'
-  author:
-    - family: Palazzo
-      given: Pedro Paulo
-  container-title: Preservation Education Research
-  issued:
-    - year: 2018
-  page: 47–70
-  title: >-
-    GIS-Assisted Identification of Historic Districts: A Conceptual Model Case
-    Study in Planaltina, Brazil
-  title-short: GIS-Assisted Identification of Historic Districts
-  type: article-journal
-  volume: '10'
-
-- id: 'palazzo:2018gis3'
-  accessed:
-    - year: 2018
-      month: 6
-      day: 11
-  author:
-    - family: Palazzo
-      given: Pedro P.
-    - family: Laterza
-      given: Ana
-  container-title: 'Putting Tradition into Practice: Heritage, Place and Design'
-  DOI: 10.1007/978-3-319-57937-5_126
-  editor:
-    - family: Amoruso
-      given: Giuseppe
-  ISBN: 978-3-319-57936-8 978-3-319-57937-5
-  issued:
-    - year: 2018
-  page: 1218–1227
-  publisher: Springer
-  publisher-place: Cham
-  source: Crossref
-  title: GIS Model for Morpho-Typology in Historic Preservation and Contextual Design
-  type: chapter
-  URL: 'http://link.springer.com/10.1007/978-3-319-57937-5_126'
-  volume: '3'
-
 - id: 'palazzo:2018tipologia'
   author:
     - family: Palazzo
@@ -266,6 +193,7 @@ references:
   editor:
     - family: Hermida
       given: Alejandro García
+  event-place: Lisboa
   ISBN: 978-989-98624-6-3
   issued:
     - year: 2018
@@ -284,7 +212,7 @@ references:
 - id: 'palazzo:2019imagem'
   author:
     - family: Palazzo
-      given: Pedro P.
+      given: Pedro Paulo
   event: >-
     Imagem da arquitetura árabe no Brasil. Exposição Alhambras: arquiteturas
     neoárabes em latinoamérica
@@ -295,6 +223,7 @@ references:
       month: 5
       day: 14
   language: pt-br
+  publisher-place: Brasília
   title: Imagem da arquitetura árabe no Brasil
   type: speech
 
@@ -336,11 +265,13 @@ references:
       given: Camila de Queiroz
   container-title: Anais...
   event: Simpósio Científico Icomos Brasil
+  event-place: Belo Horizonte
   ISBN: 978-85-5722-038-6
   issued:
     - year: 2017
   publisher: Instituto Metodista Izabela Hendrix
   publisher-place: Belo Horizonte
+  source: www.even3.com.br
   title: >-
     A especulação imobiliária como tentativa de mudança à preservação do
     patrimônio: o caso do bairro Pacaembu em São Paulo
@@ -372,6 +303,7 @@ references:
     - family: Moreira
       given: Bruno
   event: Portuguese Network of Urban Morphology
+  event-place: Porto
   ISBN: 978-989-8527-21-9
   issued:
     - year: 2018
@@ -392,11 +324,13 @@ references:
       given: Camila de Queiroz
   container-title: Anais do 5º Seminário Ibero-americano Arquitetura e Documentação
   event: 5º Seminário Ibero-americano Arquitetura e Documentação
+  event-place: Belo Horizonte
   ISBN: 2237-5619
   issued:
     - year: 2018
   publisher: 'UFMG : Even3'
   publisher-place: Belo Horizonte
+  source: www.even3.com.br
   title: 'Natividade – Tocantins: Registros de sua História'
   title-short: Natividade
   type: paper-conference
@@ -408,11 +342,16 @@ references:
     - family: Solórzano
       given: Gabriel Ernesto Moura
     - family: Palazzo
-      given: Pedro P.
+      given: Pedro Paulo
+  container-title: Anais
   event: XVIII Enanpur
+  event-place: Natal
+  ISBN: 1984-8781
   issued:
     - year: 2019
   publisher-place: Natal
-  title: Relações de escala na superquadra de Brasília
+  title: 'Relações de escala na superquadra de Brasília: paradigma ouu mistificação?'
+  title-short: Relações de escala na superquadra de Brasília
   type: paper-conference
+  URL: 'http://anpur.org.br/xviiienanpur/anaisadmin/capapdf.php?reqid=972'
 ...
