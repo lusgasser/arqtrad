@@ -24,7 +24,7 @@ serve : _site/index.html
 	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated|obsoleta'
 
 build : $(DOCS) docs/_config.yml
-	bundle exec jekyll build
+	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
 
 _site/%/index.html : docs/%.md docs/_config.yml
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
