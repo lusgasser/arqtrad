@@ -47,7 +47,7 @@ frequentemente deformada com respeito ao inflexível paradigma pombalino.
 Este Plano de Trabalho explora o dimensionamento e a modularidade dos
 parcelamentos urbanos no Brasil estabelecidos no período de 1777 a 1895,
 com base em plantas cadastrais de época e em reconstituições a partir de
-levantamentos cadastrais recentes. Procura-se averiguar em que medida os
+levantamentos cadastrais recentes. Procura averiguar em que medida os
 novos tecidos urbanos constituídos neste recorte cronológico adotam os
 módulos dimensionais portugueses, vigentes desde a Idade Média e apenas
 parcialmente alterados no período pombalino: lotes de 25 por 50 palmos e

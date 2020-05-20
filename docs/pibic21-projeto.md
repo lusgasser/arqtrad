@@ -21,6 +21,8 @@ Planos de trabalho
     Mariana de Fátima Macedo Nunes de Azevedo
 -   [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
     Daniela Matias Xavier
+-   [Conexões portuguesas na produção urbanística corrente do século XIX](pibic21-urbanistas.md):
+    Luiza Silveira Gasser
 
 Resumo do projeto de pesquisa
 -----------------------------
@@ -382,28 +384,24 @@ André, Paula. n.d. “O Olhar de Lucio Costa Para Os Telhados Portugueses.” *
 Aragão, Solange. 2008. “A casa, o jardim e a rua no Brasil do século XIX.” *Em tempo de histórias*, no. 12. <http://periodicos.unb.br/index.php/emtempos/article/view/2599>.
 :::
 
-::: {#ref-araujo:2003razao}
-Araújo, Renata. n.d. “A Razão Na Selva: Pombal E a Reforma Urbana Da Amazónia.” *Camões*, nos. 15–16: 151–65. <http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html>.
-:::
-
 ::: {#ref-araujo:1998universo}
 Araujo, Renata, and Helder Carita, eds. 1998. *Universo urbanístico português 1415-1822: colectânea de estudos*. 1st ed. Lisboa: Commissão Nacional para as Comemorações dos Descobrimentos Portugueses.
+:::
+
+::: {#ref-araujo:2012urbanizacao}
+Araujo, Renata Malcher de. 2012. “A urbanização da Amazónia e do Mato Grosso no século XVIII povoações civis, decorosas e úteis para o bem comum da coroa e dos povos.” *Anais do Museu Paulista: História e Cultura Material* 20 (1): 41–76. <https://doi.org/10.1590/S0101-47142012000100003>.
+:::
+
+::: {#ref-araujo:2003razao}
+Araújo, Renata. n.d. “A Razão Na Selva: Pombal E a Reforma Urbana Da Amazónia.” *Camões*, nos. 15–16: 151–65. <http://cvc.instituto-camoes.pt/conhecer/biblioteca-digital-camoes/revistas-e-periodicos/revista-camoes/revista-no15-16-marques-de-pombal/1503-1503/file.html>.
 :::
 
 ::: {#ref-araujo:1997nature}
 Araújo, Hermetes Reis de. 1997. *D’une nature à l’autre : technique, construction de l’espace et transformation sociale (Brésil, 1850–1910)*.
 :::
 
-::: {#ref-araujo:2010catetinho}
-Araujo, Raphael Ferreira de. 2010. “Catetinho : patrimônio esquecido de Brasília.” Monografia (pós-graduação lato sensu), Brasília: Universidade de Brasília, Centro de Excelência em Turismo. <http://bdm.unb.br/handle/10483/1073>.
-:::
-
 ::: {#ref-araujo:2014desmistificandoIX}
 Araújo, Raquel Aguilar de. n.d. “Desmistificando Almeida Júnior: a modernidade do caipira.” *Dezenove & Vinte* IX (1). Accessed March 13, 2017. <http://www.dezenovevinte.net/artistas/artistas_aj_raa.htm>.
-:::
-
-::: {#ref-araujo:2012urbanizacao}
-Araujo, Renata Malcher de. 2012. “A urbanização da Amazónia e do Mato Grosso no século XVIII povoações civis, decorosas e úteis para o bem comum da coroa e dos povos.” *Anais do Museu Paulista: História e Cultura Material* 20 (1): 41–76. <https://doi.org/10.1590/S0101-47142012000100003>.
 :::
 
 ::: {#ref-argan:1966tipologia14}
@@ -466,16 +464,12 @@ Baratto, Romullo. 2019. “Escalas de Brasília, pelas lentes de Joana França.�
 Barbo, Lenora de Castro. 2010. “Preexistência de Brasília : reconstruir o território para construir a memória.” Dissertação (mestrado), Brasília: Universidade de Brasília, Faculdade de Arquitetura e Urbanismo. <http://repositorio.unb.br/handle/10482/8547>.
 :::
 
-::: {#ref-barbosa:1960diario}
-Barbosa, Raul de Sá, Donatello Grieco, and Antônio Houaiss. 1960. *Diário de Brasília*. Rio de Janeiro: Presidência da República. Serviço de Documentação.
-:::
-
 ::: {#ref-bardi:1975historia}
 Bardi, P. M. 1975. *História da arte brasileira: pintura, escultura, arquitetura, outras artes*. São Paulo: Melhoramentos.
 :::
 
-::: {#ref-barillari:2002durabilidade}
-Barillari, Cristiane Tabarelli. 2002. “Durabilidade da madeira do gênero Pinus tratada com preservantes: avaliação em campo de apodrecimento.” Dissertação (mestrado), Piracicaba: Escola Superior de Agricultura Luiz de Queiroz, Universidade de São Paulo.
+::: {#ref-barros:2011construtores}
+Barros, Maria Filomena Lopes de. 2011. “Construtores e artesãos muçulmanos; do serviço colectivo do rei ao desempenho individual.” In *História de construção: os construtores*, edited by Arnaldo Sousa Melo and Maria do Carmo Ribeiro. Porto: CITCEM. <https://dspace.uevora.pt/rdpc/handle/10174/3811>.
 :::
 
 ::: {#ref-baumgarten:2013baroque}
@@ -506,16 +500,16 @@ Bess, Philip. 2004. *The Polis and Natural Law: The Moral Authority of the Urban
 Bezerra, Alcides. 1936. *Vicente Licinio Cardoso: Sua concepção da vida e da arte*. Rio de Janeiro.
 :::
 
+::: {#ref-bianca:2000urban}
+Bianca, Stefano. 2000. *Urban Form in the Arab World: Past and Present*. London : New York: Thames & Hudson.
+:::
+
 ::: {#ref-bialostocki:1961modusproblem}
 Białostocki, Jan. 1961. “Das Modusproblem in den bildenden Künsten: Zur Vorgeschichte und zum Nachleben des "Modusbriefes" von Nicolas Poussin.” *Zeitschrift für Kunstgeschichte* 24 (2): 128–41. <https://doi.org/10.2307/1481515>.
 :::
 
 ::: {#ref-bialostocki:1970erwin}
 ———. 1970. “Erwin Panofsky (1892-1968): Thinker, Historian, Human Being.” *Simiolus: Netherlands Quarterly for the History of Art* 4 (2): 68–89. <https://doi.org/10.2307/3780356>.
-:::
-
-::: {#ref-bianca:2000urban}
-Bianca, Stefano. 2000. *Urban Form in the Arab World: Past and Present*. London : New York: Thames & Hudson.
 :::
 
 ::: {#ref-bicca:2007arquitetura}
@@ -540,10 +534,6 @@ Blaut, James M. 1993. *The Colonizer’s Model of the World: Geographical Diffus
 
 ::: {#ref-bletter:1983expressionism}
 Bletter, Rosemarie Haag. 1983. “Expressionism and the New Objectivity.” *Art Journal* 43 (2): 108–20. <https://doi.org/10.2307/776647>.
-:::
-
-::: {#ref-bock:2017fiction2017}
-Böck, Ingrid. 2017. “The Fiction of Reason: Tafuri and the Avant-Garde.” *Esempi di Architettura* 2017 (2): 18. <http://esempidiarchitettura.it/sito/eda-2017/>.
 :::
 
 ::: {#ref-bonametti:2007arquitetura0}
@@ -578,12 +568,8 @@ Bourdieu, Pierre. 1979. *La distinction : critique sociale du jugement*. Paris: 
 Bozdoğan, Sibel. 1999. “Architectural History in Professional Education: Reflections on Postcolonial Challenges to the Modern Survey.” *Journal of Architectural Education* 52 (4): 207–15. <https://doi.org/10.2307/1425410>.
 :::
 
-::: {#ref-braga:2006estrutura}
-Braga, Flávio Marcelo Silveira. 2006. “Estrutura E Dinâmica Da Vegetação Arbórea Da Mata de Galeria Do Catetinho, Brasília — DF.” Dissertação (mestrado), Brasília: Universidade de Brasília, Programa de pós-graduação em Ciências Florestais.
-:::
-
-::: {#ref-braga:2007dinamica}
-Braga, Flávio Marcelo Silveira, and Alba Valéria Rezende. 2007. “Dinâmica da vegetação arbórea da mata de galeria do catetinho, Brasília-DF.” *CERNE* 13 (2): 138–48. <http://www.redalyc.org/articulo.oa?id=74413203>.
+::: {#ref-bock:2017fiction2017}
+Böck, Ingrid. 2017. “The Fiction of Reason: Tafuri and the Avant-Garde.” *Esempi di Architettura* 2017 (2): 18. <http://esempidiarchitettura.it/sito/eda-2017/>.
 :::
 
 ::: {#ref-braga:1909historia1}
@@ -596,10 +582,6 @@ Brandão, Angela. n.d. “Olhares oitocentistas para a arte barroca e rococó.�
 
 ::: {#ref-brandao:2017antiga}
 Brandão, Simone Buiate. 2017. “A antiga linha férrea de Goiânia. De símbolo da modernidade à obsolescência.” Tese de doutorado (Arquitetura e Urbanismo), Goiânia: Universidade Federal de Goiás, Programa de Pós-graduação em Projeto e Cidade. <http://repositorio.bc.ufg.br/tede/handle/tede/7776>.
-:::
-
-::: {#ref-jobim:1961brasilia}
-*Brasília Sinfonia da alvorada*. 1961. S.l.: Columbia.
 :::
 
 ::: {#ref-brasiliense:1998ato}
@@ -698,7 +680,7 @@ Canella, Guido, and Guiuseppe Samonà, eds. 1971. *Teoría de la proyectación a
 Caniggia, Gianfranco. 1984a. “Introduzione.” In *Moderno Non Moderno: Il Luogo E La Continuità*, edited by Gianfranco Caniggia and Gian Luigi Maffei, 1st ed., 11–16. Venezia: Marsilio.
 :::
 
-::: {#ref-caniggia:1984letturaa}
+::: {#ref-caniggia:1984lettura}
 ———. 1984b. *Lettura di una città: Como*. \[1963\]. Roma: Centro Studi di Storia Urbanistica.
 :::
 
@@ -826,10 +808,6 @@ Cataldi, G. Richard, Gian Luigi Maffei, and Paolo Vaccaro. 2002. “Saverio Mura
 Cavalcante, Sílvio. n.d. *Superquadras de Brasília*. Accessed January 15, 2020. <http://www.jobim.org/lucio/handle/2010.3/4194>.
 :::
 
-::: {#ref-cavalcanti:2012origem}
-Cavalcanti, Flávio R. 2012. “A Origem Do Catetinho Segundo a Revista "Visão", Dezembro de 1959.” Brazilia. 2012. <http://doc.brazilia.jor.br/HistDocs/Pubs/1959-Visao-origem-do-Catetinho.shtml>.
-:::
-
 ::: {#ref-cavalcanti:2006moderno}
 Cavalcanti, Lauro. 2006. *Moderno e brasileiro: A história de uma nova linguagem na arquitetura (1930–60)*. Zahar. <http://books.google.com?id=jTixoQk7z6EC>.
 :::
@@ -876,14 +854,6 @@ Cimadomo, Guido. 2014. “Teaching History of Architecture: Moving from a Knowle
 
 ::: {#ref-ciucci:1991atlante}
 Ciucci, Giorgio, and Francesco Dal Co. 1991. *Atlante Dell’architettura Italiana Del Novecento*. Milano: Electa.
-:::
-
-::: {#ref-codeplan:2016estudo}
-Codeplan. 2016a. *Estudo Urbano E Ambiental Consolidado Do Distrito Federal*. Brasília: Codeplan. <http://www.codeplan.df.gov.br/images/CODEPLAN/PDF/pesquisa_socioeconomica/DEURA/Estudo_Urbano_Ambiental_DF_2016.pdf>.
-:::
-
-::: {#ref-codeplan:2016parkway}
-———. 2016b. *Estudo Urbano E Ambiental: Park Way*. Brasília: Codeplan.
 :::
 
 ::: {#ref-coelho:2014tempo}
@@ -1046,6 +1016,10 @@ Costa, Lucio. 1936. *Cidade Universitária*. <http://www.jobim.org/lucio/handle/
 ———. 1924. “A Alma Dos Nossos Lares: Porque é Erronea a Orientação Da Architectura Do Rio.” *A Noite*, March 19, 1924, 4421 edition. <http://memoria.bn.br/pdf/348970/per348970_1924_04421.pdf>.
 :::
 
+::: {#ref-costa:1985brasilia}
+Costa, Lucio, Maria Elisa Costa, and Adeildo Viegas de Lima. 1985. *Brasília 57–85: do plano-piloto ao Plano Piloto*. Brasília: Terracap.
+:::
+
 ::: {#ref-costa:1941arquitetura}
 Costa, Lúcio. 1941. “A Arquitetura Dos Jesuítas No Brasil.” *Revista Do Serviço Do Patrimonio Historico E Artistico Nacional* 5: 9–104.
 :::
@@ -1056,10 +1030,6 @@ Costa, Lúcio. 1941. “A Arquitetura Dos Jesuítas No Brasil.” *Revista Do Se
 
 ::: {#ref-costa:2013bloquinhos}
 ———. 2013. *Bloquinhos de Portugal: a arquitetura portuguesa no traço de Lucio Costa*. Edited by José Pessôa and Maria Elisa Costa. 1st ed. Rio de Janeiro: Funarte.
-:::
-
-::: {#ref-costa:1985brasilia}
-Costa, Lucio, Maria Elisa Costa, and Adeildo Viegas de Lima. 1985. *Brasília 57–85: do plano-piloto ao Plano Piloto*. Brasília: Terracap.
 :::
 
 ::: {#ref-costa:2015mertola}
@@ -1110,10 +1080,6 @@ Crowe, Norman, Michael Lykoudis, and Richard Economakis, eds. 1999. *Building Ci
 Cruls, Luís, ed. 1947. *Relatório Da Comissão Exploradora Do Planalto Central*. Brasiliana Série 5.ª 258. São Paulo: Nacional. <http://www.brasiliana.com.br/obras/relatorio-da-comissao-exploradora-do-planalto-central-do-brasil>.
 :::
 
-::: {#ref-cruz:2001patologia}
-Cruz, Helena. 2001. “Patologia, Avaliação E Conservação de Estruturas Em Madeira.” In. Santarém (Portugal): Forum UNESCO Portugal.
-:::
-
 ::: {#ref-cruz:2016arquitetura}
 Cruz, Luciana Saboia Fonseca. 2016. “Arquitetura, vazio moderno e o espaço social.” *Paranoá: cadernos de arquitetura e urbanismo*, no. 16 (August). <https://doi.org/10.18830/issn.1679-0944.n16.2016.04>.
 :::
@@ -1154,7 +1120,7 @@ Debray, Régis. 1992. *Vie et mort de l’image : une histoire du regard en Occ
 Debret, Jean Baptiste. 1834. *Voyage pittoresque et historique au Brésil: ou, Séjour d’un Artiste Français au Brésil, depuis 1816 jusqu’en 1831 inclusivement, époques de l’Avenement et de l’Abdication de S. M. D. Pedro Ier, fondateur de l’Empire brésilien*. Vol. 1. Paris: Firmin-Didot frères. <http://digital.bbm.usp.br/handle/bbm/3813>.
 :::
 
-::: {#ref-debret:1835diner}
+::: {#ref-debret:1835dinera}
 ———. 1835a. *Le Dîner; Les Délassements d’une Après Dîner.* <http://digitalcollections.nypl.org/items/510d47df-7977-a3d9-e040-e00a18064a99>.
 :::
 
@@ -1178,7 +1144,7 @@ Debret, Jean Baptiste. 1834. *Voyage pittoresque et historique au Brésil: ou, S
 ———. 1834–1839. *Voyage pittoresque et historique au Brésil: ou, Séjour d’un Artiste Français au Brésil, depuis 1816 jusqu’en 1831 inclusivement, époques de l’Avenement et de l’Abdication de S. M. D. Pedro Ier, fondateur de l’Empire brésilien*. 3 vols. Paris: Firmin-Didot frères. <http://digital.bbm.usp.br/handle/bbm/4716>.
 :::
 
-::: {#ref-debret:1835dinera}
+::: {#ref-debret:1835diner}
 Debret, Jean Baptiste, and Thierry frères. 1835. *Le dîner ; Les délassemens d’une après dîner*. <https://commons.wikimedia.org/wiki/File:La_diner_-_Les_delassemens_d%C2%B4une_apr%C3%A9s_diner,_da_Cole%C3%A7%C3%A3o_Brasiliana_Iconogr%C3%A1fica.jpg>.
 :::
 
@@ -1198,10 +1164,6 @@ De Paoli, Paula. 2013. *Entre relíquias e casas velhas: a arquitetura das refor
 DGPC, Direção-Geral do Património Cultural. n.d. “Casa Das Gelosias.” Património Cultural. Accessed December 12, 2019. <http://www.patrimoniocultural.gov.pt/pt/patrimonio/patrimonio-imovel/pesquisa-do-patrimonio/classificado-ou-em-vias-de-classificacao/geral/view/74661/>.
 :::
 
-::: {#ref-diario:1861exposicao}
-*Diário de Notícias*. 1861. “A Exposição No Museo Nacional. II,” September 9, 1861, XLI:246 edition.
-:::
-
 ::: {#ref-dias:2011felix-emile}
 Dias, Elaine. 2011. “Félix-Émile Taunay e a produção de uma pintura de paisagem nacional.” In *História e arte: movimentos artísticos e correntes intelectuais*, edited by Maria Bernardete Ramos Flores and Maria de Fátima Fontes Piazza, 143–56. Campinas: Mercado de Letras.
 :::
@@ -1218,12 +1180,12 @@ Dias, Pedro. 1986. “A Viagem de D. Manuel a Espanha E O Surto Mudéjar Na Arqu
 ———. 1994. “Arquitectura Mudéjar Portuguesa: Tentativa de Sistematização.” *Mare Liberum: Revista de História Dos Mares*, no. 8 (December): 49–89. <http://www.cidehusdigital.uevora.pt/ophir-restaurada/mare-liberum/volume-8/arquitectura-mudejar-portuguesa-tentativa-de-sistematizacao?pag=49>.
 :::
 
-::: {#ref-diener:2013reflexions}
-Diener, Pablo. 2013. “Réflexions sur la peinture de paysage au Brésil au XIXêŝiècle.” *Perspective. Actualité en histoire de l’art*, no. 2 (December): 365–72. <https://doi.org/10.4000/perspective.3897>.
+::: {#ref-diario:1861exposicao}
+*Diário de Notícias*. 1861. “A Exposição No Museo Nacional. II,” September 9, 1861, XLI:246 edition.
 :::
 
-::: {#ref-df:1989lei47}
-*Dispõe sobre o tombamento, pelo Distrito Federal, de bens de valor cultural*. n.d. *Diário Oficial do Distrito Federal*. Vol. 189. Accessed December 3, 2016. <http://www.tc.df.gov.br/SINJ/Arquivo.ashx?id_norma_consolidado=18014>.
+::: {#ref-diener:2013reflexions}
+Diener, Pablo. 2013. “Réflexions sur la peinture de paysage au Brésil au XIXêŝiècle.” *Perspective. Actualité en histoire de l’art*, no. 2 (December): 365–72. <https://doi.org/10.4000/perspective.3897>.
 :::
 
 ::: {#ref-distritofederal:1987decreto10829}
@@ -1278,10 +1240,6 @@ Elliott, Cecil D. 1964. “Monuments and Monumentality.” *Journal of Architect
 *Enciclopedia universale dell’arte*. 1958–1967. 15 vols. Venezia (Roma): Instituto per la Collaborazione Culturale.
 :::
 
-::: {#ref-epron:1997comprendre}
-Épron, Jean-Pierre. 1997. *Comprendre l’éclectisme*. Paris: Norma.
-:::
-
 ::: {#ref-esquivel:2007teoria}
 Esquível, Patrícia. 2007. *Teoria e critica de arte em Portugal: 1921-1940*. Teses 5. Lisboa: Colibri : IHA - Estudos de Arte Contemporânea.
 :::
@@ -1296,6 +1254,10 @@ Evans, Robin. 1995. *The Projective Cast : Architecture and Its Three Geometries
 
 ::: {#ref-evers:1985historicismo}
 Evers, Hans Gerhard. 1985. *Do historicismo ao funcionalismo*. Lisboa: Verbo.
+:::
+
+::: {#ref-epron:1997comprendre}
+Épron, Jean-Pierre. 1997. *Comprendre l’éclectisme*. Paris: Norma.
 :::
 
 ::: {#ref-fabris:1987ecletismo}
@@ -1440,10 +1402,6 @@ França, José-Augusto. 2004. *O pombalismo e o romantismo*. 1st ed. História d
 
 ::: {#ref-franca:1973formacao1}
 França, Maria de Souza. 1973. “A Formação Histórica Da Cidade de Anápolis E Sua área de Influência Regional.” *ANPUH* 1 (55): 636–64.
-:::
-
-::: {#ref-francisco:2004catetinho}
-Francisco, Severino. n.d. *Catetinho: o palácio de tábuas*. Brasília: Instituto Terceiro Setor.
 :::
 
 ::: {#ref-frank:1955historical}
@@ -1610,10 +1568,6 @@ Greenberg, Allan. 1969. “Lutyens’ Architecture Restudied.” *Perspecta* 12:
 Grieder, Josephine. 2011. “The Search for the Néo-Grec in Second Empire Paris.” *Journal of the Society of Architectural Historians* 70 (2): 174–89. <https://doi.org/10.1525/jsah.2011.70.2.174>.
 :::
 
-::: {#ref-guimaraes:2014construcao}
-Guimarães, Ahilton. 2014. “A Construção Do Catetinho.” 2014. <http://www.aconstrucaodocatetinho.com.br/>.
-:::
-
 ::: {#ref-guimaraes:2001empenho}
 Guimarães, Júlio Castañon. 2001. “Empenho Crítico: Gonzaga Duque Na Imprensa.” In *Impressões de Um Amador. Textos Esparsos de Crítica (1882–1909)*, by Luís Gonzaga Duque. Belo Horizonte : Rio de Janeiro: Editora UFMG : Fundação Casa de Rui Barbosa.
 :::
@@ -1778,20 +1732,8 @@ Iori, Tullia, and Sergio Poretti, eds. 2014a. *SIXXI : storia dell’ingegneria 
 ———, eds. 2016. *SIXXI 3: Storia dell’ingegneria strutturale in Italia*. Vol. 3. Roma: Gangemi. <http://books.google.com?id=IcSMCwAAQBAJ>.
 :::
 
-::: {#ref-iphan:1959catetinho}
-IPHAN. 1959. *Processo de Tombamento N.º 0594–T–59. Edifício Conhecido Como RP–1 Ou “Catetinho”, No Município de Brasília, Distrito Federal*.
-:::
-
 ::: {#ref-iphan:2015superquadra}
 Iphan, Instituto do Patrimônio Histórico e Artistico Nacional. 2015. *Superquadra de Brasília : Preservando Um Lugar de Viver*. Brasília: Superintendência do Iphan no Distrito Federal. <http://portal.iphan.gov.br/uploads/ckfinder/arquivos/cartilha_unidade_vizinhanc%CC%A7a_iphan_df.pdf>.
-:::
-
-::: {#ref-iphan:2017catetinho}
-———. 2017. *Inventário do Catetinho*. 3 vols. Brasília: Superintendência do Iphan no Distrito Federal.
-:::
-
-::: {#ref-jankowsky:1990fundamentos}
-Jankowsky, Ivaldo Pontes. 1990. “Fundamentos de Preservação de Madeiras.” *Documentos Florestais*, no. 11: 1–12. <http://www.scielo.br/scielo.php?script=sci_nlinks&ref=000077&pid=S0103-8478201300080000900008&lng=pt>.
 :::
 
 ::: {#ref-jarrasse:2006feminite}
@@ -1878,32 +1820,28 @@ Krier, Rob. 1988. *Architectural Composition*. New York: Rizzoli.
 Kruft, Hanno-Walter. 1985. *Geschichte der Architekturtheorie*. München: C. H. Beck.
 :::
 
-::: {#ref-kruger:2001arte}
-Krüger, Mário Júlio Teixeira. 2001. “A arte da investigação em Arquitectura.” *Em cima do Joelho*, no. 5: 22–39. <https://doi.org/10.14195/0874-6168_5_3>.
-:::
-
 ::: {#ref-krukowski:1986}
 Krukowski, Lucian. 1986. “Hegel, ‘Progress,’ and the Avant-Garde.” *The Journal of Aesthetics and Art Criticism* 44 (3): 279–90.
 :::
 
-::: {#ref-kubitschek:1978meu}
-Kubitschek, Juscelino. 1978. *Meu caminho para Brasília*. Vol. 3. Rio de Janeiro: Bloch.
-:::
-
-::: {#ref-kuhl:1998arquitetura}
-Kühl, Beatriz Mugayar. 1998. *Arquitetura Do Ferro E Arquitetura Ferroviária Em São Paulo: Reflexões Sobre a Sua Preservação*. Cotia, São Paulo: Ateliê Editorial ; FAPESP : Governo do Estado de São Paulo, Secretaria de Estado da Cultura.
+::: {#ref-kruger:2001arte}
+Krüger, Mário Júlio Teixeira. 2001. “A arte da investigação em Arquitectura.” *Em cima do Joelho*, no. 5: 22–39. <https://doi.org/10.14195/0874-6168_5_3>.
 :::
 
 ::: {#ref-kuhn:1998estrutura}
 Kuhn, Thomas S. 1998. *A estrutura das revoluções cientificas*. Translated by Beatriz Vianna Boeira and Nelson Boeira. 5th ed. São Paulo: Perspectiva.
 :::
 
-::: {#ref-kunzle:2003brasil}
-Künzle, Maria Rosa Chaves. 2003. “O Brasil Em Lições: A História Como Disciplina Escolar Em Joaquim Manuel de Macedo.” *Educar Em Revista*, no. 22 (December): 401–4. <https://doi.org/10.1590/0104-40602189>.
-:::
-
 ::: {#ref-kury:2001comissao}
 Kury, Lorelay. 2001. “A Comissão Científica de Exploração (1859–1861). A ciência imperial e a musa cabocla.” In *Ciência, civilização e império nos trópicos*, edited by Alda Heizer and Antonio Augusto Passos Videira, 29–75. Rio de Janeiro: Access.
+:::
+
+::: {#ref-kuhl:1998arquitetura}
+Kühl, Beatriz Mugayar. 1998. *Arquitetura Do Ferro E Arquitetura Ferroviária Em São Paulo: Reflexões Sobre a Sua Preservação*. Cotia, São Paulo: Ateliê Editorial ; FAPESP : Governo do Estado de São Paulo, Secretaria de Estado da Cultura.
+:::
+
+::: {#ref-kunzle:2003brasil}
+Künzle, Maria Rosa Chaves. 2003. “O Brasil Em Lições: A História Como Disciplina Escolar Em Joaquim Manuel de Macedo.” *Educar Em Revista*, no. 22 (December): 401–4. <https://doi.org/10.1590/0104-40602189>.
 :::
 
 ::: {#ref-lancaster:1956metaphysical14}
@@ -1920,10 +1858,6 @@ Langhein, Joachim. 2002. *On the Path to a General Proportion Theory*. Heidelber
 
 ::: {#ref-lara:2009modernism63}
 Lara, Fernando Luiz. 2009. “Modernism Made Vernacular: The Brazilian Case.” *Journal of Architectural Education* 63 (1): 41–50. <https://doi.org/10.1111/j.1531-314X.2009.01027.x>.
-:::
-
-::: {#ref-larsen:2000conservation}
-Larsen, Knut Einar, and Nils Marstein. 2000. *Conservation of Historic Timber Structures: An Ecological Approach*. Oxford (England): Butterworth-Heinemann.
 :::
 
 ::: {#ref-laurent:1998quand}
@@ -1960,6 +1894,10 @@ Lee, Dwight E., and Robert N. Beck. 1954. “The Meaning of "Historicism".” *T
 
 ::: {#ref-lefebvre:1968droit}
 Lefebvre, Henri. 1968. *Le Droit à La Ville*. 2nd ed. Société et Urbanisme 1. Paris: Anthropos.
+:::
+
+::: {#ref-legault:1991architecture}
+Legault, Réjean. 1991. “Architecture and Historical Representation.” *Journal of Architectural Education (1984-)* 44 (4): 200–205. <https://doi.org/10.2307/1425141>.
 :::
 
 ::: {#ref-leitao:2010infancia}
@@ -2008,10 +1946,6 @@ Lemos, Joana Filipa Cabral. 2012. “O Bayle Mourisco : Arquitectura Neomourisca
 
 ::: {#ref-lemos:2002tendencia}
 Lemos, Jobson. 2002. “Tendência Neoclássica.” *O Estado de S. Paulo*, September 22, 2002.
-:::
-
-::: {#ref-lepage:1986manual}
-Lepage, E. S, ed. 1986. *Manual de preservação de madeiras*. São Paulo: Instituto de Pesquisas Tecnológicas do Estado de São Paulo.
 :::
 
 ::: {#ref-lessing:1995laocoonte}
@@ -2068,10 +2002,6 @@ Lobsinger, Mary Louise. 2006. “The New Urban Scale in Italy: On Aldo Rossi’s
 
 ::: {#ref-locatelli:1968teoria}
 Locatelli, Antonio, and Guido Canella. 1968. *Teoria della progettazione architettonica*. Bari: Dedalo.
-:::
-
-::: {#ref-lopes:1996brasilia}
-Lopes, Luís Carlos. 1996. *Brasília: o enigma da esfinge, a construção e os bastidores do poder*. Porto Alegre, RS; São Leopoldo, RS: Editora da Universidade, Universidade Federal do Rio Grande do Sul ; Editora Unisinos.
 :::
 
 ::: {#ref-lortie:1995paris}
@@ -2251,7 +2181,7 @@ Menghini, Anna Bruna, and Valerio Palmieri. n.d. *Saverio Muratori. Didattica de
 :::
 
 ::: {#ref-mennucci:2018catetinho2}
-Mennucci, Marina Martins, and Pedro P. Palazzo. 2018. “Catetinho: The First Presidential House in Brasilia, Brazil.” In *Building Knowledge, Constructing Histories*, edited by Ine Wouters, Stephanie Van de Voorde, Inge Bertels, Bernard Espion, Krista de Jonge, and Denis Zastavni, 2:927–34. Leiden: CRC : Balkema.
+Mennucci, Marina Martins, and Pedro Paulo Palazzo. 2018. “Catetinho: The First Presidential House in Brasilia, Brazil.” In *Building Knowledge, Constructing Histories*, edited by Ine Wouters, Stephanie Van de Voorde, Inge Bertels, Bernard Espion, Krista de Jonge, and Denis Zastavni, 2:927–34. Leiden: CRC : Balkema.
 :::
 
 ::: {#ref-merveilleux:1738memoires1}
@@ -2272,6 +2202,10 @@ Middleton, Robin, ed. 1982. *The Beaux-Arts and Nineteenth-Century French Archit
 
 ::: {#ref-middleton:1980architecture}
 Middleton, Robin, and David Watkin. 1980. *Architecture of the Nineteenth Century*. Milano: Electa.
+:::
+
+::: {#ref-mignot:1983larchitecture}
+Mignot, Claude. 1983. *L’architecture au XIX^e^ siècle*. Paris: Moniteur.
 :::
 
 ::: {#ref-mingorance:2013}
@@ -2300,14 +2234,6 @@ Monteiro Lobato, José Bento Monteiro. 1944. *Urupês*. 2nd ed. Biblioteca de li
 
 ::: {#ref-morales:1941grandjean}
 Morales de los Rios Filho, Adolfo. 1941. *Grandjean de Montigny e a evolução da arte brasileira*. Rio de Janeiro: A Noite.
-:::
-
-::: {#ref-moreira:1998brasilia}
-Moreira, Vânia Maria Losada. 1998. *Brasília: a construção da nacionalidade : um meio para muitos fins, 1956–1961*. Vitória: EDUFES.
-:::
-
-::: {#ref-moreschi:2013biodegradacao}
-Moreschi, João Carlos. 2013. *Biodegradação E Preservação Da Madeira*. 2 vols. Curitiba: UFPR, Departamento de Engenharia Florestal.
 :::
 
 ::: {#ref-morgan:1992concepts}
@@ -2382,10 +2308,6 @@ Nemi, Ana Lúcia Lana, Néri de Barros Almeida, and Rossana Alves Baptista Pinhe
 Netto, Maria Manoela Gimmler, and Stael de Alvarenga Pereira Costa. 2015. *Fundamentos de morfologia urbana*. Belo Horizonte: C/Arte.
 :::
 
-::: {#ref-niemeyer:2006minha}
-Niemeyer, Oscar. 2006. *Minha Experiência Em Brasília*. 4th ed. Rio de Janeiro: Revan. <https://cpdoc.fgv.br/sites/default/files/brasilia/livros/niemeyer_cpdoc.pdf>.
-:::
-
 ::: {#ref-nogueira:2013analise}
 Nogueira, Adriana Dantas. 2013. “Análise sintático-espacial das transformações urbanas de Aracaju (1855-2003).” Tese (doutorado em Arquitetura e Urbanismo), Salvador: Faculdade de Arquitetura, Universidade Federal da Bahia. <http://repositorio.ufba.br/ri/handle/ri/12296>.
 :::
@@ -2416,10 +2338,6 @@ Oliveira, Lúcia Lippi de. 1990. *A questão nacional na Primeira República*. S
 
 ::: {#ref-oliveira:2005brasilia}
 Oliveira, Márcio de. 2005. *Brasília: o mito na trajetória da nação*. Brasília: Paralelo 15.
-:::
-
-::: {#ref-oliveira:2011tecnologia}
-Oliveira, Mário Mendonça de. 2011. *Tecnologia Da Conservação E Da Restauração - Materiais E Estruturas: Um Roteiro de Estudos*. EDUFBA. <http://books.scielo.org/id/k8tdh>.
 :::
 
 ::: {#ref-oliveira:1990rococo}
@@ -2474,14 +2392,6 @@ Palacin, Luiz, and Maria Augusta Sant’anna Moraes. 1975. *História de Goiás 
 Palazzo, Carmen Licia. 2002. *Entre Mitos, Utopias E Razão: Os Olhares Franceses Sobre O Brasil (Séculos XVI a XVIII)*. Porto Alegre: Edipucrs.
 :::
 
-::: {#ref-palazzo:2018accouplement2}
-Palazzo, Pedro P. 2018a. “Accouplement: Vicissitudes of an Architectural Motif in Classical France.” In *Building Knowledge, Constructing Histories*, edited by Ine Wouters, Stephanie Van de Voorde, Inge Bertels, Bernard Espion, Krista de Jonge, and Denis Zastavni, 2:1029–36. Leiden: CRC : Balkema.
-:::
-
-::: {#ref-palazzo:2019imagem}
-———. 2019. “Imagem da arquitetura árabe no Brasil.” Moderação de mesa-redonda presented at the Imagem da arquitetura árabe no Brasil. Exposição Alhambras: arquiteturas neoárabes em latinoamérica, Brasília, May 14.
-:::
-
 ::: {#ref-palazzo:2011hibridizacao}
 Palazzo, Pedro Paulo. 2011a. “Hibridização Tipológica na Arquitetura Vernácula: O Casarão Azul de Planaltina (DF).” In. Goiânia: Universidade Federal de Goiás.
 :::
@@ -2522,6 +2432,10 @@ Palazzo, Pedro Paulo. 2011a. “Hibridização Tipológica na Arquitetura Verná
 ———. 2017b. “Patrimonialização e exemplaridade da arquitetura religiosa: paralelos entre o Renascimento e o Neocolonial no Brasil.” In, edited by Nivaldo Vieira de Andrade Junior, E1 069. Salvador: UFBA.
 :::
 
+::: {#ref-palazzo:2018accouplement2}
+———. 2018a. “Accouplement: Vicissitudes of an Architectural Motif in Classical France.” In *Building Knowledge, Constructing Histories*, edited by Ine Wouters, Stephanie Van de Voorde, Inge Bertels, Bernard Espion, Krista de Jonge, and Denis Zastavni, 2:1029–36. Leiden: CRC : Balkema.
+:::
+
 ::: {#ref-palazzo:2018gis-assisted10}
 ———. 2018b. “GIS-Assisted Identification of Historic Districts: A Conceptual Model Case Study in Planaltina, Brazil.” *Preservation Education Research* 10: 47–70.
 :::
@@ -2536,6 +2450,10 @@ Palazzo, Pedro Paulo. 2011a. “Hibridização Tipológica na Arquitetura Verná
 
 ::: {#ref-palazzo:2013fragmento}
 ———. 2013. “Fragmento e todo: duas imagens urbanas entre oriente e ocidente, c. 1600.” *Oculum Ensaios* 10 (1). <http://periodicos.puc-campinas.edu.br/seer/index.php/oculum/article/view/1928>.
+:::
+
+::: {#ref-palazzo:2019imagem}
+———. 2019. “Imagem da arquitetura árabe no Brasil.” Moderação de mesa-redonda presented at the Imagem da arquitetura árabe no Brasil. Exposição Alhambras: arquiteturas neoárabes em latinoamérica, Brasília, May 14.
 :::
 
 ::: {#ref-palazzo:je}
@@ -2698,14 +2616,6 @@ Pereira, Sonia Gomes. 1998. *A reforma urbana de Pereira Passos e a construção
 Pereira, Sonia Gomes, Lucia Gouvêa Pimentel, and Patricia de Paula Pereira. 2008. *Arte brasileira no século XIX*. Vol. 3. São Paulo: C/Arte.
 :::
 
-::: {#ref-perez-gomez:1983architecture}
-Pérez-Gómez, Alberto. 1983. *Architecture and the Crisis of Modern Science*. Cambridge, Mass.: MIT Press.
-:::
-
-::: {#ref-perez-gomez:1990}
-Pérez-Gómez, Alberto, Chaire Saidye Rosner Bronfman, and Jean-François Bédard. 1990. “L’architecture et la culture technologique.” *Architecture-Québec* 55: 42–45.
-:::
-
 ::: {#ref-perpetuo:2018origens10}
 Perpétuo, Thiago Pereira. 2018. “Origens da preservação de Brasília em debate: novas problematizações.” *URBANA: Revista Eletrônica do Centro Interdisciplinar de Estudos sobre a Cidade* 10 (2): 314–33. <https://doi.org/10.20396/urbana.v10i2.8652098>.
 :::
@@ -2746,6 +2656,14 @@ Pevsner, Nikolaus. 1972. *Some Architectural Writers of He Nineteenth Century*. 
 ———. 2005. *Academias de arte passado e presente*. Translated by Vera Maria Pereira. São Paulo: Companhia das Letras.
 :::
 
+::: {#ref-perez-gomez:1983architecture}
+Pérez-Gómez, Alberto. 1983. *Architecture and the Crisis of Modern Science*. Cambridge, Mass.: MIT Press.
+:::
+
+::: {#ref-perez-gomez:1990}
+Pérez-Gómez, Alberto, Chaire Saidye Rosner Bronfman, and Jean-François Bédard. 1990. “L’architecture et la culture technologique.” *Architecture-Québec* 55: 42–45.
+:::
+
 ::: {#ref-piacentini:1996architettura}
 Piacentini, Marcello. 1996a. *Architettura moderna*. Venezia: Marsilio.
 :::
@@ -2764,6 +2682,10 @@ Pigafetta, Giorgio. 1990. *Saverio Muratori, Architetto: Teoria E Progetti* (ver
 
 ::: {#ref-pigafetta:1993architettura}
 ———. 1993. *Architettura Moderna E Ragione Storica: La Storiografia Italiana Sull’architettura Moderna, 1928-1976*. 1st ed. Università. Milano: Guerini Studio.
+:::
+
+::: {#ref-pigafetta:2007storia2}
+———. 2007. *Storia Dell’architettura Moderna: Imitazione E Invenzione Fra XV E XX Secolo*. 1st ed. Vol. 2. Nuova Cultura 163. Torino: Bollati Boringhieri.
 :::
 
 ::: {#ref-pigafetta:2009passioni}
@@ -2838,6 +2760,10 @@ Piotrowski, Andrzej, and Julia W. Robinson, eds. 2001. *The Discipline of Archit
 “Planta geral da cidade e porto de Lourenço Marques.” 1925. Lourenço Marques. <http://purl.pt/17255>.
 :::
 
+::: {#ref-planta:1894}
+*Planta Hidrográfica da Barra e Porto de Aracaju*. 1894. <https://pt.wikipedia.org/wiki/Ficheiro:Barra_e_Porto_de_Aracaju_1894.jpg>.
+:::
+
 ::: {#ref-silva:1950plantas}
 “Plantas topográficas de Lisboa.” 1950. Lisboa: Câmara Municipal.
 :::
@@ -2860,10 +2786,6 @@ Porphyrios, Demetri. 2006. *Classical Architecture*. London: Andreas Papadakis.
 
 ::: {#ref-portebois:2003renaissance}
 Portebois, Yannick, Nicholas Terpstra, and Victoria University (Toronto Studies Ont ) Centre for Reformation and Renaissance. 2003. *The Renaissance in the Nineteenth Century*. Centre for Reformation and Renaissance Studies. <http://books.google.com?id=gN81u6dhr4gC>.
-:::
-
-::: {#ref-prates:1983catetinho}
-Prates, César. 1983. *Do Catetinho ao Alvorada*. Belo Horizonte: Imprensa Oficial de Minas Gerais.
 :::
 
 ::: {#ref-priego:2007paradigmas}
@@ -3028,14 +2950,6 @@ Rykwert, Joseph. 1991. *The First Moderns: The Architects of the Eighteenth Cent
 
 ::: {#ref-saboia:2014brasilia}
 Saboia, Luciana, and Maria Fernanda Derntl, eds. 2014. *Brasília 50+50: cidade, história e projeto*. Brasília: FAU-UnB : Editora UnB.
-:::
-
-::: {#ref-sacramento:2010exgerente}
-Sacramento, Mariana. 2010. “Ex-Gerente Do Brasília Palace Relembra Dia Em Que Hotel Quase Foi Devorado Por Um Incêndio.” *Correio Braziliense*, May 8, 2010. <http://www.correiobraziliense.com.br/app/noticia/cidades/2010/08/05/interna_cidadesdf,206119/ex-gerente-do-brasilia-palace-relembra-dia-em-que-hotel-quase-foi-devorado-por-um-incendio.shtml>.
-:::
-
-::: {#ref-saia:1977ate}
-Saia, Luís. 1977. “Até Os 35 Anos, a Fase Heroica.” *CJ Arquitetura* 5 (17): 16–21.
 :::
 
 ::: {#ref-saia:1972morada}
@@ -3210,6 +3124,10 @@ Simonsen, Roberto C. 1937. *Historia econômica do Brasil, 1500–1820*. 2 vols.
 Sitte, Camillo. 1901. *Der Städte-Bau nach seinen künstlerischen Grundsätzen : ein Beitrag zur Lösung moderner Fragen der Architektur und monumentalen Plastik unter besonderer Beziehung auf Wien*. Wien, Graeser. <http://archive.org/details/derstdtebaunac00sittuoft>.
 :::
 
+::: {#ref-smith:1983architectural20}
+Smith, Norris Kelly. 1983. “Architectural Authenticity.” *Perspecta* 20: 215–23. <https://doi.org/10.2307/1567075>.
+:::
+
 ::: {#ref-sola-morales:1980eclecticismo}
 Solà-Morales, Ignasi de. 1980. *Eclecticismo y vanguardia: el caso de la arquitectura moderna en Catalunya*. 1st ed. Colección Arquitectura y Critica. Barcelona: Gustavo Gili.
 :::
@@ -3219,15 +3137,11 @@ Solà-Morales, Ignasi de. 1980. *Eclecticismo y vanguardia: el caso de la arquit
 :::
 
 ::: {#ref-solorzano:2019relacoes}
-Solórzano, Gabriel Ernesto Moura, and Pedro P. Palazzo. 2019. “Relações de Escala Na Superquadra de Brasília.” In. Natal.
+Solórzano, Gabriel Ernesto Moura, and Pedro Paulo Palazzo. 2019. “Relações de Escala Na Superquadra de Brasília: Paradigma Ouu Mistificação?” In *Anais*. Natal. <http://anpur.org.br/xviiienanpur/anaisadmin/capapdf.php?reqid=972>.
 :::
 
 ::: {#ref-sousa:2000classicismo}
 Sousa, Alberto José de. 2000. *O classicismo arquitetônico no Recife imperial*. João Pessoa : Salvador: Ed. Univ. UFPB : Hominem Evehere.
-:::
-
-::: {#ref-sphan:1980catetinho}
-SPHAN. n.d. “Catetinho, 24 Anos Depois.” *Boletim SPHAN próMemória* 7 (90): 5–6. Accessed December 7, 2016. <http://docvirt.no-ip.com/docreader.net/DocReader.aspx?bib=bol_sphan&pagfis=441&pesq=>.
 :::
 
 ::: {#ref-squeff:2012galeria}
@@ -3319,7 +3233,11 @@ Tafuri, Manfredo. 1968. *Teorie e storia dell’architettura*. Biblioteca di cul
 :::
 
 ::: {#ref-tagliaventi:2000tecniche}
-Tagliaventi, Gabriele. 2000. *Tecniche E Tecnologie Dell’architettura Fra Eclettismo E Storicismo*. Saggi E Documenti Di Storia Dell’architettura 36. Firenze: Alinea.
+Tagliaventi, Gabriele. 2000a. *Tecniche E Tecnologie Dell’architettura Fra Eclettismo E Storicismo*. Saggi E Documenti Di Storia Dell’architettura 36. Firenze: Alinea.
+:::
+
+::: {#ref-tagliaventi:2000tecnichea}
+———. 2000b. *Tecniche E Tecnologie Dell’architettura Fra Eclettismo E Storicismo*. Saggi E Documenti Di Storia Dell’architettura 36. Firenze: Alinea.
 :::
 
 ::: {#ref-tagliaventi:2007manuale}
@@ -3332,10 +3250,6 @@ Tagliaventi, Gabriele. 2000. *Tecniche E Tecnologie Dell’architettura Fra Ecle
 
 ::: {#ref-talenti:2000histoire}
 Talenti, Simona. 2000. *L’histoire de l’architecture en France: émergence d’une discipline (1863–1914)*. Paris: Picard. <http://books.google.com?id=lx_qAAAAMAAJ>.
-:::
-
-::: {#ref-tamanini:2003brasilia}
-Tamanini, L. Fernando. 2003. *Brasília: memória da construção*. 2nd ed. 2 vols. Brasília: Projecto Editorial.
 :::
 
 ::: {#ref-taunay:1822bresil}
@@ -3442,6 +3356,10 @@ Tzonis, Alexander, and Liane Lefaivre. 1975. “The Mechanical Body Versus the D
 Underwood, David K. 1991. “Alfred Agache, French Sociology, and Modern Urbanism in France and Brazil.” *Journal of the Society of Architectural Historians* 50 (2): 130–66. <https://doi.org/10.2307/990590>.
 :::
 
+::: {#ref-upton:1991architectural}
+Upton, Dell. 1991. “Architectural History or Landscape History?” *Journal of Architectural Education* 44 (4): 195–99. <https://doi.org/10.2307/1425140>.
+:::
+
 ::: {#ref-valle:2013exposicoes}
 Valle, Arthur. 2013. “Exposições Gerais de Belas Artes: Disponibilização Em Rede de Notas de Imprensa.” October 2, 2013. <http://www.dezenovevinte.net/egba>.
 :::
@@ -3450,28 +3368,12 @@ Valle, Arthur. 2013. “Exposições Gerais de Belas Artes: Disponibilização E
 Valle, Arthur, Camila Dazzi, and Isabel Sanson Portella, eds. 2014. *Intercâmbios Culturais Entre Brasil E Portugal*. 2nd ed. Oitocentos, III. Rio de Janeiro: Cefet/RJ.
 :::
 
-::: {#ref-vasconcelos:1989epopeia}
-Vasconcelos, Adirson. 1989. *A epopéia da construção de Brasília*. Brasília: ed. autor.
-:::
-
 ::: {#ref-verissimo:1916historia}
 Verissimo, José. 1916. *História da literatura brasileira*. <http://archive.org/details/HistriaDaLiteraturaBrasileira>.
 :::
 
 ::: {#ref-vesely:2004architecture}
 Vesely, Dalibor. 2004. *Architecture in the Age of Divided Representation: The Question of Creativity in the Shadow of Production*. Cambridge, Mass: MIT Press.
-:::
-
-::: {#ref-rtp:1957viagem}
-*Viagem Presidencial Ao Brasil*. 1957. *Coleção Presidentes Da República*. <http://www.rtp.pt/arquivo/index.php?article=1698&tm=33&visual=4>.
-:::
-
-::: {#ref-vidal:2015preservacao}
-Vidal, Jackson Marcelo, Wescley Viana Evangelista, Jose De Castro Silva, and Ivaldo Pontes Jankowsky. 2015. “Preservação de Madeiras No Brasil: Histórico, Cenário Atual E Tendências.” *Ciência Florestal* 25 (1): 257–71. <https://www.academia.edu/28754681/Preserva%C3%A7%C3%A3o_De_Madeiras_No_Brasil_Hist%C3%B3rico_Cen%C3%A1rio_Atual_e_Tend%C3%AAncias>.
-:::
-
-::: {#ref-videsott:2009narrativas}
-Videsott, Luisa. 2009. “Narrativas da construção de Brasília: mídia, fotografias, projetos e história.” Tese de Doutorado, São Carlos: Escola de Engenharia, Universidade de São Paulo. <http://www.teses.usp.br/teses/disponiveis/18/18142/tde-10092013-145157/>.
 :::
 
 ::: {#ref-vidler:1999architectural}
@@ -3514,6 +3416,10 @@ Westfall, Carroll William, and Robert Jan van Pelt. 1991. *Architectural Princip
 Wigley, Mark. 2000. “The Architectural Cult of Synchronization.” *October* 94: 31–61.
 :::
 
+::: {#ref-wigley:23architectural94}
+———. 23AD–2000. “The Architectural Cult of Synchronization.” *October* 94: 31. <https://doi.org/10.2307/779215>.
+:::
+
 ::: {#ref-willians:2017aquarelas}
 Willians, Sergio. 2017. “Aquarelas do naturalista inglês William Burchell revelam Santos entre 1826/1827.” Memória santista. March 19, 2017. <http://memoriasantista.com.br/?p=2640>.
 :::
@@ -3526,16 +3432,16 @@ Wisnik, Guilherme. 2007. “Plástica E Anonimato: Modernidade E Tradição Em L
 Wittkower, Rudolf. 1962. *Architectural Principles in the Age of Humanism*. London: Alec Tiranti.
 :::
 
+::: {#ref-wood:2002why33}
+Wood, Christopher. 2002. “Why Autonomy?” *Perspecta* 33: 48–53. <https://doi.org/10.2307/1567296>.
+:::
+
 ::: {#ref-wolfflin:1886prolegomena}
 Wölfflin, Heinrich. 1886. “Prolegomena zu einer Psychologie der Architektur.” Inaugural-Dissertation, München: hohe philosophische Fakultät, Universität München.
 :::
 
 ::: {#ref-wolfflin:1948kunstgeschichtliche}
 ———. 1948. *Kunstgeschichtliche Grundbegriffe: Das Problem Der Stilentwicklung in Der Neueren Kunst*. 10th ed. Basel: Benno Schwabe.
-:::
-
-::: {#ref-wood:2002why33}
-Wood, Christopher. 2002. “Why Autonomy?” *Perspecta* 33: 48–53. <https://doi.org/10.2307/1567296>.
 :::
 
 ::: {#ref-zaffagnini:1995morfologia}
@@ -3550,7 +3456,7 @@ Zevi, Bruno. 1965. “Architettura.” In *Enciclopedia Universale Dell’arte*,
 ———. 1973. *Il linguaggio moderno dell’architettura: Guida al codice anticlassico.* Torino: Einaudi.
 :::
 
-::: {#ref-zevi:1974architettura}
+::: {#ref-zevi:1974architetturaa}
 ———. 1974. *Architettura e storiografia: le matrici antiche del linguaggio moderno* (version 2). 2nd ed. Piccola Biblioteca Einaudi 216. Torino: Einaudi.
 :::
 

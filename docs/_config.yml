@@ -95,6 +95,7 @@ header_pages:
   - membros.md
   - produtos.md
   - atual.md
+  - pibic21-projeto.md
 
 plugins: # {{{2
   - jekyll-feed
