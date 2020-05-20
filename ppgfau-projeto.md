@@ -1,19 +1,20 @@
 ---
 title          : "Clássico, tradicional, eclético"
-subtitle       : "Arquitetura brasileira no longo século XIX"
+subtitle       : "Nacionalismo e cosmopolitismo na cidade industrial"
 author:
  - name        : Pedro Paulo Palazzo
    affiliation : Programa de Pós-Graduação da FAU--UnB
 date           : 2018-06-11
-abstract: >
+description: >
   Este projeto de pesquisa visa a realizar uma taxonomia dos movimentos
   arquitetônicos da virada do século XIX no tocante às suas aspirações
   cosmopolitas ou nacionalistas, com ênfase no Brasil da primeira República.
 keywords       : [Ecletismo, Nacionalismo, História urbana]
-bibliography: biblio.bib
-csl            :
-"lib/styles/chicago-fullnote-bibliography-with-ibid.csl" lang : pt-BR
-source         : 23106.067490/2018-89 suppress-bibliography: true
+bibliography   : "biblio.bib"
+csl            : "lib/styles/chicago-fullnote-bibliography-with-ibid.csl"
+lang           : pt-BR
+source         : 23106.067490/2018-89
+suppress-bibliography: true
 ---
 
 Clássico, tradicional, eclético
@@ -473,8 +474,4 @@ Bibliografia crítica
   literatura urbana de Calvino ao estudo urbano
   de Aldo Rossi;
   Scapin, Octávio. Fragmentos de um discurso
-  sobre a casa;
-  Constanti, Andressa Pinheiro.
-  Patrimonialização da arquitetura moderna
-  em sua inserção no tecido construído tradicional:
-  a Ladeira da Misericórdia de Lina Bo Bardi em Salvador.
+  sobre a casa.

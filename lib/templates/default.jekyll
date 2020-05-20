@@ -16,7 +16,7 @@ $for(author)$
 $endfor$
 $endif$
 $if(description)$
-description: |
+description: >
   $description$
 $endif$
 $if(abstract)$

@@ -3,28 +3,33 @@
 # Where make should look for things
 VPATH = lib
 vpath %.csl lib/styles
-vpath %.yaml .:spec
-vpath default.% lib/templates
-vpath reference.% lib/templates
-# Sets a base directory for project files that reside somewhere else,
-# for example in a synced virtual drive.
-SHARE = ~/dmcp/arqtrad/arqtrad
+vpath %.yaml .:spec:docs/_data
+vpath default.% lib/templates:lib/pandoc-templates
+vpath reference.% lib/templates:lib/pandoc-templates
+# Edit the path below to point to the location of your binary files.
+SHARE = ~/integra/arqtrad
 
 # Branch-specific targets and recipes {{{1
 # ===================================
 
+# This is the first recipe in the Makefile. As such, it is the one that
+# runs when calling 'make' with no arguments. List as its requirements
+# anything you want to build (deploy) for release.
+publish : setup _site/index.html  _book/6enanparq.docx
+
 # Jekyll {{{2
 # ------
-PAGES_SRC     = $(wildcard *.md)
-PAGES_OUT    := $(patsubst %,docs/%, $(PAGES_SRC))
-DOCS          = $(wildcard docs/*.md)
-SITE         := $(patsubst docs/%.md,_site/%/index.html, $(DOCS))
+PAGES_SRC  = $(wildcard *.md)
+PAGES_OUT := $(patsubst %,docs/%, $(PAGES_SRC))
+DOCS       = $(wildcard docs/*.md)
+SITE      := $(patsubst docs/%.md,_site/%/index.html, $(DOCS))
 
-serve : _site/index.html
+serve : _site/.nojekyll
 	bundle exec jekyll serve 2>&1 | egrep -v 'deprecated|obsoleta'
 
-build : $(DOCS) docs/_config.yml
+_site/.nojekyll : $(DOCS) docs/_config.yml
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
+	touch _site/.nojekyll
 
 _site/%/index.html : docs/%.md docs/_config.yml
 	bundle exec jekyll build 2>&1 | egrep -v 'deprecated|obsoleta'
@@ -46,45 +51,48 @@ _book/6enanparq.docx : _book/6enanparq.odt
 
 _book/6enanparq.odt : $(ENANPARQ_TMP) 6enanparq-sl.yaml \
 	6enanparq-metadata.yaml default.opendocument reference.odt
+	source .venv/bin/activate; \
 	pandoc -o $@ -d spec/6enanparq-sl.yaml \
 		6enanparq-intro.md 6enanparq-palazzo.tmp \
 		6enanparq-florentino.tmp 6enanparq-gil_cornet.tmp \
 		6enanparq-tinoco.tmp 6enanparq-metadata.yaml
 
 %.tmp : %.md concat.yaml biblio.bib
+	source .venv/bin/activate; \
 	pandoc -o $@ -d spec/concat.yaml $<
+
+# Figuras a partir de vetores {{{2
+# ---------------------------
 
 fig/%.png : %.svg
 	inkscape -f $< -e $@ -d 96
 
 # Install and cleanup {{{1
 # ===================
-# `make install` copies various config files and hooks to the .git
-# directory and sets up standard empty directories:
-# - link-template: sets up the template repo in a branch named
-#   `template`, for when you want to update local boilerplates across
-#   different projects.
-# - makedirs: creates standard folders for output (_book), received
-#   files (_share), and figures (fig).
-# - submodule: initializes the submodules for the CSL styles and for the
-#   Reveal.js framework.
-# - lib: Pulls the latest version of the submodules (use with caution if
-#   you add non-trivial libraries!) and does a sparse-checkout to avoid
-#   having too many files that you don't use.
-# - virtualenv: sets up a virtual environment (but you still need to
-#   activate it from the command line).
-.PHONY : install link-template makedirs submodule_init virtualenv clean
-install : link-template makedirs submodule_init lib \
-	  virtualenv bundle license
+.PHONY : setup link-template makedirs submodule_init virtualenv clean
+
+# CI/CD scripts {{{2
+# -------------
+setup : makedirs submodule_init lib virtualenv bundle license
 
 makedirs :
-	# -mkdir -p _share && mkdir -p _book && mkdir -p fig
-	# if you prefer to keep binary files somewhere else (for
-	# example, in a synced Dropbox), uncomment the lines below.
-	ln -s $(SHARE)/_book _book
-	ln -s $(SHARE)/_share _share
-	ln -s $(SHARE)/fig fig
-	ln -s $(SHARE)/assets assets
+	# This is for the publish recipe (the default when calling 'make' with
+	# no arguments) to access binary files stored outside version control.
+	# Uncomment the lines below to use default settings for local builds
+	# only. When creating a CI script, provide a connection your CDN or
+	# other file server accessible from the internet.
+	#ln -s $(SHARE)/_book _book
+	#ln -s $(SHARE)/_share _share
+	#ln -s $(SHARE)/fig fig
+	#ln -s $(SHARE)/assets assets
+
+submodule_init : link-template
+	git checkout template
+	git pull
+	-git submodule init
+	git submodule update
+	git checkout -
+	git merge template --allow-unrelated-histories
 
 lib :   .install/git/modules/lib/styles/info/sparse-checkout \
 	.install/git/modules/lib/pandoc-templates/info/sparse-checkout
@@ -96,13 +104,20 @@ lib :   .install/git/modules/lib/styles/info/sparse-checkout \
 		&& git checkout master && git pull && \
 		git read-tree -m -u HEAD
 
-submodule_init : link-template
-	git checkout template
-	git pull
-	-git submodule init
-	git submodule update
-	git checkout -
-	git merge template --allow-unrelated-histories
+virtualenv :
+	# Mac/Homebrew Python requires the recipe below to be instead:
+	# python3 -m virtualenv ...
+	# pip3 instal ...
+	python -m venv .venv && source .venv/bin/activate && \
+		pip install -r .install/requirements.txt
+	-rm -rf src
+
+bundle : Gemfile
+	bundle install
+
+# New repo from template {{{2
+# ----------------------
+# Recipes to use when starting a new repository from the template.
 
 link-template :
 	# Generating a repo from a GitHub template breaks the
@@ -115,17 +130,6 @@ link-template :
 	git fetch template
 	git checkout -B template --track template/master
 	git checkout -
-
-virtualenv :
-	# Mac/Homebrew Python requires the recipe below to be instead:
-	# python3 -m virtualenv ...
-	# pip3 instal ...
-	python -m venv .venv && source .venv/bin/activate && \
-		pip install -r .install/requirements.txt
-	-rm -rf src
-
-bundle : Gemfile
-	bundle update
 
 license :
 	source .venv/bin/activate && \
