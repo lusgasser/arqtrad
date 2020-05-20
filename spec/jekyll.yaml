@@ -1,12 +1,13 @@
-to        : markdown-citations-smart
+to        : html
 standalone: true
-wrap      : preserve
+template  : 'lib/templates/default.jekyll'
 filters:
 - pandoc-xnos
 - pandoc-citeproc
 fail-if-warnings        : true
 file-scope              : true
 email-obfuscation       : references
+shift-heading-level-by  : 1
 resource-path:
 - .
 - fig

@@ -3,32 +3,28 @@ title : "Iniciação científica 2020–2021"
 author: "Pedro Paulo Palazzo"
 date  : 2020-04-13
 nocite: "@*"
-bibliography: biblio.bib
+bibliography: "projeto.bib"
 suppress-bibliography: false
+lang  : pt-BR
 ---
 
 Planos de trabalho
-------------------
+==================
 
-- [Arqueologia das antigas casas rurais no Distrito Federal e entorno](pibic21-arqueologia.md):
-  Ana Caroline dos Santos Paiva 
 - [Barreiras: urbanização numa encruzilhada do sertão](pibic21-barreiras.md):
   João Testi Neto
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
   Flávia Rosa de la Plata
-- [Ecletismo no arquivo do palácio Itamaraty](pibic21-itamaraty.md):
-  Luiza Silveira Gasser
-- [Arqueologia da morada suburbana na rua do Rosário, Luziânia](pibic21-luziania.md):
-  Mariana de Fátima Macedo Nunes de Azevedo
 - [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
   Daniela Matias Xavier
 - [Conexões portuguesas na produção urbanística corrente do século XIX](pibic21-urbanistas.md):
   Luiza Silveira Gasser
 
 Resumo do projeto de pesquisa
------------------------------
+=============================
 
-### Problema e objetivos ###
+Problema e objetivos
+--------------------
 
 Este projeto de pesquisa versa sobre a produção arquitetônica e
 urbanística de 1780 a 1930, com ênfase na formação dos campos de
@@ -110,7 +106,8 @@ Objetivos específicos
   teorização erudita quanto das práticas vernáculas;
 
 
-### Justificativa ###
+Justificativa
+-------------
 
 Uma das obras de referência sobre a história do pensamento
 arquitetônico, a *História da teoria da arquitetura* de Hanno-Walter
@@ -165,7 +162,7 @@ universalistas do classicismo --- com uma faceta colonialista, como já
 amplamente reconhecido na bibliografia atual
 [@oulebsir:2009orientalisme] --- e o crescimento das ideologias
 nacionalistas, representadas em arquitetura pelo nativismo
-tradicionalista [@pigafetta:1999architecture].
+tradicionalista [@pigafetta:1997teorie].
 
 Ao mesmo tempo, o estudo da crítica erudita não deve desviar o olhar da
 grande lacuna historiográfica que é a carência de uma narrativa de
@@ -190,7 +187,8 @@ atravessamentos de repertórios e práticas entre a tradição vernácula
 luso-brasileira e os discursos teóricos e críticos atinentes à esfera
 erudita e de elite.
 
-### Metodologia ###
+Metodologia
+-----------
 
 De modo a retratar o panorama teórico e edificado do período estudado,
 privilegiam-se abordagens formalistas na análise das fontes. A ênfase
@@ -272,5 +270,6 @@ arquitetura brasileira no longo século XIX (1780--1930), com foco no
 papel do ecletismo como momento crucial nas abordagens críticas a
 respeito do caráter histórico do ambiente construído.
 
-### Bibliografia ###
+Bibliografia crítica
+--------------------
 
