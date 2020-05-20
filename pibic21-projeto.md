@@ -22,6 +22,8 @@ Planos de trabalho
   Mariana de Fátima Macedo Nunes de Azevedo
 - [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
   Daniela Matias Xavier
+- [Conexões portuguesas na produção urbanística corrente do século XIX](pibic21-urbanistas.md):
+  Luiza Silveira Gasser
 
 Resumo do projeto de pesquisa
 -----------------------------
