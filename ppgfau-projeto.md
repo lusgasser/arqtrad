@@ -13,7 +13,8 @@ keywords       : [Ecletismo, Nacionalismo, História urbana]
 bibliography: biblio.bib
 csl            :
 "lib/styles/chicago-fullnote-bibliography-with-ibid.csl" lang : pt-BR
-source         : 23106.067490/2018-89 suppress-bibliography: true ---
+source         : 23106.067490/2018-89 suppress-bibliography: true
+---
 
 Clássico, tradicional, eclético
 ===============================
