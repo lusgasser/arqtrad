@@ -76,11 +76,71 @@ Texto com no máximo 2000 caracteres.
 Competências e habilidades
 ==========================
 
-Texto com no máximo 1000 caracteres.
+Sou estudante do sexto semestre de Arquitetura e Urbanismo no UniCEUB. 
+
+As minhas áreas de maior interesse acadêmico são Urbanismo e Teoria e História da Arquitetura e do Urbanismo. Tenho interesse de compreender a cidade e os efeitos que a história política, social e econômica tem na urbanização do país.
+
+Sou dedicada aos meus estudos acadêmicos e em decorrência disso 64% das menções que já obtive no curso de Arquitetura e Urbanismo do Uniceub são SS. Obtive menção MS em somente 25% das disciplinas e MM 3% delas.
+
+Alcancei a menção SS em todas as disciplinas que já cursei que abrangem este projeto de pesquisa, estas são “Projeto de Urbanismo I, II e III” e “Teoria e História da Arquitetura e do Urbanismo I, II, III, IV e  V”.
+
+Minhas principais habilidades são de organização - consigo gerenciar bem o tempo e o espaço de trabalho - comunicação e liderança – tenho uma boa interação com os integrantes em um trabalho de equipe -  e sou adaptável a novos meios e modos de trabalho.
+
+Minhas noções de informática são: Word, Excel e Power Point; Adobe InDesign, Adobe Illustrator e Adobe Photoshop; Autocad e Sketchup.
+ Já tive experiência prática em um Projeto de Extensão por um semestre em 2019, projetando habitações para fins de interesse social. Neste mesmo semestre de 2019 fui monitora para a disciplina de Projeto de Urbanismo.
+ 
+Sou fluente em 4 idiomas, estes são: português, espanhol, inglês e francês. Ademais, atualmente estudo de forma autônoma a língua italiana.
+
+Acredito que este projeto de pesquisa acrescentaria novas competências e conhecimentos essenciais para minha futura trajetória acadêmica.
+
 
 
 Cronograma
 ==========
 
-Mês a mês
+Agosto/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
+
+Setembro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
+
+Outubro/2020 – FUNDAMENTAÇÃO, PESQUISA BIBLIOGRÁFICA E DEFINIÇÃO DO PROBLEMA
+
+Novembro/2020 – PESQUISA DE CAMPO E COLETA DE DADOS
+
+Dezembro/2020 – PESQUISA DE CAMPO E COLETA DE DADOS
+
+Janeiro/2021 – PESQUISA DE CAMPO E COLETA DE DADOS
+
+Fevereiro/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução - Formular o problema
+
+Março/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução - Formular hipóteses e termos
+
+Abril/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Introdução / Desenvolvimento - Estabelecer bases teóricas
+
+Maio/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento - Apresentar os dados levantados e analisá-los
+
+Junho/2021 – ETAPAS DE DESENVOLVIMENTO DA PESQUISA: Desenvolvimento / Conclusão - Interpretar os dados
+
+Julho/2021 – REVISÃO
+
+
+INFORMAÇÕES ADICIONAIS
+======================
+
+LUIZA SILVEIRA GASSER
+
+CPF: 054.803.091-02
+
+NÚMERO DE TELEFONE: 61 9 9686 4868
+
+CENTRO UNIVERSITÁRIO DE BRASÍLIA (UNICEUB)
+
+Departamento: FATECS / Curso: ARQUITETURA E URBANISMO
+
+Título do plano de trabalho: Conexões portuguesas na produção urbanística corrente do século XIX
+
+Projeto de Extensão: projeto de extensão Morada de Luz de Assistência Técnica em Habitação de Interesse Social para moradores do Sol 
+
+Nascente - UniCEUB em parceria com a CODHAB - 1° semestre de 2019
+
+Monitora: Disciplina Projeto de Urbanismo – 1° semestre de 2019
 
