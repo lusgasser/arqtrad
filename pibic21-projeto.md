@@ -11,14 +11,16 @@ lang  : pt-BR
 Planos de trabalho
 ==================
 
-- [Barreiras: urbanização numa encruzilhada do sertão](pibic21-barreiras.md):
-  João Testi Neto
 - [Distribuições da morada eclética em Goiás](pibic21-distrib.md):
   Flávia Rosa de la Plata
 - [Módulos e dimensões do parcelamento urbano no Brasil do século XIX](pibic21-modulos.md):
   Daniela Matias Xavier
+- [Barreiras: urbanização numa encruzilhada do sertão](pibic21-barreiras.md):
+  João Testi Neto
 - [Conexões portuguesas na produção urbanística corrente do século XIX](pibic21-urbanistas.md):
   Luiza Silveira Gasser
+- [Casas de câmara e cadeia do planalto Central e adjacências](pibic21-camaras.md):
+  Maria Isabela Alves de Araújo
 
 Resumo do projeto de pesquisa
 =============================
