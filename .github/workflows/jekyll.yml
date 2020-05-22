@@ -5,15 +5,15 @@ on:
     branches:
       - master
       - dev
+    paths:
+      - 'docs/*'
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
-
     steps:
     - name: Clone branch
-      uses: actions/checkout@v2
+      uses: actions/checkout
     - name: Build the site in the jekyll/builder container
       run: |
         docker run \
